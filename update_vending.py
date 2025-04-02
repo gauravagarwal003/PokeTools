@@ -79,8 +79,6 @@ ALLSTATES_PATH = 'assets/all_states.csv'
 STATES_DIR = 'assets/vending_data/states'
 # make sure directories exist
 os.makedirs(STATES_DIR, exist_ok=True)
-os.makedirs(ALLSTATES_PATH, exist_ok=True)
-os.makedirs(STATES_DIR, exist_ok=True)
 load_dotenv()  
 api_key = os.getenv("API_KEY")
 gmaps = googlemaps.Client(key=api_key)
