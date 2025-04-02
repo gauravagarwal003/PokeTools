@@ -43,15 +43,15 @@ function getReturnColor(percentage) {
 
 // Load all three CSVs concurrently: expected values, pack prices, and set info (for colors)
 Promise.all([
-  d3.csv("sv_packs_expected_value.csv"),
-  d3.csv("sv_pack_prices.csv"),
-  d3.csv("set_info.csv")
+  d3.csv("assets/sv_packs_expected_value.csv"),
+  d3.csv("assets/sv_pack_prices.csv"),
+  d3.csv("assets/set_info.csv")
 ]).then(function (files) {
   let evData = files[0];
   let priceData = files[1];
   let setInfoData = files[2];
 
-  // Build a color map from set_info.csv
+  // Build a color map from assets/set_info.csv
   let colorMap = {};
   setInfoData.forEach(function (d) {
     // Trim any extra whitespace from the set name if needed
@@ -101,7 +101,7 @@ Promise.all([
 
     // Append the image (centered by CSS)
     row.append("img")
-      .attr("src", "set_images/" + d.setName + ".png")
+      .attr("src", "assets/set_images/" + d.setName + ".png")
       .attr("alt", d.setName);
 
     let percentageText = d.percentage === null ? "N/A" : d.percentage.toFixed(0) + "%";

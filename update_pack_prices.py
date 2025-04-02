@@ -13,7 +13,7 @@ def csv_is_up_to_date(csv_filename):
     else:
         return False
 
-PACK_PRICES_FILE_NAME = "sv_pack_prices.csv"
+PACK_PRICES_FILE_NAME = "assets/sv_pack_prices.csv"
 if csv_is_up_to_date(PACK_PRICES_FILE_NAME):
     print("Pack prices are already up to date.")
     exit(0)
@@ -21,13 +21,13 @@ if csv_is_up_to_date(PACK_PRICES_FILE_NAME):
 sets = []
 pack_prices = {}
 
-with open('set_info.csv', 'r') as file:
+with open('assets/set_info.csv', 'r') as file:
     csv_reader = csv.DictReader(file)
     for row in csv_reader:
         sets.append(row['Set'])
 
 for setName in sets:
-    with open(f'set_prices/{setName}.csv', 'r') as file:
+    with open(f'assets/set_prices/{setName}.csv', 'r') as file:
         csv_reader = csv.DictReader(file)
         for row in csv_reader:
             if not row['extNumber'].isspace():

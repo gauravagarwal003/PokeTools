@@ -33,7 +33,7 @@ jobs:
           git config --global user.name "Updated Pokemon Card Vending Machine Locations"
           git config --global user.email "gagarwal003@gmail.com"
           
-          git add vending_data/.
+          git add assets/vending_data/.
           
           # Check if there are changes to commit
           git commit -m "Updated Pokemon Card Vending Machine Locations" || echo "No changes to commit"

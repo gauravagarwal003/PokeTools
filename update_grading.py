@@ -62,7 +62,7 @@ session.headers.update({
 })
 
 
-with open('sets.json', 'r') as file:
+with open('assets/sets.json', 'r') as file:
     sets = json.load(file)
     
 print("Updating cache with new data...")

@@ -21,7 +21,7 @@ def csv_is_up_to_date(csv_filename):
     else:
         return False
 
-EV_FILE_NAME = "sv_packs_expected_value.csv"
+EV_FILE_NAME = "assets/sv_packs_expected_value.csv"
 if csv_is_up_to_date(EV_FILE_NAME):
     print("Expected values are already up to date.")
     exit(0)
@@ -30,7 +30,7 @@ if csv_is_up_to_date(EV_FILE_NAME):
 pricesBySet = {}
 rarityProbabilitiesBySet = {}
 
-with open('set_info.csv', 'r') as file:
+with open('assets/set_info.csv', 'r') as file:
     csv_reader = csv.DictReader(file)
     for row in csv_reader:
         setName = row['Set']
@@ -41,7 +41,7 @@ with open('set_info.csv', 'r') as file:
 
 for setName in rarityProbabilitiesBySet:
     sum = 0
-    with open(f'set_prices/{setName}.csv', 'r') as file:
+    with open(f'assets/set_prices/{setName}.csv', 'r') as file:
         csv_reader = csv.DictReader(file)
         for row in csv_reader:
             if not row['extNumber'].isspace():

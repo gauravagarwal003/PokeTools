@@ -30,7 +30,7 @@ jobs:
           git config --global user.name "Update Pokemon Card Prices"
           git config --global user.email "gagarwal003@gmail.com"
           
-          git add set_prices/.
+          git add assets/set_prices/.
           
           # Check if there are changes to commit
           git commit -m "Updated Pokemon Card Prices" || echo "No changes to commit"

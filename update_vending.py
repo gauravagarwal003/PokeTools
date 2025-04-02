@@ -74,12 +74,13 @@ state_pattern = re.compile(
 )
 
 # paths
-TIMESTAMP_PATH = 'data/timestamps.csv'
-ALLSTATES_PATH = 'all_states.csv'
-STATES_DIR = 'data/states'
+TIMESTAMP_PATH = 'assets/vending_data/timestamps.csv'
+ALLSTATES_PATH = 'assets/all_states.csv'
+STATES_DIR = 'assets/vending_data/states'
 # make sure directories exist
 os.makedirs(STATES_DIR, exist_ok=True)
-os.makedirs('data', exist_ok=True)
+os.makedirs(ALLSTATES_PATH, exist_ok=True)
+os.makedirs(STATES_DIR, exist_ok=True)
 load_dotenv()  
 api_key = os.getenv("API_KEY")
 gmaps = googlemaps.Client(key=api_key)
@@ -319,5 +320,5 @@ features = [feature for _, row in df.iterrows() if (feature := create_feature(ro
 
 feature_collection = geojson.FeatureCollection(features)
 
-with open('all_states.geojson', 'w') as f:
+with open('assets/all_states.geojson', 'w') as f:
     geojson.dump(feature_collection, f, indent=2)  # Pretty-print JSON output

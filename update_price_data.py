@@ -8,7 +8,7 @@ import plotly.express as px
 urlBySet = {}
 
 # populate the urlBySet dictionary from the CSV file
-with open('set_info.csv', newline='') as csvfile:
+with open('assets/set_info.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         set_name = row['Set']
@@ -23,7 +23,7 @@ for set in urlBySet:
     response = requests.get(f"https://tcgcsv.com/tcgplayer/3/{urlBySet[set]}/ProductsAndPrices.csv")
     if response.status_code == 200:
         # Write the response content to a CSV file inside the 'prices' folder
-        with open(f'set_prices/{set}.csv', 'w', newline='', encoding='utf-8') as f:
+        with open(f'assets/set_prices/{set}.csv', 'w', newline='', encoding='utf-8') as f:
             f.write(response.text)
     else:
         print(f"Failed to retrieve the CSV file for {set}. Status code: {response.status_code}")

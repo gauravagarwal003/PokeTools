@@ -4,12 +4,12 @@ let defaultSortColumn = 'ungraded';
 let currentSortColumn = defaultSortColumn;
 let currentSortOrder = 'default'; // Possible values: "default", "asc", "desc"
 
-// Fetch sets.json and then price_data_cache.json
-fetch('sets.json')
+// Fetch assets/sets.json and then price_data_cache.json
+fetch('assets/sets.json')
   .then(response => response.json())
   .then(data => {
     setsData = data; // Store the sets data globally
-    return fetch('sets_price_data.json');
+    return fetch('assets/sets_price_data.json');
   })
   .then(response => response.json())
   .then(priceData => {

@@ -44,7 +44,7 @@ body {
         }).addTo(map);
 
         // Load GeoJSON
-        fetch('all_states.geojson')
+        fetch('assets/all_states.geojson')
             .then(response => response.json())
             .then(data => {
                 L.geoJSON(data, {
