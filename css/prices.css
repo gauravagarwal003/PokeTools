@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(200, 200, 200);
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+    
+  /* Chart container */
+  .chart {
+    margin: 50px auto;
+    min-height: 400px;
+    width: 75%;
+  }
+  
+  /* Container for set info */
+  #info-container {
+    width: 80%;
+    margin: 30px auto;
+    align-items: center;
+
+  }
+  
+/* Each row: image on top, text on one line underneath */
+.set-row {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+/* Center the image and set its max width */
+.set-row img {
+  height: 100px; /* Set your desired fixed height */
+  width: auto;   /* Adjust width proportionally */
+  display: block;
+  margin: 0 auto;
+}
+
+/* Text styling: ensure it stays on one line */
+.set-info {
+  margin-top: 8px;
+  font-size: 16px;
+  white-space: nowrap; /* Prevent line breaks */
+}

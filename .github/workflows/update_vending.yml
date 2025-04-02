@@ -26,7 +26,7 @@ jobs:
         run: echo "GEOCACHING_API_KEY=${{ secrets.GEOCACHING_API_KEY }}" > .env
 
       - name: Run the scraper
-        run: python3 scrape.py
+        run: python3 update_vending.py
         
       - name: Update data if needed
         run: |

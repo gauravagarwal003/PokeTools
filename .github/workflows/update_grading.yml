@@ -24,7 +24,7 @@ jobs:
           pip3 install -r requirements.txt
 
       - name: Run the scraper
-        run: python3 update_prices.py
+        run: python3 update_grading.py
 
       - name: Update json file with new data
         run: |

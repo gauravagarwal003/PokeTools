@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pokemon Grading</title>
+  <link rel="stylesheet" href="css/grading.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="prices.html">Prices</a>
+        <a href="grading.html">Grading</a>
+      </nav>
+
+  <h2>Pokemon Graded Card Price Differences</h2>
+  <div id="controls">
+    <label for="minDiff">Minimum Difference between PSA 9 and Ungraded ($)</label>
+    <input type="number" id="minDiff" value="19" min="0" step="1" />
+  </div>
+  <table id="cardsTable">
+    <thead>
+      <tr>
+        <th data-sort="set">Set</th>
+        <th data-sort="card">Card</th>
+        <th data-sort="ungraded">Ungraded</th>
+        <th data-sort="grade9">PSA 9</th>
+        <th data-sort="grade10">PSA 10</th>
+        <th data-sort="grade9Diff">PSA 9 Profit</th>
+        <th data-sort="grade10Diff">PSA 10 Profit</th>
+        <th data-sort="percent9Diff">PSA 9 % Profit </th>
+        <th data-sort="percent10Diff">PSA 10 % Profit </th>
+      </tr>
+    </thead>
+    <tbody id="tableBody">
+      <!-- Table rows will be inserted here -->
+    </tbody>
+  </table>
+  <script src="js/grading.js"></script>
+</body>
+</html>

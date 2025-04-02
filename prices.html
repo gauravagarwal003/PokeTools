@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Pokémon Scarlet & Violet Dashboard</title>
+  <!-- Link to external CSS -->
+  <link rel="stylesheet" href="css/prices.css">
+  <!-- Load Plotly and D3 from CDNs -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="prices.html">Prices</a>
+        <a href="grading.html">Grading</a>
+      </nav>
+
+
+  <!-- Section for the joined info with images -->
+  <div id="info-container">
+    <h2>Current EV and Pack Prices of S&V (Updated Daily)</h2>
+  </div>
+
+  <div id="charts">
+    <h2>EV and Pack Prices of S&V over Time</h2>
+    <!-- Container for Expected Value over time plot -->
+    <div id="chart-ev" class="chart">
+    </div>
+
+    <!-- Container for Pack Prices plot -->
+    <div id="chart-pack-prices" class="chart">
+    </div>
+
+    <div id="chart-percent" class="chart">
+    </div>
+  </div>
+
+  <!-- Include external JavaScript file -->
+  <script src="js/prices.js"></script>
+</body>
+
+</html>
