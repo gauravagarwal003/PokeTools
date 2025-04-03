@@ -1,4 +1,4 @@
-name: Update Grading Prices
+name: Update All
 on:
   schedule:
     - cron: '0 21 * * *'
