@@ -1,7 +1,5 @@
 name: Update EV & Pack Prices
 on:
-  schedule:
-    - cron: '0 21 * * *'
   workflow_dispatch:
 
 jobs:
@@ -35,7 +33,4 @@ jobs:
           # Check if there are changes to commit
           git commit -m "Updated Pokemon Card Prices" || echo "No changes to commit"
           
-          # Pull remote changes to ensure local branch is up-to-date
-          git pull --rebase origin main
-
           git push
