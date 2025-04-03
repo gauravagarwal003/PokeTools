@@ -1,55 +1,98 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: rgb(200, 200, 200);
+  font-family: Arial, sans-serif;
+  background-color: rgb(200, 200, 200);
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  #data_table {
+    width: 100% !important;
+    margin: 0 auto !important;
   }
-  
-  h1 {
-    text-align: center;
-  }
-  
-  #controls {
-    margin-bottom: 20px;
-    text-align: center;
-  }
-  
-  #controls input {
-    margin-left: 10px;
-    padding: 5px;
-    width: 80px;
-  }
-  
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-  }
-  
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: center;
-  }
-  
-  th {
-    background-color: rgb(120, 120, 120);
-    cursor: pointer;
-    user-select: none;
-  }
-  
-  th.sort-asc::after {
-    content: " ▲";
-  }
-  
-  th.sort-desc::after {
-    content: " ▼";
-  }
-  
-  tr:nth-child(even) {
-    background-color: rgb(180, 180, 180);
-  }
-  
-  tr:hover {
-    background-color: #e9e9e9;
-  }
-  
+}
+
+
+#title {
+  font-size: 16px;
+}
+
+#data_table {
+  width: 75%;
+  margin: 0 auto;
+}
+
+
+#controls {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#controls input {
+  margin-left: 10px;
+  padding: 5px;
+  width: 80px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: rgb(120, 120, 120);
+  cursor: pointer;
+  user-select: none;
+}
+
+th.sort-asc::after {
+  content: " ▲";
+}
+
+th.sort-desc::after {
+  content: " ▼";
+}
+
+tr:nth-child(even) {
+  background-color: rgb(180, 180, 180);
+}
+
+tr:hover {
+  background-color: #e9e9e9;
+}
+
+nav {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  gap: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: gray;
+}
+
+thead{
+  color: black;
+}

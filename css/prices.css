@@ -2,6 +2,8 @@ body {
     background-color: rgb(200, 200, 200);
     font-family: Arial, sans-serif;
     text-align: center;
+    height: 100%;
+    margin: 0;
   }
     
   /* Chart container */
@@ -12,12 +14,8 @@ body {
   }
   
   /* Container for set info */
-  #info-container {
-    width: 80%;
-    margin: 30px auto;
-    align-items: center;
-
-  }
+  #title {
+    font-size: 16px;  }
   
 /* Each row: image on top, text on one line underneath */
 .set-row {
@@ -39,4 +37,23 @@ body {
   margin-top: 8px;
   font-size: 16px;
   white-space: nowrap; /* Prevent line breaks */
+}
+
+
+nav {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  gap: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: gray;
 }

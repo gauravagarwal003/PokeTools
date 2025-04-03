@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>PokeTools | Grading Prices</title>
   <link rel="stylesheet" href="css/grading.css">
 </head>
-<body>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="prices.html">Prices</a>
-        <a href="grading.html">Grading</a>
-      </nav>
 
-  <h2>Pokemon Graded Card Price Differences</h2>
+<body>
+  <nav>
+    <a href="index.html">Vending Machine Locations</a>
+    <a href="prices.html">Set Prices & EV</a>
+    <a href="grading.html" style="text-decoration: underline;">Grading Margins</a>
+  </nav>
+  <div id="title">
+  <h1>Pokemon Graded Card Price Differences (Updated Daily)</h1>
+  </div>
+  <div id="data_table">
   <div id="controls">
     <label for="minDiff">Minimum Difference between PSA 9 and Ungraded ($)</label>
     <input type="number" id="minDiff" value="19" min="0" step="1" />
@@ -35,6 +39,8 @@
       <!-- Table rows will be inserted here -->
     </tbody>
   </table>
+</div>
   <script src="js/grading.js"></script>
 </body>
+
 </html>

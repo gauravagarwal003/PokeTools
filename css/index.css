@@ -5,6 +5,7 @@ html, body {
 }
 
 body {
+    text-align: center;
     background-color: rgb(200, 200, 200);
 }
 
@@ -16,6 +17,11 @@ nav {
     gap: 15px;
 }
 
+#title {
+    font-size: 16px;  
+}
+
+
 nav a {
     color: white;
     text-decoration: none;
@@ -23,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-    text-decoration: underline;
+    color: gray;
 }
 
 #map {

@@ -94,7 +94,7 @@ Promise.all([
   setData.sort((a, b) => (b.percentage || 0) - (a.percentage || 0));
 
   // Build the info rows (each row has an image with text in one line under the image)
-  let infoContainer = d3.select("#info-container");
+  let infoContainer = d3.select("#current_set_info");
 
   setData.forEach(function (d) {
     let row = infoContainer.append("div").attr("class", "set-row");
