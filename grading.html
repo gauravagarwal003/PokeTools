@@ -9,37 +9,56 @@
 
 <body>
   <nav>
-    <a href="index.html">Vending Machine Locations</a>
-    <a href="prices.html">Set Prices & EV</a>
-    <a href="grading.html" style="text-decoration: underline;">Grading Margins</a>
+    <div class="navbar_left">
+      <div class="navbar_logo">
+        <img src="assets/logo.png" alt="PokeTools Logo">
+      </div>
+    </div>
+    <div class="navbar_right">
+      <a href="index.html">
+        <span class="vending-button-text full">Vending Machine Locations</span>
+        <span  class="vending-button-text short">Vending</span>
+      </a>
+
+      <a href="prices.html">
+        <span class="prices-button-text full">Set Prices & EV</span>
+        <span class="prices-button-text short">Sets</span>
+      </a>
+
+      <a href="grading.html" style="text-decoration: underline;">
+        <span class="grading-button-text full">Grading Margins</span>
+        <span class="grading-button-text short">Grading</span>
+      </a>
+    </div>
   </nav>
   <div id="title">
-  <h1>Pokemon Graded Card Price Differences (Updated Daily)</h1>
+    <h1>Pokemon Graded Card Price Differences (Updated Daily)</h1>
   </div>
-  <div id="data_table">
   <div id="controls">
     <label for="minDiff">Minimum Difference between PSA 9 and Ungraded ($)</label>
     <input type="number" id="minDiff" value="19" min="0" step="1" />
   </div>
-  <table id="cardsTable">
-    <thead>
-      <tr>
-        <th data-sort="set">Set</th>
-        <th data-sort="card">Card</th>
-        <th data-sort="ungraded">Ungraded</th>
-        <th data-sort="grade9">PSA 9</th>
-        <th data-sort="grade10">PSA 10</th>
-        <th data-sort="grade9Diff">PSA 9 Profit</th>
-        <th data-sort="grade10Diff">PSA 10 Profit</th>
-        <th data-sort="percent9Diff">PSA 9 % Profit </th>
-        <th data-sort="percent10Diff">PSA 10 % Profit </th>
-      </tr>
-    </thead>
-    <tbody id="tableBody">
-      <!-- Table rows will be inserted here -->
-    </tbody>
-  </table>
-</div>
+  <div id="data_table">
+
+    <table id="cardsTable">
+      <thead>
+        <tr>
+          <th data-sort="set">Set</th>
+          <th data-sort="card">Card</th>
+          <th data-sort="ungraded">Ungraded</th>
+          <th data-sort="grade9">PSA 9</th>
+          <th data-sort="grade10">PSA 10</th>
+          <th data-sort="grade9Diff">PSA 9 Profit</th>
+          <th data-sort="grade10Diff">PSA 10 Profit</th>
+          <th data-sort="percent9Diff">PSA 9 % Profit </th>
+          <th data-sort="percent10Diff">PSA 10 % Profit </th>
+        </tr>
+      </thead>
+      <tbody id="tableBody">
+        <!-- Table rows will be inserted here -->
+      </tbody>
+    </table>
+  </div>
   <script src="js/grading.js"></script>
 </body>
 

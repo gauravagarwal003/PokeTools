@@ -1,12 +1,38 @@
-html, body {
+body {
+    text-align: center;
+    background-color: rgb(200, 200, 200);
     height: 100%;
     margin: 0;
     font-family: sans-serif;
 }
 
-body {
-    text-align: center;
-    background-color: rgb(200, 200, 200);
+@media (max-width: 700px) {
+    #map {
+        width: 100% !important;
+        margin: 0 auto !important;
+    }
+    .full {
+        display: none !important;
+    }
+
+    .short {
+        display: inline !important;
+    }
+
+}
+
+#title {
+    font-size: 16px;
+}
+
+#map {
+    width: 50%;
+    margin: 0 auto;
+    height: 500px;
+}
+
+.navbar_logo img {
+    height: 40px;
 }
 
 nav {
@@ -14,30 +40,24 @@ nav {
     color: white;
     padding: 10px 20px;
     display: flex;
-    gap: 15px;
+    align-items: center;
 }
 
-#title {
-    font-size: 16px;  
+.navbar_right {
+    margin-left: auto;
 }
-
 
 nav a {
     color: white;
     text-decoration: none;
     font-weight: bold;
+    margin-right: 15px;
 }
 
 nav a:hover {
     color: gray;
 }
 
-#map {
-    flex: 1;
-    display: flex;
-    height: 75%;
-    width: 65%;
-    margin: 0 auto;
-    justify-content: center;
-    align-items: center;
+.short {
+    display: none;
 }

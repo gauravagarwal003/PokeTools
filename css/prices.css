@@ -4,13 +4,21 @@ body {
     text-align: center;
     height: 100%;
     margin: 0;
+    overflow-x: hidden;
   }
     
   /* Chart container */
   .chart {
     margin: 50px auto;
     min-height: 400px;
-    width: 75%;
+    width: 70%;
+  }
+  @media (max-width: 1100px) {
+    .chart {
+      width: 100% !important;
+      margin: 0 auto !important;
+      overflow-x: auto !important;
+    }
   }
   
   /* Container for set info */
@@ -39,21 +47,43 @@ body {
   white-space: nowrap; /* Prevent line breaks */
 }
 
+.navbar_logo img{
+  height: 40px;
+}
 
 nav {
   background-color: #333;
   color: white;
   padding: 10px 20px;
   display: flex;
-  gap: 15px;
+  align-items: center; 
+}
+
+.navbar_right {
+  margin-left: auto;
 }
 
 nav a {
   color: white;
   text-decoration: none;
   font-weight: bold;
+  margin-right: 15px;
 }
 
 nav a:hover {
   color: gray;
+}
+
+.short {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .full {
+    display: none !important;
+  }
+  
+  .short {
+    display: inline !important;
+  }
 }

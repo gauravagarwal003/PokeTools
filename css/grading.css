@@ -5,26 +5,46 @@ body {
   margin: 0;
   text-align: center;
   justify-content: center;
+  overflow-x: hidden;
+
 }
 
 h1 {
   text-align: center;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1100px) {
   #data_table {
     width: 100% !important;
     margin: 0 auto !important;
+    font-size: 12px !important;
+    overflow-x: auto !important;
+  }
+  th,td{
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+  }
+}
+@media (max-width: 700px) {
+  .full {
+    display: none !important;
+  }
+  
+  .short {
+    display: inline !important;
   }
 }
 
+.short {
+  display: none;
+}
 
 #title {
   font-size: 16px;
 }
 
 #data_table {
-  width: 75%;
+  width: 70%;
   margin: 0 auto;
 }
 
@@ -32,6 +52,7 @@ h1 {
 #controls {
   margin-bottom: 20px;
   text-align: center;
+  
 }
 
 #controls input {
@@ -75,18 +96,27 @@ tr:hover {
   background-color: #e9e9e9;
 }
 
+.navbar_logo img{
+  height: 40px;
+}
+
 nav {
   background-color: #333;
   color: white;
   padding: 10px 20px;
   display: flex;
-  gap: 15px;
+  align-items: center; 
+}
+
+.navbar_right {
+  margin-left: auto;
 }
 
 nav a {
   color: white;
   text-decoration: none;
   font-weight: bold;
+  margin-right: 15px;
 }
 
 nav a:hover {
