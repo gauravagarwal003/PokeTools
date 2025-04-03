@@ -15,7 +15,7 @@ def csv_is_up_to_date(csv_filename):
 
 PACK_PRICES_FILE_NAME = "assets/sv_pack_prices.csv"
 if csv_is_up_to_date(PACK_PRICES_FILE_NAME):
-    print("Pack prices are already up to date.")
+    print(f"Pack prices are already up to date for {datetime.now().strftime('%Y-%m-%d')}")
     exit(0)
 
 sets = []
@@ -66,5 +66,5 @@ with open(PACK_PRICES_FILE_NAME, mode='a', newline='') as file:
     row = [current_date] + list(pack_prices.values())
     writer.writerow(row)
 
-print("Pack prices updated successfully.")
+print(f"Pack prices updated successfully for {datetime.now().strftime('%Y-%m-%d')}")
 exit(0)

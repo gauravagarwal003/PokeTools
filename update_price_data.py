@@ -29,5 +29,5 @@ for set in urlBySet:
         print(f"Failed to retrieve the CSV file for {set}. Status code: {response.status_code}")
         exit(1)
         
-print("Expected values updated successfully.")
+print(f"Expected values updated successfully for {datetime.now().strftime('%Y-%m-%d')}")
 exit(0)

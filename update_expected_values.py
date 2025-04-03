@@ -23,7 +23,7 @@ def csv_is_up_to_date(csv_filename):
 
 EV_FILE_NAME = "assets/sv_packs_expected_value.csv"
 if csv_is_up_to_date(EV_FILE_NAME):
-    print("Expected values are already up to date.")
+    print(f"Expected values are already up to date for {datetime.now().strftime('%Y-%m-%d')}")
     exit(0)
 
 
@@ -86,4 +86,5 @@ with open(EV_FILE_NAME, mode='a', newline='') as file:
     row = [current_date] + list(pricesBySet.values())
     writer.writerow(row)
 
-exit(0 )
+print(f"Expected values updated for {current_date}")
+exit(0)

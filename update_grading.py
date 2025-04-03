@@ -78,6 +78,7 @@ for set_name in sets.keys():
 cache['last_run_date'] = today
 cache['sets_data'] = all_set_data
 save_cache(cache, cache_file)
+print(f"Grading data updated successfully for {datetime.now().strftime('%Y-%m-%d')}.")
 
 # display_list = []
 # for set_name, cards in all_set_data.items():

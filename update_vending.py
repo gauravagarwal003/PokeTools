@@ -11,6 +11,7 @@ from fake_useragent import UserAgent
 import googlemaps
 from dotenv import load_dotenv
 import geojson
+from datetime import datetime 
 
 # Regex pattern to match state names (with hyphens/spaces)
 state_abbreviations = {
@@ -281,6 +282,7 @@ if data_updated:
     update_all_states()
     save_timestamps(stored_timestamps)
 
+print(f"For date {datetime.now().strftime('%Y-%m-%d')}")
 if newStates:
     print(f"New states: {', '.join(newStates)}")
 else:
