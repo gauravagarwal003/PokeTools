@@ -1,46 +1,39 @@
+/* Reset default spacing and prevent overscroll */
+html, body {
+    margin: 0;
+    padding: 0;
+    overscroll-behavior: none;
+}
+
 body {
     text-align: center;
     background-color: rgb(200, 200, 200);
-    height: 100%;
-    margin: 0;
     font-family: sans-serif;
 }
 
-@media (max-width: 700px) {
-    #map {
-        width: 100% !important;
-        margin: 0 auto !important;
-    }
-    .full {
-        display: none !important;
-    }
-
-    .short {
-        display: inline !important;
-    }
-
-}
-
-#title {
-    font-size: 16px;
-}
-
-#map {
-    width: 50%;
-    margin: 0 auto;
-    height: 500px;
-}
-
-.navbar_logo img {
-    height: 40px;
-}
-
+/* Fixed Navigation Bar */
 nav {
     background-color: #333;
     color: white;
     padding: 10px 20px;
     display: flex;
     align-items: center;
+}
+
+/* Create space below the fixed header */
+#title {
+    font-size: 16px;
+}
+
+/* Map container styling */
+#map {
+    width: 50%;
+    margin: 20px auto;  /* Add some vertical spacing if needed */
+    height: 500px;
+}
+
+.navbar_logo img {
+    height: 35px;
 }
 
 .navbar_right {
@@ -54,6 +47,7 @@ nav a {
     margin-right: 15px;
 }
 
+
 nav a:hover {
     color: gray;
 }
@@ -61,3 +55,59 @@ nav a:hover {
 .short {
     display: none;
 }
+
+@media (max-width: 700px) {
+    #map {
+        width: 100% !important;
+        margin: 0 auto !important;
+    }
+    .full {
+        display: none !important;
+    }
+    .short {
+        display: inline !important;
+    }
+}
+
+/* Style for the info button */
+.info-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    background-color: #333;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 1001; /* Ensure it stays above the map */
+  }
+  
+  /* Popup container styling */
+  .popup {
+    display: none;  /* Hidden by default */
+    position: fixed;
+    bottom: 80px;  /* Adjust as needed */
+    right: 20px;
+    width: 300px;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #888;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    z-index: 1000; /* Lower than the button if needed */
+    border-radius: 5px;
+  }
+  
+  /* Close button inside the popup */
+  .popup .close {
+    float: right;
+    font-size: 24px;
+    cursor: pointer;
+    color: #aaa;
+  }
+  .popup .close:hover {
+    color: #000;
+  }
+  

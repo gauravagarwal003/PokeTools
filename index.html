@@ -16,14 +16,15 @@
         </div>
         <div class="navbar_right">
 
-            <a href="index.html" style="text-decoration: underline;">
-                <span  class="vending-button-text full">Vending Machine Locations</span>
-                <span class="vending-button-text short">Vending</span>
+            <a href="index.html">
+                <span class="vending-button-text full" style="text-decoration: underline;">Vending Machine
+                    Locations</span>
+                <span class="vending-button-text short" style="text-decoration: underline;">Vending</span>
             </a>
 
             <a href="prices.html">
                 <span class="prices-button-text full">Set Prices & EV</span>
-                <span  class="prices-button-text short">Sets</span>
+                <span class="prices-button-text short">Sets</span>
             </a>
 
             <a href="grading.html">
@@ -33,40 +34,21 @@
         </div>
     </nav>
     <div id="title">
-        <h1>Pokemong Vending Machine Locations (Updated Daily)</h1>
+        <h1>Pokemon Vending Machine Locations (Updated Daily)</h1>
     </div>
 
     <div id="map"></div>
+    <button id="infoBtn" class="info-button">?</button>
+    <div id="infoPopup" class="popup">
+        <span class="close">&times;</span>
+        <p>This map shows the locations of offical Pokemon Center Vending Machines in the USA. It is updated daily from the Pokemon Center website.</p>
+        <p>These machines are usually placed in grocery stores and sell TCG products at MSRP! Also, <a href="https://comicbook.com/gaming/news/pokemon-card-scalpers-vending-machines/">new measures</a> mean it's more likely for non-scalpers to get product!</p> 
+    </div>
+
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script>
-        const map = L.map('map').setView([37.8, -96], 4);
+    <script src="js/index.js"></script>
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-        }).addTo(map);
-
-        // Define your custom icon
-        const customIcon = L.icon({
-            iconUrl: 'assets/pokeball.png',  // Replace with your image path
-            iconSize: [20, 20],                // Adjust based on your image dimensions
-            iconAnchor: [10, 10],              // The point of the icon which corresponds to marker's location
-            popupAnchor: [0, -10]              // The point from which the popup should open relative to the iconAnchor
-        });
-
-        fetch('assets/all_states.geojson')
-            .then(response => response.json())
-            .then(data => {
-                L.geoJSON(data, {
-                    pointToLayer: function (feature, latlng) {
-                        // Use a marker with your custom icon instead of a circleMarker
-                        return L.marker(latlng, { icon: customIcon })
-                            .bindPopup(`<div style="text-align: center; margin-bottom: 2px;">${feature.properties.Retailer}</div> ${feature.properties.Address}`);
-                    }
-                }).addTo(map);
-            })
-            .catch(error => console.error('Error loading GeoJSON:', error));
-    </script>
 </body>
 
 </html>
