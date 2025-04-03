@@ -4,7 +4,6 @@ on:
     - cron: '0 21 * * *'
   workflow_dispatch:
 
-
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
@@ -36,4 +35,8 @@ jobs:
           # Check if there are changes to commit
           git commit -m "Updated Pokemon Card Trading Prices" || echo "No changes to commit"
           
+          # Pull remote changes to ensure local branch is up-to-date
+          git pull --rebase origin main
+          
+          # Push changes to remote repository
           git push
