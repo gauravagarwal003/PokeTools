@@ -18,6 +18,9 @@ function hexToRGB(hex) {
 const darkRedRGB = hexToRGB(DARK_RED_HEX);
 const brightGreenRGB = hexToRGB(BRIGHT_GREEN_HEX);
 
+// Create a date parser for the format in your CSV ("YYYY-MM-DD")
+const parseDate = d3.timeParse("%Y-%m-%d");
+
 function getReturnColor(percentage) {
   // If percentage is null, return a default color (black)
   if (percentage === null) return "black";
@@ -58,12 +61,12 @@ Promise.all([
     colorMap[d.Set.trim()] = d.Color.trim();
   });
 
-  // Convert the Date columns to Date objects in both datasets
+  // Convert the Date columns to Date objects in both datasets using parseDate
   evData.forEach(function (d) {
-    d.Date = new Date(d.Date);
+    d.Date = parseDate(d.Date);
   });
   priceData.forEach(function (d) {
-    d.Date = new Date(d.Date);
+    d.Date = parseDate(d.Date);
   });
 
   // Use the latest row for pack prices and expected values
@@ -143,7 +146,6 @@ Promise.all([
       title: 'Expected Value per Pack ($)',
       tickprefix: '$',
     },
-
     plot_bgcolor: 'rgb(200,200,200)',
     paper_bgcolor: 'rgb(200,200,200)',
     height: 500,
@@ -201,7 +203,6 @@ Promise.all([
   Plotly.newPlot('chart-pack-prices', tracesPacks, layoutPacks);
 
   // ---------------- Create Return Percentage Over Time Plot ----------------
-  // Assume both CSVs have the same dates and sets; for each set, compute (expected value / pack price * 100)
   let setsPercent = Object.keys(evData[0]).filter(key => key !== "Date");
   let tracesPercent = setsPercent.map(function (set) {
     return {
@@ -231,7 +232,6 @@ Promise.all([
       title: 'Return Percentage per Pack (%)',
       ticksuffix: '%',
     },
-
     plot_bgcolor: 'rgb(200,200,200)',
     paper_bgcolor: 'rgb(200,200,200)',
     height: 500,
