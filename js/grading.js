@@ -137,3 +137,33 @@ function setupHeaderSorting() {
 
 // Event listener for filter input changes.
 document.getElementById('minDiff').addEventListener('input', updateTable);
+document.addEventListener("DOMContentLoaded", function () {
+  // Get references to the info button and popup elements.
+  const infoBtn = document.getElementById("infoBtn");
+  const infoPopup = document.getElementById("infoPopup");
+  const closeBtn = document.querySelector(".popup .close");
+  
+  // Toggle the popup when the info button is clicked.
+  infoBtn.addEventListener("click", function (event) {
+    event.stopPropagation(); // Prevent the click from bubbling up to the document
+    infoPopup.style.display = infoPopup.style.display === "block" ? "none" : "block";
+  });
+
+  // Hide the popup when the close button is clicked.
+  closeBtn.addEventListener("click", function (event) {
+    event.stopPropagation(); // Prevent the click from bubbling up to the document
+    infoPopup.style.display = "none";
+  });
+
+  // Prevent clicks inside the popup from closing it.
+  infoPopup.addEventListener("click", function (event) {
+    event.stopPropagation();
+  });
+
+  // Close the popup when clicking anywhere outside of it.
+  document.addEventListener("click", function () {
+    if (infoPopup.style.display === "block") {
+      infoPopup.style.display = "none";
+    }
+  });
+});

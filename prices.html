@@ -46,7 +46,7 @@
   </div>
 
   <div id="charts">
-    <h2>EV and Pack Prices of S&V over Time</h2>
+    <h1>EV and Pack Prices of S&V over Time</h1>
     <!-- Container for Expected Value over time plot -->
     <div id="chart-ev" class="chart">
     </div>
@@ -58,6 +58,16 @@
     <div id="chart-percent" class="chart">
     </div>
   </div>
+  <button id="infoBtn" class="info-button">?</button>
+  <div id="infoPopup" class="popup">
+      <span class="close">&times;</span>
+      <p>This page shows the current and historical data for these three values:</p>
+        <p><strong>Expected Value (EV):</strong> The expected value of a pack, calculated by weighting each card's market value by its chance of being pulled.</p>
+        <p><strong>Pack Price:</strong> The current market price of a pack.</p>
+        <p><strong>Percent Return:</strong> How much you'd expect to recover in value if you bought the pack at market price.</p>
+      <p>These values are updated daily. Note: Shrouded Fable is not included as TCGplayer Infinite did not release pull rates for it.</p> 
+  </div>
+
 
   <!-- Include external JavaScript file -->
   <script src="js/prices.js"></script>
