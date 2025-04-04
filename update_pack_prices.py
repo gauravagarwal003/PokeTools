@@ -9,7 +9,7 @@ tz = pytz.timezone('America/Los_Angeles')
 def csv_is_up_to_date(csv_filename):
     df = pd.read_csv(csv_filename)
     last_update_date = df["Date"].max()
-    current_date = datetime.datetime.now(tz).strftime('%Y-%m-%d')
+    current_date = datetime.now(tz).strftime('%Y-%m-%d')
 
     if last_update_date == current_date:
         return True
@@ -18,7 +18,7 @@ def csv_is_up_to_date(csv_filename):
 
 PACK_PRICES_FILE_NAME = "assets/sv_pack_prices.csv"
 if csv_is_up_to_date(PACK_PRICES_FILE_NAME):
-    print(f"Pack prices are already up to date for {datetime.datetime.now(tz).strftime('%Y-%m-%d')}")
+    print(f"Pack prices are already up to date for {datetime.now(tz).strftime('%Y-%m-%d')}")
     exit(0)
 
 sets = []
@@ -41,7 +41,7 @@ for setName in sets:
                         pack_prices[setName] = round(float(row['marketPrice']),2)    
                         
     
-current_date = datetime.datetime.now(tz).strftime('%Y-%m-%d')
+current_date = datetime.now(tz).strftime('%Y-%m-%d')
 file_exists = False
 try:
     with open(PACK_PRICES_FILE_NAME, mode='r', newline='') as file:
@@ -69,5 +69,5 @@ with open(PACK_PRICES_FILE_NAME, mode='a', newline='') as file:
     row = [current_date] + list(pack_prices.values())
     writer.writerow(row)
 
-print(f"Pack prices updated successfully for {datetime.datetime.now(tz).strftime('%Y-%m-%d')}")
+print(f"Pack prices updated successfully for {datetime.now(tz).strftime('%Y-%m-%d')}")
 exit(0)

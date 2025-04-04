@@ -284,7 +284,7 @@ if data_updated:
     update_all_states()
     save_timestamps(stored_timestamps)
 
-print(f"For date {datetime.datetime.now(tz).strftime('%Y-%m-%d')}")
+print(f"For date {datetime.now(tz).strftime('%Y-%m-%d')}")
 if newStates:
     print(f"New states: {', '.join(newStates)}")
 else:
