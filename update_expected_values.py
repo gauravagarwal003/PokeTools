@@ -2,6 +2,8 @@ import csv
 from datetime import datetime
 import os
 import pandas as pd
+import pytz
+tz = pytz.timezone('America/Los_Angeles')
 
 
 def clean_and_convert_dict(d):
@@ -14,7 +16,7 @@ def clean_and_convert_dict(d):
 def csv_is_up_to_date(csv_filename):
     df = pd.read_csv(csv_filename)
     last_update_date = df["Date"].max()
-    current_date = datetime.now().strftime('%Y-%m-%d')
+    current_date = datetime.datetime.now(tz).strftime('%Y-%m-%d')
 
     if last_update_date == current_date:
         return True
@@ -23,7 +25,7 @@ def csv_is_up_to_date(csv_filename):
 
 EV_FILE_NAME = "assets/sv_packs_expected_value.csv"
 if csv_is_up_to_date(EV_FILE_NAME):
-    print(f"Expected values are already up to date for {datetime.now().strftime('%Y-%m-%d')}")
+    print(f"Expected values are already up to date for {datetime.datetime.now(tz).strftime('%Y-%m-%d')}")
     exit(0)
 
 
@@ -58,7 +60,7 @@ for setName in rarityProbabilitiesBySet:
     
     pricesBySet[setName] = round(sum,2)
     
-current_date = datetime.now().strftime('%Y-%m-%d')
+current_date = datetime.datetime.now(tz).strftime('%Y-%m-%d')
 file_exists = False
 try:
     with open(EV_FILE_NAME, mode='r', newline='') as file:

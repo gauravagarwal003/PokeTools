@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 import time
+import pytz
+tz = pytz.timezone('America/Los_Angeles')
 
 def load_cache(cache_file):
     try:
@@ -44,9 +46,9 @@ def scrape_set_prices(set_name):
                 
   return return_dict
 
-cache_file = 'price_data_cache.json'
+cache_file = 'assets/sets_price_data.json'
 cache = load_cache(cache_file)
-today = datetime.now().strftime('%Y-%m-%d')
+today = datetime.datetime.now(tz).strftime('%Y-%m-%d')
 all_set_data = {}
 
 if cache.get('last_run_date') == today:
@@ -78,7 +80,7 @@ for set_name in sets.keys():
 cache['last_run_date'] = today
 cache['sets_data'] = all_set_data
 save_cache(cache, cache_file)
-print(f"Grading data updated successfully for {datetime.now().strftime('%Y-%m-%d')}.")
+print(f"Grading data updated successfully for {datetime.datetime.now(tz).strftime('%Y-%m-%d')}.")
 
 # display_list = []
 # for set_name, cards in all_set_data.items():
