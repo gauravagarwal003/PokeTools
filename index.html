@@ -2,9 +2,19 @@
 <html>
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCYRP46NXC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-WCYRP46NXC');
+    </script>
     <title>PokeTools | Vending Machine Map</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="css/index.css">
+
 </head>
 
 <body>
@@ -41,8 +51,11 @@
     <button id="infoBtn" class="info-button">?</button>
     <div id="infoPopup" class="popup">
         <span class="close">&times;</span>
-        <p>This map shows the locations of offical Pokemon Center Vending Machines in the USA. It is updated daily from the Pokemon Center website.</p>
-        <p>These machines are usually placed in grocery stores and sell TCG products at MSRP! Also, <a href="https://comicbook.com/gaming/news/pokemon-card-scalpers-vending-machines/">new measures</a> mean it's more likely for non-scalpers to get product!</p> 
+        <p>This map shows the locations of offical Pokemon Center Vending Machines in the USA. It is updated daily from
+            the Pokemon Center website.</p>
+        <p>These machines are usually placed in grocery stores and sell TCG products at MSRP! Also, <a
+                href="https://comicbook.com/gaming/news/pokemon-card-scalpers-vending-machines/">new measures</a> mean
+            it's more likely for non-scalpers to get product!</p>
     </div>
 
 
