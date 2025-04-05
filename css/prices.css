@@ -84,6 +84,7 @@ nav {
   padding: 10px 20px;
   display: flex;
   align-items: center;
+  font-size: 14px;
 }
 
 .navbar_right {
