@@ -18,6 +18,7 @@ nav {
     padding: 10px 20px;
     display: flex;
     align-items: center;
+    font-size: 14px;
 }
 
 /* Create space below the fixed header */
@@ -38,6 +39,20 @@ nav {
 
 .navbar_right {
     margin-left: auto;
+}
+
+.navbar_left {
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+
+.coffee{
+    margin-left: 10px;
+}
+
+.coffee:hover {
+    color: #D0BB94 !important;
 }
 
 nav a {
