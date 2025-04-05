@@ -14,6 +14,21 @@ body {
   overflow-x: hidden;
 }
 
+.navbar_left {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+}
+
+.coffee{
+  margin-left: 10px;
+}
+
+.coffee:hover {
+  color: #D0BB94 !important;
+}
+
+
 /* Chart container */
 .chart {
   margin: 50px auto;
