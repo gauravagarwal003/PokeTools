@@ -114,7 +114,7 @@ Promise.all([
     row.append("p").attr("class", "set-info").html(
       "Pack Price: $" + (d.packPrice !== null ? d.packPrice : "N/A") + " | " +
       "Expected Value: $" + (d.expectedValue !== null ? d.expectedValue : "N/A") + " | " +
-      "Return: <span style='color:" + percentageColor + ";'>" + percentageText + "</span>"
+      "Recovered: <span style='color:" + percentageColor + ";'>" + percentageText + "</span>"
     );
   });
 
@@ -202,7 +202,7 @@ Promise.all([
 
   Plotly.newPlot('chart-pack-prices', tracesPacks, layoutPacks);
 
-  // ---------------- Create Return Percentage Over Time Plot ----------------
+  // ---------------- Create Recovered Percentage Over Time Plot ----------------
   let setsPercent = Object.keys(evData[0]).filter(key => key !== "Date");
   let tracesPercent = setsPercent.map(function (set) {
     return {
@@ -218,18 +218,18 @@ Promise.all([
         color: colorMap[set.trim()] || undefined
       },
       hovertemplate: '%{x|%Y-%m-%d}<br>' +
-        set + ' Return: %{y:.2f}%<extra></extra>'
+        set + 'Percentage Recovered: %{y:.2f}%<extra></extra>'
     };
   });
 
   let layoutPercent = {
-    title: 'Return Percentage Over Time',
+    title: 'Percentage Recovered Over Time',
     xaxis: {
       title: 'Date',
     },
     yaxis: {
       automargin: true,
-      title: 'Return Percentage per Pack (%)',
+      title: 'Percentage Recovered per Pack (%)',
       ticksuffix: '%',
     },
     plot_bgcolor: 'rgb(200,200,200)',
