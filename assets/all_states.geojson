@@ -34,6 +34,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.04042,
+          42.376649
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "246 Border St, Boston, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.001076,
+          42.201262
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "105 Pearl St, Braintree, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.045784,
           42.072184
         ]
@@ -348,7 +376,7 @@
       },
       "properties": {
         "Retailer": "Kroger",
-        "Address": "7450 Fishers Station Drive, Fishers, IN"
+        "Address": "7450 Fishers Station Dr, Fishers, IN"
       }
     },
     {
@@ -4150,13 +4178,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.396286,
-          33.941082
+          -118.242643,
+          34.054908
         ]
       },
       "properties": {
         "Retailer": "Vons",
-        "Address": "10321 Sepulveda Blvd, Los Angeles, CA"
+        "Address": "Los Angeles, Los Angeles, CA"
       }
     },
     {
@@ -6494,7 +6522,7 @@
       },
       "properties": {
         "Retailer": "Albertsons",
-        "Address": "1940 Village Center Circle, Las Vegas, NV"
+        "Address": "1940 Village Center Cir, Las Vegas, NV"
       }
     },
     {
@@ -6592,7 +6620,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "119 S Randall Rd, Batavia, IL"
+        "Address": "119 S Randall Rd, Batavia Township, IL"
       }
     },
     {
@@ -6970,7 +6998,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "1040 Summit St, Elgin, IL"
+        "Address": "1040 Summit St, Elgin Township, IL"
       }
     },
     {
@@ -6984,7 +7012,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "1660 Larkin Ave, Elgin, IL"
+        "Address": "1660 Larkin Ave, Elgin Township, IL"
       }
     },
     {
@@ -7012,7 +7040,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "21164 S La Grange Rd, Frankfort, IL"
+        "Address": "21164 S LaGrange Rd, Frankfort, IL"
       }
     },
     {
@@ -7096,7 +7124,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "10090 HWY 47, Huntley, IL"
+        "Address": "10090 IL-47, Huntley, IL"
       }
     },
     {
@@ -7104,13 +7132,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.167901,
-          42.320835
+          -88.171502,
+          42.321959
         ]
       },
       "properties": {
         "Retailer": "Woodman's Market",
-        "Address": "27555 W IL Route 120, Lakemoor, IL"
+        "Address": "27555 W IL-120, Lakemoor, IL"
       }
     },
     {
@@ -7138,7 +7166,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "4222 W Elm St, McHenry, IL"
+        "Address": "4222 W Elm St, McHenry Township, IL"
       }
     },
     {
@@ -7202,13 +7230,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.116978,
-          41.751538
+          -88.115273,
+          41.751314
         ]
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "1227 S Naper Blvd, Naperville, IL"
+        "Address": "1227 S Naper Blvd, Naperville Township, IL"
       }
     },
     {
@@ -7222,7 +7250,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "2855 95th St, Naperville, IL"
+        "Address": "2855 95th St, Naperville Township, IL"
       }
     },
     {
@@ -7264,7 +7292,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "2540 US Highway 30, Oswego, IL"
+        "Address": "2540 US-30, Oswego Township, IL"
       }
     },
     {
@@ -7292,7 +7320,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "13460 S Rt 59, Plainfield, IL"
+        "Address": "13460 S Rte 59, Plainfield, IL"
       }
     },
     {
@@ -7370,13 +7398,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.338903,
-          41.986994
+          -88.339413,
+          41.985946
         ]
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "375 Randall Rd, South Elgin, IL"
+        "Address": "375 S Randall Rd, South Elgin, IL"
       }
     },
     {
@@ -7390,7 +7418,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "217 Irving Park Rd, Streamwood, IL"
+        "Address": "217 W Irving Park Rd, Streamwood, IL"
       }
     },
     {
@@ -7412,13 +7440,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.132565,
-          42.260751
+          -88.152163,
+          42.259467
         ]
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "547 Liberty Street, Wauconda, IL"
+        "Address": "547 W Liberty St, Wauconda, IL"
       }
     },
     {
@@ -7572,7 +7600,7 @@
       },
       "properties": {
         "Retailer": "Pick 'n Save",
-        "Address": "3161 Village Square Drive, Hartland, WI"
+        "Address": "3161 Village Square Dr, Hartland, WI"
       }
     },
     {
@@ -7628,7 +7656,7 @@
       },
       "properties": {
         "Retailer": "Pick 'n Save",
-        "Address": "6655 McKee Road, Madison, WI"
+        "Address": "6655 McKee Rd, Madison, WI"
       }
     },
     {
@@ -7642,7 +7670,7 @@
       },
       "properties": {
         "Retailer": "Metro Market",
-        "Address": "6010 Cottage Grove Road, Madison, WI"
+        "Address": "6010 Cottage Grove Rd, Madison, WI"
       }
     },
     {
@@ -7656,7 +7684,7 @@
       },
       "properties": {
         "Retailer": "Pick 'n Save",
-        "Address": "N77 W14435 Appleton Avenue, Menomonee Falls, WI"
+        "Address": "W14435 Appleton Ave, Menomonee Falls, WI"
       }
     },
     {
@@ -7670,7 +7698,7 @@
       },
       "properties": {
         "Retailer": "Pick 'n Save",
-        "Address": "3701 S 27th Street, Milwaukee, WI"
+        "Address": "3701 S 27th St, Milwaukee, WI"
       }
     },
     {
@@ -7678,13 +7706,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.002335,
-          43.146908
+          -88.002671,
+          43.147049
         ]
       },
       "properties": {
         "Retailer": "Pick 'n Save",
-        "Address": "7401 W Good Hope Rd, Milwaukee, WI"
+        "Address": "7401 Good Hope Rd, Milwaukee, WI"
       }
     },
     {
@@ -7740,7 +7768,7 @@
       },
       "properties": {
         "Retailer": "Pick 'n Save",
-        "Address": "1202 N Green Bay Road, Racine, WI"
+        "Address": "1202 N Green Bay Rd, Racine, WI"
       }
     },
     {
@@ -7748,13 +7776,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.240736,
-          43.137159
+          -88.209545,
+          43.133614
         ]
       },
       "properties": {
         "Retailer": "Pick 'n Save",
-        "Address": "N65 W24838 Main St, Sussex, WI"
+        "Address": "N 65 W24838, Sussex, WI"
       }
     },
     {
@@ -7972,13 +8000,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.482252,
-          41.44346
+          -71.482697,
+          41.443921
         ]
       },
       "properties": {
         "Retailer": "Shaw's",
-        "Address": "160 Old Tower Hill Rd, Wakefield, RI"
+        "Address": "160 Old Tower Hill Rd, Washington, RI"
       }
     },
     {
@@ -9924,7 +9952,7 @@
       },
       "properties": {
         "Retailer": "Acme Markets",
-        "Address": "260 Dunns Mills Rd, Bordentown, NJ"
+        "Address": "260 Dunns Mill Rd, Bordentown, NJ"
       }
     },
     {
@@ -10022,7 +10050,7 @@
       },
       "properties": {
         "Retailer": "Smith's",
-        "Address": "1550 East 3500 North, Lehi, UT"
+        "Address": "1550 E 3500 N, Lehi, UT"
       }
     },
     {
@@ -10288,7 +10316,7 @@
       },
       "properties": {
         "Retailer": "Kroger",
-        "Address": "70 Martha Layne Collins Boulevard, Cold Spring, KY"
+        "Address": "70 Martha Layne Collins Blvd, Cold Spring, KY"
       }
     },
     {
@@ -10330,7 +10358,7 @@
       },
       "properties": {
         "Retailer": "Kroger",
-        "Address": "9001 US Hwy 42, Union, KY"
+        "Address": "9001 US-42, Union, KY"
       }
     },
     {
@@ -10470,7 +10498,7 @@
       },
       "properties": {
         "Retailer": "Safeway",
-        "Address": "5485 Harpers Farm Rd Suite A, Columbia, MD"
+        "Address": "5485 Harpers Farm Rd A, Columbia, MD"
       }
     },
     {
@@ -12360,7 +12388,7 @@
       },
       "properties": {
         "Retailer": "Kroger",
-        "Address": "20645 Gibraltar Rd, Brownstown, MI"
+        "Address": "20645 Gibraltar Rd, Brownstown Wayne, MI"
       }
     },
     {
@@ -12472,7 +12500,7 @@
       },
       "properties": {
         "Retailer": "Kroger",
-        "Address": "30935 5 Mile Rd, Livonia, MI"
+        "Address": "30935 Five Mile Rd, Livonia, MI"
       }
     },
     {
@@ -12522,13 +12550,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.831193,
-          42.461972
+          -83.831174,
+          42.461987
         ]
       },
       "properties": {
         "Retailer": "Kroger",
-        "Address": "9700 Chilson Cmns, Pinckney, MI"
+        "Address": "9700 Chilson Commons Cir, Pinckney, MI"
       }
     },
     {
@@ -12822,7 +12850,7 @@
       },
       "properties": {
         "Retailer": "Kroger",
-        "Address": "143 McGavock Pike, Nashville, TN"
+        "Address": "143 McGavock Pk, Nashville, TN"
       }
     },
     {
@@ -15049,20 +15077,6 @@
       "properties": {
         "Retailer": "QFC",
         "Address": "417 Broadway E #2, Seattle, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.36692,
-          47.516719
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "9620 28th Ave SW, Seattle, WA"
       }
     },
     {
@@ -17408,6 +17422,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.222702,
+          40.004199
+        ]
+      },
+      "properties": {
+        "Retailer": "Acme Markets",
+        "Address": "121 E City Ave, Bala Cynwyd, PA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.308445,
           39.925112
         ]
@@ -17555,6 +17583,20 @@
       "properties": {
         "Retailer": "Acme Markets",
         "Address": "3200-09 Red Lion Rd, Philadelphia, PA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.012465,
+          40.207705
+        ]
+      },
+      "properties": {
+        "Retailer": "Acme Markets",
+        "Address": "800 2nd Street Pike, Richboro, PA"
       }
     },
     {
@@ -18647,6 +18689,20 @@
       "properties": {
         "Retailer": "Randalls",
         "Address": "2951 Marina Bay Dr Suite B, League City, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.638091,
+          33.170822
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "3001 S Central Expy, McKinney, TX"
       }
     },
     {
