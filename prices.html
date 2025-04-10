@@ -63,7 +63,7 @@
     </div>
   </div>
   <button id="infoBtn" class="info-button">?</button>
-  <div id="infoPopup" class="popup">
+  <div id="infoPopup" class="infopopup">
       <span class="close">&times;</span>
       <p>This page shows the current and historical data for these three values:</p>
         <p><strong>Expected Value (EV):</strong> The expected value of a pack, calculated by weighting each card's market value by its chance of being pulled.</p>
@@ -71,8 +71,164 @@
         <p><strong>Percent Recovered:</strong> How much you'd expect to recover in value if you bought the pack at market price.</p>
       <p>These values are updated daily. Note: Shrouded Fable is not included as TCGplayer Infinite did not release pull rates for it.</p> 
       <p> If you found this useful, consider<a href="https://buymeacoffee.com/gprojects/"> buying me a ☕</a>!</p>
-
   </div>
+
+  <button id="policiesBtn" class="policies-button">Policies</button>
+  <div id="policiesPopup" class="policiespopup">
+      <span class="close">&times;</span>
+      <div class="tabs">
+          <button class="tab-link active" data-tab="terms">Terms of Service</button>
+          <button class="tab-link" data-tab="privacy">Privacy Policy</button>
+          <button class="tab-link" data-tab="cookies">Cookie Policy</button>
+      </div>
+      <div class="tab-content active" id="terms">
+          <h2>Terms of Service</h2>
+          <p>Last Updated: April 10, 2025</p>
+
+          <h3>Acceptance of Terms</h3>
+          <p>By using PokeTools, you agree to these terms. Do not use our services if you disagree.</p>
+
+          <h3>Service Description</h3>
+          <p>We provide:
+          <ul>
+              <li>Map of Pokémon vending machine locations</li>
+              <li>TCG product pricing information</li>
+              <li>Grading margin calculators</li>
+          </ul>
+          All information is provided "as is" for general informational purposes only.
+          </p>
+
+          <h3>User Responsibilities</h3>
+          <p>You agree to:
+          <ul>
+              <li>Use services lawfully</li>
+              <li>Not engage in automated scraping</li>
+              <li>Not attempt to reverse-engineer our systems</li>
+          </ul>
+          </p>
+
+          <h3>Intellectual Property</h3>
+          <p>All content is © PokeTools unless otherwise noted. Pokémon content is used under fair use principles. We
+              are not affiliated with The Pokémon Company.</p>
+
+          <h3>Disclaimer of Warranties</h3>
+          <p>We do not guarantee:
+          <ul>
+              <li>Accuracy of vending machine locations</li>
+              <li>Product availability at listed locations</li>
+              <li>Currentness of pricing data</li>
+          </ul>
+          </p>
+
+          <h3>Limitation of Liability</h3>
+          <p>We are not responsible for:
+          <ul>
+              <li>Decisions made based on our information</li>
+              <li>Third-party content (e.g., Google services)</li>
+              <li>Service interruptions</li>
+          </ul>
+          </p>
+
+          <p>Contact: poketoolslive@gmail.com</p>
+      </div>
+      <div class="tab-content" id="privacy">
+          <h2>Privacy Policy</h2>
+          <p>Last Updated: April 10, 2025</p>
+
+          <h3>Information We Collect</h3>
+          <p>We use Google Analytics and Google Ads to collect anonymous usage data including:
+          <ul>
+              <li>IP addresses (anonymized)</li>
+              <li>Device and browser information</li>
+              <li>Pages visited and time spent</li>
+              <li>Interactions with site features</li>
+              <li>Ad performance data</li>
+          </ul>
+          We do not collect or store any personal identification information unless voluntarily provided (e.g., via
+          email contact).
+          </p>
+
+          <h3>How We Use Information</h3>
+          <p>Data is used to:
+          <ul>
+              <li>Analyze traffic patterns</li>
+              <li>Improve user experience</li>
+              <li>Serve relevant advertisements</li>
+              <li>Maintain site functionality</li>
+          </ul>
+          </p>
+
+          <h3>Third-Party Services</h3>
+          <p>We use:
+          <ul>
+              <li>Google Analytics for traffic analysis</li>
+              <li>Google Ads for advertising</li>
+              <li>Leaflet.js for map functionality</li>
+          </ul>
+          These services have their own privacy policies which we recommend reviewing.
+          </p>
+
+          <h3>Your Rights</h3>
+          <p>You may:
+          <ul>
+              <li>Opt-out of Google Analytics using <a href="https://tools.google.com/dlpage/gaoptout">their browser
+                      add-on</a></li>
+              <li>Manage ad preferences through <a href="https://adssettings.google.com">Google Ads Settings</a></li>
+              <li>Disable cookies through your browser settings</li>
+          </ul>
+          </p>
+
+          <h3>Location Data</h3>
+          <p>We do not collect or request your physical location. Map locations are provided as general business
+              information only.</p>
+
+          <h3>Children's Privacy</h3>
+          <p>Our services are not directed at children under 13. We do not knowingly collect information from
+              children.</p>
+
+          <p>For questions or data requests, contact us at poketoolslive@gmail.com.</p>
+      </div>
+      <div class="tab-content" id="cookies">
+          <h2>Cookie Policy</h2>
+          <p>Last Updated: April 10, 2025</p>
+
+          <h3>What Are Cookies?</h3>
+          <p>Cookies are small text files stored on your device to enhance site functionality.</p>
+
+          <h3>How We Use Cookies</h3>
+          <p>
+              <strong>Essential Cookies:</strong>
+              <br>Required for basic site operations
+          </p>
+          <p>
+              <strong>Analytics Cookies (Google Analytics):</strong>
+          <ul>
+              <li>_ga (2 years) - Distinguish users</li>
+              <li>_gid (24 hours) - Track sessions</li>
+              <li>_gat (1 min) - Throttle requests</li>
+          </ul>
+          </p>
+          <p>
+              <strong>Advertising Cookies (Google Ads):</strong>
+          <ul>
+              <li>__Secure-ENID (13 months) - Ad targeting</li>
+              <li>IDE (13 months) - Display ads</li>
+          </ul>
+          </p>
+
+          <h3>Managing Cookies</h3>
+          <p>Control cookies through:
+          <ul>
+              <li>Browser settings</li>
+              <li><a href="https://optout.aboutads.info">Digital Advertising Alliance</a></li>
+              <li><a href="https://tools.google.com/dlpage/gaoptout">Google Analytics Opt-out</a></li>
+          </ul>
+          Disabling cookies may affect site functionality.
+          </p>
+      </div>
+  </div>
+
+
 
 
   <!-- Include external JavaScript file -->

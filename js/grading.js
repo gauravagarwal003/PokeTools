@@ -24,12 +24,11 @@ fetch('assets/sets.json')
 // Process JSON data into an array of card objects.
 function processData(priceData, sets) {
   const cards = [];
-  const setsData = priceData.sets_data;
-  for (let setId in setsData) {
-    // Map the raw set id to the friendly display name.
+  const setsDataObj = priceData.sets_data;
+  for (let setId in setsDataObj) {
     const setDisplayName = sets[setId] || setId;
-    for (let card in setsData[setId]) {
-      const data = setsData[setId][card];
+    for (let card in setsDataObj[setId]) {
+      const data = setsDataObj[setId][card];
       const ungraded = parseFloat(data.ungraded);
       const grade9 = parseFloat(data.grade_9);
       const grade10 = parseFloat(data.grade_10);
@@ -78,12 +77,9 @@ function renderTable(cards) {
 // Update table based on current filter and sort settings.
 function updateTable() {
   const minDiffVal = parseFloat(document.getElementById('minDiff').value) || 19;
-  // Filter based on minimum PSA9 difference.
   let filteredData = cardsDataOriginal.filter(item => item.grade9Diff >= minDiffVal);
   
-  // Sort the filtered data.
   if (currentSortOrder === 'default') {
-    // Default sorting: sort by ungraded in descending order.
     filteredData.sort((a, b) => b[defaultSortColumn] - a[defaultSortColumn]);
   } else {
     filteredData.sort((a, b) => {
@@ -110,23 +106,18 @@ function setupHeaderSorting() {
     th.addEventListener('click', function() {
       const sortColumn = this.getAttribute('data-sort');
       if (currentSortColumn !== sortColumn) {
-        // Switch to a new column: start with ascending.
         currentSortColumn = sortColumn;
         currentSortOrder = 'asc';
       } else {
-        // Cycle through asc -> desc -> default -> asc ...
         if (currentSortOrder === 'asc') {
           currentSortOrder = 'desc';
         } else if (currentSortOrder === 'desc') {
           currentSortOrder = 'default';
-        } else { // currentSortOrder is "default"
+        } else {
           currentSortOrder = 'asc';
         }
       }
-      
-      // Clear sorting classes on all headers.
       headers.forEach(header => header.classList.remove('sort-asc', 'sort-desc'));
-      // Only add sort class if not in default state.
       if (currentSortOrder !== 'default') {
         this.classList.add(currentSortOrder === 'asc' ? 'sort-asc' : 'sort-desc');
       }
@@ -137,33 +128,73 @@ function setupHeaderSorting() {
 
 // Event listener for filter input changes.
 document.getElementById('minDiff').addEventListener('input', updateTable);
+
+// DOMContentLoaded handler for popups and tab functionality.
 document.addEventListener("DOMContentLoaded", function () {
-  // Get references to the info button and popup elements.
+  // Info popup event listeners.
   const infoBtn = document.getElementById("infoBtn");
   const infoPopup = document.getElementById("infoPopup");
-  const closeBtn = document.querySelector(".popup .close");
+  const infoCloseBtn = document.querySelector(".infopopup .close");
   
-  // Toggle the popup when the info button is clicked.
   infoBtn.addEventListener("click", function (event) {
-    event.stopPropagation(); // Prevent the click from bubbling up to the document
+    event.stopPropagation();
     infoPopup.style.display = infoPopup.style.display === "block" ? "none" : "block";
   });
-
-  // Hide the popup when the close button is clicked.
-  closeBtn.addEventListener("click", function (event) {
-    event.stopPropagation(); // Prevent the click from bubbling up to the document
+  
+  infoCloseBtn.addEventListener("click", function (event) {
+    event.stopPropagation();
     infoPopup.style.display = "none";
   });
-
-  // Prevent clicks inside the popup from closing it.
+  
   infoPopup.addEventListener("click", function (event) {
     event.stopPropagation();
   });
-
-  // Close the popup when clicking anywhere outside of it.
+  
   document.addEventListener("click", function () {
     if (infoPopup.style.display === "block") {
       infoPopup.style.display = "none";
     }
+  });
+  
+  // Policies popup event listeners.
+  const policiesBtn = document.getElementById("policiesBtn");
+  const policiesPopup = document.getElementById("policiesPopup");
+  const policiesCloseBtn = policiesPopup.querySelector(".close");
+  
+  policiesBtn.addEventListener("click", function(event) {
+    event.stopPropagation();
+    policiesPopup.style.display = "block";
+  });
+  
+  policiesCloseBtn.addEventListener("click", function(event) {
+    event.stopPropagation();
+    policiesPopup.style.display = "none";
+  });
+  
+  policiesPopup.addEventListener("click", function(event) {
+    event.stopPropagation();
+  });
+  
+  document.addEventListener("click", function() {
+    if (policiesPopup.style.display === "block") {
+      policiesPopup.style.display = "none";
+    }
+  });
+  
+  // Tab functionality for policies popup.
+  const tabLinks = policiesPopup.querySelectorAll(".tab-link");
+  const tabContents = policiesPopup.querySelectorAll(".tab-content");
+  
+  tabLinks.forEach(tab => {
+    tab.addEventListener("click", function() {
+      tabLinks.forEach(t => t.classList.remove("active"));
+      tabContents.forEach(c => c.classList.remove("active"));
+      this.classList.add("active");
+      const tabName = this.getAttribute("data-tab");
+      const activeContent = policiesPopup.querySelector(`#${tabName}`);
+      if (activeContent) {
+        activeContent.classList.add("active");
+      }
+    });
   });
 });

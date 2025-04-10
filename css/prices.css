@@ -133,7 +133,7 @@ nav a:hover {
 }
 
 /* Popup container styling */
-.popup {
+.infopopup {
   display: none;  /* Hidden by default */
   position: fixed;
   bottom: 80px;  /* Adjust as needed */
@@ -149,12 +149,100 @@ nav a:hover {
 }
 
 /* Close button inside the popup */
-.popup .close {
+.infopopup .close {
   float: right;
   font-size: 24px;
   cursor: pointer;
   color: #aaa;
 }
-.popup .close:hover {
+.infopopup .close:hover {
   color: #000;
 }
+
+/* Updated Policies Button & Modal Styles */
+.policies-button {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  /* Changed from fixed width/height to padding for a pill shape */
+  padding: 10px 15px;
+  background-color: #333;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 1001;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s;
+}
+
+.policies-button:hover {
+  background-color: #444;
+}
+
+.policiespopup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  max-width: 90%;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #888;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  border-radius: 5px;
+  height: 700px;
+  max-height: 80%;
+  overflow-y: auto; /* Allow scrolling if content is too long */
+
+}
+
+.policiespopup .close {
+  float: right;
+  font-size: 24px;
+  cursor: pointer;
+  color: #aaa;
+}
+
+.policiespopup .close:hover {
+  color: #000;
+}
+
+/* Tab Navigation in Policies Modal */
+.policiespopup .tabs {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+
+.policiespopup .tab-link {
+  flex: 1;
+  background-color: #f1f1f1;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+}
+
+.policiespopup .tab-link.active {
+  background-color: #fff;
+  border-bottom: 2px solid #333;
+}
+
+.policiespopup .tab-content {
+  display: none;
+  text-align: left;
+}
+
+.policiespopup .tab-content.active {
+  display: block;
+}
+.close{
+  padding-left: 10px;
+}
+

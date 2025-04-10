@@ -1,9 +1,9 @@
+/* Global Styles */
 html, body {
   margin: 0;
   padding: 0;
   overscroll-behavior: none;
 }
-
 body {
   font-family: Arial, sans-serif;
   background-color: rgb(200, 200, 200);
@@ -20,14 +20,13 @@ body {
   margin-right: auto;
 }
 
-.coffee{
+.coffee {
   margin-left: 10px;
 }
 
 .coffee:hover {
   color: #D0BB94 !important;
 }
-
 
 h1 {
   text-align: center;
@@ -40,16 +39,16 @@ h1 {
     font-size: 12px !important;
     overflow-x: auto !important;
   }
-  th,td{
+  th, td {
     padding-left: 4px !important;
     padding-right: 4px !important;
   }
 }
+
 @media (max-width: 700px) {
   .full {
     display: none !important;
   }
-  
   .short {
     display: inline !important;
   }
@@ -68,11 +67,9 @@ h1 {
   margin: 0 auto;
 }
 
-
 #controls {
   margin-bottom: 20px;
   text-align: center;
-  
 }
 
 #controls input {
@@ -85,6 +82,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 th,
@@ -116,7 +114,7 @@ tr:hover {
   background-color: #e9e9e9;
 }
 
-.navbar_logo img{
+.navbar_logo img {
   height: 35px;
 }
 
@@ -144,11 +142,11 @@ nav a:hover {
   color: gray;
 }
 
-thead{
+thead {
   color: black;
 }
 
-/* Style for the info button */
+/* Info Popup Styles */
 .info-button {
   position: fixed;
   bottom: 20px;
@@ -161,31 +159,119 @@ thead{
   color: white;
   font-size: 20px;
   cursor: pointer;
-  z-index: 1001; /* Ensure it stays above the map */
+  z-index: 1001;
 }
 
-/* Popup container styling */
-.popup {
-  display: none;  /* Hidden by default */
+.infopopup {
+  display: none;
   position: fixed;
-  bottom: 80px;  /* Adjust as needed */
+  bottom: 80px;
   right: 20px;
   width: 300px;
   background-color: white;
   padding: 15px;
   border: 1px solid #888;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-  z-index: 1000; /* Lower than the button if needed */
+  z-index: 1000;
   border-radius: 5px;
 }
 
-/* Close button inside the popup */
-.popup .close {
+.infopopup .close {
   float: right;
   font-size: 24px;
   cursor: pointer;
   color: #aaa;
 }
-.popup .close:hover {
+
+.infopopup .close:hover {
   color: #000;
 }
+
+/* Updated Policies Button & Modal Styles */
+.policies-button {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  /* Changed from fixed width/height to padding for a pill shape */
+  padding: 10px 15px;
+  background-color: #333;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 1001;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s;
+}
+
+.policies-button:hover {
+  background-color: #444;
+}
+
+.policiespopup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  max-width: 90%;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #888;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  border-radius: 5px;
+  height: 700px;
+  max-height: 80%;
+  overflow-y: auto; /* Allow scrolling if content is too long */
+
+}
+
+.policiespopup .close {
+  float: right;
+  font-size: 24px;
+  cursor: pointer;
+  color: #aaa;
+}
+
+.policiespopup .close:hover {
+  color: #000;
+}
+
+/* Tab Navigation in Policies Modal */
+.policiespopup .tabs {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+
+.policiespopup .tab-link {
+  flex: 1;
+  background-color: #f1f1f1;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+}
+
+.policiespopup .tab-link.active {
+  background-color: #fff;
+  border-bottom: 2px solid #333;
+}
+
+.policiespopup .tab-content {
+  display: none;
+  text-align: left;
+}
+
+.policiespopup .tab-content.active {
+  display: block;
+}
+
+.close{
+  padding-left: 10px;
+}
+

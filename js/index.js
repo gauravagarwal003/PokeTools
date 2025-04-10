@@ -1,5 +1,3 @@
-// scripts.js
-
 document.addEventListener("DOMContentLoaded", function () {
     // ----- Map Initialization -----
     // Create a map centered on the U.S. with a zoom level of 4.
@@ -37,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Get references to the info button and popup elements.
     const infoBtn = document.getElementById("infoBtn");
     const infoPopup = document.getElementById("infoPopup");
-    const closeBtn = document.querySelector(".popup .close");
+    const closeBtn = document.querySelector(".infopopup .close");
     
     // Toggle the popup when the info button is clicked.
     infoBtn.addEventListener("click", function (event) {
@@ -62,5 +60,47 @@ document.addEventListener("DOMContentLoaded", function () {
         infoPopup.style.display = "none";
       }
     });
+      // Policies popup event listeners.
+  const policiesBtn = document.getElementById("policiesBtn");
+  const policiesPopup = document.getElementById("policiesPopup");
+  const policiesCloseBtn = policiesPopup.querySelector(".close");
+  
+  policiesBtn.addEventListener("click", function(event) {
+    event.stopPropagation();
+    policiesPopup.style.display = "block";
+  });
+  
+  policiesCloseBtn.addEventListener("click", function(event) {
+    event.stopPropagation();
+    policiesPopup.style.display = "none";
+  });
+  
+  policiesPopup.addEventListener("click", function(event) {
+    event.stopPropagation();
+  });
+  
+  document.addEventListener("click", function() {
+    if (policiesPopup.style.display === "block") {
+      policiesPopup.style.display = "none";
+    }
+  });
+  
+  // Tab functionality for policies popup.
+  const tabLinks = policiesPopup.querySelectorAll(".tab-link");
+  const tabContents = policiesPopup.querySelectorAll(".tab-content");
+  
+  tabLinks.forEach(tab => {
+    tab.addEventListener("click", function() {
+      tabLinks.forEach(t => t.classList.remove("active"));
+      tabContents.forEach(c => c.classList.remove("active"));
+      this.classList.add("active");
+      const tabName = this.getAttribute("data-tab");
+      const activeContent = policiesPopup.querySelector(`#${tabName}`);
+      if (activeContent) {
+        activeContent.classList.add("active");
+      }
+    });
+  });
+
   });
   
