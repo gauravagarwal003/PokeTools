@@ -82,7 +82,7 @@ nav {
   margin-right: auto;
 }
 
-.coffee{
+.coffee {
   margin-left: 10px;
 }
 
@@ -129,21 +129,25 @@ nav a:hover {
   color: white;
   font-size: 20px;
   cursor: pointer;
-  z-index: 1001; /* Ensure it stays above the map */
+  z-index: 1001;
+  /* Ensure it stays above the map */
 }
 
 /* Popup container styling */
 .infopopup {
-  display: none;  /* Hidden by default */
+  display: none;
+  /* Hidden by default */
   position: fixed;
-  bottom: 80px;  /* Adjust as needed */
+  bottom: 80px;
+  /* Adjust as needed */
   right: 20px;
   width: 300px;
   background-color: white;
   padding: 15px;
   border: 1px solid #888;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-  z-index: 1000; /* Lower than the button if needed */
+  z-index: 1000;
+  /* Lower than the button if needed */
   border-radius: 5px;
   font-size: 14px;
 }
@@ -155,6 +159,7 @@ nav a:hover {
   cursor: pointer;
   color: #aaa;
 }
+
 .infopopup .close:hover {
   color: #000;
 }
@@ -197,7 +202,8 @@ nav a:hover {
   border-radius: 5px;
   height: 700px;
   max-height: 80%;
-  overflow-y: auto; /* Allow scrolling if content is too long */
+  overflow-y: auto;
+  /* Allow scrolling if content is too long */
 
 }
 
@@ -242,7 +248,7 @@ nav a:hover {
 .policiespopup .tab-content.active {
   display: block;
 }
-.close{
+
+.close {
   padding-left: 10px;
 }
-

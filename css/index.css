@@ -1,5 +1,6 @@
 /* Reset default spacing and prevent overscroll */
-html, body {
+html,
+body {
     margin: 0;
     padding: 0;
     overscroll-behavior: none;
@@ -29,7 +30,8 @@ nav {
 /* Map container styling */
 #map {
     width: 50%;
-    margin: 20px auto;  /* Add some vertical spacing if needed */
+    margin: 20px auto;
+    /* Add some vertical spacing if needed */
     height: 500px;
 }
 
@@ -47,7 +49,7 @@ nav {
     margin-right: auto;
 }
 
-.coffee{
+.coffee {
     margin-left: 10px;
 }
 
@@ -76,9 +78,11 @@ nav a:hover {
         width: 100% !important;
         margin: 0 auto !important;
     }
+
     .full {
         display: none !important;
     }
+
     .short {
         display: inline !important;
     }
@@ -97,35 +101,40 @@ nav a:hover {
     color: white;
     font-size: 20px;
     cursor: pointer;
-    z-index: 1001; /* Ensure it stays above the map */
-  }
-  
-  /* Popup container styling */
-  .infopopup {
-    display: none;  /* Hidden by default */
+    z-index: 1001;
+    /* Ensure it stays above the map */
+}
+
+/* Popup container styling */
+.infopopup {
+    display: none;
+    /* Hidden by default */
     position: fixed;
-    bottom: 80px;  /* Adjust as needed */
+    bottom: 80px;
+    /* Adjust as needed */
     right: 20px;
     width: 300px;
     background-color: white;
     padding: 15px;
     border: 1px solid #888;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-    z-index: 1000; /* Lower than the button if needed */
+    z-index: 1000;
+    /* Lower than the button if needed */
     border-radius: 5px;
-  }
-  
-  /* Close button inside the popup */
-  .infopopup .close {
+}
+
+/* Close button inside the popup */
+.infopopup .close {
     float: right;
     font-size: 24px;
     cursor: pointer;
     color: #aaa;
-  }
-  .infopopup .close:hover {
+}
+
+.infopopup .close:hover {
     color: #000;
-  }
-  
+}
+
 /* Updated Policies Button & Modal Styles */
 .policies-button {
     position: fixed;
@@ -142,13 +151,13 @@ nav a:hover {
     z-index: 1001;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
     transition: background-color 0.3s;
-  }
-  
-  .policies-button:hover {
+}
+
+.policies-button:hover {
     background-color: #444;
-  }
-  
-  .policiespopup {
+}
+
+.policiespopup {
     display: none;
     position: fixed;
     top: 50%;
@@ -158,38 +167,39 @@ nav a:hover {
     max-width: 80%;
     height: 700px;
     max-height: 80%;
-    overflow-y: auto; /* Allow scrolling if content is too long */
+    overflow-y: auto;
+    /* Allow scrolling if content is too long */
     background-color: white;
     padding: 20px;
     border: 1px solid #888;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     z-index: 1000;
     border-radius: 5px;
-  }
-  
-  .policiespopup .close {
+}
+
+.policiespopup .close {
     float: right;
     font-size: 24px;
     cursor: pointer;
     color: #aaa;
-  }
+}
 
-  .close{
+.close {
     padding-left: 10px;
-  }
-  
-  .policiespopup .close:hover {
+}
+
+.policiespopup .close:hover {
     color: #000;
-  }
-  
-  /* Tab Navigation in Policies Modal */
-  .policiespopup .tabs {
+}
+
+/* Tab Navigation in Policies Modal */
+.policiespopup .tabs {
     display: flex;
     border-bottom: 1px solid #ccc;
     margin-bottom: 15px;
-  }
-  
-  .policiespopup .tab-link {
+}
+
+.policiespopup .tab-link {
     flex: 1;
     background-color: #f1f1f1;
     border: none;
@@ -197,19 +207,18 @@ nav a:hover {
     cursor: pointer;
     font-weight: bold;
     text-align: center;
-  }
-  
-  .policiespopup .tab-link.active {
+}
+
+.policiespopup .tab-link.active {
     background-color: #fff;
     border-bottom: 2px solid #333;
-  }
-  
-  .policiespopup .tab-content {
+}
+
+.policiespopup .tab-content {
     display: none;
     text-align: left;
-  }
-  
-  .policiespopup .tab-content.active {
+}
+
+.policiespopup .tab-content.active {
     display: block;
-  }
-  
+}

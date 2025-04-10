@@ -1,8 +1,8 @@
 // Define threshold and color variables
 const MIN_PERCENTAGE = 20;
 const MAX_PERCENTAGE = 80;
-const DARK_RED_HEX = "#FF0000";  
-const BRIGHT_GREEN_HEX = "#00AA00"; 
+const DARK_RED_HEX = "#FF0000";
+const BRIGHT_GREEN_HEX = "#00AA00";
 
 // Helper function to convert hex color to an RGB array
 function hexToRGB(hex) {
@@ -27,10 +27,10 @@ function getReturnColor(percentage) {
 
   // If the percentage is at or below the minimum, return the dark red hex
   if (percentage <= MIN_PERCENTAGE) return DARK_RED_HEX;
-  
+
   // If the percentage is at or above the maximum, return the bright green hex
   if (percentage >= MAX_PERCENTAGE) return BRIGHT_GREEN_HEX;
-  
+
   // Normalize the percentage between MIN_PERCENTAGE and MAX_PERCENTAGE
   let t = (percentage - MIN_PERCENTAGE) / (MAX_PERCENTAGE - MIN_PERCENTAGE);
 
@@ -109,7 +109,7 @@ Promise.all([
 
     let percentageText = d.percentage === null ? "N/A" : d.percentage.toFixed(0) + "%";
     let percentageColor = getReturnColor(d.percentage);
-    
+
     // Append text info in one line (using a single paragraph)
     row.append("p").attr("class", "set-info").html(
       "Pack Price: $" + (d.packPrice !== null ? d.packPrice : "N/A") + " | " +
@@ -252,7 +252,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const infoBtn = document.getElementById("infoBtn");
   const infoPopup = document.getElementById("infoPopup");
   const closeBtn = document.querySelector(".infopopup .close");
-  
+
   // Toggle the popup when the info button is clicked.
   infoBtn.addEventListener("click", function (event) {
     event.stopPropagation(); // Prevent the click from bubbling up to the document
@@ -276,46 +276,46 @@ document.addEventListener("DOMContentLoaded", function () {
       infoPopup.style.display = "none";
     }
   });
-    // Policies popup event listeners.
-    const policiesBtn = document.getElementById("policiesBtn");
-    const policiesPopup = document.getElementById("policiesPopup");
-    const policiesCloseBtn = policiesPopup.querySelector(".close");
-    
-    policiesBtn.addEventListener("click", function(event) {
-      event.stopPropagation();
-      policiesPopup.style.display = "block";
-    });
-    
-    policiesCloseBtn.addEventListener("click", function(event) {
-      event.stopPropagation();
+  // Policies popup event listeners.
+  const policiesBtn = document.getElementById("policiesBtn");
+  const policiesPopup = document.getElementById("policiesPopup");
+  const policiesCloseBtn = policiesPopup.querySelector(".close");
+
+  policiesBtn.addEventListener("click", function (event) {
+    event.stopPropagation();
+    policiesPopup.style.display = "block";
+  });
+
+  policiesCloseBtn.addEventListener("click", function (event) {
+    event.stopPropagation();
+    policiesPopup.style.display = "none";
+  });
+
+  policiesPopup.addEventListener("click", function (event) {
+    event.stopPropagation();
+  });
+
+  document.addEventListener("click", function () {
+    if (policiesPopup.style.display === "block") {
       policiesPopup.style.display = "none";
-    });
-    
-    policiesPopup.addEventListener("click", function(event) {
-      event.stopPropagation();
-    });
-    
-    document.addEventListener("click", function() {
-      if (policiesPopup.style.display === "block") {
-        policiesPopup.style.display = "none";
+    }
+  });
+
+  // Tab functionality for policies popup.
+  const tabLinks = policiesPopup.querySelectorAll(".tab-link");
+  const tabContents = policiesPopup.querySelectorAll(".tab-content");
+
+  tabLinks.forEach(tab => {
+    tab.addEventListener("click", function () {
+      tabLinks.forEach(t => t.classList.remove("active"));
+      tabContents.forEach(c => c.classList.remove("active"));
+      this.classList.add("active");
+      const tabName = this.getAttribute("data-tab");
+      const activeContent = policiesPopup.querySelector(`#${tabName}`);
+      if (activeContent) {
+        activeContent.classList.add("active");
       }
     });
-    
-    // Tab functionality for policies popup.
-    const tabLinks = policiesPopup.querySelectorAll(".tab-link");
-    const tabContents = policiesPopup.querySelectorAll(".tab-content");
-    
-    tabLinks.forEach(tab => {
-      tab.addEventListener("click", function() {
-        tabLinks.forEach(t => t.classList.remove("active"));
-        tabContents.forEach(c => c.classList.remove("active"));
-        this.classList.add("active");
-        const tabName = this.getAttribute("data-tab");
-        const activeContent = policiesPopup.querySelector(`#${tabName}`);
-        if (activeContent) {
-          activeContent.classList.add("active");
-        }
-      });
-    });
-  
+  });
+
 });

@@ -78,7 +78,7 @@ function renderTable(cards) {
 function updateTable() {
   const minDiffVal = parseFloat(document.getElementById('minDiff').value) || 19;
   let filteredData = cardsDataOriginal.filter(item => item.grade9Diff >= minDiffVal);
-  
+
   if (currentSortOrder === 'default') {
     filteredData.sort((a, b) => b[defaultSortColumn] - a[defaultSortColumn]);
   } else {
@@ -103,7 +103,7 @@ function updateTable() {
 function setupHeaderSorting() {
   const headers = document.querySelectorAll('#cardsTable thead th');
   headers.forEach(th => {
-    th.addEventListener('click', function() {
+    th.addEventListener('click', function () {
       const sortColumn = this.getAttribute('data-sort');
       if (currentSortColumn !== sortColumn) {
         currentSortColumn = sortColumn;
@@ -135,58 +135,58 @@ document.addEventListener("DOMContentLoaded", function () {
   const infoBtn = document.getElementById("infoBtn");
   const infoPopup = document.getElementById("infoPopup");
   const infoCloseBtn = document.querySelector(".infopopup .close");
-  
+
   infoBtn.addEventListener("click", function (event) {
     event.stopPropagation();
     infoPopup.style.display = infoPopup.style.display === "block" ? "none" : "block";
   });
-  
+
   infoCloseBtn.addEventListener("click", function (event) {
     event.stopPropagation();
     infoPopup.style.display = "none";
   });
-  
+
   infoPopup.addEventListener("click", function (event) {
     event.stopPropagation();
   });
-  
+
   document.addEventListener("click", function () {
     if (infoPopup.style.display === "block") {
       infoPopup.style.display = "none";
     }
   });
-  
+
   // Policies popup event listeners.
   const policiesBtn = document.getElementById("policiesBtn");
   const policiesPopup = document.getElementById("policiesPopup");
   const policiesCloseBtn = policiesPopup.querySelector(".close");
-  
-  policiesBtn.addEventListener("click", function(event) {
+
+  policiesBtn.addEventListener("click", function (event) {
     event.stopPropagation();
     policiesPopup.style.display = "block";
   });
-  
-  policiesCloseBtn.addEventListener("click", function(event) {
+
+  policiesCloseBtn.addEventListener("click", function (event) {
     event.stopPropagation();
     policiesPopup.style.display = "none";
   });
-  
-  policiesPopup.addEventListener("click", function(event) {
+
+  policiesPopup.addEventListener("click", function (event) {
     event.stopPropagation();
   });
-  
-  document.addEventListener("click", function() {
+
+  document.addEventListener("click", function () {
     if (policiesPopup.style.display === "block") {
       policiesPopup.style.display = "none";
     }
   });
-  
+
   // Tab functionality for policies popup.
   const tabLinks = policiesPopup.querySelectorAll(".tab-link");
   const tabContents = policiesPopup.querySelectorAll(".tab-content");
-  
+
   tabLinks.forEach(tab => {
-    tab.addEventListener("click", function() {
+    tab.addEventListener("click", function () {
       tabLinks.forEach(t => t.classList.remove("active"));
       tabContents.forEach(c => c.classList.remove("active"));
       this.classList.add("active");

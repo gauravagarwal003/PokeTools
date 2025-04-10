@@ -1,9 +1,11 @@
 /* Global Styles */
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   overscroll-behavior: none;
 }
+
 body {
   font-family: Arial, sans-serif;
   background-color: rgb(200, 200, 200);
@@ -39,7 +41,9 @@ h1 {
     font-size: 12px !important;
     overflow-x: auto !important;
   }
-  th, td {
+
+  th,
+  td {
     padding-left: 4px !important;
     padding-right: 4px !important;
   }
@@ -49,6 +53,7 @@ h1 {
   .full {
     display: none !important;
   }
+
   .short {
     display: inline !important;
   }
@@ -123,7 +128,7 @@ nav {
   color: white;
   padding: 10px 20px;
   display: flex;
-  align-items: center; 
+  align-items: center;
   font-size: 14px;
 }
 
@@ -225,7 +230,8 @@ thead {
   border-radius: 5px;
   height: 700px;
   max-height: 80%;
-  overflow-y: auto; /* Allow scrolling if content is too long */
+  overflow-y: auto;
+  /* Allow scrolling if content is too long */
 
 }
 
@@ -271,7 +277,6 @@ thead {
   display: block;
 }
 
-.close{
+.close {
   padding-left: 10px;
 }
-
