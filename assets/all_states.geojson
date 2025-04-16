@@ -1154,6 +1154,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.3034,
+          39.527284
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "27152 Main St, Conifer, CO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -105.051414,
           39.65474
         ]
@@ -5858,6 +5872,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.741605,
+          38.446762
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "1211 W College Ave, Santa Rosa, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.668538,
           38.425738
         ]
@@ -6446,6 +6474,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.043736,
+          36.033657
+        ]
+      },
+      "properties": {
+        "Retailer": "WinCo Foods",
+        "Address": "80 N Stephanie Street, Henderson, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.993307,
           36.009124
         ]
@@ -6481,6 +6523,34 @@
       "properties": {
         "Retailer": "Smith's",
         "Address": "450 N Nellis Blvd, Las Vegas, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.250246,
+          36.238148
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "7151 W Craig Rd, Las Vegas, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.281312,
+          36.053869
+        ]
+      },
+      "properties": {
+        "Retailer": "Vons",
+        "Address": "7405 S Durango Dr, Las Vegas, NV"
       }
     },
     {
@@ -9896,7 +9966,7 @@
       },
       "properties": {
         "Retailer": "Safeway",
-        "Address": "1855 Wisconsin Ave NW, Washington, DC"
+        "Address": "1855 Wisconsin Ave NW of, Washington, DC"
       }
     },
     {
@@ -9924,7 +9994,7 @@
       },
       "properties": {
         "Retailer": "Safeway",
-        "Address": "2845 Alabama Ave SE, Washington, DC"
+        "Address": "2845 Alabama Ave SE of, Washington, DC"
       }
     },
     {
@@ -9938,7 +10008,7 @@
       },
       "properties": {
         "Retailer": "Safeway",
-        "Address": "415 14th St SE, Washington, DC"
+        "Address": "415 14th St SE of, Washington, DC"
       }
     },
     {
@@ -15714,20 +15784,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.666625,
-          45.648525
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "3707 Main St, Vancouver, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.476127,
           45.594979
         ]
@@ -17730,6 +17786,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.469508,
+          29.707636
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "5106 Bissonnet St, Bellaire, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.322163,
           32.565042
         ]
@@ -18031,6 +18101,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "2709 Cross Timbers Rd, Flower Mound, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.479218,
+          32.766876
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "9300 Clifford St, Fort Worth, TX"
       }
     },
     {
@@ -18416,6 +18500,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.485523,
+          29.748067
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "5895 San Felipe St, Houston, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.408462,
           29.807719
         ]
@@ -18605,6 +18703,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "2700 W Grand Pkwy N, Katy, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.776237,
+          29.712949
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "6711 S Fry Rd, Katy, TX"
       }
     },
     {
@@ -18934,6 +19046,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.39045,
+          29.559314
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "2805 Business Center Dr, Pearland, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.264989,
+          29.558193
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "2710 Pearland Pkwy, Pearland, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -96.68336,
           33.016666
         ]
@@ -19116,6 +19256,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.576849,
+          30.054008
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "20311 Champion Forest Dr, Spring, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.53171,
           30.0031
         ]
@@ -19214,6 +19368,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.644365,
+          29.608504
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "530 Highway 6, Sugar Land, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.634869,
           29.586101
         ]
@@ -19249,6 +19417,34 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "6700 Woodlands Pkwy, The Woodlands, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.463251,
+          30.163543
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "9595 Six Pines Dr, The Woodlands, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.539213,
+          30.180246
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "10777 Kuykendahl Rd, The Woodlands, TX"
       }
     },
     {

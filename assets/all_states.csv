@@ -12,7 +12,7 @@ Shaw's,Q01441,Fall River,"Fall River, MA","4171 N Main St, Fall River, MA",41.75
 Shaw's,Q01442,Groton,"Groton, MA","760 Boston Rd, Groton, MA",42.5799145,-71.5239916,MA
 Shaw's,Q01578,Mansfield,"Mansfield, MA","390 West St, Mansfield, MA",42.0231538,-71.23364839999999,MA
 Star Market,Q01540,Marshfield,"Marshfield, MA","1 Snow Rd, Marshfield, MA",42.0913382,-70.70814519999999,MA
-Shaw's,Q01470,Medway,"Medway, MA","65 Main St, Medway, MA",42.1520835,-71.403251,MA
+Shaw's,Q00540,Medway,"Medway, MA","65 Main St, Medway, MA",42.1520835,-71.403251,MA
 Shaw's,Q01531,Melrose,"Melrose, MA","34 Essex St, Melrose, MA",42.4562287,-71.06602649999999,MA
 Shaw's,Q01461,Milford,"Milford, MA","93 Prospect St, Milford, MA",42.1388342,-71.53354019999999,MA
 Shaw's,Q01567,North Easton,"North Easton, MA","690 Depot St, North Easton, MA",42.0242698,-71.1164429,MA
@@ -81,6 +81,7 @@ Safeway,Q01476,Colorado Springs,"Colorado Springs, CO","1425 S Murray Blvd, Colo
 King Soopers,Q01506,Colorado Springs,"Colorado Springs, CO","3620 Austin Bluffs Pkwy, Colorado Springs, CO",38.8920941,-104.7610271,CO
 King Soopers,Q00426,Commerce City,"Commerce City, CO","4850 E 62nd Ave, Commerce City, CO",39.808747,-104.9301075,CO
 King Soopers,Q00437,Commerce City,"Commerce City, CO","15051 E 104th Ave, Commerce City, CO",39.8874933,-104.8109439,CO
+Safeway,Q01647,Conifer,"Conifer, CO","27152 Main St, Conifer, CO",39.5272844,-105.3034,CO
 King Soopers,Q00100,Denver,"Denver, CO","3100 S Sheridan Blvd, Denver, CO",39.6547399,-105.0514138,CO
 King Soopers,Q00268,Denver,"Denver, CO","5125 W Florida Ave, Denver, CO",39.6907321,-105.0521388,CO
 King Soopers,Q00287,Denver,"Denver, CO","825 S Colorado Blvd, Denver, CO",39.7017587,-104.9411669,CO
@@ -417,6 +418,7 @@ Safeway,Q00632,Santa Rosa,"Santa Rosa, CA","100 Calistoga Rd, Santa Rosa, CA",38
 Safeway,Q00672,Santa Rosa,"Santa Rosa, CA","2300 Mendocino Ave, Santa Rosa, CA",38.4628265,-122.7170787,CA
 Safeway,Q00976,Santa Rosa,"Santa Rosa, CA","2751 4th St, Santa Rosa, CA",38.4509085,-122.6910424,CA
 FoodMaxx,Q01256,Santa Rosa,"Santa Rosa, CA","2055 Sebastopol Rd, Santa Rosa, CA",38.4269128,-122.742122,CA
+Safeway,Q01339,Santa Rosa,"Santa Rosa, CA","1211 W College Ave, Santa Rosa, CA",38.446762,-122.7416052,CA
 Safeway,Q01484,Santa Rosa,"Santa Rosa, CA","2785 Yulupa Ave, Santa Rosa, CA",38.4257379,-122.6685377,CA
 Safeway,Q01521,Saratoga,"Saratoga, CA","12876 Saratoga Sunnyvale Rd, Saratoga, CA",37.2812319,-122.0310922,CA
 Safeway,Q01331,Scotts Valley,"Scotts Valley, CA","253 Mt Hermon Rd, Scotts Valley, CA",37.0462361,-122.0310922,CA
@@ -459,9 +461,12 @@ Albertsons,Q01248,Boulder City,"Boulder City, NV","1008 Nevada Way, Boulder City
 Smith's,Q00656,Henderson,"Henderson, NV","10616 S Eastern Ave, Henderson, NV",35.9995306,-115.102477,NV
 Albertsons,Q01162,Henderson,"Henderson, NV","201 S Stephanie St, Henderson, NV",36.02056779999999,-115.0490829,NV
 Albertsons,Q01232,Henderson,"Henderson, NV","575 College Dr, Henderson, NV",36.0137242,-114.9649568,NV
+WinCo Foods,Q01244,Henderson,"Henderson, NV","80 N Stephanie Street, Henderson, NV",36.03365730000001,-115.0437364,NV
 Vons,Q01252,Henderson,"Henderson, NV","45 E Horizon Ridge Pkwy, Henderson, NV",36.0091236,-114.993307,NV
 Smith's,Q00657,Las Vegas,"Las Vegas, NV","4965 E Sahara Ave, Las Vegas, NV",36.142933,-115.067053,NV
 Smith's,Q00728,Las Vegas,"Las Vegas, NV","450 N Nellis Blvd, Las Vegas, NV",36.1677412,-115.0605,NV
+Albertsons,Q01207,Las Vegas,"Las Vegas, NV","7151 W Craig Rd, Las Vegas, NV",36.2381476,-115.2502461,NV
+Vons,Q01225,Las Vegas,"Las Vegas, NV","7405 S Durango Dr, Las Vegas, NV",36.0538693,-115.2813116,NV
 Albertsons,Q01235,Las Vegas,"Las Vegas, NV","7075 W Ann Rd, Las Vegas, NV",36.2609353,-115.2477717,NV
 Albertsons,Q01299,Las Vegas,"Las Vegas, NV","6730 N Hualapai Way, Las Vegas, NV",36.2836338,-115.3132057,NV
 Albertsons,Q01543,Las Vegas,"Las Vegas, NV","1940 Village Center Cir, Las Vegas, NV",36.1937606,-115.3058904,NV
@@ -705,10 +710,10 @@ Albertsons,Q01448,Kuna,"Kuna, ID","700 E Avalon St, Kuna, ID",43.4895356,-116.40
 WinCo Foods,Q01460,Meridian,"Meridian, ID","1407 W Chinden Blvd, Meridian, ID",43.661048,-116.41184,ID
 Fred Meyer,Q01463,Meridian,"Meridian, ID","1400 W Chinden Blvd, Meridian, ID",43.6661776,-116.4114916,ID
 WinCo Foods,Q01456,Nampa,"Nampa, ID","1175 N Happy Valley Rd, Nampa, ID",43.5946599,-116.5151167,ID
-Safeway,Q01444,Washington,"Washington, DC","1855 Wisconsin Ave NW, Washington, DC",38.9160093,-77.0676802,DC
+Safeway,Q01444,Washington,"Washington, DC","1855 Wisconsin Ave NW of, Washington, DC",38.9160093,-77.0676802,DC
 Safeway,Q01445,Washington,"Washington, DC","6500 Piney Branch Rd NW, Washington, DC",38.9695565,-77.0265612,DC
-Safeway,Q01509,Washington,"Washington, DC","2845 Alabama Ave SE, Washington, DC",38.85953689999999,-76.96610629999999,DC
-Safeway,Q01561,Washington,"Washington, DC","415 14th St SE, Washington, DC",38.8836229,-76.985799,DC
+Safeway,Q01509,Washington,"Washington, DC","2845 Alabama Ave SE of, Washington, DC",38.85953689999999,-76.96610629999999,DC
+Safeway,Q01561,Washington,"Washington, DC","415 14th St SE of, Washington, DC",38.8836229,-76.985799,DC
 Acme Markets,Q01585,Bordentown,"Bordentown, NJ","260 Dunns Mill Rd, Bordentown, NJ",40.1335757,-74.72585269999999,NJ
 Acme Markets,Q01576,Mount Holly,"Mount Holly, NJ","531 High St, Mount Holly, NJ",40.0072159,-74.79468829999999,NJ
 Acme Markets,Q01560,Trenton,"Trenton, NJ","4400 S Broad St, Trenton, NJ",40.1813256,-74.6745321,NJ
@@ -1121,7 +1126,6 @@ Fred Meyer,Q00218,Vancouver,"Vancouver, WA","11325 SE Mill Plain Blvd, Vancouver
 Fred Meyer,Q00236,Vancouver,"Vancouver, WA","7411 NE 117th Ave, Vancouver, WA",45.67743249999999,-122.5505718,WA
 Fred Meyer,Q00242,Vancouver,"Vancouver, WA","7700 NE Highway 99, Vancouver, WA",45.67703119999999,-122.6634621,WA
 Fred Meyer,Q00261,Vancouver,"Vancouver, WA","7411 NE 117th Ave, Vancouver, WA",45.67743249999999,-122.5505718,WA
-Safeway,Q00734,Vancouver,"Vancouver, WA","3707 Main St, Vancouver, WA",45.64852459999999,-122.6666247,WA
 QFC,Q00800,Vancouver,"Vancouver, WA","3505 SE 192nd Ave, Vancouver, WA",45.5949787,-122.4761271,WA
 Safeway,Q00850,Vancouver,"Vancouver, WA","13023 NE Highway 99, Vancouver, WA",45.7160011,-122.6509311,WA
 Safeway,Q01004,Vancouver,"Vancouver, WA","14300 NE 20th Ave, Vancouver, WA",45.7238405,-122.6518,WA
@@ -1265,6 +1269,7 @@ Kroger,Q00297,Alvin,"Alvin, TX","3100 S Gordon St, Alvin, TX",29.398504,-95.2494
 Tom Thumb,Q00906,Arlington,"Arlington, TX","2755 N Collins St, Arlington, TX",32.7833664,-97.0933815,TX
 Albertsons,Q00908,Azle,"Azle, TX","480 Northwest Pkwy, Azle, TX",32.9020138,-97.5443889,TX
 Kroger,Q00771,Baytown,"Baytown, TX","1700 N Alexander Dr, Baytown, TX",29.7401869,-94.9520407,TX
+H-E-B,Q00541,Bellaire,"Bellaire, TX","5106 Bissonnet St, Bellaire, TX",29.7076365,-95.4695077,TX
 Albertsons,Q00960,Burleson,"Burleson, TX","833 NE Alsbury Blvd, Burleson, TX",32.5650416,-97.3221632,TX
 WinCo Foods,Q00477,Carrollton,"Carrollton, TX","2620 N. Josey Lane, Carrollton, TX",32.9865784,-96.8888878,TX
 Albertsons,Q00914,Carrollton,"Carrollton, TX","2150 N Josey Ln, Carrollton, TX",32.975152,-96.8882211,TX
@@ -1287,6 +1292,7 @@ Tom Thumb,Q00896,Duncanville,"Duncanville, TX","633 W Wheatland Rd, Duncanville,
 Tom Thumb,Q00484,Flower Mound,"Flower Mound, TX","745 Cross Timbers Rd, Flower Mound, TX",33.0409232,-97.0382503,TX
 Kroger,Q00910,Flower Mound,"Flower Mound, TX","1101 Flower Mound Rd, Flower Mound, TX",33.0096225,-97.0469876,TX
 Kroger,Q00956,Flower Mound,"Flower Mound, TX","2709 Cross Timbers Rd, Flower Mound, TX",33.0358263,-97.0720218,TX
+Albertsons,Q00452,Fort Worth,"Fort Worth, TX","9300 Clifford St, Fort Worth, TX",32.7668759,-97.4792178,TX
 WinCo Foods,Q00461,Fort Worth,"Fort Worth, TX","8000 Crowley Rd, Fort Worth, TX",32.6327405,-97.3494615,TX
 Tom Thumb,Q00895,Fort Worth,"Fort Worth, TX","3100 S Hulen St, Fort Worth, TX",32.7064005,-97.3889283,TX
 Albertsons,Q00907,Fort Worth,"Fort Worth, TX","850 E Loop 820, Fort Worth, TX",32.66379200000001,-97.316653,TX
@@ -1314,6 +1320,7 @@ Kroger,Q00402,Houston,"Houston, TX","12400 FM 1960 Rd W, Houston, TX",29.9224796
 Kroger,Q00405,Houston,"Houston, TX","2300 Gessner Rd, Houston, TX",29.8141266,-95.5438463,TX
 Kroger,Q00406,Houston,"Houston, TX","6322 Telephone Rd, Houston, TX",29.6747992,-95.291058,TX
 H-E-B,Q00520,Houston,"Houston, TX","10919 Louetta Rd, Houston, TX",29.9954598,-95.5763325,TX
+H-E-B,Q00538,Houston,"Houston, TX","5895 San Felipe St, Houston, TX",29.7480668,-95.4855231,TX
 H-E-B,Q00542,Houston,"Houston, TX","2300 N Shepherd Dr, Houston, TX",29.8077194,-95.4084616,TX
 Randalls,Q00553,Houston,"Houston, TX","3131 W Holcombe Blvd, Houston, TX",29.7047527,-95.4254575,TX
 Kroger,Q00555,Houston,"Houston, TX","14221 E Sam Houston Pkwy N, Houston, TX",29.9245533,-95.2039972,TX
@@ -1328,6 +1335,7 @@ Kroger,Q00296,Katy,"Katy, TX","22150 Westheimer Pkwy, Katy, TX",29.7345519,-95.7
 Kroger,Q00313,Katy,"Katy, TX","1712 Spring Green Blvd, Katy, TX",29.7632255,-95.8429666,TX
 Kroger,Q00378,Katy,"Katy, TX","9806 Gaston Rd, Katy, TX",29.7366719,-95.8100123,TX
 Kroger,Q00397,Katy,"Katy, TX","2700 W Grand Pkwy N, Katy, TX",29.8126778,-95.7723057,TX
+H-E-B,Q00535,Katy,"Katy, TX","6711 S Fry Rd, Katy, TX",29.7129493,-95.7762371,TX
 Kroger,Q00757,Katy,"Katy, TX","6055 N Fry Rd, Katy, TX",29.8599149,-95.7215909,TX
 Kroger,Q00905,Keller,"Keller, TX","2061 Rufe Snow Dr, Keller, TX",32.8971839,-97.2368011,TX
 Kroger,Q00381,La Porte,"La Porte, TX","1300 W Fairmont Pkwy, La Porte, TX",29.6527065,-95.0319438,TX
@@ -1351,6 +1359,8 @@ Kroger,Q00552,Pasadena,"Pasadena, TX","6767 Spencer Hwy, Pasadena, TX",29.664359
 Kroger,Q00295,Pearland,"Pearland, TX","3245 Broadway St, Pearland, TX",29.5603795,-95.2711707,TX
 Kroger,Q00301,Pearland,"Pearland, TX","8323 Broadway St, Pearland, TX",29.5604214,-95.3489815,TX
 Kroger,Q00307,Pearland,"Pearland, TX","11003 Shadow Creek Pkwy, Pearland, TX",29.5828985,-95.3894715,TX
+H-E-B,Q00466,Pearland,"Pearland, TX","2805 Business Center Dr, Pearland, TX",29.5593144,-95.3904502,TX
+H-E-B,Q00525,Pearland,"Pearland, TX","2710 Pearland Pkwy, Pearland, TX",29.5581925,-95.2649888,TX
 Tom Thumb,Q00539,Plano,"Plano, TX","2200 14th St, Plano, TX",33.016666,-96.68336,TX
 Tom Thumb,Q00916,Richardson,"Richardson, TX","1380 W Campbell Rd, Richardson, TX",32.9800948,-96.7669433,TX
 Tom Thumb,Q00919,Richardson,"Richardson, TX","3411 Custer Pkwy, Richardson, TX",32.9987198,-96.7305001,TX
@@ -1364,6 +1374,7 @@ Kroger,Q00900,Southlake,"Southlake, TX","2110 E Southlake Blvd, Southlake, TX",3
 Kroger,Q00306,Spring,"Spring, TX","6060 Farm To Market 2920, Spring, TX",30.0744341,-95.5172797,TX
 Kroger,Q00383,Spring,"Spring, TX","3731 Riley Fuzzel Rd, Spring, TX",30.1183456,-95.3818939,TX
 Kroger,Q00404,Spring,"Spring, TX","5671 Treaschwig Rd, Spring, TX",30.0456949,-95.3480823,TX
+H-E-B,Q00533,Spring,"Spring, TX","20311 Champion Forest Dr, Spring, TX",30.0540085,-95.576849,TX
 Kroger,Q00545,Spring,"Spring, TX","15802 Champion Forest Dr, Spring, TX",30.00310039999999,-95.5317096,TX
 Kroger,Q00549,Spring,"Spring, TX","8745 Spring Cypress Rd, Spring, TX",30.0328229,-95.5527377,TX
 Kroger,Q00561,Spring,"Spring, TX","2150 Spring Stuebner Rd, Spring, TX",30.085252,-95.448501,TX
@@ -1371,9 +1382,12 @@ Kroger,Q00564,Spring,"Spring, TX","18518 Kuykendahl Rd, Spring, TX",30.040074899
 Kroger,Q00568,Spring,"Spring, TX","2301 Rayford Rd, Spring, TX",30.1233709,-95.4067491,TX
 Kroger,Q00292,Sugar Land,"Sugar Land, TX","18861 University Blvd, Sugar Land, TX",29.5513824,-95.5842565,TX
 Kroger,Q00305,Sugar Land,"Sugar Land, TX","11565 S Highway 6, Sugar Land, TX",29.6489721,-95.6502522,TX
+H-E-B,Q00470,Sugar Land,"Sugar Land, TX","530 Highway 6, Sugar Land, TX",29.6085045,-95.644365,TX
 Kroger,Q00556,Sugar Land,"Sugar Land, TX","4825 Sweetwater Blvd, Sugar Land, TX",29.58610089999999,-95.6348694,TX
 Kroger,Q00569,Texas City,"Texas City, TX","3541 Palmer Hwy, Texas City, TX",29.3936602,-94.9495581,TX
 Kroger,Q00288,The Woodlands,"The Woodlands, TX","6700 Woodlands Pkwy, The Woodlands, TX",30.1830224,-95.537226,TX
+H-E-B,Q00434,The Woodlands,"The Woodlands, TX","9595 Six Pines Dr, The Woodlands, TX",30.1635431,-95.4632514,TX
+H-E-B,Q00536,The Woodlands,"The Woodlands, TX","10777 Kuykendahl Rd, The Woodlands, TX",30.1802461,-95.5392128,TX
 Kroger,Q00559,The Woodlands,"The Woodlands, TX","8000 Research Forest Dr, The Woodlands, TX",30.209898,-95.5267491,TX
 Kroger,Q00392,Tomball,"Tomball, TX","24350 Kuykendahl Rd, Tomball, TX",30.1150659,-95.5530303,TX
 Kroger,Q00399,Tomball,"Tomball, TX","14060 FM 2920 Rd, Tomball, TX",30.0914661,-95.6335394,TX
