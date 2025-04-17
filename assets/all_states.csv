@@ -710,10 +710,10 @@ Albertsons,Q01448,Kuna,"Kuna, ID","700 E Avalon St, Kuna, ID",43.4895356,-116.40
 WinCo Foods,Q01460,Meridian,"Meridian, ID","1407 W Chinden Blvd, Meridian, ID",43.661048,-116.41184,ID
 Fred Meyer,Q01463,Meridian,"Meridian, ID","1400 W Chinden Blvd, Meridian, ID",43.6661776,-116.4114916,ID
 WinCo Foods,Q01456,Nampa,"Nampa, ID","1175 N Happy Valley Rd, Nampa, ID",43.5946599,-116.5151167,ID
-Safeway,Q01444,Washington,"Washington, DC","1855 Wisconsin Ave NW of, Washington, DC",38.9160093,-77.0676802,DC
+Safeway,Q01444,Washington,"Washington, DC","1855 Wisconsin Ave NW, Washington, DC",38.9160093,-77.0676802,DC
 Safeway,Q01445,Washington,"Washington, DC","6500 Piney Branch Rd NW, Washington, DC",38.9695565,-77.0265612,DC
-Safeway,Q01509,Washington,"Washington, DC","2845 Alabama Ave SE of, Washington, DC",38.85953689999999,-76.96610629999999,DC
-Safeway,Q01561,Washington,"Washington, DC","415 14th St SE of, Washington, DC",38.8836229,-76.985799,DC
+Safeway,Q01509,Washington,"Washington, DC","2845 Alabama Ave SE, Washington, DC",38.85953689999999,-76.96610629999999,DC
+Safeway,Q01561,Washington,"Washington, DC","415 14th St SE, Washington, DC",38.8836229,-76.985799,DC
 Acme Markets,Q01585,Bordentown,"Bordentown, NJ","260 Dunns Mill Rd, Bordentown, NJ",40.1335757,-74.72585269999999,NJ
 Acme Markets,Q01576,Mount Holly,"Mount Holly, NJ","531 High St, Mount Holly, NJ",40.0072159,-74.79468829999999,NJ
 Acme Markets,Q01560,Trenton,"Trenton, NJ","4400 S Broad St, Trenton, NJ",40.1813256,-74.6745321,NJ
@@ -935,8 +935,10 @@ Albertsons,Q00942,Battle Ground,"Battle Ground, WA","2108 W Main St, Battle Grou
 QFC,Q00788,Belfair,"Belfair, WA","201 NE State Route 300, Belfair, WA",47.4530571,-122.8284963,WA
 QFC,Q00171,Bellevue,"Bellevue, WA","3550 Factoria Blvd SE, Bellevue, WA",47.578359,-122.1672038,WA
 QFC,Q00194,Bellevue,"Bellevue, WA","10116 NE 8th St, Bellevue, WA",47.6178935,-122.2055307,WA
+Pokémon,Q00200,Bellevue,"Bellevue, WA","10400 NE 4th St Suite 2800, Bellevue, WA",47.6142019,-122.2008525,WA
 Safeway,Q00216,Bellevue,"Bellevue, WA","15100 SE 38th St, Bellevue, WA",47.5765395,-122.1371838,WA
 Fred Meyer,Q00255,Bellevue,"Bellevue, WA","2041 148th Ave NE, Bellevue, WA",47.6284792,-122.1437256,WA
+Pokémon,Q00269,Bellevue,"Bellevue, WA","10401 NE 8th St Suite 600, Bellevue, WA",47.6172645,-122.2009352,WA
 Safeway,Q00861,Bellevue,"Bellevue, WA","1645 140th Ave NE, Bellevue, WA",47.62467669999999,-122.1541507,WA
 QFC,Q01169,Bellevue,"Bellevue, WA","1510 145th Pl SE, Bellevue, WA",47.5969425,-122.1484573,WA
 Safeway,Q01183,Bellevue,"Bellevue, WA","300 Bellevue Way NE, Bellevue, WA",47.6129984,-122.201015,WA
@@ -1319,7 +1321,9 @@ Kroger,Q00396,Houston,"Houston, TX","1035 N Shepherd Dr, Houston, TX",29.7890691
 Kroger,Q00402,Houston,"Houston, TX","12400 FM 1960 Rd W, Houston, TX",29.9224796,-95.6047597,TX
 Kroger,Q00405,Houston,"Houston, TX","2300 Gessner Rd, Houston, TX",29.8141266,-95.5438463,TX
 Kroger,Q00406,Houston,"Houston, TX","6322 Telephone Rd, Houston, TX",29.6747992,-95.291058,TX
+H-E-B,Q00457,Houston,"Houston, TX","12680 W Lake Houston Pkwy, Houston, TX",29.9231919,-95.1972601,TX
 H-E-B,Q00520,Houston,"Houston, TX","10919 Louetta Rd, Houston, TX",29.9954598,-95.5763325,TX
+H-E-B,Q00526,Houston,"Houston, TX","9503 Jones Rd, Houston, TX",29.9110223,-95.5861338,TX
 H-E-B,Q00538,Houston,"Houston, TX","5895 San Felipe St, Houston, TX",29.7480668,-95.4855231,TX
 H-E-B,Q00542,Houston,"Houston, TX","2300 N Shepherd Dr, Houston, TX",29.8077194,-95.4084616,TX
 Randalls,Q00553,Houston,"Houston, TX","3131 W Holcombe Blvd, Houston, TX",29.7047527,-95.4254575,TX
@@ -1375,6 +1379,7 @@ Kroger,Q00306,Spring,"Spring, TX","6060 Farm To Market 2920, Spring, TX",30.0744
 Kroger,Q00383,Spring,"Spring, TX","3731 Riley Fuzzel Rd, Spring, TX",30.1183456,-95.3818939,TX
 Kroger,Q00404,Spring,"Spring, TX","5671 Treaschwig Rd, Spring, TX",30.0456949,-95.3480823,TX
 H-E-B,Q00533,Spring,"Spring, TX","20311 Champion Forest Dr, Spring, TX",30.0540085,-95.576849,TX
+H-E-B,Q00544,Spring,"Spring, TX","3540 Rayford Rd, Spring, TX",30.109416,-95.3873908,TX
 Kroger,Q00545,Spring,"Spring, TX","15802 Champion Forest Dr, Spring, TX",30.00310039999999,-95.5317096,TX
 Kroger,Q00549,Spring,"Spring, TX","8745 Spring Cypress Rd, Spring, TX",30.0328229,-95.5527377,TX
 Kroger,Q00561,Spring,"Spring, TX","2150 Spring Stuebner Rd, Spring, TX",30.085252,-95.448501,TX
