@@ -13110,20 +13110,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.200852,
-          47.614202
-        ]
-      },
-      "properties": {
-        "Retailer": "Pok\u00e9mon",
-        "Address": "10400 NE 4th St Suite 2800, Bellevue, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.137184,
           47.57654
         ]
@@ -13145,20 +13131,6 @@
       "properties": {
         "Retailer": "Fred Meyer",
         "Address": "2041 148th Ave NE, Bellevue, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.200935,
-          47.617264
-        ]
-      },
-      "properties": {
-        "Retailer": "Pok\u00e9mon",
-        "Address": "10401 NE 8th St Suite 600, Bellevue, WA"
       }
     },
     {
