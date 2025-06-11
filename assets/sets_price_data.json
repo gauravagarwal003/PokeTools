@@ -1,5 +1,5 @@
 {
-    "last_run_date": "2025-06-10",
+    "last_run_date": "2025-06-11",
     "sets_data": {
         "sword-&-shield": {
             "Snorlax Vmax #142": {
@@ -15,8 +15,8 @@
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
                 "ungraded": 35.0,
-                "grade_9": 48.02,
-                "grade_10": 121.3
+                "grade_9": 47.98,
+                "grade_10": 125.0
             },
             "Snorlax V #197": {
                 "link": "https://www.pricecharting.com/game/pokemon-sword-&-shield/snorlax-v-197",
@@ -30,9 +30,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-sword-&-shield/marnie-208",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 17.12,
+                "ungraded": 16.93,
                 "grade_9": 24.99,
-                "grade_10": 58.99
+                "grade_10": 60.52
             }
         },
         "rebel-clash": {
@@ -41,8 +41,8 @@
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 22.5,
-                "grade_9": 28.99,
-                "grade_10": 71.01
+                "grade_9": 29.0,
+                "grade_10": 74.42
             }
         },
         "darkness-ablaze": {
@@ -130,14 +130,6 @@
                 "grade_9": 23.0,
                 "grade_10": 43.25
             },
-            "Bea #180": {
-                "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/bea-180",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 7.53,
-                "grade_9": 21.97,
-                "grade_10": 45.0
-            },
             "Raikou #50": {
                 "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/raikou-50",
                 "grade_9_freq": "2 sales per week",
@@ -153,6 +145,14 @@
                 "ungraded": 14.0,
                 "grade_9": 20.0,
                 "grade_10": 59.25
+            },
+            "Bea #180": {
+                "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/bea-180",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 8.04,
+                "grade_9": 19.31,
+                "grade_10": 45.0
             },
             "Nessa #183": {
                 "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/nessa-183",
@@ -178,13 +178,13 @@
                 "grade_9": 16.03,
                 "grade_10": 48.78
             },
-            "Rayquaza #138": {
-                "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/rayquaza-138",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 7.0,
+            "Galarian Obstagoon #198": {
+                "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/galarian-obstagoon-198",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 6.19,
                 "grade_9": 15.0,
-                "grade_10": 55.0
+                "grade_10": 45.0
             },
             "Alakazam V #172": {
                 "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/alakazam-v-172",
@@ -193,14 +193,6 @@
                 "ungraded": 4.4,
                 "grade_9": 15.0,
                 "grade_10": 39.5
-            },
-            "Galarian Obstagoon #198": {
-                "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/galarian-obstagoon-198",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 6.19,
-                "grade_9": 15.0,
-                "grade_10": 45.0
             },
             "Zamazenta #102": {
                 "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/zamazenta-102",
@@ -214,17 +206,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/pikachu-v-43",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 2.7,
-                "grade_9": 14.0,
-                "grade_10": 33.74
+                "ungraded": 2.18,
+                "grade_9": 13.5,
+                "grade_10": 34.74
             },
-            "Jirachi #119": {
-                "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/jirachi-119",
-                "grade_9_freq": "2 sales per week",
+            "Rayquaza #138": {
+                "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/rayquaza-138",
+                "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 3.5,
-                "grade_9": 13.02,
-                "grade_10": 33.0
+                "ungraded": 7.99,
+                "grade_9": 13.05,
+                "grade_10": 61.8
             }
         },
         "shining-fates": {
@@ -232,24 +224,24 @@
                 "link": "https://www.pricecharting.com/game/pokemon-shining-fates/charizard-vmax-sv107",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per day",
-                "ungraded": 98.57,
-                "grade_9": 114.62,
-                "grade_10": 221.63
+                "ungraded": 98.0,
+                "grade_9": 110.0,
+                "grade_10": 220.0
             },
             "Skyla #72": {
                 "link": "https://www.pricecharting.com/game/pokemon-shining-fates/skyla-72",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 14.99,
-                "grade_9": 23.42,
-                "grade_10": 73.76
+                "ungraded": 13.92,
+                "grade_9": 22.61,
+                "grade_10": 73.81
             },
             "Suicune #SV022": {
                 "link": "https://www.pricecharting.com/game/pokemon-shining-fates/suicune-sv022",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 9.5,
-                "grade_9": 22.77,
+                "ungraded": 9.73,
+                "grade_9": 22.82,
                 "grade_10": 71.0
             },
             "Poke Kid #70": {
@@ -264,24 +256,24 @@
                 "link": "https://www.pricecharting.com/game/pokemon-shining-fates/ditto-v-sv118",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 5.49,
-                "grade_9": 16.99,
-                "grade_10": 44.99
+                "ungraded": 4.96,
+                "grade_9": 17.37,
+                "grade_10": 50.0
             },
             "Kyogre #21": {
                 "link": "https://www.pricecharting.com/game/pokemon-shining-fates/kyogre-21",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 1.99,
-                "grade_9": 15.5,
-                "grade_10": 50.0
+                "ungraded": 1.96,
+                "grade_9": 14.5,
+                "grade_10": 54.66
             },
             "Eternatus V #SV121": {
                 "link": "https://www.pricecharting.com/game/pokemon-shining-fates/eternatus-v-sv121",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.5,
-                "grade_9": 14.42,
+                "ungraded": 4.58,
+                "grade_9": 14.44,
                 "grade_10": 35.0
             }
         },
@@ -290,9 +282,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-battle-styles/tyranitar-v-155",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 159.99,
-                "grade_9": 189.13,
-                "grade_10": 412.09
+                "ungraded": 166.74,
+                "grade_9": 185.89,
+                "grade_10": 415.0
             },
             "Rapid Strike Urshifu VMAX #170": {
                 "link": "https://www.pricecharting.com/game/pokemon-battle-styles/rapid-strike-urshifu-vmax-170",
@@ -300,21 +292,21 @@
                 "grade_10_freq": "2 sales per week",
                 "ungraded": 65.0,
                 "grade_9": 75.0,
-                "grade_10": 161.45
+                "grade_10": 161.26
             },
             "Empoleon V #146": {
                 "link": "https://www.pricecharting.com/game/pokemon-battle-styles/empoleon-v-146",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 47.41,
+                "ungraded": 46.6,
                 "grade_9": 50.0,
-                "grade_10": 136.5
+                "grade_10": 133.35
             },
             "Houndoom #179": {
                 "link": "https://www.pricecharting.com/game/pokemon-battle-styles/houndoom-179",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 18.75,
+                "ungraded": 19.74,
                 "grade_9": 28.88,
                 "grade_10": 73.71
             },
@@ -348,25 +340,25 @@
                 "link": "https://www.pricecharting.com/game/pokemon-chilling-reign/blaziken-vmax-201",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 305.47,
-                "grade_9": 350.61,
+                "ungraded": 302.8,
+                "grade_9": 350.77,
                 "grade_10": 609.3
             },
             "Galarian Moltres V #177": {
                 "link": "https://www.pricecharting.com/game/pokemon-chilling-reign/galarian-moltres-v-177",
-                "grade_9_freq": "2 sales per week",
+                "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 175.55,
-                "grade_9": 184.0,
-                "grade_10": 360.0
+                "ungraded": 155.0,
+                "grade_9": 181.81,
+                "grade_10": 354.67
             },
             "Snorlax #224": {
                 "link": "https://www.pricecharting.com/game/pokemon-chilling-reign/snorlax-224",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 82.33,
-                "grade_9": 99.97,
-                "grade_10": 186.33
+                "ungraded": 78.0,
+                "grade_9": 90.77,
+                "grade_10": 184.49
             },
             "Shadow Rider Calyrex VMAX #205": {
                 "link": "https://www.pricecharting.com/game/pokemon-chilling-reign/shadow-rider-calyrex-vmax-205",
@@ -379,9 +371,9 @@
             "Galarian Slowking V #179": {
                 "link": "https://www.pricecharting.com/game/pokemon-chilling-reign/galarian-slowking-v-179",
                 "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "3 sales per week",
+                "grade_10_freq": "2 sales per week",
                 "ungraded": 64.99,
-                "grade_9": 71.62,
+                "grade_9": 62.0,
                 "grade_10": 184.43
             },
             "Zeraora V #166": {
@@ -390,15 +382,15 @@
                 "grade_10_freq": "3 sales per week",
                 "ungraded": 56.81,
                 "grade_9": 66.82,
-                "grade_10": 153.5
+                "grade_10": 150.0
             },
             "Galarian Zapdos V #174": {
                 "link": "https://www.pricecharting.com/game/pokemon-chilling-reign/galarian-zapdos-v-174",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 56.5,
-                "grade_9": 59.42,
-                "grade_10": 156.68
+                "ungraded": 55.0,
+                "grade_9": 59.91,
+                "grade_10": 152.44
             },
             "Galarian Rapidash V #168": {
                 "link": "https://www.pricecharting.com/game/pokemon-chilling-reign/galarian-rapidash-v-168",
@@ -444,9 +436,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-chilling-reign/klara-194",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 18.4,
+                "ungraded": 18.92,
                 "grade_9": 20.0,
-                "grade_10": 61.09
+                "grade_10": 59.82
             }
         },
         "evolving-skies": {
@@ -454,79 +446,87 @@
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-vmax-215",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per day",
-                "ungraded": 1337.0,
-                "grade_9": 1489.73,
-                "grade_10": 2475.0
+                "ungraded": 1321.2,
+                "grade_9": 1471.7,
+                "grade_10": 2516.6
             },
             "Rayquaza VMAX #218": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/rayquaza-vmax-218",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 524.12,
-                "grade_9": 630.0,
-                "grade_10": 1055.0
+                "ungraded": 545.0,
+                "grade_9": 624.27,
+                "grade_10": 1020.58
             },
             "Leafeon VMAX #205": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/leafeon-vmax-205",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 325.0,
-                "grade_9": 340.35,
-                "grade_10": 491.3
+                "ungraded": 318.03,
+                "grade_9": 337.81,
+                "grade_10": 492.53
             },
             "Sylveon VMAX #212": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/sylveon-vmax-212",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per day",
-                "ungraded": 312.22,
+                "ungraded": 297.0,
                 "grade_9": 307.71,
-                "grade_10": 510.5
+                "grade_10": 510.0
             },
             "Glaceon VMAX #209": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/glaceon-vmax-209",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 245.92,
+                "ungraded": 234.43,
                 "grade_9": 284.16,
-                "grade_10": 445.0
+                "grade_10": 450.0
             },
             "Dragonite V #192": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/dragonite-v-192",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per day",
-                "ungraded": 240.75,
-                "grade_9": 245.0,
-                "grade_10": 506.45
+                "ungraded": 245.9,
+                "grade_9": 240.0,
+                "grade_10": 509.6
             },
             "Umbreon V #189": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-v-189",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 240.0,
+                "ungraded": 224.32,
                 "grade_9": 234.15,
-                "grade_10": 483.51
+                "grade_10": 481.1
             },
             "Rayquaza V #194": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/rayquaza-v-194",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 185.0,
-                "grade_9": 207.98,
-                "grade_10": 399.99
+                "ungraded": 173.75,
+                "grade_9": 195.75,
+                "grade_10": 400.69
+            },
+            "Espeon V #180": {
+                "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/espeon-v-180",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 131.75,
+                "grade_9": 159.99,
+                "grade_10": 278.35
             },
             "Sylveon V #184": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/sylveon-v-184",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 116.01,
+                "ungraded": 119.83,
                 "grade_9": 119.97,
-                "grade_10": 223.75
+                "grade_10": 230.97
             },
             "Glaceon V #175": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/glaceon-v-175",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 110.0,
+                "ungraded": 105.35,
                 "grade_9": 113.56,
                 "grade_10": 217.5
             },
@@ -534,9 +534,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/leafeon-v-167",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 100.0,
+                "ungraded": 100.46,
                 "grade_9": 105.0,
-                "grade_10": 197.95
+                "grade_10": 198.97
             },
             "Umbreon VMAX #214": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-vmax-214",
@@ -551,8 +551,8 @@
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
                 "ungraded": 40.13,
-                "grade_9": 45.03,
-                "grade_10": 160.47
+                "grade_9": 46.0,
+                "grade_10": 154.69
             },
             "Sylveon VMAX #211": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/sylveon-vmax-211",
@@ -566,9 +566,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/rayquaza-vmax-217",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 44.75,
+                "ungraded": 44.86,
                 "grade_9": 43.0,
-                "grade_10": 115.29
+                "grade_10": 115.01
             },
             "Umbreon V #188": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-v-188",
@@ -606,9 +606,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/sylveon-v-183",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 22.09,
+                "ungraded": 18.62,
                 "grade_9": 30.3,
-                "grade_10": 80.15
+                "grade_10": 83.54
             },
             "Dragonite V #191": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/dragonite-v-191",
@@ -622,9 +622,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-vmax-95",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 14.6,
-                "grade_9": 28.82,
-                "grade_10": 84.99
+                "ungraded": 14.68,
+                "grade_9": 28.54,
+                "grade_10": 86.5
             },
             "Golurk V #182": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/golurk-v-182",
@@ -637,9 +637,9 @@
             "Rayquaza V #193": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/rayquaza-v-193",
                 "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "3 sales per week",
+                "grade_10_freq": "2 sales per week",
                 "ungraded": 20.0,
-                "grade_9": 26.61,
+                "grade_9": 26.5,
                 "grade_10": 77.24
             },
             "Rayquaza VMAX #111": {
@@ -654,8 +654,8 @@
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/gyarados-vmax-29",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 5.28,
-                "grade_9": 24.67,
+                "ungraded": 5.03,
+                "grade_9": 23.25,
                 "grade_10": 59.99
             },
             "Glaceon V #174": {
@@ -694,17 +694,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/flareon-vmax-18",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 6.22,
-                "grade_9": 21.87,
+                "ungraded": 5.99,
+                "grade_9": 25.0,
                 "grade_10": 51.43
             },
             "Medicham V #186": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/medicham-v-186",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 12.31,
-                "grade_9": 21.84,
-                "grade_10": 58.94
+                "ungraded": 11.61,
+                "grade_9": 20.49,
+                "grade_10": 58.88
             },
             "Duraludon VMAX #220": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/duraludon-vmax-220",
@@ -719,15 +719,15 @@
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
                 "ungraded": 14.7,
-                "grade_9": 20.99,
-                "grade_10": 52.74
+                "grade_9": 21.95,
+                "grade_10": 48.24
             },
             "Glaceon VMAX #41": {
                 "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/glaceon-vmax-41",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 5.5,
-                "grade_9": 20.71,
+                "ungraded": 5.17,
+                "grade_9": 20.38,
                 "grade_10": 49.0
             }
         },
@@ -735,18 +735,18 @@
             "Charizard #4": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/charizard-4",
                 "grade_9_freq": "2 sales per day",
-                "grade_10_freq": "2 sales per day",
-                "ungraded": 84.32,
-                "grade_9": 119.0,
-                "grade_10": 234.25
+                "grade_10_freq": "3 sales per day",
+                "ungraded": 88.47,
+                "grade_9": 120.0,
+                "grade_10": 238.43
             },
             "Umbreon #17": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/umbreon-17",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per day",
-                "ungraded": 36.14,
-                "grade_9": 42.98,
-                "grade_10": 150.25
+                "ungraded": 34.73,
+                "grade_9": 42.94,
+                "grade_10": 151.37
             },
             "Pikachu V #SWSH145": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/pikachu-v-swsh145",
@@ -768,17 +768,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/m-rayquaza-ex-76",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 18.63,
-                "grade_9": 32.49,
+                "ungraded": 19.47,
+                "grade_9": 31.5,
                 "grade_10": 90.0
             },
             "Zekrom #114": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/zekrom-114",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 12.5,
-                "grade_9": 31.0,
-                "grade_10": 99.99
+                "ungraded": 12.23,
+                "grade_9": 28.49,
+                "grade_10": 96.34
             },
             "Pikachu Birthday #24": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/pikachu-birthday-24",
@@ -800,39 +800,31 @@
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/reshiram-113",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 12.52,
+                "ungraded": 10.37,
                 "grade_9": 24.99,
-                "grade_10": 112.97
+                "grade_10": 105.0
             },
             "Greninja #SWSH144": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/greninja-swsh144",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 13.99,
-                "grade_9": 24.13,
-                "grade_10": 331.66
+                "ungraded": 11.88,
+                "grade_9": 23.46,
+                "grade_10": 331.42
             },
             "Venusaur #15": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/venusaur-15",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per day",
-                "ungraded": 7.11,
-                "grade_9": 23.33,
-                "grade_10": 67.55
-            },
-            "Dark Gyarados #8": {
-                "link": "https://www.pricecharting.com/game/pokemon-celebrations/dark-gyarados-8",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 3.0,
-                "grade_9": 20.86,
-                "grade_10": 48.31
+                "ungraded": 6.52,
+                "grade_9": 20.5,
+                "grade_10": 63.18
             },
             "Flying Pikachu V #6": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/flying-pikachu-v-6",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 2.3,
+                "ungraded": 2.23,
                 "grade_9": 20.83,
                 "grade_10": 44.41
             },
@@ -844,11 +836,19 @@
                 "grade_9": 20.17,
                 "grade_10": 68.09
             },
+            "Dark Gyarados #8": {
+                "link": "https://www.pricecharting.com/game/pokemon-celebrations/dark-gyarados-8",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 2.78,
+                "grade_9": 20.16,
+                "grade_10": 49.99
+            },
             "Dark Sylveon V #SWSH134": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/dark-sylveon-v-swsh134",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 4.5,
+                "ungraded": 4.02,
                 "grade_9": 19.99,
                 "grade_10": 83.5
             },
@@ -856,7 +856,7 @@
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/flying-pikachu-vmax-7",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 4.13,
+                "ungraded": 3.99,
                 "grade_9": 19.99,
                 "grade_10": 55.17
             },
@@ -888,17 +888,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/surfing-pikachu-v-8",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 2.32,
+                "ungraded": 2.37,
                 "grade_9": 18.71,
-                "grade_10": 60.23
+                "grade_10": 59.94
             },
             "Surfing Pikachu VMAX #9": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/surfing-pikachu-vmax-9",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 3.34,
+                "ungraded": 3.33,
                 "grade_9": 18.48,
-                "grade_10": 45.01
+                "grade_10": 48.0
             },
             "Garchomp C LV.X #145": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/garchomp-c-lvx-145",
@@ -912,17 +912,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/pikachu-5",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 3.05,
-                "grade_9": 17.49,
-                "grade_10": 321.44
+                "ungraded": 2.39,
+                "grade_9": 16.75,
+                "grade_10": 323.18
             },
             "Lance's Charizard V #SWSH133": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/lance%27s-charizard-v-swsh133",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 4.43,
+                "ungraded": 4.81,
                 "grade_9": 17.2,
-                "grade_10": 103.36
+                "grade_10": 104.99
             },
             "Rocket's Zapdos #15": {
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/rocket%27s-zapdos-15",
@@ -936,8 +936,8 @@
                 "link": "https://www.pricecharting.com/game/pokemon-celebrations/team-magma%27s-groudon-9",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 1.82,
-                "grade_9": 13.13,
+                "ungraded": 1.83,
+                "grade_9": 13.07,
                 "grade_10": 41.0
             }
         },
@@ -970,9 +970,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-fusion-strike/mew-v-251",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 57.49,
+                "ungraded": 58.99,
                 "grade_9": 59.5,
-                "grade_10": 221.25
+                "grade_10": 224.34
             },
             "Celebi V #245": {
                 "link": "https://www.pricecharting.com/game/pokemon-fusion-strike/celebi-v-245",
@@ -987,23 +987,23 @@
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per day",
                 "ungraded": 44.75,
-                "grade_9": 48.27,
-                "grade_10": 124.98
+                "grade_9": 49.0,
+                "grade_10": 123.96
             },
             "Gengar VMAX #157": {
                 "link": "https://www.pricecharting.com/game/pokemon-fusion-strike/gengar-vmax-157",
                 "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 20.0,
-                "grade_9": 38.59,
+                "grade_10_freq": "2 sales per day",
+                "ungraded": 19.78,
+                "grade_9": 36.5,
                 "grade_10": 101.0
             },
             "Genesect V #255": {
                 "link": "https://www.pricecharting.com/game/pokemon-fusion-strike/genesect-v-255",
                 "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 21.74,
-                "grade_9": 30.54,
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 21.05,
+                "grade_9": 30.49,
                 "grade_10": 101.5
             },
             "Inteleon VMAX #266": {
@@ -1034,9 +1034,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-fusion-strike/gengar-v-156",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.35,
-                "grade_9": 19.51,
-                "grade_10": 75.99
+                "ungraded": 4.0,
+                "grade_9": 17.25,
+                "grade_10": 77.5
             },
             "Greedent V #257": {
                 "link": "https://www.pricecharting.com/game/pokemon-fusion-strike/greedent-v-257",
@@ -1066,8 +1066,8 @@
                 "link": "https://www.pricecharting.com/game/pokemon-fusion-strike/elesa%27s-sparkle-260",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 4.49,
-                "grade_9": 14.03,
+                "ungraded": 4.25,
+                "grade_9": 14.08,
                 "grade_10": 49.14
             }
         },
@@ -1083,10 +1083,10 @@
             "Umbreon VMAX #TG23": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/umbreon-vmax-tg23",
                 "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 60.75,
-                "grade_9": 60.91,
-                "grade_10": 155.92
+                "grade_10_freq": "2 sales per day",
+                "ungraded": 58.98,
+                "grade_9": 61.25,
+                "grade_10": 154.56
             },
             "Charizard VSTAR #174": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/charizard-vstar-174",
@@ -1096,68 +1096,68 @@
                 "grade_9": 58.0,
                 "grade_10": 149.74
             },
-            "Sylveon VMAX #TG15": {
-                "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/sylveon-vmax-tg15",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 45.47,
-                "grade_9": 47.9,
-                "grade_10": 129.99
-            },
             "Arceus V #166": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/arceus-v-166",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 40.75,
-                "grade_9": 47.63,
-                "grade_10": 138.45
+                "ungraded": 40.78,
+                "grade_9": 47.5,
+                "grade_10": 133.43
+            },
+            "Sylveon VMAX #TG15": {
+                "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/sylveon-vmax-tg15",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 46.49,
+                "grade_9": 46.75,
+                "grade_10": 126.5
             },
             "Umbreon V #TG22": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/umbreon-v-tg22",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
                 "ungraded": 41.88,
-                "grade_9": 45.5,
-                "grade_10": 148.33
+                "grade_9": 46.21,
+                "grade_10": 143.84
             },
             "Mimikyu V #TG16": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/mimikyu-v-tg16",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 36.95,
-                "grade_9": 43.24,
+                "ungraded": 36.99,
+                "grade_9": 45.31,
                 "grade_10": 144.25
             },
             "Sylveon V #TG14": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/sylveon-v-tg14",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 40.61,
-                "grade_9": 40.5,
-                "grade_10": 122.1
+                "ungraded": 39.99,
+                "grade_9": 40.0,
+                "grade_10": 121.91
             },
             "Mimikyu VMAX #TG17": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/mimikyu-vmax-tg17",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
                 "ungraded": 31.0,
-                "grade_9": 35.8,
-                "grade_10": 100.66
+                "grade_9": 36.35,
+                "grade_10": 101.75
             },
             "Charizard V #153": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/charizard-v-153",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 19.99,
+                "ungraded": 18.59,
                 "grade_9": 32.5,
-                "grade_10": 87.43
+                "grade_10": 86.2
             },
             "Cynthia's Ambition #169": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/cynthia%27s-ambition-169",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 11.75,
-                "grade_9": 25.75,
+                "ungraded": 11.97,
+                "grade_9": 25.37,
                 "grade_10": 72.22
             },
             "Marnie's Pride #171": {
@@ -1172,41 +1172,41 @@
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/charizard-vstar-18",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 6.8,
-                "grade_9": 21.5,
-                "grade_10": 58.58
+                "ungraded": 7.07,
+                "grade_9": 21.95,
+                "grade_10": 58.7
             },
             "Zekrom #TG05": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/zekrom-tg05",
                 "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 10.0,
-                "grade_9": 21.41,
-                "grade_10": 169.06
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 10.97,
+                "grade_9": 21.74,
+                "grade_10": 162.11
             },
             "Arceus VSTAR #176": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/arceus-vstar-176",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 11.0,
+                "ungraded": 10.99,
                 "grade_9": 21.26,
-                "grade_10": 44.58
+                "grade_10": 44.0
             },
             "Arceus VSTAR #184": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/arceus-vstar-184",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 11.4,
+                "ungraded": 11.73,
                 "grade_9": 21.25,
                 "grade_10": 48.88
             },
             "Acerola's Premonition #TG24": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/acerola%27s-premonition-tg24",
                 "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 8.68,
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 8.84,
                 "grade_9": 20.5,
-                "grade_10": 54.02
+                "grade_10": 56.71
             },
             "Vaporeon #TG02": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/vaporeon-tg02",
@@ -1216,21 +1216,13 @@
                 "grade_9": 20.32,
                 "grade_10": 98.5
             },
-            "Eevee #TG11": {
-                "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/eevee-tg11",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 8.0,
-                "grade_9": 20.12,
-                "grade_10": 96.81
-            },
             "Charizard V #17": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/charizard-v-17",
-                "grade_9_freq": "2 sales per week",
+                "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 3.97,
+                "ungraded": 4.54,
                 "grade_9": 20.0,
-                "grade_10": 58.16
+                "grade_10": 55.0
             },
             "Pikachu V #157": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/pikachu-v-157",
@@ -1248,13 +1240,13 @@
                 "grade_9": 19.89,
                 "grade_10": 62.99
             },
-            "Lumineon V #156": {
-                "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/lumineon-v-156",
-                "grade_9_freq": "1 sale per week",
+            "Eevee #TG11": {
+                "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/eevee-tg11",
+                "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 14.5,
-                "grade_9": 18.62,
-                "grade_10": 59.0
+                "ungraded": 7.91,
+                "grade_9": 19.15,
+                "grade_10": 99.1
             },
             "Galarian Zapdos V #182": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/galarian-zapdos-v-182",
@@ -1262,7 +1254,7 @@
                 "grade_10_freq": "2 sales per week",
                 "ungraded": 9.99,
                 "grade_9": 18.62,
-                "grade_10": 60.0
+                "grade_10": 62.07
             },
             "Flareon #TG01": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/flareon-tg01",
@@ -1280,6 +1272,14 @@
                 "grade_9": 18.03,
                 "grade_10": 60.0
             },
+            "Lumineon V #156": {
+                "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/lumineon-v-156",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 13.63,
+                "grade_9": 17.9,
+                "grade_10": 55.15
+            },
             "Honchkrow V #162": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/honchkrow-v-162",
                 "grade_9_freq": "1 sale per week",
@@ -1292,9 +1292,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/cynthia%27s-ambition-178",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 6.28,
-                "grade_9": 17.36,
-                "grade_10": 43.5
+                "ungraded": 6.5,
+                "grade_9": 17.45,
+                "grade_10": 43.91
             },
             "Jolteon #TG04": {
                 "link": "https://www.pricecharting.com/game/pokemon-brilliant-stars/jolteon-tg04",
@@ -1308,35 +1308,35 @@
         "astral-radiance": {
             "Machamp V #172": {
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/machamp-v-172",
-                "grade_9_freq": "3 sales per week",
+                "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 145.49,
-                "grade_9": 147.0,
-                "grade_10": 300.0
+                "ungraded": 149.99,
+                "grade_9": 140.21,
+                "grade_10": 305.23
             },
             "Starmie V #TG13": {
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/starmie-v-tg13",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 86.18,
-                "grade_9": 99.3,
-                "grade_10": 290.0
+                "ungraded": 86.11,
+                "grade_9": 98.97,
+                "grade_10": 289.99
             },
             "Garchomp V #TG23": {
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/garchomp-v-tg23",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 61.5,
+                "ungraded": 60.12,
                 "grade_9": 82.43,
-                "grade_10": 238.08
+                "grade_10": 237.79
             },
             "Origin Forme Palkia V #167": {
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/origin-forme-palkia-v-167",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 62.5,
+                "ungraded": 59.55,
                 "grade_9": 71.61,
-                "grade_10": 207.6
+                "grade_10": 206.38
             },
             "Origin Forme Dialga V #177": {
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/origin-forme-dialga-v-177",
@@ -1344,15 +1344,15 @@
                 "grade_10_freq": "1 sale per day",
                 "ungraded": 51.0,
                 "grade_9": 60.45,
-                "grade_10": 181.25
+                "grade_10": 180.97
             },
             "Beedrill V #161": {
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/beedrill-v-161",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 39.82,
+                "ungraded": 39.8,
                 "grade_9": 45.0,
-                "grade_10": 117.07
+                "grade_10": 117.67
             },
             "Hisuian Sneasler V #175": {
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/hisuian-sneasler-v-175",
@@ -1374,8 +1374,8 @@
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/zacian-v-tg21",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 15.45,
-                "grade_9": 24.22,
+                "ungraded": 15.23,
+                "grade_9": 24.2,
                 "grade_10": 81.25
             },
             "Galarian Moltres V #TG20": {
@@ -1399,24 +1399,24 @@
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 5.39,
-                "grade_9": 19.16,
-                "grade_10": 85.0
+                "grade_9": 19.14,
+                "grade_10": 89.28
             },
             "Galarian Zapdos V #TG19": {
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/galarian-zapdos-v-tg19",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 8.0,
-                "grade_9": 17.34,
-                "grade_10": 56.75
+                "grade_9": 17.45,
+                "grade_10": 52.0
             },
             "Radiant Greninja #46": {
                 "link": "https://www.pricecharting.com/game/pokemon-astral-radiance/radiant-greninja-46",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 3.66,
-                "grade_9": 15.87,
-                "grade_10": 43.82
+                "ungraded": 3.14,
+                "grade_9": 15.99,
+                "grade_10": 41.91
             }
         },
         "go": {
@@ -1432,9 +1432,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-go/mewtwo-vstar-79",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 33.0,
+                "ungraded": 33.68,
                 "grade_9": 35.0,
-                "grade_10": 97.23
+                "grade_10": 99.28
             },
             "Dragonite VSTAR #81": {
                 "link": "https://www.pricecharting.com/game/pokemon-go/dragonite-vstar-81",
@@ -1442,15 +1442,15 @@
                 "grade_10_freq": "3 sales per week",
                 "ungraded": 20.0,
                 "grade_9": 30.0,
-                "grade_10": 79.06
+                "grade_10": 74.5
             },
             "Mewtwo VSTAR #86": {
                 "link": "https://www.pricecharting.com/game/pokemon-go/mewtwo-vstar-86",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 19.99,
-                "grade_9": 24.99,
-                "grade_10": 75.14
+                "ungraded": 20.19,
+                "grade_9": 25.0,
+                "grade_10": 83.5
             },
             "Dragonite V #76": {
                 "link": "https://www.pricecharting.com/game/pokemon-go/dragonite-v-76",
@@ -1464,23 +1464,23 @@
                 "link": "https://www.pricecharting.com/game/pokemon-go/radiant-charizard-11",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 10.63,
-                "grade_9": 23.5,
-                "grade_10": 73.04
+                "ungraded": 12.76,
+                "grade_9": 23.99,
+                "grade_10": 69.45
             },
             "Radiant Blastoise #18": {
                 "link": "https://www.pricecharting.com/game/pokemon-go/radiant-blastoise-18",
-                "grade_9_freq": "3 sales per week",
+                "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 7.34,
-                "grade_9": 20.0,
-                "grade_10": 63.99
+                "ungraded": 6.85,
+                "grade_9": 19.5,
+                "grade_10": 64.08
             },
             "Dragonite V #49": {
                 "link": "https://www.pricecharting.com/game/pokemon-go/dragonite-v-49",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 2.48,
+                "ungraded": 2.52,
                 "grade_9": 18.99,
                 "grade_10": 48.07
             },
@@ -1492,6 +1492,14 @@
                 "grade_9": 17.11,
                 "grade_10": 71.86
             },
+            "Charizard #10": {
+                "link": "https://www.pricecharting.com/game/pokemon-go/charizard-10",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 2.76,
+                "grade_9": 16.21,
+                "grade_10": 62.08
+            },
             "Dragonite VSTAR #50": {
                 "link": "https://www.pricecharting.com/game/pokemon-go/dragonite-vstar-50",
                 "grade_9_freq": "1 sale per week",
@@ -1499,14 +1507,6 @@
                 "ungraded": 2.25,
                 "grade_9": 16.01,
                 "grade_10": 38.5
-            },
-            "Charizard #10": {
-                "link": "https://www.pricecharting.com/game/pokemon-go/charizard-10",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 2.0,
-                "grade_9": 15.9,
-                "grade_10": 61.97
             },
             "Mewtwo V #30": {
                 "link": "https://www.pricecharting.com/game/pokemon-go/mewtwo-v-30",
@@ -1520,8 +1520,8 @@
                 "link": "https://www.pricecharting.com/game/pokemon-go/mewtwo-vstar-31",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.5,
-                "grade_9": 15.29,
+                "ungraded": 4.82,
+                "grade_9": 16.25,
                 "grade_10": 40.0
             }
         },
@@ -1544,19 +1544,19 @@
             },
             "Pikachu VMAX #TG17": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/pikachu-vmax-tg17",
-                "grade_9_freq": "3 sales per week",
+                "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 52.85,
+                "ungraded": 51.22,
                 "grade_9": 61.74,
-                "grade_10": 147.76
+                "grade_10": 147.0
             },
             "Pikachu V #TG16": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/pikachu-v-tg16",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 46.04,
-                "grade_9": 52.22,
-                "grade_10": 152.22
+                "ungraded": 45.25,
+                "grade_9": 50.0,
+                "grade_10": 149.49
             },
             "Gengar #TG06": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/gengar-tg06",
@@ -1566,6 +1566,14 @@
                 "grade_9": 31.47,
                 "grade_10": 160.0
             },
+            "Snorlax #TG10": {
+                "link": "https://www.pricecharting.com/game/pokemon-lost-origin/snorlax-tg10",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 6.75,
+                "grade_9": 28.54,
+                "grade_10": 104.23
+            },
             "Rotom V #177": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/rotom-v-177",
                 "grade_9_freq": "1 sale per week",
@@ -1573,14 +1581,6 @@
                 "ungraded": 27.46,
                 "grade_9": 27.04,
                 "grade_10": 100.0
-            },
-            "Snorlax #TG10": {
-                "link": "https://www.pricecharting.com/game/pokemon-lost-origin/snorlax-tg10",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 7.92,
-                "grade_9": 27.49,
-                "grade_10": 104.23
             },
             "Giratina VSTAR #201": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/giratina-vstar-201",
@@ -1594,9 +1594,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/pikachu-tg05",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 14.0,
-                "grade_9": 26.49,
-                "grade_10": 165.38
+                "ungraded": 14.5,
+                "grade_9": 27.0,
+                "grade_10": 154.25
             },
             "Giratina V #185": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/giratina-v-185",
@@ -1620,23 +1620,15 @@
                 "grade_10_freq": "3 sales per week",
                 "ungraded": 10.0,
                 "grade_9": 23.02,
-                "grade_10": 68.38
+                "grade_10": 69.84
             },
             "Galarian Perrserker V #184": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/galarian-perrserker-v-184",
                 "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 17.01,
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 15.1,
                 "grade_9": 20.72,
-                "grade_10": 62.39
-            },
-            "Charizard #TG03": {
-                "link": "https://www.pricecharting.com/game/pokemon-lost-origin/charizard-tg03",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 11.09,
-                "grade_9": 20.42,
-                "grade_10": 117.4
+                "grade_10": 60.0
             },
             "Pikachu VMAX #TG29": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/pikachu-vmax-tg29",
@@ -1646,13 +1638,21 @@
                 "grade_9": 20.17,
                 "grade_10": 60.0
             },
+            "Charizard #TG03": {
+                "link": "https://www.pricecharting.com/game/pokemon-lost-origin/charizard-tg03",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 12.04,
+                "grade_9": 19.99,
+                "grade_10": 112.0
+            },
             "Nessa #TG27": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/nessa-tg27",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 10.27,
-                "grade_9": 16.65,
-                "grade_10": 62.86
+                "ungraded": 9.12,
+                "grade_9": 16.67,
+                "grade_10": 63.31
             },
             "Crobat V #TG20": {
                 "link": "https://www.pricecharting.com/game/pokemon-lost-origin/crobat-v-tg20",
@@ -1676,9 +1676,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/rayquaza-vmax-tg20",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 72.5,
+                "ungraded": 74.96,
                 "grade_9": 77.64,
-                "grade_10": 166.25
+                "grade_10": 166.3
             },
             "Blaziken VMAX #TG15": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/blaziken-vmax-tg15",
@@ -1731,17 +1731,17 @@
             "Regidrago V #184": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/regidrago-v-184",
                 "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 15.5,
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 15.86,
                 "grade_9": 24.99,
-                "grade_10": 55.5
+                "grade_10": 53.25
             },
             "Unown V #177": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/unown-v-177",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 16.85,
-                "grade_9": 24.51,
+                "ungraded": 16.68,
+                "grade_9": 23.38,
                 "grade_10": 79.0
             },
             "Blissey V #TG22": {
@@ -1773,16 +1773,8 @@
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 6.99,
-                "grade_9": 20.27,
-                "grade_10": 62.8
-            },
-            "Lugia VSTAR #139": {
-                "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/lugia-vstar-139",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 3.69,
-                "grade_9": 19.47,
-                "grade_10": 37.0
+                "grade_9": 20.29,
+                "grade_10": 62.91
             },
             "Braixen #TG01": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/braixen-tg01",
@@ -1799,6 +1791,14 @@
                 "ungraded": 8.2,
                 "grade_9": 18.93,
                 "grade_10": 36.24
+            },
+            "Lugia VSTAR #139": {
+                "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/lugia-vstar-139",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 3.71,
+                "grade_9": 18.5,
+                "grade_10": 37.0
             },
             "Flaaffy #TG03": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/flaaffy-tg03",
@@ -1820,33 +1820,33 @@
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/lugia-v-138",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 4.97,
-                "grade_9": 18.0,
-                "grade_10": 68.37
+                "ungraded": 4.99,
+                "grade_9": 17.95,
+                "grade_10": 69.0
             },
             "Candice #189": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/candice-189",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 5.95,
-                "grade_9": 17.0,
+                "ungraded": 6.09,
+                "grade_9": 16.15,
                 "grade_10": 39.47
             },
             "Furisode Girl #190": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/furisode-girl-190",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 5.99,
-                "grade_9": 16.53,
+                "ungraded": 5.91,
+                "grade_9": 14.78,
                 "grade_10": 42.49
             },
             "Gardevoir #TG05": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/gardevoir-tg05",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.32,
+                "ungraded": 4.25,
                 "grade_9": 16.16,
-                "grade_10": 49.44
+                "grade_10": 47.0
             },
             "Radiant Alakazam #59": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/radiant-alakazam-59",
@@ -1856,21 +1856,21 @@
                 "grade_9": 15.32,
                 "grade_10": 35.21
             },
+            "Milotic #TG02": {
+                "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/milotic-tg02",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 4.99,
+                "grade_9": 15.28,
+                "grade_10": 56.43
+            },
             "Serena #207": {
                 "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/serena-207",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 10.46,
+                "ungraded": 10.64,
                 "grade_9": 15.25,
-                "grade_10": 55.64
-            },
-            "Druddigon #TG09": {
-                "link": "https://www.pricecharting.com/game/pokemon-silver-tempest/druddigon-tg09",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 2.87,
-                "grade_9": 15.0,
-                "grade_10": 46.0
+                "grade_10": 55.59
             }
         },
         "crown-zenith": {
@@ -1882,45 +1882,45 @@
                 "grade_9": 157.09,
                 "grade_10": 313.26
             },
-            "Mewtwo VSTAR #GG44": {
-                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/mewtwo-vstar-gg44",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "4 sales per day",
-                "ungraded": 104.27,
-                "grade_9": 103.08,
-                "grade_10": 246.5
-            },
             "Arceus VSTAR #GG70": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/arceus-vstar-gg70",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
+                "ungraded": 99.95,
+                "grade_9": 105.0,
+                "grade_10": 199.96
+            },
+            "Mewtwo VSTAR #GG44": {
+                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/mewtwo-vstar-gg44",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "3 sales per day",
                 "ungraded": 100.0,
-                "grade_9": 95.54,
-                "grade_10": 207.12
+                "grade_9": 100.0,
+                "grade_10": 237.67
+            },
+            "Origin Forme Palkia VSTAR #GG67": {
+                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/origin-forme-palkia-vstar-gg67",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "2 sales per day",
+                "ungraded": 66.95,
+                "grade_9": 71.83,
+                "grade_10": 159.99
             },
             "Origin Forme Dialga VSTAR #GG68": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/origin-forme-dialga-vstar-gg68",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 75.0,
-                "grade_9": 67.9,
-                "grade_10": 168.98
-            },
-            "Origin Forme Palkia VSTAR #GG67": {
-                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/origin-forme-palkia-vstar-gg67",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 67.67,
-                "grade_9": 67.0,
-                "grade_10": 162.75
+                "ungraded": 74.99,
+                "grade_9": 67.84,
+                "grade_10": 168.59
             },
             "Leafeon VSTAR #GG35": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/leafeon-vstar-gg35",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 40.0,
-                "grade_9": 43.43,
-                "grade_10": 110.5
+                "ungraded": 39.63,
+                "grade_9": 44.0,
+                "grade_10": 110.43
             },
             "Glaceon VSTAR #GG40": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/glaceon-vstar-gg40",
@@ -1934,15 +1934,15 @@
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/deoxys-vmax-gg45",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "2 sales per day",
-                "ungraded": 34.37,
-                "grade_9": 39.23,
-                "grade_10": 102.5
+                "ungraded": 32.73,
+                "grade_9": 38.56,
+                "grade_10": 101.57
             },
             "Darkrai VStar #GG50": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/darkrai-vstar-gg50",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 31.11,
+                "ungraded": 31.95,
                 "grade_9": 36.99,
                 "grade_10": 101.49
             },
@@ -1953,14 +1953,6 @@
                 "ungraded": 25.79,
                 "grade_9": 36.0,
                 "grade_10": 93.53
-            },
-            "Suicune V #GG38": {
-                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/suicune-v-gg38",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "2 sales per day",
-                "ungraded": 33.39,
-                "grade_9": 33.0,
-                "grade_10": 117.5
             },
             "Raikou V #GG41": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/raikou-v-gg41",
@@ -1975,24 +1967,24 @@
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
                 "ungraded": 19.99,
-                "grade_9": 27.49,
-                "grade_10": 86.0
+                "grade_9": 26.23,
+                "grade_10": 86.22
             },
             "Cynthia's Ambition #GG60": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/cynthia%27s-ambition-gg60",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 17.23,
+                "ungraded": 16.98,
                 "grade_9": 27.02,
-                "grade_10": 98.88
+                "grade_10": 98.6
             },
             "Deoxys VSTAR #GG46": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/deoxys-vstar-gg46",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 20.48,
+                "ungraded": 20.41,
                 "grade_9": 26.78,
-                "grade_10": 98.29
+                "grade_10": 94.13
             },
             "Simisear VSTAR #GG37": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/simisear-vstar-gg37",
@@ -2014,16 +2006,16 @@
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/zacian-v-gg48",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 16.99,
-                "grade_9": 25.0,
-                "grade_10": 79.75
+                "ungraded": 16.95,
+                "grade_9": 24.29,
+                "grade_10": 71.07
             },
             "Regigigas VSTAR #GG55": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/regigigas-vstar-gg55",
-                "grade_9_freq": "1 sale per week",
+                "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 11.76,
-                "grade_9": 23.23,
+                "ungraded": 11.99,
+                "grade_9": 20.75,
                 "grade_10": 66.88
             },
             "Pikachu #160": {
@@ -2046,7 +2038,7 @@
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/magmortar-gg03",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 6.05,
+                "ungraded": 6.03,
                 "grade_9": 22.3,
                 "grade_10": 88.04
             },
@@ -2054,65 +2046,65 @@
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/latias-gg20",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 8.36,
-                "grade_9": 21.69,
-                "grade_10": 98.31
+                "ungraded": 8.16,
+                "grade_9": 19.25,
+                "grade_10": 91.51
             },
             "Irida #GG63": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/irida-gg63",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 7.62,
-                "grade_9": 21.16,
-                "grade_10": 39.25
+                "ungraded": 7.99,
+                "grade_9": 18.5,
+                "grade_10": 38.0
             },
             "Rayquaza VMAX #101": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/rayquaza-vmax-101",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.68,
-                "grade_9": 21.08,
+                "ungraded": 4.65,
+                "grade_9": 19.5,
                 "grade_10": 53.0
             },
             "Zamazenta V #GG54": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/zamazenta-v-gg54",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 14.16,
+                "ungraded": 14.1,
                 "grade_9": 20.92,
-                "grade_10": 65.49
+                "grade_10": 67.5
             },
             "Hisuian Samurott V #GG51": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/hisuian-samurott-v-gg51",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 9.84,
-                "grade_9": 20.68,
+                "ungraded": 9.12,
+                "grade_9": 19.23,
                 "grade_10": 51.0
+            },
+            "Charizard VSTAR #19": {
+                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/charizard-vstar-19",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 5.68,
+                "grade_9": 20.0,
+                "grade_10": 46.08
             },
             "Zeraora VMAX #GG42": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/zeraora-vmax-gg42",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 11.3,
+                "ungraded": 10.99,
                 "grade_9": 19.99,
-                "grade_10": 54.5
+                "grade_10": 50.5
             },
             "Zeraora VSTAR #GG43": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/zeraora-vstar-gg43",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
                 "ungraded": 11.25,
-                "grade_9": 19.95,
+                "grade_9": 19.5,
                 "grade_10": 55.0
-            },
-            "Charizard VSTAR #19": {
-                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/charizard-vstar-19",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 5.82,
-                "grade_9": 19.49,
-                "grade_10": 46.72
             },
             "Eevee V #108": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/eevee-v-108",
@@ -2134,49 +2126,49 @@
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/rayquaza-vmax-102",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 4.99,
-                "grade_9": 18.57,
+                "ungraded": 4.17,
+                "grade_9": 18.81,
                 "grade_10": 45.59
-            },
-            "Pikachu #GG30": {
-                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/pikachu-gg30",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 10.62,
-                "grade_9": 18.25,
-                "grade_10": 81.67
             },
             "Ditto #GG22": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/ditto-gg22",
                 "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 4.87,
-                "grade_9": 18.14,
-                "grade_10": 59.28
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 4.65,
+                "grade_9": 17.0,
+                "grade_10": 59.19
             },
             "Mew V #60": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/mew-v-60",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 2.49,
+                "ungraded": 2.71,
                 "grade_9": 17.99,
-                "grade_10": 42.23
+                "grade_10": 43.46
+            },
+            "Pikachu #GG30": {
+                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/pikachu-gg30",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 9.07,
+                "grade_9": 17.85,
+                "grade_10": 81.65
             },
             "Radiant Charizard #20": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/radiant-charizard-20",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per day",
-                "ungraded": 4.95,
-                "grade_9": 17.99,
-                "grade_10": 53.0
+                "ungraded": 4.49,
+                "grade_9": 17.73,
+                "grade_10": 54.31
             },
             "Deoxys #GG12": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/deoxys-gg12",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 6.89,
+                "ungraded": 6.66,
                 "grade_9": 17.5,
-                "grade_10": 74.42
+                "grade_10": 72.5
             },
             "Hoopa V #GG53": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/hoopa-v-gg53",
@@ -2206,9 +2198,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/drapion-v-gg49",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.4,
-                "grade_9": 16.23,
-                "grade_10": 39.75
+                "ungraded": 4.33,
+                "grade_9": 16.24,
+                "grade_10": 39.87
             },
             "Keldeo #GG07": {
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/keldeo-gg07",
@@ -2222,8 +2214,8 @@
                 "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/charizard-v-18",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 3.91,
-                "grade_9": 15.88,
+                "ungraded": 3.8,
+                "grade_9": 16.08,
                 "grade_10": 52.83
             }
         },
@@ -2232,9 +2224,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/gardevoir-ex-245",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 38.73,
-                "grade_9": 46.55,
-                "grade_10": 146.75
+                "ungraded": 37.5,
+                "grade_9": 45.5,
+                "grade_10": 145.23
             },
             "Drowzee #210": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/drowzee-210",
@@ -2276,14 +2268,6 @@
                 "grade_9": 28.99,
                 "grade_10": 183.64
             },
-            "Slowpoke #204": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/slowpoke-204",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 19.67,
-                "grade_9": 23.63,
-                "grade_10": 320.24
-            },
             "Koraidon ex #247": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/koraidon-ex-247",
                 "grade_9_freq": "3 sales per week",
@@ -2292,21 +2276,29 @@
                 "grade_9": 23.63,
                 "grade_10": 89.99
             },
+            "Slowpoke #204": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/slowpoke-204",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 19.67,
+                "grade_9": 23.63,
+                "grade_10": 320.24
+            },
             "Miraidon ex #244": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/miraidon-ex-244",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 19.54,
-                "grade_9": 22.5,
-                "grade_10": 97.85
+                "ungraded": 19.4,
+                "grade_9": 23.19,
+                "grade_10": 95.91
             },
             "Arcanine ex #224": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/arcanine-ex-224",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 7.5,
-                "grade_9": 19.99,
-                "grade_10": 71.44
+                "ungraded": 7.12,
+                "grade_9": 21.12,
+                "grade_10": 70.0
             },
             "Gyarados ex #225": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/gyarados-ex-225",
@@ -2320,7 +2312,7 @@
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/kingambit-220",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 5.99,
+                "ungraded": 6.25,
                 "grade_9": 17.74,
                 "grade_10": 105.0
             },
@@ -2344,41 +2336,41 @@
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/miriam-238",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 7.49,
-                "grade_9": 15.71,
-                "grade_10": 52.33
+                "ungraded": 7.99,
+                "grade_9": 15.15,
+                "grade_10": 55.7
             },
             "Penny #252": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/penny-252",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 6.0,
-                "grade_9": 15.06,
+                "grade_9": 15.0,
                 "grade_10": 52.0
             },
             "Spidops ex #243": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/spidops-ex-243",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 6.48,
+                "ungraded": 6.95,
                 "grade_9": 14.12,
-                "grade_10": 65.0
+                "grade_10": 64.71
             },
             "Gyarados ex #45": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/gyarados-ex-45",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 2.52,
-                "grade_9": 14.03,
+                "ungraded": 2.25,
+                "grade_9": 14.09,
                 "grade_10": 37.0
             },
             "Arven #249": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/arven-249",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 10.28,
+                "ungraded": 11.0,
                 "grade_9": 14.0,
-                "grade_10": 38.59
+                "grade_10": 39.0
             },
             "Miraidon ex #253": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/miraidon-ex-253",
@@ -2418,9 +2410,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/magikarp-203",
                 "grade_9_freq": "2 sales per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 189.95,
-                "grade_9": 215.0,
-                "grade_10": 1337.5
+                "ungraded": 180.0,
+                "grade_9": 208.5,
+                "grade_10": 1450.0
             },
             "Iono #269": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/iono-269",
@@ -2434,24 +2426,24 @@
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/tyranitar-222",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 39.97,
-                "grade_9": 49.49,
+                "ungraded": 38.2,
+                "grade_9": 48.85,
                 "grade_10": 367.5
             },
             "Raichu #211": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/raichu-211",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 43.17,
-                "grade_9": 43.81,
+                "ungraded": 43.0,
+                "grade_9": 46.0,
                 "grade_10": 293.99
             },
             "Marill #204": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/marill-204",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 24.95,
-                "grade_9": 31.95,
+                "ungraded": 23.87,
+                "grade_9": 36.35,
                 "grade_10": 265.11
             },
             "Fuecoco #201": {
@@ -2466,25 +2458,25 @@
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/tinkaton-ex-262",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 20.38,
-                "grade_9": 27.17,
-                "grade_10": 89.79
+                "ungraded": 20.29,
+                "grade_9": 27.0,
+                "grade_10": 89.0
             },
             "Heracross #194": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/heracross-194",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 17.98,
-                "grade_9": 24.99,
+                "ungraded": 17.3,
+                "grade_9": 25.47,
                 "grade_10": 194.63
             },
             "Chi-Yu ex #259": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/chi-yu-ex-259",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 20.81,
+                "ungraded": 20.49,
                 "grade_9": 23.86,
-                "grade_10": 84.62
+                "grade_10": 86.03
             },
             "Sprigatito #196": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/sprigatito-196",
@@ -2493,6 +2485,14 @@
                 "ungraded": 18.99,
                 "grade_9": 23.63,
                 "grade_10": 159.75
+            },
+            "Skeledirge ex #258": {
+                "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/skeledirge-ex-258",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 20.0,
+                "grade_9": 23.5,
+                "grade_10": 70.3
             },
             "Iono #254": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/iono-254",
@@ -2504,35 +2504,19 @@
             },
             "Meowscarada ex #256": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/meowscarada-ex-256",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 19.67,
-                "grade_9": 22.39,
-                "grade_10": 67.14
-            },
-            "Chien-Pao ex #261": {
-                "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/chien-pao-ex-261",
                 "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 18.6,
-                "grade_9": 21.98,
-                "grade_10": 69.0
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 17.51,
+                "grade_9": 22.5,
+                "grade_10": 67.14
             },
             "Mismagius #212": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/mismagius-212",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 15.0,
+                "ungraded": 14.68,
                 "grade_9": 21.85,
                 "grade_10": 146.25
-            },
-            "Skeledirge ex #258": {
-                "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/skeledirge-ex-258",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 20.0,
-                "grade_9": 21.5,
-                "grade_10": 72.5
             },
             "Baxcalibur #210": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/baxcalibur-210",
@@ -2541,6 +2525,14 @@
                 "ungraded": 15.5,
                 "grade_9": 21.49,
                 "grade_10": 184.57
+            },
+            "Chien-Pao ex #261": {
+                "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/chien-pao-ex-261",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 18.6,
+                "grade_9": 21.21,
+                "grade_10": 69.0
             },
             "Quaquaval ex #260": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/quaquaval-ex-260",
@@ -2586,15 +2578,23 @@
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/paldean-tauros-218",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 10.0,
-                "grade_9": 18.01,
-                "grade_10": 183.58
+                "ungraded": 9.0,
+                "grade_9": 17.99,
+                "grade_10": 183.75
+            },
+            "Crocalor #202": {
+                "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/crocalor-202",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 10.5,
+                "grade_9": 17.58,
+                "grade_10": 98.14
             },
             "Dendra #266": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/dendra-266",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 8.85,
+                "ungraded": 8.86,
                 "grade_9": 17.54,
                 "grade_10": 54.99
             },
@@ -2610,9 +2610,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/pikachu-ex-63",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 3.05,
-                "grade_9": 17.16,
-                "grade_10": 40.89
+                "ungraded": 2.99,
+                "grade_9": 17.38,
+                "grade_10": 40.94
             },
             "Sudowoodo #219": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/sudowoodo-219",
@@ -2626,9 +2626,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/wo-chien-ex-257",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 10.0,
+                "ungraded": 9.63,
                 "grade_9": 16.48,
-                "grade_10": 48.95
+                "grade_10": 49.5
             },
             "Pyroar #200": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/pyroar-200",
@@ -2637,14 +2637,6 @@
                 "ungraded": 7.99,
                 "grade_9": 16.38,
                 "grade_10": 110.0
-            },
-            "Crocalor #202": {
-                "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/crocalor-202",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 10.25,
-                "grade_9": 15.88,
-                "grade_10": 98.14
             },
             "Quaxly #206": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/quaxly-206",
@@ -2661,14 +2653,6 @@
                 "ungraded": 7.97,
                 "grade_9": 15.11,
                 "grade_10": 49.92
-            },
-            "Floragato #197": {
-                "link": "https://www.pricecharting.com/game/pokemon-paldea-evolved/floragato-197",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 10.55,
-                "grade_9": 15.0,
-                "grade_10": 117.5
             }
         },
         "obsidian-flames": {
@@ -2688,37 +2672,29 @@
                 "grade_9": 32.0,
                 "grade_10": 139.14
             },
+            "Ninetales #199": {
+                "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/ninetales-199",
+                "grade_9_freq": "2 sales per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 17.82,
+                "grade_9": 27.0,
+                "grade_10": 168.0
+            },
             "Charizard ex #215": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/charizard-ex-215",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 10.0,
+                "ungraded": 9.31,
                 "grade_9": 25.0,
                 "grade_10": 77.92
-            },
-            "Ninetales #199": {
-                "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/ninetales-199",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 17.99,
-                "grade_9": 25.0,
-                "grade_10": 168.0
             },
             "Cleffa #202": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/cleffa-202",
                 "grade_9_freq": "2 sales per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 15.5,
-                "grade_9": 22.0,
-                "grade_10": 150.0
-            },
-            "Gloom #198": {
-                "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/gloom-198",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 10.0,
-                "grade_9": 20.5,
-                "grade_10": 117.25
+                "ungraded": 14.25,
+                "grade_9": 20.0,
+                "grade_10": 146.49
             },
             "Pidgey #207": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/pidgey-207",
@@ -2732,15 +2708,23 @@
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/lechonk-209",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 5.22,
+                "ungraded": 4.97,
                 "grade_9": 19.99,
                 "grade_10": 82.5
+            },
+            "Gloom #198": {
+                "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/gloom-198",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 10.68,
+                "grade_9": 19.86,
+                "grade_10": 115.0
             },
             "Pidgeot ex #225": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/pidgeot-ex-225",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 12.0,
+                "ungraded": 12.07,
                 "grade_9": 19.25,
                 "grade_10": 87.47
             },
@@ -2762,11 +2746,11 @@
             },
             "Pidgeotto #208": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/pidgeotto-208",
-                "grade_9_freq": "3 sales per week",
+                "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 6.03,
-                "grade_9": 16.53,
-                "grade_10": 74.44
+                "ungraded": 6.31,
+                "grade_9": 16.75,
+                "grade_10": 74.46
             },
             "Bellibolt #201": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/bellibolt-201",
@@ -2782,14 +2766,14 @@
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 2.49,
                 "grade_9": 15.71,
-                "grade_10": 34.55
+                "grade_10": 31.35
             },
             "Tyranitar ex #211": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/tyranitar-ex-211",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 3.97,
-                "grade_9": 15.21,
+                "ungraded": 4.0,
+                "grade_9": 15.18,
                 "grade_10": 50.48
             },
             "Umbreon #130": {
@@ -2812,9 +2796,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/revavroom-ex-224",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.3,
-                "grade_9": 14.15,
-                "grade_10": 40.35
+                "ungraded": 4.52,
+                "grade_9": 13.58,
+                "grade_10": 38.49
             },
             "Absol ex #214": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/absol-ex-214",
@@ -2836,17 +2820,25 @@
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/eiscue-ex-222",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.92,
-                "grade_9": 13.34,
+                "ungraded": 4.75,
+                "grade_9": 13.4,
                 "grade_10": 56.31
+            },
+            "Geeta #226": {
+                "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/geeta-226",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 3.5,
+                "grade_9": 12.99,
+                "grade_10": 40.0
             },
             "Palafin #200": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/palafin-200",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 4.0,
-                "grade_9": 12.6,
-                "grade_10": 71.29
+                "ungraded": 4.27,
+                "grade_9": 13.32,
+                "grade_10": 69.05
             },
             "Poppy #227": {
                 "link": "https://www.pricecharting.com/game/pokemon-obsidian-flames/poppy-227",
@@ -2860,11 +2852,11 @@
         "scarlet-&-violet-151": {
             "Charizard ex #199": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charizard-ex-199",
-                "grade_9_freq": "2 sales per day",
-                "grade_10_freq": "2 sales per day",
-                "ungraded": 188.96,
-                "grade_9": 206.5,
-                "grade_10": 687.5
+                "grade_9_freq": "3 sales per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 185.5,
+                "grade_9": 203.82,
+                "grade_10": 660.0
             },
             "Blastoise ex #200": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/blastoise-ex-200",
@@ -2898,14 +2890,6 @@
                 "grade_9": 44.83,
                 "grade_10": 229.5
             },
-            "Squirtle #170": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/squirtle-170",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 39.0,
-                "grade_9": 40.0,
-                "grade_10": 173.89
-            },
             "Alakazam ex #201": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/alakazam-ex-201",
                 "grade_9_freq": "1 sale per day",
@@ -2914,13 +2898,13 @@
                 "grade_9": 42.07,
                 "grade_10": 178.23
             },
-            "Charmeleon #169": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charmeleon-169",
+            "Squirtle #170": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/squirtle-170",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 28.59,
-                "grade_9": 35.36,
-                "grade_10": 170.43
+                "ungraded": 39.0,
+                "grade_9": 40.0,
+                "grade_10": 173.89
             },
             "Bulbasaur #166": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/bulbasaur-166",
@@ -2929,6 +2913,14 @@
                 "ungraded": 33.5,
                 "grade_9": 37.0,
                 "grade_10": 145.21
+            },
+            "Charmeleon #169": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charmeleon-169",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 28.59,
+                "grade_9": 35.36,
+                "grade_10": 170.43
             },
             "Charizard ex #183": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charizard-ex-183",
@@ -2946,14 +2938,6 @@
                 "grade_9": 33.0,
                 "grade_10": 144.39
             },
-            "Ivysaur #167": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/ivysaur-167",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 27.52,
-                "grade_9": 28.1,
-                "grade_10": 143.22
-            },
             "Pikachu #173": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/pikachu-173",
                 "grade_9_freq": "2 sales per day",
@@ -2961,6 +2945,14 @@
                 "ungraded": 21.26,
                 "grade_9": 30.0,
                 "grade_10": 145.5
+            },
+            "Ivysaur #167": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/ivysaur-167",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 27.52,
+                "grade_9": 28.1,
+                "grade_10": 143.22
             },
             "Psyduck #175": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/psyduck-175",
@@ -2974,8 +2966,8 @@
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/dragonair-181",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 19.59,
-                "grade_9": 23.5,
+                "ungraded": 18.43,
+                "grade_9": 21.5,
                 "grade_10": 106.93
             },
             "Poliwhirl #176": {
@@ -2990,17 +2982,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/mew-ex-193",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 14.99,
-                "grade_9": 20.5,
+                "ungraded": 14.53,
+                "grade_9": 20.25,
                 "grade_10": 65.0
-            },
-            "Blastoise ex #184": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/blastoise-ex-184",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 15.33,
-                "grade_9": 19.99,
-                "grade_10": 71.43
             },
             "Machoke #177": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/machoke-177",
@@ -3010,29 +2994,29 @@
                 "grade_9": 20.0,
                 "grade_10": 72.06
             },
-            "Nidoking #174": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/nidoking-174",
+            "Blastoise ex #184": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/blastoise-ex-184",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 15.33,
+                "grade_9": 19.99,
+                "grade_10": 71.43
+            },
+            "Giovanni's Charisma #204": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/giovanni%27s-charisma-204",
                 "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 10.19,
-                "grade_9": 17.51,
-                "grade_10": 82.0
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 16.0,
+                "grade_9": 19.75,
+                "grade_10": 139.5
             },
             "Charizard ex #6": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/charizard-ex-6",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "3 sales per week",
                 "ungraded": 4.99,
-                "grade_9": 19.69,
-                "grade_10": 43.14
-            },
-            "Erika's Invitation #203": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/erika%27s-invitation-203",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 13.99,
-                "grade_9": 18.13,
-                "grade_10": 86.5
+                "grade_9": 19.99,
+                "grade_10": 43.81
             },
             "Mew ex #205": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/mew-ex-205",
@@ -3042,29 +3026,45 @@
                 "grade_9": 18.16,
                 "grade_10": 78.0
             },
+            "Erika's Invitation #203": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/erika%27s-invitation-203",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 13.99,
+                "grade_9": 18.13,
+                "grade_10": 86.5
+            },
             "Mew ex #151": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/mew-ex-151",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 5.95,
-                "grade_9": 18.06,
+                "ungraded": 5.7,
+                "grade_9": 18.02,
                 "grade_10": 45.0
-            },
-            "Zapdos ex #192": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/zapdos-ex-192",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 9.99,
-                "grade_9": 17.62,
-                "grade_10": 46.95
             },
             "Venusaur ex #182": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/venusaur-ex-182",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 11.99,
-                "grade_9": 17.56,
-                "grade_10": 51.19
+                "ungraded": 11.98,
+                "grade_9": 17.78,
+                "grade_10": 49.0
+            },
+            "Zapdos ex #192": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/zapdos-ex-192",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 9.72,
+                "grade_9": 16.61,
+                "grade_10": 46.95
+            },
+            "Nidoking #174": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/nidoking-174",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 10.19,
+                "grade_9": 17.51,
+                "grade_10": 82.0
             },
             "Caterpie #172": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/caterpie-172",
@@ -3078,9 +3078,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/ninetales-ex-186",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 9.57,
-                "grade_9": 16.0,
-                "grade_10": 54.11
+                "ungraded": 9.74,
+                "grade_9": 14.52,
+                "grade_10": 53.16
             },
             "Tangela #178": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/tangela-178",
@@ -3090,14 +3090,6 @@
                 "grade_9": 15.5,
                 "grade_10": 70.0
             },
-            "Giovanni's Charisma #197": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/giovanni%27s-charisma-197",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 6.29,
-                "grade_9": 15.48,
-                "grade_10": 63.22
-            },
             "Arbok ex #185": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/arbok-ex-185",
                 "grade_9_freq": "1 sale per week",
@@ -3105,6 +3097,14 @@
                 "ungraded": 6.69,
                 "grade_9": 15.5,
                 "grade_10": 47.51
+            },
+            "Giovanni's Charisma #197": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/giovanni%27s-charisma-197",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 6.29,
+                "grade_9": 15.48,
+                "grade_10": 63.22
             },
             "Mr. Mime #179": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/mr-mime-179",
@@ -3124,27 +3124,27 @@
             },
             "Venusaur ex #3": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/venusaur-ex-3",
-                "grade_9_freq": "1 sale per week",
+                "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 1.87,
-                "grade_9": 14.36,
+                "ungraded": 1.99,
+                "grade_9": 13.9,
                 "grade_10": 30.0
             },
             "Alakazam ex #188": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/alakazam-ex-188",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 10.5,
-                "grade_9": 14.26,
+                "ungraded": 8.72,
+                "grade_9": 14.05,
                 "grade_10": 54.99
             },
             "Omanyte #180": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/omanyte-180",
                 "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 8.46,
-                "grade_9": 14.17,
-                "grade_10": 71.5
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 8.5,
+                "grade_9": 14.19,
+                "grade_10": 66.34
             },
             "Erika's Invitation #196": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/erika%27s-invitation-196",
@@ -3154,14 +3154,6 @@
                 "grade_9": 14.01,
                 "grade_10": 48.06
             },
-            "Golem ex #189": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/golem-ex-189",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 7.75,
-                "grade_9": 12.95,
-                "grade_10": 37.74
-            },
             "Kangaskhan ex #190": {
                 "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/kangaskhan-ex-190",
                 "grade_9_freq": "1 sale per week",
@@ -3169,6 +3161,14 @@
                 "ungraded": 6.84,
                 "grade_9": 13.52,
                 "grade_10": 42.09
+            },
+            "Gengar #94": {
+                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/gengar-94",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 2.17,
+                "grade_9": 12.99,
+                "grade_10": 60.0
             }
         },
         "paradox-rift": {
@@ -3199,34 +3199,42 @@
             "Garchomp ex #245": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/garchomp-ex-245",
                 "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "3 sales per week",
+                "grade_10_freq": "1 sale per day",
                 "ungraded": 29.5,
-                "grade_9": 35.98,
-                "grade_10": 160.0
+                "grade_9": 37.95,
+                "grade_10": 153.76
             },
             "Steelix #208": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/steelix-208",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 24.0,
-                "grade_9": 32.85,
-                "grade_10": 132.71
+                "ungraded": 24.95,
+                "grade_9": 31.0,
+                "grade_10": 124.77
+            },
+            "Morpeko #206": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/morpeko-206",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 18.27,
+                "grade_9": 28.42,
+                "grade_10": 146.25
             },
             "Gholdengo ex #252": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/gholdengo-ex-252",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 24.99,
-                "grade_9": 25.95,
+                "ungraded": 24.13,
+                "grade_9": 23.5,
                 "grade_10": 102.5
             },
-            "Parasol Lady #255": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/parasol-lady-255",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 15.13,
-                "grade_9": 25.0,
-                "grade_10": 92.22
+            "Yveltal #205": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/yveltal-205",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 18.15,
+                "grade_9": 25.07,
+                "grade_10": 105.0
             },
             "Garchomp ex #260": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/garchomp-ex-260",
@@ -3236,29 +3244,37 @@
                 "grade_9": 25.0,
                 "grade_10": 69.99
             },
-            "Minun #194": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/minun-194",
-                "grade_9_freq": "1 sale per week",
+            "Parasol Lady #255": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/parasol-lady-255",
+                "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 19.66,
-                "grade_9": 22.24,
-                "grade_10": 103.49
+                "ungraded": 15.13,
+                "grade_9": 25.0,
+                "grade_10": 92.22
             },
             "Golisopod ex #246": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/golisopod-ex-246",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 17.42,
+                "ungraded": 17.46,
                 "grade_9": 24.25,
-                "grade_10": 92.35
+                "grade_10": 92.25
             },
             "Garbodor #204": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/garbodor-204",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 9.71,
+                "ungraded": 9.73,
                 "grade_9": 23.72,
                 "grade_10": 88.0
+            },
+            "Iron Valiant ex #249": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/iron-valiant-ex-249",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 25.0,
+                "grade_9": 23.58,
+                "grade_10": 99.11
             },
             "Minior #201": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/minior-201",
@@ -3268,22 +3284,6 @@
                 "grade_9": 23.5,
                 "grade_10": 91.75
             },
-            "Mantyke #189": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/mantyke-189",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 15.23,
-                "grade_9": 21.23,
-                "grade_10": 99.0
-            },
-            "Iron Valiant ex #249": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/iron-valiant-ex-249",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 25.0,
-                "grade_9": 23.17,
-                "grade_10": 97.12
-            },
             "Plusle #193": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/plusle-193",
                 "grade_9_freq": "2 sales per week",
@@ -3292,29 +3292,37 @@
                 "grade_9": 22.33,
                 "grade_10": 128.98
             },
-            "Iron Jugulis #216": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/iron-jugulis-216",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 7.92,
-                "grade_9": 20.0,
-                "grade_10": 67.0
+            "Minun #194": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/minun-194",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 19.66,
+                "grade_9": 22.24,
+                "grade_10": 103.49
             },
             "Iron Hands ex #248": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/iron-hands-ex-248",
-                "grade_9_freq": "2 sales per week",
+                "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 16.48,
-                "grade_9": 21.56,
+                "ungraded": 16.0,
+                "grade_9": 21.57,
                 "grade_10": 70.91
             },
-            "Yveltal #205": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/yveltal-205",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 18.15,
-                "grade_9": 25.07,
-                "grade_10": 105.0
+            "Mantyke #189": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/mantyke-189",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 15.23,
+                "grade_9": 21.23,
+                "grade_10": 99.0
+            },
+            "Vanillish #190": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/vanillish-190",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 12.0,
+                "grade_9": 20.68,
+                "grade_10": 85.0
             },
             "Loudred #212": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/loudred-212",
@@ -3340,21 +3348,21 @@
                 "grade_9": 20.15,
                 "grade_10": 47.88
             },
-            "Vanillish #190": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/vanillish-190",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 12.25,
-                "grade_9": 20.1,
-                "grade_10": 91.0
+            "Iron Jugulis #216": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/iron-jugulis-216",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 7.92,
+                "grade_9": 20.0,
+                "grade_10": 67.0
             },
             "Porygon-Z #214": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/porygon-z-214",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 8.19,
+                "ungraded": 8.0,
                 "grade_9": 20.0,
-                "grade_10": 75.19
+                "grade_10": 75.59
             },
             "Magby #186": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/magby-186",
@@ -3368,17 +3376,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/snorunt-188",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 9.84,
+                "ungraded": 8.99,
                 "grade_9": 19.74,
                 "grade_10": 78.0
-            },
-            "Tapu Koko ex #247": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/tapu-koko-ex-247",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 15.86,
-                "grade_9": 18.76,
-                "grade_10": 78.09
             },
             "Garchomp ex #219": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/garchomp-ex-219",
@@ -3396,6 +3396,14 @@
                 "grade_9": 18.39,
                 "grade_10": 94.0
             },
+            "Tapu Koko ex #247": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/tapu-koko-ex-247",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 15.5,
+                "grade_9": 17.91,
+                "grade_10": 76.0
+            },
             "Sandy Shocks ex #250": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/sandy-shocks-ex-250",
                 "grade_9_freq": "1 sale per week",
@@ -3408,33 +3416,25 @@
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/toedscruel-185",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 5.88,
+                "ungraded": 5.94,
                 "grade_9": 17.49,
-                "grade_10": 75.49
+                "grade_10": 66.69
             },
             "Brute Bonnet #207": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/brute-bonnet-207",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 11.87,
+                "ungraded": 11.47,
                 "grade_9": 16.62,
-                "grade_10": 134.28
+                "grade_10": 124.64
             },
             "Mela #254": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/mela-254",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 9.8,
+                "ungraded": 9.78,
                 "grade_9": 16.43,
                 "grade_10": 64.73
-            },
-            "Swablu #213": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/swablu-213",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 13.41,
-                "grade_9": 16.26,
-                "grade_10": 85.0
             },
             "Parasol Lady #238": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/parasol-lady-238",
@@ -3460,13 +3460,21 @@
                 "grade_9": 15.5,
                 "grade_10": 32.34
             },
-            "Tulip #259": {
-                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/tulip-259",
+            "Swablu #213": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/swablu-213",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 13.04,
+                "grade_9": 15.5,
+                "grade_10": 85.0
+            },
+            "Rika #258": {
+                "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/rika-258",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 8.97,
-                "grade_9": 15.02,
-                "grade_10": 50.0
+                "ungraded": 9.44,
+                "grade_9": 15.01,
+                "grade_10": 57.34
             },
             "Blitzle #195": {
                 "link": "https://www.pricecharting.com/game/pokemon-paradox-rift/blitzle-195",
@@ -3542,14 +3550,6 @@
                 "grade_9": 25.99,
                 "grade_10": 66.89
             },
-            "Clive #236": {
-                "link": "https://www.pricecharting.com/game/pokemon-paldean-fates/clive-236",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 13.25,
-                "grade_9": 24.99,
-                "grade_10": 78.01
-            },
             "Charmander #109": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldean-fates/charmander-109",
                 "grade_9_freq": "1 sale per week",
@@ -3557,6 +3557,14 @@
                 "ungraded": 20.08,
                 "grade_9": 24.99,
                 "grade_10": 83.98
+            },
+            "Clive #236": {
+                "link": "https://www.pricecharting.com/game/pokemon-paldean-fates/clive-236",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 13.07,
+                "grade_9": 24.99,
+                "grade_10": 73.03
             },
             "Charmeleon #110": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldean-fates/charmeleon-110",
@@ -3566,14 +3574,6 @@
                 "grade_9": 23.42,
                 "grade_10": 48.65
             },
-            "Penny #239": {
-                "link": "https://www.pricecharting.com/game/pokemon-paldean-fates/penny-239",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 13.63,
-                "grade_9": 22.71,
-                "grade_10": 84.06
-            },
             "Gardevoir ex #217": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldean-fates/gardevoir-ex-217",
                 "grade_9_freq": "1 sale per week",
@@ -3581,6 +3581,14 @@
                 "ungraded": 6.03,
                 "grade_9": 22.0,
                 "grade_10": 51.0
+            },
+            "Penny #239": {
+                "link": "https://www.pricecharting.com/game/pokemon-paldean-fates/penny-239",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 13.79,
+                "grade_9": 21.43,
+                "grade_10": 74.99
             },
             "Ditto #201": {
                 "link": "https://www.pricecharting.com/game/pokemon-paldean-fates/ditto-201",
@@ -3602,7 +3610,7 @@
                 "link": "https://www.pricecharting.com/game/pokemon-paldean-fates/entei-112",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 9.14,
+                "ungraded": 8.96,
                 "grade_9": 18.75,
                 "grade_10": 56.0
             },
@@ -3629,8 +3637,8 @@
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
                 "ungraded": 80.0,
-                "grade_9": 83.83,
-                "grade_10": 226.37
+                "grade_9": 81.27,
+                "grade_10": 221.5
             },
             "Iron Crown ex #206": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/iron-crown-ex-206",
@@ -3638,15 +3646,15 @@
                 "grade_10_freq": "3 sales per week",
                 "ungraded": 51.47,
                 "grade_9": 59.0,
-                "grade_10": 140.0
+                "grade_10": 139.99
             },
             "Walking Wake ex #205": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/walking-wake-ex-205",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 55.8,
+                "ungraded": 46.5,
                 "grade_9": 50.0,
-                "grade_10": 133.75
+                "grade_10": 135.0
             },
             "Morty's Conviction #211": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/morty%27s-conviction-211",
@@ -3676,9 +3684,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/metagross-178",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 19.86,
-                "grade_9": 33.97,
-                "grade_10": 131.25
+                "ungraded": 18.39,
+                "grade_9": 27.11,
+                "grade_10": 129.0
             },
             "Gengar ex #193": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/gengar-ex-193",
@@ -3700,9 +3708,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/iron-leaves-ex-203",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 31.75,
+                "ungraded": 32.97,
                 "grade_9": 30.24,
-                "grade_10": 116.5
+                "grade_10": 115.0
             },
             "Deerling #165": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/deerling-165",
@@ -3716,7 +3724,7 @@
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/drampa-184",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 11.73,
+                "ungraded": 11.2,
                 "grade_9": 24.99,
                 "grade_10": 99.0
             },
@@ -3756,9 +3764,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/litten-167",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 14.98,
-                "grade_9": 20.0,
-                "grade_10": 82.07
+                "ungraded": 14.59,
+                "grade_9": 22.32,
+                "grade_10": 81.78
             },
             "Lickitung #180": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/lickitung-180",
@@ -3788,7 +3796,7 @@
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/scizor-ex-195",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 4.12,
+                "ungraded": 4.25,
                 "grade_9": 18.5,
                 "grade_10": 42.5
             },
@@ -3812,17 +3820,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/grotle-164",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 9.82,
-                "grade_9": 17.51,
-                "grade_10": 88.58
+                "ungraded": 9.99,
+                "grade_9": 16.67,
+                "grade_10": 73.0
             },
             "Gouging Fire ex #214": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/gouging-fire-ex-214",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 12.84,
-                "grade_9": 17.39,
-                "grade_10": 44.16
+                "ungraded": 12.69,
+                "grade_9": 17.45,
+                "grade_10": 41.88
             },
             "Relicanth #173": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/relicanth-173",
@@ -3843,17 +3851,17 @@
             "Gengar ex #104": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/gengar-ex-104",
                 "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 3.49,
-                "grade_9": 17.05,
-                "grade_10": 61.31
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 3.28,
+                "grade_9": 14.5,
+                "grade_10": 59.0
             },
             "Chatot #181": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/chatot-181",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 7.34,
-                "grade_9": 16.54,
+                "ungraded": 7.52,
+                "grade_9": 16.29,
                 "grade_10": 85.5
             },
             "Cinccino #183": {
@@ -3877,8 +3885,8 @@
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 8.0,
-                "grade_9": 15.93,
-                "grade_10": 72.38
+                "grade_9": 14.97,
+                "grade_10": 70.0
             },
             "Mudsdale #175": {
                 "link": "https://www.pricecharting.com/game/pokemon-temporal-forces/mudsdale-175",
@@ -3949,10 +3957,10 @@
             "Squirtle #148": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/squirtle-148",
                 "grade_9_freq": "2 sales per day",
-                "grade_10_freq": "2 sales per day",
-                "ungraded": 53.12,
-                "grade_9": 60.5,
-                "grade_10": 174.5
+                "grade_10_freq": "3 sales per day",
+                "ungraded": 51.96,
+                "grade_9": 60.06,
+                "grade_10": 171.57
             },
             "Terapagos ex #170": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/terapagos-ex-170",
@@ -3982,16 +3990,16 @@
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/galvantula-ex-168",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 20.0,
+                "ungraded": 22.2,
                 "grade_9": 27.0,
                 "grade_10": 69.27
             },
             "Hydrapple ex #167": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/hydrapple-ex-167",
-                "grade_9_freq": "2 sales per week",
+                "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 25.67,
-                "grade_9": 24.32,
+                "ungraded": 25.68,
+                "grade_9": 26.0,
                 "grade_10": 75.0
             },
             "Lacey #172": {
@@ -4014,9 +4022,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/venusaur-ex-1",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 2.0,
-                "grade_9": 18.27,
+                "ungraded": 1.99,
+                "grade_9": 18.2,
                 "grade_10": 36.99
+            },
+            "Cinderace ex #157": {
+                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/cinderace-ex-157",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 4.0,
+                "grade_9": 17.21,
+                "grade_10": 35.27
             },
             "Lapras ex #158": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/lapras-ex-158",
@@ -4034,14 +4050,6 @@
                 "grade_9": 16.22,
                 "grade_10": 57.48
             },
-            "Lacey #166": {
-                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/lacey-166",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 3.99,
-                "grade_9": 16.0,
-                "grade_10": 53.0
-            },
             "Joltik #150": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/joltik-150",
                 "grade_9_freq": "2 sales per week",
@@ -4050,29 +4058,45 @@
                 "grade_9": 16.0,
                 "grade_10": 43.96
             },
-            "Terapagos ex #173": {
-                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/terapagos-ex-173",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 12.04,
-                "grade_9": 15.98,
-                "grade_10": 40.36
+            "Lacey #166": {
+                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/lacey-166",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 3.84,
+                "grade_9": 16.0,
+                "grade_10": 53.0
             },
             "Briar #171": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/briar-171",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 16.92,
-                "grade_9": 15.77,
-                "grade_10": 57.74
+                "ungraded": 15.77,
+                "grade_9": 15.76,
+                "grade_10": 57.78
             },
-            "Ledian #144": {
-                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/ledian-144",
-                "grade_9_freq": "3 sales per week",
+            "Milcery #152": {
+                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/milcery-152",
+                "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 5.4,
-                "grade_9": 15.06,
-                "grade_10": 54.68
+                "ungraded": 9.23,
+                "grade_9": 15.75,
+                "grade_10": 55.0
+            },
+            "Orthworm ex #162": {
+                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/orthworm-ex-162",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 2.0,
+                "grade_9": 15.0,
+                "grade_10": 20.0
+            },
+            "Lileep #145": {
+                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/lileep-145",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 4.99,
+                "grade_9": 15.0,
+                "grade_10": 58.86
             },
             "Hydrapple ex #156": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/hydrapple-ex-156",
@@ -4090,6 +4114,14 @@
                 "grade_9": 14.53,
                 "grade_10": 63.29
             },
+            "Terapagos ex #173": {
+                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/terapagos-ex-173",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 10.95,
+                "grade_9": 14.42,
+                "grade_10": 40.36
+            },
             "Galvantula ex #159": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/galvantula-ex-159",
                 "grade_9_freq": "2 sales per week",
@@ -4098,53 +4130,45 @@
                 "grade_9": 14.27,
                 "grade_10": 28.9
             },
-            "Milcery #152": {
-                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/milcery-152",
-                "grade_9_freq": "2 sales per week",
+            "Ledian #144": {
+                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/ledian-144",
+                "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 7.86,
-                "grade_9": 14.21,
-                "grade_10": 55.0
-            },
-            "Orthworm ex #162": {
-                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/orthworm-ex-162",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 2.49,
-                "grade_9": 14.0,
-                "grade_10": 19.99
+                "ungraded": 5.43,
+                "grade_9": 14.18,
+                "grade_10": 51.39
             },
             "Meditite #153": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/meditite-153",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 4.51,
-                "grade_9": 13.41,
-                "grade_10": 49.99
-            },
-            "Lileep #145": {
-                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/lileep-145",
-                "grade_9_freq": "2 sales per week",
+                "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.99,
-                "grade_9": 13.0,
-                "grade_10": 58.86
+                "ungraded": 3.96,
+                "grade_9": 13.01,
+                "grade_10": 48.2
             },
             "Dachsbun ex #160": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/dachsbun-ex-160",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 2.79,
-                "grade_9": 12.51,
+                "ungraded": 3.09,
+                "grade_9": 12.56,
                 "grade_10": 45.03
             },
             "Lucario ex #82": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/lucario-ex-82",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 2.25,
+                "ungraded": 1.95,
                 "grade_9": 12.5,
-                "grade_10": 31.31
+                "grade_10": 31.49
+            },
+            "Briar #163": {
+                "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/briar-163",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 4.3,
+                "grade_9": 12.0,
+                "grade_10": 27.98
             },
             "Crabominable #149": {
                 "link": "https://www.pricecharting.com/game/pokemon-stellar-crown/crabominable-149",
@@ -4156,14 +4180,6 @@
             }
         },
         "shrouded-fable": {
-            "Persian #78": {
-                "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/persian-78",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 41.5,
-                "grade_9": 42.0,
-                "grade_10": 172.27
-            },
             "Earthen Vessel #96": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/earthen-vessel-96",
                 "grade_9_freq": "1 sale per week",
@@ -4171,6 +4187,14 @@
                 "ungraded": 44.03,
                 "grade_9": 47.0,
                 "grade_10": 69.66
+            },
+            "Persian #78": {
+                "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/persian-78",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 41.5,
+                "grade_9": 42.0,
+                "grade_10": 172.27
             },
             "Fezandipiti ex #92": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/fezandipiti-ex-92",
@@ -4192,17 +4216,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/houndoom-66",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 31.56,
-                "grade_9": 34.5,
-                "grade_10": 140.14
+                "ungraded": 34.03,
+                "grade_9": 33.5,
+                "grade_10": 135.5
             },
             "Dusclops #69": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/dusclops-69",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 18.25,
+                "ungraded": 18.24,
                 "grade_9": 29.0,
-                "grade_10": 91.0
+                "grade_10": 90.99
             },
             "Duskull #68": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/duskull-68",
@@ -4217,8 +4241,16 @@
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 19.93,
-                "grade_9": 21.73,
+                "grade_9": 22.75,
                 "grade_10": 84.5
+            },
+            "Cresselia #71": {
+                "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/cresselia-71",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 18.95,
+                "grade_9": 22.0,
+                "grade_10": 86.0
             },
             "Dusknoir #70": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/dusknoir-70",
@@ -4228,29 +4260,21 @@
                 "grade_9": 21.5,
                 "grade_10": 76.76
             },
-            "Cresselia #71": {
-                "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/cresselia-71",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 18.49,
-                "grade_9": 21.17,
-                "grade_10": 92.49
-            },
             "Pecharunt ex #93": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/pecharunt-ex-93",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 17.99,
-                "grade_9": 19.5,
+                "ungraded": 17.88,
+                "grade_9": 19.38,
                 "grade_10": 54.78
             },
             "Bewear #79": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/bewear-79",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 10.03,
+                "ungraded": 9.97,
                 "grade_9": 18.0,
-                "grade_10": 82.5
+                "grade_10": 76.0
             },
             "Munkidori #72": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/munkidori-72",
@@ -4268,14 +4292,6 @@
                 "grade_9": 17.02,
                 "grade_10": 73.18
             },
-            "Zorua #75": {
-                "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/zorua-75",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 14.99,
-                "grade_9": 16.66,
-                "grade_10": 61.5
-            },
             "Horsea #67": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/horsea-67",
                 "grade_9_freq": "3 sales per week",
@@ -4283,6 +4299,14 @@
                 "ungraded": 17.95,
                 "grade_9": 16.0,
                 "grade_10": 110.0
+            },
+            "Zorua #75": {
+                "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/zorua-75",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 14.93,
+                "grade_9": 15.5,
+                "grade_10": 60.0
             },
             "Cufant #76": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/cufant-76",
@@ -4311,9 +4335,9 @@
             "Cassiopeia #86": {
                 "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/cassiopeia-86",
                 "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 3.19,
-                "grade_9": 14.34,
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 3.52,
+                "grade_9": 14.41,
                 "grade_10": 31.0
             },
             "Fraxure #77": {
@@ -4330,7 +4354,7 @@
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 3.42,
                 "grade_9": 13.84,
-                "grade_10": 28.47
+                "grade_10": 27.49
             }
         },
         "twilight-masquerade": {
@@ -4338,9 +4362,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/greninja-ex-214",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 297.56,
-                "grade_9": 285.72,
-                "grade_10": 650.0
+                "ungraded": 300.0,
+                "grade_9": 288.0,
+                "grade_10": 640.69
             },
             "Perrin #220": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/perrin-220",
@@ -4360,11 +4384,11 @@
             },
             "Eevee #188": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/eevee-188",
-                "grade_9_freq": "3 sales per day",
+                "grade_9_freq": "2 sales per day",
                 "grade_10_freq": "3 sales per day",
-                "ungraded": 60.44,
-                "grade_9": 47.81,
-                "grade_10": 159.19
+                "ungraded": 55.41,
+                "grade_9": 50.76,
+                "grade_10": 160.05
             },
             "Bloodmoon Ursaluna ex #216": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/bloodmoon-ursaluna-ex-216",
@@ -4372,7 +4396,7 @@
                 "grade_10_freq": "2 sales per week",
                 "ungraded": 39.99,
                 "grade_9": 37.5,
-                "grade_10": 110.5
+                "grade_10": 110.0
             },
             "Lana's Aid #219": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/lana%27s-aid-219",
@@ -4382,6 +4406,14 @@
                 "grade_9": 27.71,
                 "grade_10": 73.0
             },
+            "Chansey #187": {
+                "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/chansey-187",
+                "grade_9_freq": "2 sales per day",
+                "grade_10_freq": "2 sales per day",
+                "ungraded": 18.24,
+                "grade_9": 25.0,
+                "grade_10": 92.0
+            },
             "Kieran #218": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/kieran-218",
                 "grade_9_freq": "1 sale per week",
@@ -4389,14 +4421,6 @@
                 "ungraded": 21.18,
                 "grade_9": 25.0,
                 "grade_10": 66.43
-            },
-            "Chansey #187": {
-                "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/chansey-187",
-                "grade_9_freq": "2 sales per day",
-                "grade_10_freq": "2 sales per day",
-                "ungraded": 20.88,
-                "grade_9": 25.0,
-                "grade_10": 93.91
             },
             "Teal Mask Ogerpon ex #211": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/teal-mask-ogerpon-ex-211",
@@ -4426,15 +4450,15 @@
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/sinistcha-ex-210",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 21.01,
+                "ungraded": 20.26,
                 "grade_9": 20.45,
-                "grade_10": 72.63
+                "grade_10": 73.44
             },
             "Perrin #209": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/perrin-209",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 6.0,
+                "ungraded": 6.08,
                 "grade_9": 19.46,
                 "grade_10": 50.0
             },
@@ -4470,22 +4494,6 @@
                 "grade_9": 17.14,
                 "grade_10": 54.14
             },
-            "Froslass #174": {
-                "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/froslass-174",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 7.89,
-                "grade_9": 17.0,
-                "grade_10": 57.26
-            },
-            "Heliolisk #177": {
-                "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/heliolisk-177",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 3.97,
-                "grade_9": 16.0,
-                "grade_10": 40.51
-            },
             "Dragapult ex #200": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/dragapult-ex-200",
                 "grade_9_freq": "1 sale per week",
@@ -4493,6 +4501,14 @@
                 "ungraded": 11.21,
                 "grade_9": 17.0,
                 "grade_10": 39.99
+            },
+            "Froslass #174": {
+                "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/froslass-174",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 7.89,
+                "grade_9": 17.0,
+                "grade_10": 57.26
             },
             "Wellspring Mask Ogerpon ex #213": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/wellspring-mask-ogerpon-ex-213",
@@ -4530,9 +4546,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/iron-thorns-ex-196",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 4.37,
+                "ungraded": 4.2,
                 "grade_9": 16.0,
                 "grade_10": 29.82
+            },
+            "Heliolisk #177": {
+                "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/heliolisk-177",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 3.97,
+                "grade_9": 16.0,
+                "grade_10": 40.51
             },
             "Blissey ex #201": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/blissey-ex-201",
@@ -4614,14 +4638,6 @@
                 "grade_9": 14.08,
                 "grade_10": 50.0
             },
-            "Phione #175": {
-                "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/phione-175",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 6.5,
-                "grade_9": 14.03,
-                "grade_10": 62.0
-            },
             "Wellspring Mask Ogerpon Ex #194": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/wellspring-mask-ogerpon-ex-194",
                 "grade_9_freq": "1 sale per week",
@@ -4629,6 +4645,14 @@
                 "ungraded": 5.0,
                 "grade_9": 14.0,
                 "grade_10": 28.0
+            },
+            "Phione #175": {
+                "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/phione-175",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 6.5,
+                "grade_9": 13.89,
+                "grade_10": 62.0
             },
             "Lana's Aid #207": {
                 "link": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/lana%27s-aid-207",
@@ -4664,6 +4688,14 @@
                 "grade_9": 94.77,
                 "grade_10": 256.1
             },
+            "Hydreigon ex #240": {
+                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/hydreigon-ex-240",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 50.0,
+                "grade_9": 58.0,
+                "grade_10": 135.81
+            },
             "Pikachu ex #247": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/pikachu-ex-247",
                 "grade_9_freq": "1 sale per day",
@@ -4671,14 +4703,6 @@
                 "ungraded": 55.97,
                 "grade_9": 55.94,
                 "grade_10": 191.21
-            },
-            "Hydreigon ex #240": {
-                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/hydreigon-ex-240",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 50.62,
-                "grade_9": 58.0,
-                "grade_10": 146.06
             },
             "Alolan Exeggutor ex #242": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/alolan-exeggutor-ex-242",
@@ -4704,14 +4728,6 @@
                 "grade_9": 28.77,
                 "grade_10": 143.0
             },
-            "Pikachu ex #219": {
-                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/pikachu-ex-219",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 18.79,
-                "grade_9": 25.0,
-                "grade_10": 83.86
-            },
             "Jasmine's Gaze #245": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/jasmine%27s-gaze-245",
                 "grade_9_freq": "3 sales per week",
@@ -4720,13 +4736,21 @@
                 "grade_9": 27.18,
                 "grade_10": 104.25
             },
+            "Pikachu ex #219": {
+                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/pikachu-ex-219",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 18.79,
+                "grade_9": 25.0,
+                "grade_10": 83.86
+            },
             "Archaludon ex #241": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/archaludon-ex-241",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 19.05,
+                "ungraded": 19.27,
                 "grade_9": 24.0,
-                "grade_10": 52.27
+                "grade_10": 52.3
             },
             "Durant ex #236": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/durant-ex-236",
@@ -4752,21 +4776,21 @@
                 "grade_9": 19.0,
                 "grade_10": 82.5
             },
-            "Night Stretcher #251": {
-                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/night-stretcher-251",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 19.35,
-                "grade_9": 18.0,
-                "grade_10": 24.9
-            },
             "Alolan Exeggutor ex #248": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/alolan-exeggutor-ex-248",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 12.39,
+                "ungraded": 12.25,
                 "grade_9": 17.52,
-                "grade_10": 49.11
+                "grade_10": 45.7
+            },
+            "Night Stretcher #251": {
+                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/night-stretcher-251",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 19.67,
+                "grade_9": 17.26,
+                "grade_10": 24.83
             },
             "Gravity Mountain #250": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/gravity-mountain-250",
@@ -4781,16 +4805,8 @@
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
                 "ungraded": 8.62,
-                "grade_9": 16.63,
-                "grade_10": 60.0
-            },
-            "Lisia's Appeal #234": {
-                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/lisia%27s-appeal-234",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 6.78,
-                "grade_9": 16.48,
-                "grade_10": 68.0
+                "grade_9": 16.83,
+                "grade_10": 59.0
             },
             "Latias ex #220": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/latias-ex-220",
@@ -4804,17 +4820,25 @@
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/alolan-dugtrio-208",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 7.77,
-                "grade_9": 15.58,
-                "grade_10": 84.23
+                "ungraded": 7.45,
+                "grade_9": 16.0,
+                "grade_10": 82.28
+            },
+            "Spheal #199": {
+                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/spheal-199",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 7.18,
+                "grade_9": 15.92,
+                "grade_10": 61.13
             },
             "Kecleon #213": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/kecleon-213",
-                "grade_9_freq": "1 sale per day",
+                "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 5.72,
+                "ungraded": 5.17,
                 "grade_9": 15.5,
-                "grade_10": 59.52
+                "grade_10": 55.75
             },
             "Black Kyurem ex #218": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/black-kyurem-ex-218",
@@ -4864,14 +4888,6 @@
                 "grade_9": 14.36,
                 "grade_10": 37.24
             },
-            "Spheal #199": {
-                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/spheal-199",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 7.18,
-                "grade_9": 15.92,
-                "grade_10": 61.13
-            },
             "Bruxish #200": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/bruxish-200",
                 "grade_9_freq": "2 sales per week",
@@ -4879,6 +4895,14 @@
                 "ungraded": 2.67,
                 "grade_9": 14.0,
                 "grade_10": 45.57
+            },
+            "Clobbopus #207": {
+                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/clobbopus-207",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 5.59,
+                "grade_9": 13.98,
+                "grade_10": 60.11
             },
             "Skarmory #209": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/skarmory-209",
@@ -4888,13 +4912,13 @@
                 "grade_9": 13.98,
                 "grade_10": 67.33
             },
-            "Clobbopus #207": {
-                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/clobbopus-207",
+            "Lisia's Appeal #234": {
+                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/lisia%27s-appeal-234",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 5.59,
+                "ungraded": 6.77,
                 "grade_9": 13.98,
-                "grade_10": 60.11
+                "grade_10": 68.0
             },
             "Appletun #211": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/appletun-211",
@@ -4909,7 +4933,7 @@
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "2 sales per week",
                 "ungraded": 3.01,
-                "grade_9": 13.54,
+                "grade_9": 13.51,
                 "grade_10": 26.0
             },
             "Alolan Exeggutor ex #225": {
@@ -4936,21 +4960,13 @@
                 "grade_9": 13.46,
                 "grade_10": 68.5
             },
-            "Exeggcute #192": {
-                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/exeggcute-192",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 6.86,
-                "grade_9": 13.44,
-                "grade_10": 65.53
-            },
             "Drayton #244": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/drayton-244",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 11.99,
+                "ungraded": 11.62,
                 "grade_9": 13.35,
-                "grade_10": 51.28
+                "grade_10": 47.08
             },
             "Hydreigon ex #223": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/hydreigon-ex-223",
@@ -4968,6 +4984,14 @@
                 "grade_9": 13.25,
                 "grade_10": 49.99
             },
+            "Exeggcute #192": {
+                "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/exeggcute-192",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 6.86,
+                "grade_9": 13.1,
+                "grade_10": 65.53
+            },
             "Braviary #214": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/braviary-214",
                 "grade_9_freq": "1 sale per day",
@@ -4979,10 +5003,10 @@
             "Milotic ex #217": {
                 "link": "https://www.pricecharting.com/game/pokemon-surging-sparks/milotic-ex-217",
                 "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 3.67,
-                "grade_9": 12.74,
-                "grade_10": 38.29
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 3.5,
+                "grade_9": 12.65,
+                "grade_10": 38.45
             }
         },
         "prismatic-evolutions": {
@@ -4990,25 +5014,25 @@
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/umbreon-ex-161",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 1153.21,
-                "grade_9": 1176.0,
-                "grade_10": 2703.0
+                "ungraded": 1084.38,
+                "grade_9": 1174.0,
+                "grade_10": 2640.85
             },
             "Sylveon ex #156": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/sylveon-ex-156",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 336.12,
-                "grade_9": 409.17,
+                "ungraded": 350.48,
+                "grade_9": 402.0,
                 "grade_10": 900.0
             },
             "Leafeon ex #144": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/leafeon-ex-144",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "1 sale per day",
-                "ungraded": 276.49,
+                "ungraded": 277.5,
                 "grade_9": 336.0,
-                "grade_10": 678.0
+                "grade_10": 676.1
             },
             "Espeon ex #155": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/espeon-ex-155",
@@ -5030,9 +5054,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/vaporeon-ex-149",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 245.77,
-                "grade_9": 268.0,
-                "grade_10": 840.62
+                "ungraded": 230.9,
+                "grade_9": 267.0,
+                "grade_10": 834.99
+            },
+            "Jolteon ex #153": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/jolteon-ex-153",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 208.69,
+                "grade_9": 242.0,
+                "grade_10": 501.0
             },
             "Glaceon ex #150": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/glaceon-ex-150",
@@ -5050,14 +5082,6 @@
                 "grade_9": 222.77,
                 "grade_10": 577.5
             },
-            "Jolteon ex #153": {
-                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/jolteon-ex-153",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 210.01,
-                "grade_9": 221.5,
-                "grade_10": 505.43
-            },
             "Eevee ex #167": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/eevee-ex-167",
                 "grade_9_freq": "1 sale per day",
@@ -5069,18 +5093,18 @@
             "Dragapult ex #165": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/dragapult-ex-165",
                 "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 114.25,
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 107.75,
                 "grade_9": 165.0,
-                "grade_10": 238.73
+                "grade_10": 242.55
             },
             "Ceruledge ex #147": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/ceruledge-ex-147",
                 "grade_9_freq": "3 sales per week",
                 "grade_10_freq": "3 sales per week",
-                "ungraded": 136.63,
-                "grade_9": 140.75,
-                "grade_10": 374.0
+                "ungraded": 130.07,
+                "grade_9": 133.25,
+                "grade_10": 373.5
             },
             "Raging Bolt ex #166": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/raging-bolt-ex-166",
@@ -5094,9 +5118,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/bloodmoon-ursaluna-ex-168",
                 "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 89.95,
-                "grade_9": 97.0,
-                "grade_10": 345.0
+                "ungraded": 89.96,
+                "grade_9": 95.0,
+                "grade_10": 282.7
             },
             "Palafin ex #151": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/palafin-ex-151",
@@ -5122,14 +5146,6 @@
                 "grade_9": 69.99,
                 "grade_10": 211.18
             },
-            "Pikachu ex #179": {
-                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/pikachu-ex-179",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 57.39,
-                "grade_9": 63.99,
-                "grade_10": 325.08
-            },
             "Iron Valiant ex #157": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/iron-valiant-ex-157",
                 "grade_9_freq": "2 sales per week",
@@ -5137,6 +5153,14 @@
                 "ungraded": 53.53,
                 "grade_9": 62.1,
                 "grade_10": 199.99
+            },
+            "Pikachu ex #179": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/pikachu-ex-179",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 47.39,
+                "grade_9": 60.0,
+                "grade_10": 316.89
             },
             "Terapagos ex #169": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/terapagos-ex-169",
@@ -5152,15 +5176,7 @@
                 "grade_10_freq": "1 sale per week",
                 "ungraded": 44.0,
                 "grade_9": 44.22,
-                "grade_10": 119.03
-            },
-            "Lacey #175": {
-                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/lacey-175",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 45.0,
-                "grade_9": 38.0,
-                "grade_10": 131.8
+                "grade_10": 109.28
             },
             "Sandy Shocks ex #159": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/sandy-shocks-ex-159",
@@ -5178,13 +5194,21 @@
                 "grade_9": 39.0,
                 "grade_10": 185.0
             },
-            "Teal Mask Ogerpon ex #145": {
-                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/teal-mask-ogerpon-ex-145",
+            "Lacey #175": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/lacey-175",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 29.83,
-                "grade_9": 26.99,
-                "grade_10": 126.14
+                "ungraded": 45.0,
+                "grade_9": 38.0,
+                "grade_10": 131.8
+            },
+            "Pecharunt ex #163": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/pecharunt-ex-163",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 36.64,
+                "grade_9": 35.94,
+                "grade_10": 122.5
             },
             "Kieran #174": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/kieran-174",
@@ -5194,6 +5218,14 @@
                 "grade_9": 33.61,
                 "grade_10": 171.25
             },
+            "Teal Mask Ogerpon ex #145": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/teal-mask-ogerpon-ex-145",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 29.83,
+                "grade_9": 26.99,
+                "grade_10": 126.14
+            },
             "Vaporeon ex #23": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/vaporeon-ex-23",
                 "grade_9_freq": "1 sale per day",
@@ -5202,53 +5234,61 @@
                 "grade_9": 23.0,
                 "grade_10": 45.57
             },
+            "Jolteon ex #30": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/jolteon-ex-30",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 4.0,
+                "grade_9": 20.1,
+                "grade_10": 49.41
+            },
             "Leafeon ex #6": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/leafeon-ex-6",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 5.82,
-                "grade_9": 23.0,
-                "grade_10": 42.55
+                "ungraded": 5.0,
+                "grade_9": 19.74,
+                "grade_10": 46.42
             },
-            "Terapagos ex #180": {
-                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/terapagos-ex-180",
-                "grade_9_freq": "2 sales per week",
+            "Lugia ex #82": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/lugia-ex-82",
+                "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 15.12,
-                "grade_9": 16.56,
-                "grade_10": 90.15
-            },
-            "Espeon ex #34": {
-                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/espeon-ex-34",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 4.0,
-                "grade_9": 21.0,
-                "grade_10": 77.24
+                "ungraded": 2.69,
+                "grade_9": 19.63,
+                "grade_10": 65.0
             },
             "Pikachu ex #28": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/pikachu-ex-28",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 2.97,
-                "grade_9": 18.42,
+                "ungraded": 2.81,
+                "grade_9": 18.95,
                 "grade_10": 71.3
+            },
+            "Umbreon ex #60": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/umbreon-ex-60",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 5.5,
+                "grade_9": 18.33,
+                "grade_10": 54.16
+            },
+            "Snorlax ex #76": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/snorlax-ex-76",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 2.67,
+                "grade_9": 17.9,
+                "grade_10": 106.0
             },
             "Sylveon ex #41": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/sylveon-ex-41",
                 "grade_9_freq": "1 sale per day",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 4.21,
-                "grade_9": 17.76,
-                "grade_10": 34.0
-            },
-            "Jolteon ex #30": {
-                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/jolteon-ex-30",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 4.3,
-                "grade_9": 17.0,
-                "grade_10": 47.49
+                "ungraded": 3.95,
+                "grade_9": 17.73,
+                "grade_10": 38.0
             },
             "Flareon ex #14": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/flareon-ex-14",
@@ -5258,29 +5298,37 @@
                 "grade_9": 16.86,
                 "grade_10": 47.91
             },
-            "Teal Mask Ogerpon ex #177": {
-                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/teal-mask-ogerpon-ex-177",
-                "grade_9_freq": "1 sale per week",
+            "Terapagos ex #180": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/terapagos-ex-180",
+                "grade_9_freq": "2 sales per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 12.99,
-                "grade_9": 16.0,
-                "grade_10": 78.79
+                "ungraded": 15.12,
+                "grade_9": 16.56,
+                "grade_10": 90.15
             },
             "Glaceon ex #26": {
                 "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/glaceon-ex-26",
                 "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 3.4,
-                "grade_9": 15.92,
-                "grade_10": 29.1
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 3.44,
+                "grade_9": 16.06,
+                "grade_10": 31.99
             },
-            "Lugia ex #82": {
-                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/lugia-ex-82",
+            "Teal Mask Ogerpon ex #177": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/teal-mask-ogerpon-ex-177",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 3.95,
+                "ungraded": 11.91,
+                "grade_9": 16.0,
+                "grade_10": 78.65
+            },
+            "Espeon ex #34": {
+                "link": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/espeon-ex-34",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 4.0,
                 "grade_9": 15.5,
-                "grade_10": 65.0
+                "grade_10": 83.79
             }
         },
         "journey-together": {
@@ -5327,10 +5375,10 @@
             "Articuno #161": {
                 "link": "https://www.pricecharting.com/game/pokemon-journey-together/articuno-161",
                 "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 22.5,
-                "grade_9": 37.96,
-                "grade_10": 199.92
+                "grade_10_freq": "2 sales per day",
+                "ungraded": 21.0,
+                "grade_9": 37.63,
+                "grade_10": 192.48
             },
             "Volcanion ex #182": {
                 "link": "https://www.pricecharting.com/game/pokemon-journey-together/volcanion-ex-182",
@@ -5396,14 +5444,6 @@
                 "grade_9": 25.54,
                 "grade_10": 70.17
             },
-            "N's Zoroark Ex #175": {
-                "link": "https://www.pricecharting.com/game/pokemon-journey-together/n%27s-zoroark-ex-175",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 10.84,
-                "grade_9": 19.0,
-                "grade_10": 73.5
-            },
             "Furret #168": {
                 "link": "https://www.pricecharting.com/game/pokemon-journey-together/furret-168",
                 "grade_9_freq": "2 sales per week",
@@ -5416,9 +5456,17 @@
                 "link": "https://www.pricecharting.com/game/pokemon-journey-together/iono%27s-bellibolt-ex-172",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 6.62,
-                "grade_9": 18.94,
-                "grade_10": 92.0
+                "ungraded": 5.13,
+                "grade_9": 18.9,
+                "grade_10": 87.07
+            },
+            "N's Zoroark Ex #175": {
+                "link": "https://www.pricecharting.com/game/pokemon-journey-together/n%27s-zoroark-ex-175",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 8.38,
+                "grade_9": 17.99,
+                "grade_10": 67.43
             },
             "Iono's Kilowattrel #163": {
                 "link": "https://www.pricecharting.com/game/pokemon-journey-together/iono%27s-kilowattrel-163",
@@ -5427,14 +5475,6 @@
                 "ungraded": 8.91,
                 "grade_9": 17.43,
                 "grade_10": 89.95
-            },
-            "Lillie's Ribombee #164": {
-                "link": "https://www.pricecharting.com/game/pokemon-journey-together/lillie%27s-ribombee-164",
-                "grade_9_freq": "3 sales per week",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 7.99,
-                "grade_9": 17.25,
-                "grade_10": 81.69
             },
             "Noibat #169": {
                 "link": "https://www.pricecharting.com/game/pokemon-journey-together/noibat-169",
@@ -5468,13 +5508,21 @@
                 "grade_9": 15.5,
                 "grade_10": 82.0
             },
+            "Lillie's Ribombee #164": {
+                "link": "https://www.pricecharting.com/game/pokemon-journey-together/lillie%27s-ribombee-164",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 7.99,
+                "grade_9": 15.5,
+                "grade_10": 81.79
+            },
             "Iris's Fighting Spirit #180": {
                 "link": "https://www.pricecharting.com/game/pokemon-journey-together/iris%27s-fighting-spirit-180",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "1 sale per week",
-                "ungraded": 5.02,
+                "ungraded": 4.85,
                 "grade_9": 14.75,
-                "grade_10": 146.41
+                "grade_10": 140.0
             },
             "Ruffian #181": {
                 "link": "https://www.pricecharting.com/game/pokemon-journey-together/ruffian-181",
@@ -5487,8 +5535,8 @@
             "Brock's Scouting #179": {
                 "link": "https://www.pricecharting.com/game/pokemon-journey-together/brock%27s-scouting-179",
                 "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 5.0,
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 4.94,
                 "grade_9": 12.0,
                 "grade_10": 41.0
             }
