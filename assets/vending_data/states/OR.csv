@@ -28,6 +28,7 @@ Safeway,Q01307,Eugene,"Eugene, OR","1500 Coburg Rd, Eugene, OR",44.0782122,-123.
 WinCo Foods,Q01366,Eugene,"Eugene, OR","4275 Barger Dr, Eugene, OR",44.0865493,-123.1693115
 Albertsons,Q01367,Eugene,"Eugene, OR","4740 Royal Ave, Eugene, OR",44.06850439999999,-123.1791412
 Albertsons,Q01370,Eugene,"Eugene, OR","1675 W 18th Ave, Eugene, OR",44.0415681,-123.1167084
+WinCo Foods,Q01798,Eugene,"Eugene, OR","2815 Chad Dr, Eugene, OR",44.0923012,-123.066993
 Safeway,Q00779,Forest Grove,"Forest Grove, OR","2836 Pacific Ave, Forest Grove, OR",45.5194115,-123.0953533
 Safeway,Q01124,Gladstone,"Gladstone, OR","95 82nd Dr, Gladstone, OR",45.3816595,-122.5822686
 Fred Meyer,Q00190,Gresham,"Gresham, OR","2497 SE Burnside Rd, Gresham, OR",45.4958074,-122.4068825
@@ -44,17 +45,18 @@ Safeway,Q00192,Hillsboro,"Hillsboro, OR","2177 NW 185th Ave, Hillsboro, OR",45.5
 WinCo Foods,Q00766,Hillsboro,"Hillsboro, OR","7330 NE Butler St, Hillsboro, OR",45.5352782,-122.9030689
 WinCo Foods,Q00770,Hillsboro,"Hillsboro, OR","1500 SW Oak St, Hillsboro, OR",45.5183525,-123.0063414
 Fred Meyer,Q00847,Hillsboro,"Hillsboro, OR","22075 NW NE Imbrie Dr, Hillsboro, OR",45.5502096,-122.9043568
-Albertsons,Q00949,Hillsboro,"Hillsboro, OR","7500 W Baseline Rd, Hillsboro, OR",45.5146058,-122.9041033
+Albertsons,Q00949,Hillsboro,"Hillsboro, OR","7500 SW Baseline Rd, Hillsboro, OR",45.5147197,-122.9037527
 Albertsons,Q00954,Hillsboro,"Hillsboro, OR","888 NE 25th Ave, Hillsboro, OR",45.529475,-122.9555231
 Safeway,Q00962,Hillsboro,"Hillsboro, OR","2525 SE Tualatin Valley Hwy, Hillsboro, OR",45.5058969,-122.9543947
 Safeway,Q01305,Junction City,"Junction City, OR","1755 Ivy St, Junction City, OR",44.2291512,-123.2066141
 Safeway,Q00996,Keizer,"Keizer, OR","4990 River Rd N, Keizer, OR",44.996344,-123.0240407
+WinCo Foods,Q01802,Keizer,"Keizer, OR","5450 River Rd N, Keizer, OR",45.0030768,-123.0248503
 Safeway,Q00822,Lake Oswego,"Lake Oswego, OR","17779 Lower Boones Ferry Rd, Lake Oswego, OR",45.3982496,-122.7418944
 Albertsons,Q01067,Lake Oswego,"Lake Oswego, OR","16199 Boones Ferry Rd, Lake Oswego, OR",45.4095465,-122.722927
 Safeway,Q01362,Lebanon,"Lebanon, OR","1983 S Main St, Lebanon, OR",44.52719099999999,-122.9065891
 WinCo Foods,Q00716,McMinnville,"McMinnville, OR","2585 NE OR-99W, McMinnville, OR",45.230878,-123.1721662
 Albertsons,Q01008,McMinnville,"McMinnville, OR","615 SW Keck Cir, McMinnville, OR",45.1964171,-123.205106
-Safeway,Q00837,Mcminnville,"Mcminnville, OR","2490 N Highway, Mcminnville, OR",45.2107513,-123.1944874
+Safeway,Q00837,Mcminnville,"Mcminnville, OR","2490 N OR-99W, Mcminnville, OR",45.22747589999999,-123.1727909
 Safeway,Q00137,Milwaukie,"Milwaukie, OR","14840 SE Webster Rd, Milwaukie, OR",45.4157501,-122.590793
 Safeway,Q01122,Milwaukie,"Milwaukie, OR","4370 SE King Rd, Milwaukie, OR",45.447638,-122.6174191
 Safeway,Q01113,Molalla,"Molalla, OR","1524 W Main St, Molalla, OR",45.1505066,-122.6047718
@@ -64,6 +66,7 @@ Safeway,Q01115,Newberg,"Newberg, OR","1140 N Springbrook Rd, Newberg, OR",45.308
 Fred Meyer,Q00843,Oak Grove,"Oak Grove, OR","14700 SE McLoughlin Blvd, Oak Grove, OR",45.4169353,-122.6313338
 Fred Meyer,Q00998,Oak Grove,"Oak Grove, OR","14700 SE McLoughlin Blvd, Oak Grove, OR",45.4169353,-122.6313338
 Albertsons,Q01452,Ontario,"Ontario, OR","1410 Westpark Plaza, Ontario, OR",44.0233558,-116.9838234
+WinCo Foods,Q01706,Ontario,"Ontario, OR","1630 E Idaho Ave, Ontario, OR",44.0228361,-116.941864
 Fred Meyer,Q00141,Oregon City,"Oregon City, OR","1839 Molalla Ave, Oregon City, OR",45.3324259,-122.5831665
 Safeway,Q01116,Oregon City,"Oregon City, OR","13434 Colton Pl, Oregon City, OR",45.3347087,-122.5910889
 Albertsons,Q01304,Oregon City,"Oregon City, OR","19007 S Beavercreek Rd, Oregon City, OR",45.3298513,-122.5733254
@@ -109,7 +112,7 @@ Fred Meyer,Q00891,Salem,"Salem, OR","3740 Market St NE, Salem, OR",44.9498568,-1
 Safeway,Q01001,Salem,"Salem, OR","1265 Center St NE, Salem, OR",44.940822,-123.0242449
 Safeway,Q01002,Salem,"Salem, OR","3380 Lancaster Dr NE, Salem, OR",44.9686877,-122.9818622
 Safeway,Q00179,Sandy,"Sandy, OR","37601 US-26, Sandy, OR",45.40127589999999,-122.2769154
-Fred Meyer,Q00189,Sandy,"Sandy, OR","16625 SE 362nd Dr, Sandy, OR",45.4033693,-122.2927996
+Fred Meyer,Q00189,Sandy,"Sandy, OR","16625 362ND Ave, Sandy, OR",45.403021,-122.2924245
 Fred Meyer,Q00876,Scappoose,"Scappoose, OR","51501 Columbia River Hwy, Scappoose, OR",45.741755,-122.8784466
 Safeway,Q00209,Sherwood,"Sherwood, OR","20685 SW Roy Rogers Rd, Sherwood, OR",45.3696833,-122.8452993
 Safeway,Q01120,Silverton,"Silverton, OR","301 Westfield St, Silverton, OR",45.00324450000001,-122.7939568

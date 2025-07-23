@@ -28,8 +28,8 @@ King Soopers,Q00275,Broomfield,"Broomfield, CO","1150 US-287, Broomfield, CO",39
 King Soopers,Q00724,Broomfield,"Broomfield, CO","12167 Sheridan Boulevard, Broomfield, CO",39.9170996,-105.0555588
 King Soopers,Q00753,Broomfield,"Broomfield, CO","2355 W 136th Ave, Broomfield, CO",39.9440792,-105.0130556
 Safeway,Q01147,Broomfield,"Broomfield, CO","3602 W 144th Ave, Broomfield, CO",39.9564919,-105.0354682
+King Soopers,Q00745,Castle Pines,"Castle Pines, CO","7284 Lagae Rd, Castle Pines, CO",39.4685495,-104.879577
 King Soopers,Q00283,Castle Rock,"Castle Rock, CO","750 N Ridge Rd, Castle Rock, CO",39.3746415,-104.8273095
-King Soopers,Q00745,Castle Rock,"Castle Rock, CO","7284 Lagae Rd, Castle Rock, CO",39.4685495,-104.879577
 Safeway,Q01096,Castle Rock,"Castle Rock, CO","880 S Perry St, Castle Rock, CO",39.3619974,-104.8609679
 King Soopers,Q00272,Centennial,"Centennial, CO","8200 S Holly St, Centennial, CO",39.5675234,-104.9208168
 King Soopers,Q00280,Centennial,"Centennial, CO","5050 E Arapahoe Rd, Centennial, CO",39.5943625,-104.9287557
@@ -47,6 +47,7 @@ Safeway,Q01269,Colorado Springs,"Colorado Springs, CO","1121 N Circle Dr, Colora
 Safeway,Q01313,Colorado Springs,"Colorado Springs, CO","840 Village Center Dr, Colorado Springs, CO",38.9238733,-104.8444735
 Safeway,Q01476,Colorado Springs,"Colorado Springs, CO","1425 S Murray Blvd, Colorado Springs, CO",38.8124465,-104.7464426
 King Soopers,Q01506,Colorado Springs,"Colorado Springs, CO","3620 Austin Bluffs Pkwy, Colorado Springs, CO",38.8920941,-104.7610271
+King Soopers,Q01701,Colorado Springs,"Colorado Springs, CO","3570 Hartsel Dr, Colorado Springs, CO",38.9400951,-104.7602979
 King Soopers,Q00426,Commerce City,"Commerce City, CO","4850 E 62nd Ave, Commerce City, CO",39.808747,-104.9301075
 King Soopers,Q00437,Commerce City,"Commerce City, CO","15051 E 104th Ave, Commerce City, CO",39.8874933,-104.8109439
 Safeway,Q01647,Conifer,"Conifer, CO","27152 Main St, Conifer, CO",39.5272844,-105.3034
@@ -57,7 +58,7 @@ King Soopers,Q00398,Denver,"Denver, CO","2727 W Evans Ave, Denver, CO",39.680087
 King Soopers,Q00430,Denver,"Denver, CO","890 S Monaco St Pkwy, Denver, CO",39.7010176,-104.911327
 King Soopers,Q00439,Denver,"Denver, CO","2750 S Colorado Blvd, Denver, CO",39.666764,-104.9368776
 King Soopers,Q00442,Denver,"Denver, CO","1355 Krameria St, Denver, CO",39.7377231,-104.9162638
-King Soopers,Q00443,Denver,"Denver, CO","10406 E M.L.K. Jr Blvd, Denver, CO",39.75984,-104.8887361
+King Soopers,Q00443,Denver,"Denver, CO","10406 M.L.K. Jr Blvd, Denver, CO",39.7595228,-104.86665
 Safeway,Q00622,Denver,"Denver, CO","1653 S Colorado Blvd, Denver, CO",39.6867716,-104.9424446
 Safeway,Q00635,Denver,"Denver, CO","2150 S Downing St, Denver, CO",39.6776747,-104.9728461
 Safeway,Q00641,Denver,"Denver, CO","200 Quebec St, Denver, CO",39.7202905,-104.9008767
@@ -114,7 +115,6 @@ Safeway,Q01142,Lone Tree,"Lone Tree, CO","9229 Lincoln Ave, Lone Tree, CO",39.53
 Safeway,Q00448,Longmont,"Longmont, CO","1050 Ken Pratt Blvd, Longmont, CO",40.1529514,-105.1104554
 Safeway,Q00450,Longmont,"Longmont, CO","1632 Hover St, Longmont, CO",40.1880332,-105.1293675
 King Soopers,Q00428,Louisville,"Louisville, CO","1375 E South Boulder Rd, Louisville, CO",39.988326,-105.1242509
-Safeway,Q00644,Louisville,"Louisville, CO","1601 Coalton Rd, Louisville, CO",39.9301989,-105.1489565
 Safeway,Q01170,Monument,"Monument, CO","624 W Hwy 105, Monument, CO",39.0981174,-104.8657874
 King Soopers,Q00747,Northglenn,"Northglenn, CO","750 E 104th Ave, Northglenn, CO",39.883797,-104.9759907
 Safeway,Q01158,Northglenn,"Northglenn, CO","500 E 120th Ave, Northglenn, CO",39.9122222,-104.9806882
@@ -122,6 +122,7 @@ King Soopers,Q00105,Parker,"Parker, CO","17761 Cottonwood Dr, Parker, CO",39.560
 King Soopers,Q00109,Parker,"Parker, CO","17031 Lincoln Ave, Parker, CO",39.5357504,-104.7922062
 Safeway,Q01105,Parker,"Parker, CO","11051 S Parker Rd, Parker, CO",39.5160562,-104.7665878
 King Soopers,Q01171,Parker,"Parker, CO","12959 S Parker Rd, Parker, CO",39.4798136,-104.7607222
+Safeway,Q00644,Superior,"Superior, CO","1601 Coalton Rd, Superior, CO",39.929661,-105.1489214
 King Soopers,Q00440,Thornton,"Thornton, CO","3801 E 120th Ave, Thornton, CO",39.914814,-104.9434923
 Safeway,Q00647,Thornton,"Thornton, CO","771 Thornton Pkwy, Thornton, CO",39.8724663,-104.9759434
 Safeway,Q00664,Thornton,"Thornton, CO","3840 E 104th Ave, Thornton, CO",39.8832921,-104.9425807
