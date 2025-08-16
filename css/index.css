@@ -74,11 +74,6 @@ nav a:hover {
 }
 
 @media (max-width: 700px) {
-    #map {
-        width: 100% !important;
-        margin: 0 auto !important;
-    }
-
     .full {
         display: none !important;
     }
