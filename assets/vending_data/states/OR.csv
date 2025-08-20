@@ -1,5 +1,7 @@
 Retailer,Machine ID,Address,Cities,Full Address,Longitude,Latitude
 Fred Meyer,Q00832,Albany,"Albany, OR","2500 Santiam Hwy SE, Albany, OR",44.6320862,-123.0748201
+Safeway,Q01871,Albany,"Albany, OR","1990 14th Ave SE, Albany, OR",44.6272294,-123.0795844
+Safeway,Q01871,Albany,"Albany, OR","1990 14th Ave SE, Albany, OR",44.6272294,-123.0795844
 Safeway,Q00826,Aloha,"Aloha, OR","6055 SW 185th Ave, Aloha, OR",45.4755939,-122.8690208
 Safeway,Q00855,Aloha,"Aloha, OR","20535 SW Tualatin Valley Hwy, Aloha, OR",45.4967624,-122.8881898
 Fred Meyer,Q00138,Beaverton,"Beaverton, OR","11425 SW Beaverton Hillsdale Hwy, Beaverton, OR",45.4885715,-122.7942535
@@ -25,9 +27,9 @@ Fred Meyer,Q00946,Eugene,"Eugene, OR","3333 W 11th Ave, Eugene, OR",44.0483373,-
 Albertsons,Q01121,Eugene,"Eugene, OR","55 Division Ave, Eugene, OR",44.10065669999999,-123.1283431
 Albertsons,Q01294,Eugene,"Eugene, OR","311 Coburg Rd, Eugene, OR",44.0645956,-123.0738439
 Safeway,Q01307,Eugene,"Eugene, OR","1500 Coburg Rd, Eugene, OR",44.0782122,-123.0703195
-WinCo Foods,Q01366,Eugene,"Eugene, OR","4275 Barger Dr, Eugene, OR",44.0865493,-123.1693115
 Albertsons,Q01367,Eugene,"Eugene, OR","4740 Royal Ave, Eugene, OR",44.06850439999999,-123.1791412
 Albertsons,Q01370,Eugene,"Eugene, OR","1675 W 18th Ave, Eugene, OR",44.0415681,-123.1167084
+WinCo Foods,Q01724,Eugene,"Eugene, OR","4275 Barger Dr, Eugene, OR",44.0865493,-123.1693115
 WinCo Foods,Q01798,Eugene,"Eugene, OR","2815 Chad Dr, Eugene, OR",44.0923012,-123.066993
 Safeway,Q00779,Forest Grove,"Forest Grove, OR","2836 Pacific Ave, Forest Grove, OR",45.5194115,-123.0953533
 Safeway,Q01124,Gladstone,"Gladstone, OR","95 82nd Dr, Gladstone, OR",45.3816595,-122.5822686
@@ -119,7 +121,7 @@ Safeway,Q01120,Silverton,"Silverton, OR","301 Westfield St, Silverton, OR",45.00
 Fred Meyer,Q00909,Springfield,"Springfield, OR","650 Q St, Springfield, OR",44.0633366,-123.0176998
 Albertsons,Q00951,Springfield,"Springfield, OR","2000 Marcola Rd, Springfield, OR",44.0656901,-122.9949774
 Albertsons,Q01128,Springfield,"Springfield, OR","5755 S Main St, Springfield, OR",44.0462362,-123.0220289
-Safeway,Q01349,Springfield,"Springfield, OR","1891 Pioneer Pkwy E, Springfield, OR",44.0634329,-123.0240309
+Safeway,Q01811,Springfield,"Springfield, OR","1891 Pioneer Pkwy E, Springfield, OR",44.0634329,-123.0240309
 Safeway,Q01135,Stayton,"Stayton, OR","1535 N First Ave, Stayton, OR",44.80575,-122.7960352
 Safeway,Q01131,Sweet Home,"Sweet Home, OR","1540 Main St, Sweet Home, OR",44.3997118,-122.7256982
 Safeway,Q00587,Tigard,"Tigard, OR","15570 SW Pacific Hwy, Tigard, OR",45.4072213,-122.7927096

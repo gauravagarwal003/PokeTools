@@ -1,5 +1,9 @@
 Retailer,Machine ID,Address,Cities,Full Address,Longitude,Latitude
 Safeway,Q01298,Anacortes,"Anacortes, WA","911 11th St, Anacortes, WA",48.5122831,-122.6117014
+Safeway,Q01699,Arlington,"Arlington, WA","3532 172nd St NE, Arlington, WA",48.1520649,-122.1804496
+Safeway,Q01770,Arlington,"Arlington, WA","20500 Olympic Pl NE, Arlington, WA",48.1820751,-122.1276862
+Safeway,Q01699,Arlington,"Arlington, WA","3532 172nd St NE, Arlington, WA",48.1520649,-122.1804496
+Safeway,Q01770,Arlington,"Arlington, WA","20500 Olympic Pl NE, Arlington, WA",48.1820751,-122.1276862
 Fred Meyer,Q00164,Auburn,"Auburn, WA","801 Auburn Wy N, Auburn, WA",47.3161205,-122.2247926
 Safeway,Q00249,Auburn,"Auburn, WA","101 Auburn Way S, Auburn, WA",47.3064087,-122.2267785
 Safeway,Q00804,Auburn,"Auburn, WA","4010 A St SE, Auburn, WA",47.2728184,-122.2269136
@@ -47,6 +51,7 @@ Fred Meyer,Q00823,Everett,"Everett, WA","8530 Evergreen Wy, Everett, WA",47.9202
 QFC,Q01085,Everett,"Everett, WA","4919 Evergreen Wy, Everett, WA",47.9525026,-122.2120411
 Safeway,Q01284,Everett,"Everett, WA","1715 Broadway, Everett, WA",47.9941095,-122.200262
 Safeway,Q01413,Everett,"Everett, WA","4128 Rucker Ave, Everett, WA",47.9623992,-122.2123417
+Safeway,Q01953,Everett,"Everett, WA","520 128th St SW, Everett, WA",47.8808004,-122.2406129
 Fred Meyer,Q00037,Federal Way,"Federal Way, WA","33702 21st Ave SW, Federal Way, WA",47.2980733,-122.3588012
 H Mart,Q00117,Federal Way,"Federal Way, WA","31217 Pacific Hwy S, Federal Way, WA",47.3218624,-122.315225
 Fred Meyer,Q00213,Federal Way,"Federal Way, WA","33702 21st Ave SW, Federal Way, WA",47.2980733,-122.3588012
@@ -56,6 +61,7 @@ WinCo Foods,Q01876,Federal Way,"Federal Way, WA","160 SW Campus Dr, Federal Way,
 Fred Meyer,Q00228,Gig Harbor,"Gig Harbor, WA","5502 Point Fosdick Dr, Gig Harbor, WA",47.3075436,-122.5810844
 Safeway,Q01327,Gig Harbor,"Gig Harbor, WA","4831 Point Fosdick Dr, Gig Harbor, WA",47.30226400000001,-122.5758606
 Albertsons,Q01497,Gig Harbor,"Gig Harbor, WA","11330 51st Ave NW, Gig Harbor, WA",47.3609681,-122.6046577
+Safeway,Q01961,Graham,"Graham, WA","10105 224th St E, Graham, WA",47.05427,-122.2963296
 Fred Meyer,Q00039,Issaquah,"Issaquah, WA","6100 E Lake Sammamish Pkwy SE, Issaquah, WA",47.54872839999999,-122.0389226
 Safeway,Q00125,Issaquah,"Issaquah, WA","735 NW Gilman Blvd, Issaquah, WA",47.5415358,-122.0485819
 QFC,Q01070,Issaquah,"Issaquah, WA","1540 NW Gilman Blvd, Issaquah, WA",47.5458894,-122.060026
@@ -96,8 +102,11 @@ Fred Meyer,Q00142,Marysville,"Marysville, WA","9925 State Ave, Marysville, WA",4
 Fred Meyer,Q00247,Marysville,"Marysville, WA","9925 State Ave, Marysville, WA",48.0853604,-122.1696481
 Safeway,Q01136,Marysville,"Marysville, WA","1258 State Ave, Marysville, WA",48.0625209,-122.1744993
 WinCo Foods,Q01273,Marysville,"Marysville, WA","3947 116th St NE, Marysville, WA",48.1009873,-122.1774596
+Albertsons,Q01782,Marysville,"Marysville, WA","301 Marysville Mall, Marysville, WA",48.0506785,-122.1776299
 Safeway,Q00250,Mill Creek,"Mill Creek, WA","16304 Bothell Everett Hwy, Mill Creek, WA",47.8508627,-122.2200993
 QFC,Q01154,Mill Creek,"Mill Creek, WA","926 164th St SE, Mill Creek, WA",47.8486145,-122.2200052
+Albertsons,Q01788,Mill Creek,"Mill Creek, WA","3322 132nd St SE, Mill Creek, WA",47.8766062,-122.1872866
+Safeway,Q01958,Milton,"Milton, WA","900 Meridian Ave E, Milton, WA",47.2487073,-122.2957898
 Fred Meyer,Q00148,Monroe,"Monroe, WA","18805 State Route 2, Monroe, WA",47.8616271,-121.9776813
 Fred Meyer,Q00221,Monroe,"Monroe, WA","18805 State Route 2, Monroe, WA",47.8616271,-121.9776813
 Safeway,Q01295,Monroe,"Monroe, WA","19651 US-2, Monroe, WA",47.8601324,-121.9674334
@@ -128,12 +137,14 @@ Fred Meyer,Q00993,Puyallup,"Puyallup, WA","17404 Meridian E, Puyallup, WA",47.09
 Albertsons,Q01402,Puyallup,"Puyallup, WA","11012 Canyon Rd E, Puyallup, WA",47.15606930000001,-122.3591839
 Safeway,Q01405,Puyallup,"Puyallup, WA","11501 Canyon Rd E, Puyallup, WA",47.1523102,-122.3566884
 Safeway,Q01493,Puyallup,"Puyallup, WA","708 Shaw Rd E, Puyallup, WA",47.18482119999999,-122.2591154
+WinCo Foods,Q01689,Puyallup,"Puyallup, WA","9518 176th St E, Puyallup, WA",47.0955938,-122.301071
 Fred Meyer,Q00022,Redmond,"Redmond, WA","17667 NE 76th St, Redmond, WA",47.6705386,-122.1046018
 QFC,Q00106,Redmond,"Redmond, WA","8867 161st Avenue Northeast, Redmond, WA",47.680835,-122.1261299
 Safeway,Q00401,Redmond,"Redmond, WA","15000 NE 24th St, Redmond, WA",47.6326836,-122.1404747
 QFC,Q01153,Redmond,"Redmond, WA","15800 Redmond Way, Redmond, WA",47.6758241,-122.1288997
 QFC,Q01317,Redmond,"Redmond, WA","23475 NE Novelty Hill Rd, Redmond, WA",47.6987872,-122.0263063
 Safeway,Q01414,Redmond,"Redmond, WA","17246 Redmond Way, Redmond, WA",47.6720018,-122.1099958
+H Mart,Q01700,Redmond,"Redmond, WA","7589 170th Ave NE, Redmond, WA",47.6704422,-122.1158341
 Safeway,Q00025,Renton,"Renton, WA","4300 NE 4th St, Renton, WA",47.4898781,-122.1613726
 Fred Meyer,Q00034,Renton,"Renton, WA","365 Renton Center Way SW, Renton, WA",47.4768534,-122.2179674
 Fred Meyer,Q00176,Renton,"Renton, WA","17801 108th Ave SE, Renton, WA",47.4429469,-122.1998661
@@ -165,6 +176,9 @@ QFC,Q01175,Seattle,"Seattle, WA","417 Broadway E #2, Seattle, WA",47.6224556,-12
 Safeway,Q01192,Seattle,"Seattle, WA","9620 28th Ave SW, Seattle, WA",47.51671880000001,-122.3669196
 Safeway,Q01418,Seattle,"Seattle, WA","7300 Roosevelt Way NE, Seattle, WA",47.681857,-122.3170171
 Safeway,Q01420,Seattle,"Seattle, WA","3900 S Othello St, Seattle, WA",47.53747449999999,-122.2830667
+Safeway,Q01682,Seattle,"Seattle, WA","7340 35th Ave NE, Seattle, WA",47.6825128,-122.2893391
+Safeway,Q01946,Seattle,"Seattle, WA","516 1st Ave W, Seattle, WA",47.6241305,-122.3575598
+Albertsons,Q01957,Seattle,"Seattle, WA","2550 32nd Ave W, Seattle, WA",47.6424716,-122.3979475
 Safeway,Q01281,Shelton,"Shelton, WA","600 W Franklin St, Shelton, WA",47.2146426,-123.1065143
 Fred Meyer,Q00038,Shoreline,"Shoreline, WA","18325 Aurora Ave N, Shoreline, WA",47.7620769,-122.3477322
 Safeway,Q00257,Shoreline,"Shoreline, WA","15332 Aurora Ave N, Shoreline, WA",47.74090210000001,-122.3436341
@@ -172,6 +186,7 @@ Safeway,Q00845,Shoreline,"Shoreline, WA","17202 15th Ave NE, Shoreline, WA",47.7
 Safeway,Q01489,Silverdale,"Silverdale, WA","2890 NW Bucklin Hill Rd, Silverdale, WA",47.652686,-122.6882151
 Fred Meyer,Q00186,Snohomish,"Snohomish, WA","2801 Bickford Ave, Snohomish, WA",47.9438603,-122.1052516
 Fred Meyer,Q00197,Snohomish,"Snohomish, WA","2801 Bickford Ave, Snohomish, WA",47.9438603,-122.1052516
+Safeway,Q01775,Snohomish,"Snohomish, WA","17520 WA-9, Snohomish, WA",47.8389424,-122.1253257
 Safeway,Q00807,Snoqualmie,"Snoqualmie, WA","34828 SE Douglas St, Snoqualmie, WA",47.52759220000001,-121.8737094
 Fred Meyer,Q00866,Spanaway,"Spanaway, WA","22303 Mountain Hwy E, Spanaway, WA",47.0552925,-122.3971279
 Fred Meyer,Q00136,Sumner,"Sumner, WA","1201 Valley Ave, Sumner, WA",47.2046368,-122.227942

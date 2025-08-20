@@ -44,6 +44,7 @@ Albertsons,Q00388,Corona,"Corona, CA","260 W Foothill Pkwy, Corona, CA",33.84364
 Vons,Q00508,Corona,"Corona, CA","535 N McKinley St, Corona, CA",33.8913722,-117.5201397
 Vons,Q00511,Corona,"Corona, CA","11800 De Palma Rd, Corona, CA",33.7473282,-117.4530693
 Safeway,Q01512,Corte Madera,"Corte Madera, CA","137 Corte Madera Town Center, Corte Madera, CA",37.9279695,-122.5177114
+Vons,Q01711,Costa Mesa,"Costa Mesa, CA","2701 Harbor Blvd, Costa Mesa, CA",33.67238140000001,-117.9205734
 Ralphs,Q01781,Costa Mesa,"Costa Mesa, CA","380 E 17th St, Costa Mesa, CA",33.6318821,-117.9123644
 Pavilions,Q00517,Culver City,"Culver City, CA","11030 Jefferson Blvd, Culver City, CA",33.9967446,-118.3937633
 Safeway,Q01486,Cupertino,"Cupertino, CA","20620 W Homestead Rd, Cupertino, CA",37.3361552,-122.0345557
@@ -80,10 +81,12 @@ WinCo Foods,Q00493,Fontana,"Fontana, CA","14338 Foothill Blvd, Fontana, CA",34.1
 Vons,Q00563,Fontana,"Fontana, CA","7390 Cherry Ave, Fontana, CA",34.119856,-117.490218
 Safeway,Q01239,Foster City,"Foster City, CA","921 E Hillsdale Blvd, Foster City, CA",37.5567755,-122.2758939
 Albertsons,Q00328,Fountain Valley,"Fountain Valley, CA","16061 Brookhurst St, Fountain Valley, CA",33.7290517,-117.9566604
+Ralphs,Q01721,Fountain Valley,"Fountain Valley, CA","18405 Brookhurst St, Fountain Valley, CA",33.6954314,-117.9559283
 Safeway,Q01337,Freedom,"Freedom, CA","2010 Freedom Blvd, Freedom, CA",36.9400086,-121.7755903
 Safeway,Q00973,Fremont,"Fremont, CA","39100 Argonaut Way, Fremont, CA",37.5455955,-121.9894879
 Safeway,Q01026,Fremont,"Fremont, CA","3902 Washington Blvd, Fremont, CA",37.5315046,-121.9571762
 Albertsons,Q00332,Fullerton,"Fullerton, CA","1930 N Placentia Ave, Fullerton, CA",33.89008280000001,-117.8722629
+Ralphs,Q01726,Fullerton,"Fullerton, CA","1121 N Harbor Blvd, Fullerton, CA",33.8814007,-117.9252663
 Vons,Q00717,Garden Grove,"Garden Grove, CA","11861 Valley View St, Garden Grove, CA",33.7901681,-118.0290381
 Vons,Q00658,Gardena,"Gardena, CA","1260 W Redondo Beach Blvd, Gardena, CA",33.8909176,-118.2978182
 Albertsons,Q00732,Gardena,"Gardena, CA","1735 Artesia Blvd, Gardena, CA",33.8742371,-118.3080208
@@ -114,8 +117,10 @@ Albertsons,Q00590,Irvine,"Irvine, CA","4541 Campus Dr, Irvine, CA",33.6501469,-1
 Albertsons,Q01285,Irvine,"Irvine, CA","6601 Quail Hill Pkwy, Irvine, CA",33.6558064,-117.7782915
 Safeway,Q00922,Jackson,"Jackson, CA","12110 Industry Blvd, Jackson, CA",38.3682781,-120.7998186
 Vons,Q01241,La Crescenta-Montrose,"La Crescenta-Montrose, CA","3233 Foothill Blvd, La Crescenta-Montrose, CA",34.231145,-118.2501879
+Ralphs,Q01713,La Crescenta-Montrose,"La Crescenta-Montrose, CA","2675 Foothill Blvd, La Crescenta-Montrose, CA",34.2235029,-118.2366875
 Albertsons,Q00583,La Habra,"La Habra, CA","1800 W Whittier Blvd, La Habra, CA",33.93845750000001,-117.9664436
 Pavilions,Q00576,La Jolla,"La Jolla, CA","7544 Girard Ave, La Jolla, CA",32.8416872,-117.273582
+Ralphs,Q01842,La Jolla,"La Jolla, CA","8657 Villa La Jolla Dr, La Jolla, CA",32.8671048,-117.2319686
 Albertsons,Q00878,La Mesa,"La Mesa, CA","8920 Fletcher Pkwy, La Mesa, CA",32.7862652,-117.005438
 Albertsons,Q01777,La Mirada,"La Mirada, CA","15200 Rosecrans Ave, La Mirada, CA",33.8970954,-118.0075432
 Food 4 Less,Q00338,La Puente,"La Puente, CA","1821 N Hacienda Blvd, La Puente, CA",34.05215940000001,-117.9444879
@@ -144,6 +149,7 @@ Pavilions,Q00514,Los Angeles,"Los Angeles, CA","6534 Platt Ave, Los Angeles, CA"
 Vons,Q00577,Los Angeles,"Los Angeles, CA","7789 Foothill Blvd, Los Angeles, CA",34.259157,-118.3011848
 Vons,Q00719,Los Angeles,"Los Angeles, CA","7311 N Figueroa St, Los Angeles, CA",34.1359378,-118.1895172
 Food 4 Less,Q01694,Los Angeles,"Los Angeles, CA","12689 Glenoaks Blvd, Los Angeles, CA",34.2997045,-118.4419571
+Ralphs,Q01719,Los Angeles,"Los Angeles, CA","4760 W Pico Blvd, Los Angeles, CA",34.047716,-118.3394374
 Safeway,Q00978,Los Gatos,"Los Gatos, CA","470 N Santa Cruz Ave, Los Gatos, CA",37.2314105,-121.9790366
 Safeway,Q00983,Los Gatos,"Los Gatos, CA","15549 Union Ave, Los Gatos, CA",37.2424233,-121.932645
 Safeway,Q00980,Manteca,"Manteca, CA","1187 S Main St, Manteca, CA",37.7867336,-121.2188396
@@ -174,7 +180,7 @@ Food 4 Less,Q00419,North Hills,"North Hills, CA","16208 Parthenia St, North Hill
 Food 4 Less,Q00412,North Hollywood,"North Hollywood, CA","8035 Webb Ave, North Hollywood, CA",34.21629530000001,-118.3897465
 Safeway,Q01519,Novato,"Novato, CA","5720 Nave Dr, Novato, CA",38.062346,-122.5320906
 FoodMaxx,Q00984,Oakland,"Oakland, CA","3000 E 9th St, Oakland, CA",37.7755097,-122.2306231
-Albertsons,Q01126,Oakland,"Oakland, CA","5100 Broadway, Oakland, CA",37.8348327,-122.2491039
+Safeway,Q01126,Oakland,"Oakland, CA","5100 Broadway, Oakland, CA",37.8348327,-122.2491039
 Safeway,Q01164,Oakland,"Oakland, CA","4100 Redwood Rd, Oakland, CA",37.7979581,-122.1819737
 Safeway,Q01267,Oakland,"Oakland, CA","6310 College Ave, Oakland, CA",37.8507561,-122.2520065
 Albertsons,Q00668,Oceanside,"Oceanside, CA","3450 Marron Rd, Oceanside, CA",33.1795563,-117.2964516
@@ -182,10 +188,11 @@ Albertsons,Q00751,Oceanside,"Oceanside, CA","4150 Oceanside Blvd, Oceanside, CA"
 Vons,Q01005,Oceanside,"Oceanside, CA","845 College Blvd, Oceanside, CA",33.2411185,-117.2946649
 WinCo Foods,Q01300,Oceanside,"Oceanside, CA","2245 S El Camino Real, Oceanside, CA",33.1857067,-117.3300164
 Ralphs,Q01658,Oceanside,"Oceanside, CA","101 Old Grove Rd, Oceanside, CA",33.2298664,-117.3074821
-Food 4 Less,Q01176,Ontario,"Ontario, CA","2246 S Euclid Ave, Ontario, CA",34.0326111,-117.6528351
+Food 4 Less,Q01675,Ontario,"Ontario, CA","2246 S Euclid Ave, Ontario, CA",34.0326111,-117.6528351
 Vons,Q00591,Orange,"Orange, CA","2684 N Tustin St, Orange, CA",33.83384,-117.837555
 WinCo Foods,Q01251,Orangevale,"Orangevale, CA","8701 Greenback Ln, Orangevale, CA",38.6798793,-121.2338233
 Vons,Q00494,Oxnard,"Oxnard, CA","2101 N Rose Ave, Oxnard, CA",34.2218328,-119.1617781
+Vons,Q01722,Oxnard,"Oxnard, CA","1291 S Victoria Ave, Oxnard, CA",34.1883692,-119.2220894
 Safeway,Q01344,Pacifica,"Pacifica, CA","1380 Linda Mar Blvd, Pacifica, CA",37.5944128,-122.5030617
 Safeway,Q01387,Pacifica,"Pacifica, CA","709 Hickey Blvd, Pacifica, CA",37.6610102,-122.477594
 Vons,Q00372,Pasadena,"Pasadena, CA","2355 E Colorado Blvd, Pasadena, CA",34.147471,-118.1022092
@@ -234,7 +241,9 @@ Vons,Q00592,San Diego,"San Diego, CA","4145 30th St, San Diego, CA",32.7531326,-
 Vons,Q00615,San Diego,"San Diego, CA","4725 Clairemont Dr, San Diego, CA",32.8301997,-117.2049118
 Vons,Q00888,San Diego,"San Diego, CA","3550 Murphy Canyon Rd, San Diego, CA",32.8073112,-117.1166399
 Vons,Q00889,San Diego,"San Diego, CA","10675 Scripps Poway Pkwy, San Diego, CA",32.9355075,-117.0985163
-Vons,Q01266,San Diego,"San Diego, CA","7895 Highlands Village Pl, San Diego, CA",32.9609224,-117.1535891
+Vons,Q01703,San Diego,"San Diego, CA","10016 Scripps Ranch Blvd, San Diego, CA",32.9030914,-117.100461
+Vons,Q01738,San Diego,"San Diego, CA","2495 Truxtun Rd Ste 28, San Diego, CA",32.7372237,-117.2157268
+Vons,Q01831,San Diego,"San Diego, CA","7895 Highlands Village Pl, San Diego, CA",32.9609224,-117.1535891
 Albertsons,Q00496,San Dimas,"San Dimas, CA","220 E Bonita Ave, San Dimas, CA",34.1059358,-117.8038216
 Safeway,Q00920,San Francisco,"San Francisco, CA","735 7th Ave, San Francisco, CA",37.7745526,-122.4653886
 Safeway,Q01345,San Francisco,"San Francisco, CA","5290 Diamond Heights Blvd, San Francisco, CA",37.743586,-122.439074
@@ -289,6 +298,7 @@ Safeway,Q01057,Stockton,"Stockton, CA","2808 Country Club Blvd, Stockton, CA",37
 Safeway,Q00611,Sunnyvale,"Sunnyvale, CA","639 S Bernardo Ave, Sunnyvale, CA",37.3729675,-122.0580874
 Safeway,Q01503,Sunnyvale,"Sunnyvale, CA","150 E El Camino Real, Sunnyvale, CA",37.3644547,-122.030787
 WinCo Foods,Q01185,Temecula,"Temecula, CA","40435 Winchester Rd, Temecula, CA",33.5306272,-117.154063
+Ralphs,Q01885,Temecula,"Temecula, CA","33145 Temecula Pkwy, Temecula, CA",33.4844405,-117.079684
 Vons,Q00507,Thousand Oaks,"Thousand Oaks, CA","2048 E Avenida de Los Arboles, Thousand Oaks, CA",34.2099857,-118.8408366
 Vons,Q01783,Thousand Oaks,"Thousand Oaks, CA","1790 N Moorpark Rd, Thousand Oaks, CA",34.2015085,-118.8667803
 Vons,Q00423,Torrance,"Torrance, CA","4705 Torrance Blvd, Torrance, CA",33.83774880000001,-118.3635153
