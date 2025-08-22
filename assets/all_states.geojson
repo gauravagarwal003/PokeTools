@@ -3002,20 +3002,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.363351,
-          33.771618
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "725 Ponce De Leon Ave NE, Atlanta, GA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -84.3146,
           33.855418
         ]
@@ -3331,6 +3317,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "3455 Peachtree Industrial Blvd, Duluth, GA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.315908,
+          33.922624
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "4498 Chamblee Dunwoody Rd, Dunwoody, GA"
       }
     },
     {
@@ -3926,20 +3926,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.206978,
-          33.855186
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "4357 Lawrenceville Hwy, Tucker, GA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -84.255771,
           33.843368
         ]
@@ -3947,6 +3933,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "3959 Lavista Rd A, Tucker, GA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.206978,
+          33.855186
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "4357 Lawrenceville Hwy, Tucker, GA"
       }
     },
     {
@@ -4472,34 +4472,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.18045,
-          48.152065
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "3532 172nd St NE, Arlington, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.127686,
-          48.182075
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "20500 Olympic Pl NE, Arlington, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.224793,
           47.31612
         ]
@@ -4598,6 +4570,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.144369,
+          47.581298
+        ]
+      },
+      "properties": {
+        "Retailer": "Fresh",
+        "Address": "3290 146th Pl SE Suite A, Bellevue, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.167204,
           47.578359
         ]
@@ -4689,6 +4675,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "300 Bellevue Way NE, Bellevue, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.144369,
+          47.581298
+        ]
+      },
+      "properties": {
+        "Retailer": "Fresh",
+        "Address": "3290 146th Pl SE Suite A, Bellevue, WA"
       }
     },
     {
@@ -5256,6 +5256,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.309609,
+          47.313386
+        ]
+      },
+      "properties": {
+        "Retailer": "The Commons at Federal Way",
+        "Address": "1928 S Commons, Federal Way, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309609,
+          47.313386
+        ]
+      },
+      "properties": {
+        "Retailer": "The Commons at Federal Way",
+        "Address": "1928 S Commons, Federal Way, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.581084,
           47.307544
         ]
@@ -5564,20 +5592,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.823864,
-          46.994763
-        ]
-      },
-      "properties": {
-        "Retailer": "QFC",
-        "Address": "4775 Whitman Ln SE, Lacey, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.822206,
           46.997928
         ]
@@ -5599,6 +5613,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "6200 Pacific Ave SE, Lacey, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.823864,
+          46.994763
+        ]
+      },
+      "properties": {
+        "Retailer": "QFC",
+        "Address": "4775 Whitman Ln SE, Lacey, WA"
       }
     },
     {
@@ -7132,20 +7160,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.435729,
-          47.190704
-        ]
-      },
-      "properties": {
-        "Retailer": "Fred Meyer",
-        "Address": "7250 Pacific Ave, Tacoma, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.497941,
           47.243129
         ]
@@ -7202,13 +7216,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.435729,
-          47.190704
+          -122.43275,
+          47.117346
         ]
       },
       "properties": {
-        "Retailer": "Fred Meyer",
-        "Address": "7250 Pacific Ave, Tacoma, WA"
+        "Retailer": "Albertsons",
+        "Address": "104 Military Rd S, Tacoma, WA"
       }
     },
     {
@@ -7307,6 +7321,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "500 Cleveland Ave SE, Tumwater, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.917572,
+          46.998442
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "705 Trosper Rd SW, Tumwater, WA"
       }
     },
     {
@@ -7713,20 +7741,6 @@
       "properties": {
         "Retailer": "Fred Meyer",
         "Address": "2500 Santiam Hwy SE, Albany, OR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.079584,
-          44.627229
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "1990 14th Ave SE, Albany, OR"
       }
     },
     {
@@ -8721,20 +8735,6 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "19007 S Beavercreek Rd, Oregon City, OR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.560214,
-          45.530696
-        ]
-      },
-      "properties": {
-        "Retailer": "Fred Meyer",
-        "Address": "1111 NE 102nd Ave, Portland, OR"
       }
     },
     {
@@ -11668,6 +11668,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.555145,
+          38.987221
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "2635 Housley Rd, Annapolis, MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.503929,
           39.030274
         ]
@@ -11773,6 +11787,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "8785 Branch Ave, Clinton, MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8894,
+          39.223316
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "5485 Harpers Farm Rd A, Columbia, MD"
       }
     },
     {
@@ -13558,6 +13586,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.995841,
+          39.955152
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "9799 E 116th St, Fishers, IN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.06713,
           39.488745
         ]
@@ -14202,20 +14244,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.394597,
-          33.451569
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "440 N Estrella Pkwy, Goodyear, AZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.364057,
           33.483889
         ]
@@ -14223,6 +14251,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "14175 W Indian School Rd, Goodyear, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.394597,
+          33.451569
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "440 N Estrella Pkwy, Goodyear, AZ"
       }
     },
     {
@@ -19004,20 +19046,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.389508,
-          33.954649
-        ]
-      },
-      "properties": {
-        "Retailer": "Vons",
-        "Address": "3520 Riverside Plaza Dr, Riverside, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.45362,
           33.927611
         ]
@@ -19025,6 +19053,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "4250 Van Buren Boulevard, Riverside, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.389508,
+          33.954649
+        ]
+      },
+      "properties": {
+        "Retailer": "Vons",
+        "Address": "3520 Riverside Plaza Dr, Riverside, CA"
       }
     },
     {
@@ -21048,48 +21090,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.281312,
-          36.053869
-        ]
-      },
-      "properties": {
-        "Retailer": "Vons",
-        "Address": "7405 S Durango Dr, Las Vegas, NV"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.208198,
-          36.269749
-        ]
-      },
-      "properties": {
-        "Retailer": "WinCo Foods",
-        "Address": "6101 N Decatur Blvd, Las Vegas, NV"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.256124,
-          36.180399
-        ]
-      },
-      "properties": {
-        "Retailer": "WinCo Foods",
-        "Address": "7501 W Washington Ave, Las Vegas, NV"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -115.247772,
           36.260935
         ]
@@ -21132,6 +21132,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.208198,
+          36.269749
+        ]
+      },
+      "properties": {
+        "Retailer": "WinCo Foods",
+        "Address": "6101 N Decatur Blvd, Las Vegas, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.223929,
           36.098754
         ]
@@ -21139,6 +21153,34 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "5975 W Tropicana Ave, Las Vegas, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.281312,
+          36.053869
+        ]
+      },
+      "properties": {
+        "Retailer": "Vons",
+        "Address": "7405 S Durango Dr, Las Vegas, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.256124,
+          36.180399
+        ]
+      },
+      "properties": {
+        "Retailer": "WinCo Foods",
+        "Address": "7501 W Washington Ave, Las Vegas, NV"
       }
     },
     {
@@ -21356,20 +21398,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.089603,
-          38.827851
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "3526 King St, Alexandria, VA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.200814,
           38.832325
         ]
@@ -21524,20 +21552,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.674532,
-          40.181326
-        ]
-      },
-      "properties": {
-        "Retailer": "Acme Markets",
-        "Address": "4400 S Broad St, Trenton, NJ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.670919,
           40.228502
         ]
@@ -21545,6 +21559,20 @@
       "properties": {
         "Retailer": "Acme Markets",
         "Address": "953 NJ-33, Trenton, NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.674532,
+          40.181326
+        ]
+      },
+      "properties": {
+        "Retailer": "Acme Markets",
+        "Address": "4400 S Broad St, Trenton, NJ"
       }
     },
     {

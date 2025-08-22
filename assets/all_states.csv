@@ -99,7 +99,7 @@ Randalls,Q00562,Houston,"Houston, TX","2225 Louisiana St, Houston, TX",29.749007
 Kroger,Q00565,Houston,"Houston, TX","9330 Jones Rd, Houston, TX",29.9097279,-95.5835809,TX
 Kroger,Q00768,Houston,"Houston, TX","9325 Katy Fwy, Houston, TX",29.7822122,-95.5221989,TX
 Randalls,Q00773,Houston,"Houston, TX","12850 Memorial Dr, Houston, TX",29.7736077,-95.55883020000002,TX
-Kroger,Q01639,Houston,"Houston, TX","12620 Woodforest Blvd, Houston, TX",29.79099,-95.2009339,TX
+Kroger,Q01881,Houston,"Houston, TX","12620 Woodforest Blvd, Houston, TX",29.79099,-95.2009339,TX
 Kroger,Q00387,Humble,"Humble, TX","19300 W Lake Houston Pkwy, Humble, TX",30.001196,-95.1609646,TX
 Kroger,Q00566,Humble,"Humble, TX","9475 Farm to Market 1960 Bypass Rd W, Humble, TX",30.0071835,-95.2812871,TX
 H-E-B,Q00464,Huntsville,"Huntsville, TX","1702 11th St, Huntsville, TX",30.7220926,-95.5607435,TX
@@ -213,7 +213,6 @@ Kroger,Q01257,Atlanta,"Atlanta, GA","800 Glenwood Ave SE, Atlanta, GA",33.742349
 Kroger,Q01261,Atlanta,"Atlanta, GA","227 Sandy Springs Pl NE, Atlanta, GA",33.9205413,-84.382149,GA
 Kroger,Q01973,Atlanta,"Atlanta, GA","725 Ponce De Leon Ave NE, Atlanta, GA",33.7716181,-84.3633509,GA
 Kroger,Q02098,Atlanta,"Atlanta, GA","1700 Monroe Dr NE, Atlanta, GA",33.8007564,-84.3728392,GA
-Kroger,Q01973,Atlanta,"Atlanta, GA","725 Ponce De Leon Ave NE, Atlanta, GA",33.7716181,-84.3633509,GA
 Kroger,Q01063,Brookhaven,"Brookhaven, GA","3855 Buford Hwy NE, Brookhaven, GA",33.8554178,-84.31460039999999,GA
 Kroger,Q01071,Buford,"Buford, GA","3300 Hamilton Mill Rd, Buford, GA",34.0931666,-83.93777349999999,GA
 Kroger,Q01021,Calhoun,"Calhoun, GA","136 W Belmont Dr, Calhoun, GA",34.4766373,-84.93537309999999,GA
@@ -237,7 +236,8 @@ Kroger,Q01072,Douglasville,"Douglasville, GA","8501 Hospital Dr, Douglasville, G
 Kroger,Q01952,Douglasville,"Douglasville, GA","3251 GA-5, Douglasville, GA",33.7197498,-84.76505399999999,GA
 Kroger,Q00634,Duluth,"Duluth, GA","6555 Sugarloaf Pkwy, Duluth, GA",33.9981092,-84.0898994,GA
 Kroger,Q01226,Duluth,"Duluth, GA","3455 Peachtree Industrial Blvd, Duluth, GA",34.005523,-84.1738306,GA
-Kroger,Q01275,Dunwoody,"Dunwoody, GA","4498 Chamblee Dunwoody Rd, Dunwoody, GA",33.9226245,-84.3159081,GA
+Kroger,Q02095,Dunwoody,"Dunwoody, GA","4498 Chamblee Dunwoody Rd, Dunwoody, GA",33.9226245,-84.3159081,GA
+Kroger,Q02095,Dunwoody,"Dunwoody, GA","4498 Chamblee Dunwoody Rd, Dunwoody, GA",33.9226245,-84.3159081,GA
 Kroger,Q00472,Ellenwood,"Ellenwood, GA","101 Fairview Rd, Ellenwood, GA",33.6198942,-84.23777900000002,GA
 Kroger,Q00473,Fayetteville,"Fayetteville, GA","805 Glynn St S, Fayetteville, GA",33.432929,-84.4587449,GA
 Kroger,Q01056,Flowery Branch,"Flowery Branch, GA","7380 Spout Springs Rd, Flowery Branch, GA",34.1077017,-83.8754198,GA
@@ -275,12 +275,12 @@ Kroger,Q00680,Snellville,"Snellville, GA","3035 Scenic Hwy S, Snellville, GA",33
 Kroger,Q01234,Snellville,"Snellville, GA","1670 Scenic Hwy N, Snellville, GA",33.8830328,-84.007984,GA
 Kroger,Q00455,Stockbridge,"Stockbridge, GA","1750 Hudson Bridge Rd, Stockbridge, GA",33.502325,-84.2446567,GA
 Kroger,Q01075,Stockbridge,"Stockbridge, GA","3618 Hwy 138 SE, Stockbridge, GA",33.5501725,-84.2715959,GA
-Kroger,Q01211,Stone Mountain,"Stone Mountain, GA","1232 S Hairston Rd, Stone Mountain, GA",33.7592322,-84.1951854,GA
+Kroger,Q02099,Stone Mountain,"Stone Mountain, GA","1232 S Hairston Rd, Stone Mountain, GA",33.7592322,-84.1951854,GA
 Kroger,Q00870,Suwanee,"Suwanee, GA","400 Peachtree Industrial Blvd, Suwanee, GA",34.0642116,-84.07233000000001,GA
 Kroger,Q01210,Suwanee,"Suwanee, GA","3651 Peachtree Pkwy, Suwanee, GA",34.0692996,-84.1655828,GA
 Kroger,Q01214,Suwanee,"Suwanee, GA","2121 Lawrenceville-Suwanee Rd, Suwanee, GA",34.0031689,-84.03992649999999,GA
-Kroger,Q01055,Tucker,"Tucker, GA","4357 Lawrenceville Hwy, Tucker, GA",33.8551858,-84.2069781,GA
 Kroger,Q01215,Tucker,"Tucker, GA","3959 Lavista Rd A, Tucker, GA",33.8433684,-84.2557708,GA
+Kroger,Q02094,Tucker,"Tucker, GA","4357 Lawrenceville Hwy, Tucker, GA",33.8551858,-84.2069781,GA
 Kroger,Q00799,Union City,"Union City, GA","4550 Jonesboro Rd, Union City, GA",33.5664745,-84.53757329999999,GA
 Kroger,Q01028,Woodstock,"Woodstock, GA","12050 GA-92 Ste 112, Woodstock, GA",34.0866657,-84.486318,GA
 Kroger,Q01050,Woodstock,"Woodstock, GA","2295 Towne Lake Pkwy, Woodstock, GA",34.1226462,-84.5546708,GA
@@ -318,8 +318,6 @@ Kroger,Q01035,West Chester,"West Chester, OH","8000 Princeton Glendale Rd, West 
 Safeway,Q01298,Anacortes,"Anacortes, WA","911 11th St, Anacortes, WA",48.5122831,-122.6117014,WA
 Safeway,Q01699,Arlington,"Arlington, WA","3532 172nd St NE, Arlington, WA",48.1520649,-122.1804496,WA
 Safeway,Q01770,Arlington,"Arlington, WA","20500 Olympic Pl NE, Arlington, WA",48.1820751,-122.1276862,WA
-Safeway,Q01699,Arlington,"Arlington, WA","3532 172nd St NE, Arlington, WA",48.1520649,-122.1804496,WA
-Safeway,Q01770,Arlington,"Arlington, WA","20500 Olympic Pl NE, Arlington, WA",48.1820751,-122.1276862,WA
 Fred Meyer,Q00164,Auburn,"Auburn, WA","801 Auburn Wy N, Auburn, WA",47.3161205,-122.2247926,WA
 Safeway,Q00249,Auburn,"Auburn, WA","101 Auburn Way S, Auburn, WA",47.3064087,-122.2267785,WA
 Safeway,Q00804,Auburn,"Auburn, WA","4010 A St SE, Auburn, WA",47.2728184,-122.2269136,WA
@@ -327,6 +325,7 @@ Safeway,Q01253,Bainbridge Island,"Bainbridge Island, WA","253 High School Rd NE,
 Fred Meyer,Q00185,Battle Ground,"Battle Ground, WA","401 NW 12th Ave, Battle Ground, WA",45.7842837,-122.5489717,WA
 Albertsons,Q00942,Battle Ground,"Battle Ground, WA","2108 W Main St, Battle Ground, WA",45.7813188,-122.5608519,WA
 QFC,Q00788,Belfair,"Belfair, WA","201 NE WA-300, Belfair, WA",47.4530571,-122.8284963,WA
+Fresh,Q00152,Bellevue,"Bellevue, WA","3290 146th Pl SE Suite A, Bellevue, WA",47.58129839999999,-122.1443692,WA
 QFC,Q00171,Bellevue,"Bellevue, WA","3550 Factoria Blvd SE, Bellevue, WA",47.578359,-122.1672038,WA
 QFC,Q00194,Bellevue,"Bellevue, WA","10116 NE 8th St, Bellevue, WA",47.6178935,-122.2055307,WA
 Safeway,Q00216,Bellevue,"Bellevue, WA","15100 SE 38th St, Bellevue, WA",47.5765395,-122.1371838,WA
@@ -334,6 +333,7 @@ Fred Meyer,Q00255,Bellevue,"Bellevue, WA","2041 148th Ave NE, Bellevue, WA",47.6
 Safeway,Q00861,Bellevue,"Bellevue, WA","1645 140th Ave NE, Bellevue, WA",47.62467669999999,-122.1541507,WA
 QFC,Q01169,Bellevue,"Bellevue, WA","1510 145th Pl SE, Bellevue, WA",47.5969425,-122.1484573,WA
 Safeway,Q01183,Bellevue,"Bellevue, WA","300 Bellevue Way NE, Bellevue, WA",47.6129984,-122.201015,WA
+Fresh,Q00152,Bellevue,"Bellevue, WA","3290 146th Pl SE Suite A, Bellevue, WA",47.58129839999999,-122.1443692,WA
 Fred Meyer,Q00233,Bellingham,"Bellingham, WA","800 Lakeway Dr, Bellingham, WA",48.7435653,-122.4643824,WA
 Fred Meyer,Q00260,Bellingham,"Bellingham, WA","1225 W Bakerview Rd, Bellingham, WA",48.7885943,-122.5115316,WA
 WinCo Foods,Q01220,Bellingham,"Bellingham, WA","300 E Bellis Fair Pkwy, Bellingham, WA",48.7869865,-122.4813371,WA
@@ -374,6 +374,8 @@ Fred Meyer,Q00213,Federal Way,"Federal Way, WA","33702 21st Ave SW, Federal Way,
 Safeway,Q00851,Federal Way,"Federal Way, WA","1207 S 320th St, Federal Way, WA",47.3147799,-122.3180134,WA
 Safeway,Q01490,Federal Way,"Federal Way, WA","28810 Military Rd S, Federal Way, WA",47.3425312,-122.3000472,WA
 WinCo Foods,Q01876,Federal Way,"Federal Way, WA","160 SW Campus Dr, Federal Way, WA",47.2926512,-122.3359646,WA
+The Commons at Federal Way,Q01941,Federal Way,"Federal Way, WA","1928 S Commons, Federal Way, WA",47.3133863,-122.3096095,WA
+The Commons at Federal Way,Q01941,Federal Way,"Federal Way, WA","1928 S Commons, Federal Way, WA",47.3133863,-122.3096095,WA
 Fred Meyer,Q00228,Gig Harbor,"Gig Harbor, WA","5502 Point Fosdick Dr, Gig Harbor, WA",47.3075436,-122.5810844,WA
 Safeway,Q01327,Gig Harbor,"Gig Harbor, WA","4831 Point Fosdick Dr, Gig Harbor, WA",47.30226400000001,-122.5758606,WA
 Albertsons,Q01497,Gig Harbor,"Gig Harbor, WA","11330 51st Ave NW, Gig Harbor, WA",47.3609681,-122.6046577,WA
@@ -396,9 +398,9 @@ Safeway,Q00229,Kirkland,"Kirkland, WA","14444 124th Ave NE, Kirkland, WA",47.732
 Fred Meyer,Q00238,Kirkland,"Kirkland, WA","12221 120th Ave NE, Kirkland, WA",47.70786640000001,-122.1842658,WA
 Safeway,Q00613,Kirkland,"Kirkland, WA","10020 NE 137th St, Kirkland, WA",47.7234436,-122.2063625,WA
 Safeway,Q01412,Kirkland,"Kirkland, WA","12519 NE 85th St, Kirkland, WA",47.678829,-122.1734308,WA
-QFC,Q01177,Lacey,"Lacey, WA","4775 Whitman Ln SE, Lacey, WA",46.9947632,-122.8238645,WA
 Safeway,Q01259,Lacey,"Lacey, WA","4700 Yelm Hwy SE, Lacey, WA",46.9979281,-122.822206,WA
 Safeway,Q01455,Lacey,"Lacey, WA","6200 Pacific Ave SE, Lacey, WA",47.0392599,-122.7998451,WA
+QFC,Q01942,Lacey,"Lacey, WA","4775 Whitman Ln SE, Lacey, WA",46.9947632,-122.8238645,WA
 Safeway,Q00384,Lake Stevens,"Lake Stevens, WA","717 WA-9 NE, Lake Stevens, WA",48.003395,-122.1037835,WA
 Safeway,Q00859,Lakewood,"Lakewood, WA","10223 Gravelly Lake Dr SW, Lakewood, WA",47.1646906,-122.520043,WA
 Safeway,Q00115,Longview,"Longview, WA","2930 Ocean Beach Hwy, Longview, WA",46.148871,-122.9609881,WA
@@ -443,7 +445,7 @@ Safeway,Q01419,Orting,"Orting, WA","215 Whitesell St NW, Orting, WA",47.0988836,
 Fred Meyer,Q00237,Port Orchard,"Port Orchard, WA","1900 SE Sedgwick Rd, Port Orchard, WA",47.5031575,-122.6292031,WA
 Albertsons,Q01254,Port Orchard,"Port Orchard, WA","1434 Olney Ave SE, Port Orchard, WA",47.5357473,-122.6105256,WA
 Safeway,Q01280,Port Orchard,"Port Orchard, WA","370 SW Sedgwick Rd, Port Orchard, WA",47.4961035,-122.652118,WA
-Safeway,Q01494,Port Orchard,"Port Orchard, WA","3355 Bethel Rd SE, Port Orchard, WA",47.5184252,-122.630056,WA
+Safeway,Q01959,Port Orchard,"Port Orchard, WA","3355 Bethel Rd SE, Port Orchard, WA",47.5184252,-122.630056,WA
 Safeway,Q01478,Poulsbo,"Poulsbo, WA","19245 10th Ave NE, Poulsbo, WA",47.738148,-122.6368534,WA
 Fred Meyer,Q00131,Puyallup,"Puyallup, WA","17404 Meridian E, Puyallup, WA",47.0991145,-122.2970065,WA
 Fred Meyer,Q00147,Puyallup,"Puyallup, WA","1100 N Meridian, Puyallup, WA",47.1997462,-122.2963638,WA
@@ -508,12 +510,11 @@ Fred Meyer,Q00866,Spanaway,"Spanaway, WA","22303 Mountain Hwy E, Spanaway, WA",4
 Fred Meyer,Q00136,Sumner,"Sumner, WA","1201 Valley Ave, Sumner, WA",47.2046368,-122.227942,WA
 WinCo Foods,Q00727,Sumner,"Sumner, WA","6621 166th Ave E, Sumner, WA",47.1959088,-122.2054725,WA
 Simon Tacoma Mall,Q00031,Tacoma,"Tacoma, WA","S Steele St, Tacoma, WA",47.2314177,-122.4682407,WA
-Fred Meyer,Q00152,Tacoma,"Tacoma, WA","7250 Pacific Ave, Tacoma, WA",47.1907037,-122.4357291,WA
 Fred Meyer,Q00161,Tacoma,"Tacoma, WA","4505 S 19th St, Tacoma, WA",47.24312889999999,-122.4979411,WA
 Safeway,Q00181,Tacoma,"Tacoma, WA","1302 S 38th St, Tacoma, WA",47.2221627,-122.4515058,WA
 Safeway,Q00222,Tacoma,"Tacoma, WA","3842 Bridgeport Way W, Tacoma, WA",47.2216712,-122.5393458,WA
 Safeway,Q00227,Tacoma,"Tacoma, WA","15805 Pacific Ave S, Tacoma, WA",47.1129786,-122.4322969,WA
-Fred Meyer,Q00820,Tacoma,"Tacoma, WA","7250 Pacific Ave, Tacoma, WA",47.1907037,-122.4357291,WA
+Albertsons,Q00820,Tacoma,"Tacoma, WA","104 Military Rd S, Tacoma, WA",47.1173458,-122.4327496,WA
 Safeway,Q00839,Tacoma,"Tacoma, WA","2637 N Pearl St, Tacoma, WA",47.27267680000001,-122.5135915,WA
 Safeway,Q00854,Tacoma,"Tacoma, WA","8611 Steilacoom Blvd SW, Tacoma, WA",47.1804004,-122.5519646,WA
 WinCo Foods,Q00961,Tacoma,"Tacoma, WA","1913 S 72nd St, Tacoma, WA",47.1953013,-122.4598338,WA
@@ -521,6 +522,7 @@ Safeway,Q01119,Tacoma,"Tacoma, WA","707 S 56th St, Tacoma, WA",47.2067822,-122.4
 Safeway,Q01400,Tacoma,"Tacoma, WA","1624 E 72nd St, Tacoma, WA",47.1917507,-122.4072272,WA
 WinCo Foods,Q01805,Tacoma,"Tacoma, WA","6201 6th Ave, Tacoma, WA",47.2564283,-122.5202424,WA
 Safeway,Q01000,Tumwater,"Tumwater, WA","500 Cleveland Ave SE, Tumwater, WA",47.0191395,-122.8974629,WA
+Safeway,Q01949,Tumwater,"Tumwater, WA","705 Trosper Rd SW, Tumwater, WA",46.998442,-122.917572,WA
 Fred Meyer,Q00225,University Place,"University Place, WA","6305 Bridgeport Way W, University Place, WA",47.20055259999999,-122.52898,WA
 Safeway,Q00121,Vancouver,"Vancouver, WA","6700 NE 162nd Ave, Vancouver, WA",45.670036,-122.5065249,WA
 WinCo Foods,Q00127,Vancouver,"Vancouver, WA","11310 NE 119th St, Vancouver, WA",45.7090407,-122.5569811,WA
@@ -550,7 +552,6 @@ WinCo Foods,Q01800,Vancouver,"Vancouver, WA","2101 NE Andresen Rd, Vancouver, WA
 Safeway,Q01485,Washougal,"Washougal, WA","3307 Evergreen Way, Washougal, WA",45.5781849,-122.3334911,WA
 Safeway,Q00232,Woodinville,"Woodinville, WA","19150 NE Woodinville Duvall Rd, Woodinville, WA",47.7562386,-122.0818316,WA
 Fred Meyer,Q00832,Albany,"Albany, OR","2500 Santiam Hwy SE, Albany, OR",44.6320862,-123.0748201,OR
-Safeway,Q01871,Albany,"Albany, OR","1990 14th Ave SE, Albany, OR",44.6272294,-123.0795844,OR
 Safeway,Q01871,Albany,"Albany, OR","1990 14th Ave SE, Albany, OR",44.6272294,-123.0795844,OR
 Safeway,Q00826,Aloha,"Aloha, OR","6055 SW 185th Ave, Aloha, OR",45.4755939,-122.8690208,OR
 Safeway,Q00855,Aloha,"Aloha, OR","20535 SW Tualatin Valley Hwy, Aloha, OR",45.4967624,-122.8881898,OR
@@ -622,7 +623,6 @@ WinCo Foods,Q01706,Ontario,"Ontario, OR","1630 E Idaho Ave, Ontario, OR",44.0228
 Fred Meyer,Q00141,Oregon City,"Oregon City, OR","1839 Molalla Ave, Oregon City, OR",45.3324259,-122.5831665,OR
 Safeway,Q01116,Oregon City,"Oregon City, OR","13434 Colton Pl, Oregon City, OR",45.3347087,-122.5910889,OR
 Albertsons,Q01304,Oregon City,"Oregon City, OR","19007 S Beavercreek Rd, Oregon City, OR",45.3298513,-122.5733254,OR
-Fred Meyer,Q00113,Portland,"Portland, OR","1111 NE 102nd Ave, Portland, OR",45.5306955,-122.5602137,OR
 Safeway,Q00119,Portland,"Portland, OR","13485 NW Cornell Rd, Portland, OR",45.5279917,-122.8144749,OR
 Safeway,Q00120,Portland,"Portland, OR","4515 SE Woodstock Blvd, Portland, OR",45.47994070000001,-122.615958,OR
 Fred Meyer,Q00133,Portland,"Portland, OR","3805 SE Hawthorne Blvd, Portland, OR",45.5126133,-122.623766,OR
@@ -831,7 +831,8 @@ Kroger,Q01034,Nashville,"Nashville, TN","61 E Thompson Ln, Nashville, TN",36.110
 Kroger,Q01017,Smyrna,"Smyrna, TN","463 Sam Ridley Pkwy W, Smyrna, TN",35.9840078,-86.55162410000001,TN
 Kroger,Q01108,Springfield,"Springfield, TN","2600 Memorial Blvd, Springfield, TN",36.4885615,-86.8633775,TN
 Kroger,Q01895,Thompson's Station,"Thompson's Station, TN","4726 Traders Way, Thompson's Station, TN",35.78476029999999,-86.9156272,TN
-Safeway,Q01380,Annapolis,"Annapolis, MD","2635 Housley Rd, Annapolis, MD",38.98722120000001,-76.555145,MD
+Safeway,Q02096,Annapolis,"Annapolis, MD","2635 Housley Rd, Annapolis, MD",38.98722120000001,-76.555145,MD
+Safeway,Q02096,Annapolis,"Annapolis, MD","2635 Housley Rd, Annapolis, MD",38.98722120000001,-76.555145,MD
 Safeway,Q01361,Arnold,"Arnold, MD","1451 Ritchie Hwy, Arnold, MD",39.0302741,-76.50392939999999,MD
 Safeway,Q01355,Baltimore,"Baltimore, MD","4401 Harford Rd, Baltimore, MD",39.3397166,-76.5714131,MD
 Safeway,Q01364,Baltimore,"Baltimore, MD","2610 Boston St, Baltimore, MD",39.2805448,-76.57882239999999,MD
@@ -840,18 +841,19 @@ Safeway,Q01356,Bowie,"Bowie, MD","12410 Fairwood Pkwy, Bowie, MD",38.96529659999
 Safeway,Q01913,Bowie,"Bowie, MD","4101 Northview Dr, Bowie, MD",38.9461088,-76.7368166,MD
 Safeway,Q01554,Brandywine,"Brandywine, MD","15916 S Crain Hwy, Brandywine, MD",38.6742869,-76.8726559,MD
 Safeway,Q01501,Clinton,"Clinton, MD","8785 Branch Ave, Clinton, MD",38.76906450000001,-76.8895709,MD
-Safeway,Q01354,Columbia,"Columbia, MD","5485 Harpers Farm Rd A, Columbia, MD",39.223316,-76.8894,MD
+Safeway,Q02079,Columbia,"Columbia, MD","5485 Harpers Farm Rd A, Columbia, MD",39.223316,-76.8894,MD
+Safeway,Q02079,Columbia,"Columbia, MD","5485 Harpers Farm Rd A, Columbia, MD",39.223316,-76.8894,MD
 Safeway,Q01425,Damascus,"Damascus, MD","9807 Main St, Damascus, MD",39.290206,-77.202209,MD
 Safeway,Q01998,Edgewater,"Edgewater, MD","52 Central Ave W, Edgewater, MD",38.9272555,-76.57361569999999,MD
 Safeway,Q01379,Eldersburg,"Eldersburg, MD","1313 Londontown Blvd, Eldersburg, MD",39.4072095,-76.94899649999999,MD
 Safeway,Q01559,Fort Washington,"Fort Washington, MD","990 Swan Creek Rd E, Fort Washington, MD",38.726917,-76.99184749999999,MD
 Safeway,Q01443,Germantown,"Germantown, MD","19718 Germantown Rd, Germantown, MD",39.1807395,-77.26627289999999,MD
 Safeway,Q01365,Greenbelt,"Greenbelt, MD","7595 Greenbelt Rd, Greenbelt, MD",38.992391,-76.8768478,MD
-Safeway,Q01378,Hanover,"Hanover, MD","7643 Arundel Mills Blvd, Hanover, MD",39.1520006,-76.72271309999999,MD
+Safeway,Q02084,Hanover,"Hanover, MD","7643 Arundel Mills Blvd, Hanover, MD",39.1520006,-76.72271309999999,MD
 Safeway,Q01372,Hyattsville,"Hyattsville, MD","3702 East-West Hwy, Hyattsville, MD",38.9667816,-76.951123,MD
 Safeway,Q01550,La Plata,"La Plata, MD","40 Shining Willow Way, La Plata, MD",38.5424218,-76.98212769999999,MD
 Safeway,Q01368,Mount Airy,"Mount Airy, MD","337 E Ridgeville Blvd, Mount Airy, MD",39.3645732,-77.1601886,MD
-Safeway,Q01423,Olney,"Olney, MD","3333 Spartan Rd, Olney, MD",39.1511895,-77.0657217,MD
+Safeway,Q02056,Olney,"Olney, MD","3333 Spartan Rd, Olney, MD",39.1511895,-77.0657217,MD
 Safeway,Q01363,Owings Mills,"Owings Mills, MD","10335 Reisterstown Rd, Owings Mills, MD",39.4182384,-76.7763013,MD
 Safeway,Q01439,Oxon Hill,"Oxon Hill, MD","6235 Oxon Hill Rd, Oxon Hill, MD",38.8046856,-76.9853777,MD
 Safeway,Q01390,Parkville,"Parkville, MD","8858 Waltham Woods Rd, Parkville, MD",39.40020519999999,-76.5439552,MD
@@ -910,9 +912,9 @@ Acme Markets,Q01589,Feasterville,"Feasterville, PA","105 E Street Rd, Feastervil
 Acme Markets,Q01547,Folsom,"Folsom, PA","124 Morton Ave, Folsom, PA",39.8848787,-75.3282815,PA
 Acme Markets,Q01570,Havertown,"Havertown, PA","1305 West Chester Pike, Havertown, PA",39.9741962,-75.3233482,PA
 Acme Markets,Q01577,Jenkintown,"Jenkintown, PA","323 Old York Rd, Jenkintown, PA",40.0917007,-75.1251046,PA
-Acme Markets,Q01572,Levittown,"Levittown, PA","6800 New Falls Rd, Levittown, PA",40.1518454,-74.857129,PA
+Acme Markets,Q02087,Levittown,"Levittown, PA","6800 New Falls Rd, Levittown, PA",40.1518454,-74.857129,PA
 Acme Markets,Q01591,Media,"Media, PA","527 E Baltimore Ave, Media, PA",39.916042,-75.3785311,PA
-Acme Markets,Q01573,Newtown,"Newtown, PA","48 W Rd, Newtown, PA",40.2345578,-74.94509819999999,PA
+Acme Markets,Q02042,Newtown,"Newtown, PA","48 W Rd, Newtown, PA",40.2345578,-74.94509819999999,PA
 Acme Markets,Q01580,Paoli,"Paoli, PA","39 Leopard Rd, Paoli, PA",40.0393808,-75.4772152,PA
 Acme Markets,Q01552,Philadelphia,"Philadelphia, PA","1400 E Passyunk Ave, Philadelphia, PA",39.9320465,-75.16260799999999,PA
 Acme Markets,Q01588,Philadelphia,"Philadelphia, PA","3200-09 Red Lion Rd, Philadelphia, PA",40.0794617,-74.9933849,PA
@@ -967,6 +969,7 @@ WinCo Foods,Q01707,Meridian,"Meridian, ID","1050 S Progress Ave, Meridian, ID",4
 WinCo Foods,Q01456,Nampa,"Nampa, ID","1175 N Happy Valley Rd, Nampa, ID",43.5946599,-116.5151167,ID
 Kroger,Q01016,Fishers,"Fishers, IN","11700 Olio Rd, Fishers, IN",39.9597079,-85.9224072,IN
 Kroger,Q01091,Fishers,"Fishers, IN","7450 Fishers Station Dr, Fishers, IN",39.95842,-86.0374566,IN
+Kroger,Q02051,Fishers,"Fishers, IN","9799 E 116th St, Fishers, IN",39.9551525,-85.995841,IN
 Kroger,Q01948,Franklin,"Franklin, IN","970 N Morton St, Franklin, IN",39.4887453,-86.06712999999999,IN
 Kroger,Q01076,Greenwood,"Greenwood, IN","2200 Independence Dr, Greenwood, IN",39.5839204,-86.1028047,IN
 Kroger,Q01779,Greenwood,"Greenwood, IN","5961 N State Rd 135, Greenwood, IN",39.5621324,-86.1556219,IN
@@ -1013,9 +1016,9 @@ Frys,Q00776,Glendale,"Glendale, AZ","4329 W Northern Ave, Glendale, AZ",33.55245
 WinCo Foods,Q01397,Glendale,"Glendale, AZ","5850 W Bell Rd, Glendale, AZ",33.6414546,-112.1830743,AZ
 Frys,Q01922,Glendale,"Glendale, AZ","6625 W Happy Valley Rd, Glendale, AZ",33.7106832,-112.2017032,AZ
 Frys,Q00616,Goodyear,"Goodyear, AZ","16380 W Yuma Rd, Goodyear, AZ",33.4377009,-112.4112048,AZ
-Safeway,Q01289,Goodyear,"Goodyear, AZ","440 N Estrella Pkwy, Goodyear, AZ",33.4515694,-112.394597,AZ
 Safeway,Q01311,Goodyear,"Goodyear, AZ","14175 W Indian School Rd, Goodyear, AZ",33.4838886,-112.3640573,AZ
-Safeway,Q01358,Goodyear,"Goodyear, AZ","9890 Estrella Pkwy, Goodyear, AZ",33.3576587,-112.4285876,AZ
+Safeway,Q01923,Goodyear,"Goodyear, AZ","440 N Estrella Pkwy, Goodyear, AZ",33.4515694,-112.394597,AZ
+Safeway,Q01933,Goodyear,"Goodyear, AZ","9890 Estrella Pkwy, Goodyear, AZ",33.3576587,-112.4285876,AZ
 Safeway,Q01508,Green Valley,"Green Valley, AZ","1305 W Duval Mine Rd, Green Valley, AZ",31.9008511,-110.9925833,AZ
 Safeway,Q01563,Green Valley,"Green Valley, AZ","260 W Continental Rd, Green Valley, AZ",31.8527914,-110.9965818,AZ
 Frys,Q00598,Laveen Village,"Laveen Village, AZ","5140 W Baseline Rd, Laveen Village, AZ",33.379552,-112.1703002,AZ
@@ -1356,8 +1359,8 @@ Albertsons,Q00468,Rancho Cucamonga,"Rancho Cucamonga, CA","11358 Kenyon Way, Ran
 Albertsons,Q00475,Redlands,"Redlands, CA","450 E Cypress Ave, Redlands, CA",34.0484751,-117.1713459,CA
 Vons,Q00741,Redondo Beach,"Redondo Beach, CA","4001 Inglewood Ave, Redondo Beach, CA",33.8930336,-118.3624481,CA
 Albertsons,Q00500,Riverside,"Riverside, CA","2975 Van Buren Boulevard, Riverside, CA",33.9099599,-117.4363569,CA
-Vons,Q01097,Riverside,"Riverside, CA","3520 Riverside Plaza Dr, Riverside, CA",33.9546487,-117.3895081,CA
 Food 4 Less,Q01129,Riverside,"Riverside, CA","4250 Van Buren Boulevard, Riverside, CA",33.9276112,-117.4536199,CA
+Vons,Q01840,Riverside,"Riverside, CA","3520 Riverside Plaza Dr, Riverside, CA",33.9546487,-117.3895081,CA
 Safeway,Q00631,Rocklin,"Rocklin, CA","2220 Sunset Blvd, Rocklin, CA",38.8029192,-121.2742918,CA
 Safeway,Q00603,Rohnert Park,"Rohnert Park, CA","6340 Commerce Blvd, Rohnert Park, CA",38.3475652,-122.7084312,CA
 Pavilions,Q00714,Rolling Hills Estates,"Rolling Hills Estates, CA","7 Peninsula Center, Rolling Hills Estates, CA",33.7754149,-118.3778782,CA
@@ -1502,13 +1505,13 @@ Smith's,Q00657,Las Vegas,"Las Vegas, NV","4965 E Sahara Ave, Las Vegas, NV",36.1
 Smith's,Q00728,Las Vegas,"Las Vegas, NV","450 N Nellis Blvd, Las Vegas, NV",36.1677412,-115.0605,NV
 Albertsons,Q01207,Las Vegas,"Las Vegas, NV","7151 W Craig Rd, Las Vegas, NV",36.2381476,-115.2502461,NV
 Albertsons,Q01217,Las Vegas,"Las Vegas, NV","8410 Farm Rd, Las Vegas, NV",36.3005107,-115.2792465,NV
-Vons,Q01225,Las Vegas,"Las Vegas, NV","7405 S Durango Dr, Las Vegas, NV",36.0538693,-115.2813116,NV
-WinCo Foods,Q01227,Las Vegas,"Las Vegas, NV","6101 N Decatur Blvd, Las Vegas, NV",36.269749,-115.208198,NV
-WinCo Foods,Q01229,Las Vegas,"Las Vegas, NV","7501 W Washington Ave, Las Vegas, NV",36.1803986,-115.2561235,NV
 Albertsons,Q01235,Las Vegas,"Las Vegas, NV","7075 W Ann Rd, Las Vegas, NV",36.2609353,-115.2477717,NV
 Albertsons,Q01299,Las Vegas,"Las Vegas, NV","6730 N Hualapai Way, Las Vegas, NV",36.2836338,-115.3132057,NV
 Albertsons,Q01543,Las Vegas,"Las Vegas, NV","1940 Village Center Cir, Las Vegas, NV",36.1937606,-115.3058904,NV
+WinCo Foods,Q01754,Las Vegas,"Las Vegas, NV","6101 N Decatur Blvd, Las Vegas, NV",36.269749,-115.208198,NV
 Albertsons,Q01755,Las Vegas,"Las Vegas, NV","5975 W Tropicana Ave, Las Vegas, NV",36.0987541,-115.2239295,NV
+Vons,Q01908,Las Vegas,"Las Vegas, NV","7405 S Durango Dr, Las Vegas, NV",36.0538693,-115.2813116,NV
+WinCo Foods,Q01909,Las Vegas,"Las Vegas, NV","7501 W Washington Ave, Las Vegas, NV",36.1803986,-115.2561235,NV
 Smith's,Q00342,North Las Vegas,"North Las Vegas, NV","4700 W Ann Rd, North Las Vegas, NV",36.2629501,-115.2058675,NV
 Smith's,Q00421,North Las Vegas,"North Las Vegas, NV","5564 Camino Al Norte, North Las Vegas, NV",36.2611019,-115.153746,NV
 Albertsons,Q01729,North Las Vegas,"North Las Vegas, NV","3010 W Ann Rd, North Las Vegas, NV",36.2631376,-115.1813199,NV
@@ -1524,7 +1527,6 @@ Shaw's,Q01807,Windham,"Windham, NH","43 Indian Rock Rd, Windham, NH",42.8080182,
 Safeway,Q01433,Alexandria,"Alexandria, VA","5980 Kingstowne Towne Ctr, Alexandria, VA",38.7699929,-77.14141579999999,VA
 Safeway,Q01434,Alexandria,"Alexandria, VA","1624 Belle View Blvd, Alexandria, VA",38.7764388,-77.0607533,VA
 Safeway,Q02075,Alexandria,"Alexandria, VA","3526 King St, Alexandria, VA",38.8278508,-77.0896033,VA
-Safeway,Q02075,Alexandria,"Alexandria, VA","3526 King St, Alexandria, VA",38.8278508,-77.0896033,VA
 Safeway,Q01435,Annandale,"Annandale, VA","7414 Little River Turnpike, Annandale, VA",38.832325,-77.2008136,VA
 Safeway,Q01546,Bristow,"Bristow, VA","12821 Braemar Village Pz, Bristow, VA",38.7508043,-77.5706064,VA
 Safeway,Q01549,Burke,"Burke, VA","5727 Burke Centre Pkwy, Burke, VA",38.7998647,-77.3212248,VA
@@ -1535,9 +1537,9 @@ Safeway,Q01417,McLean,"McLean, VA","1688 Anderson Rd, McLean, VA",38.9225196,-77
 Safeway,Q02061,Woodbridge,"Woodbridge, VA","4220 Merchant Plaza, Woodbridge, VA",38.6746992,-77.3344279,VA
 Acme Markets,Q01585,Bordentown,"Bordentown, NJ","260 Dunns Mill Rd, Bordentown, NJ",40.1335757,-74.72585269999999,NJ
 Acme Markets,Q01918,Freehold Township,"Freehold Township, NJ","3241 US-9, Freehold Township, NJ",40.219372,-74.2635993,NJ
-Acme Markets,Q01576,Mount Holly,"Mount Holly, NJ","531 High St, Mount Holly, NJ",40.0072159,-74.79468829999999,NJ
-Acme Markets,Q01560,Trenton,"Trenton, NJ","4400 S Broad St, Trenton, NJ",40.1813256,-74.6745321,NJ
+Acme Markets,Q02081,Mount Holly,"Mount Holly, NJ","531 High St, Mount Holly, NJ",40.0072159,-74.79468829999999,NJ
 Acme Markets,Q01932,Trenton,"Trenton, NJ","953 NJ-33, Trenton, NJ",40.22850220000001,-74.6709188,NJ
+Acme Markets,Q02090,Trenton,"Trenton, NJ","4400 S Broad St, Trenton, NJ",40.1813256,-74.6745321,NJ
 Acme Markets,Q01569,Willingboro,"Willingboro, NJ","23 Levitt Pkwy, Willingboro, NJ",40.05218,-74.89466999999999,NJ
 Acme Markets,Q01911,Hockessin,"Hockessin, DE","128 Lantana Dr, Hockessin, DE",39.7734793,-75.7086611,DE
 Safeway,Q01551,Newark,"Newark, DE","2400 Peoples Plaza, Newark, DE",39.6003221,-75.7490531,DE
