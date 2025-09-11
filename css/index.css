@@ -57,6 +57,35 @@ nav {
     transform: translateY(1px);
 }
 
+/* Privacy popup shown under the Find me button (runtime only) */
+.locate-privacy-popup {
+    position: absolute;
+    z-index: 1100;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 8px 10px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    width: 170px;
+    font-size: 13px;
+    text-align: left;
+}
+.locate-privacy-text {
+    margin-bottom: 8px;
+}
+.locate-popup-btn {
+    background: #2b7cff;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+}
+.locate-popup-btn:active { transform: translateY(1px); }
+
 .navbar_logo img {
     height: 35px;
 }

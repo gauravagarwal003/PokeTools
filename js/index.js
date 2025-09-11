@@ -42,12 +42,89 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const locateBtn = document.getElementById('locate-btn');
   if (locateBtn) {
-    locateBtn.addEventListener('click', () => {
-      // Ask user for location (this will trigger the browser permission prompt)
-  // Request location. We don't auto setView here; we'll control zoom in the handler.
-  map.locate({ setView: false, maxZoom: LOCATE_MAX_ZOOM, watch: false });
-      locateBtn.textContent = 'Locating...';
-      locateBtn.disabled = true;
+    // Create a small privacy popup element (runtime only — not stored)
+    let privacyAccepted = false; // runtime flag only
+
+    const popup = document.createElement('div');
+    popup.className = 'locate-privacy-popup';
+    popup.style.display = 'none';
+    popup.innerHTML = `
+      <div class="locate-privacy-text">Your location is only used temporarily and never stored.</div>
+      <button type="button" class="locate-popup-btn">I understand</button>
+    `;
+    document.body.appendChild(popup);
+
+    // helper: position popup under the button
+    function positionPopup() {
+  const rect = locateBtn.getBoundingClientRect();
+  // Align the popup so its right side is the same distance from the
+  // right edge of the page as the locate button's right side.
+  popup.style.left = 'auto';
+  const rightDistance = Math.max(8, window.innerWidth - rect.right);
+  popup.style.right = rightDistance + 'px';
+  popup.style.top = rect.bottom + window.scrollY + 8 + 'px';
+    }
+
+    // Show the popup and attach handlers
+    function showPopup() {
+      positionPopup();
+      popup.style.display = 'block';
+      // close on outside click
+      setTimeout(() => { // delay to avoid immediate trigger from same click
+        window.addEventListener('click', outsideClick);
+        window.addEventListener('keydown', escClose);
+        window.addEventListener('resize', positionPopup);
+        window.addEventListener('scroll', positionPopup, { passive: true });
+      }, 0);
+    }
+
+    function hidePopup() {
+      popup.style.display = 'none';
+      window.removeEventListener('click', outsideClick);
+      window.removeEventListener('keydown', escClose);
+      window.removeEventListener('resize', positionPopup);
+      window.removeEventListener('scroll', positionPopup, { passive: true });
+    }
+
+    function outsideClick(e) {
+      if (!popup.contains(e.target) && e.target !== locateBtn) {
+        hidePopup();
+      }
+    }
+
+    function escClose(e) {
+      if (e.key === 'Escape') hidePopup();
+    }
+
+    const understandBtn = popup.querySelector('.locate-popup-btn');
+    understandBtn.addEventListener('click', () => {
+      privacyAccepted = true;
+      hidePopup();
+      // proceed with locating after acceptance
+      startLocate();
+    });
+
+    // startLocate encapsulates the geolocation request and button UI
+    function startLocate() {
+      if (locateBtn) {
+        // Request location. We don't auto setView here; we'll control zoom in the handler.
+        map.locate({ setView: false, maxZoom: LOCATE_MAX_ZOOM, watch: false });
+        locateBtn.textContent = 'Locating...';
+        locateBtn.disabled = true;
+      }
+    }
+
+    locateBtn.addEventListener('click', (e) => {
+      // If user already accepted in this session, start locating immediately
+      if (privacyAccepted) {
+        startLocate();
+        return;
+      }
+
+      // Otherwise show the popup (do not start locating until they click I understand)
+      showPopup();
+      // keep the click from triggering the outsideClick handler immediately
+      e.stopPropagation();
     });
   }
 
