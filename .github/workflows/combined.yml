@@ -25,8 +25,6 @@ jobs:
       - name: Create .env file
         run: echo "GEOCACHING_API_KEY=${{ secrets.GEOCACHING_API_KEY }}" > .env
 
-      - name: Update Grading
-        run: python3 update_grading.py
       - name: Update Prices
         run: python3 update_prices.py
       - name: Update Vending
