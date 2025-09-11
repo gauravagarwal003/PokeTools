@@ -3,7 +3,7 @@ html,
 body {
     margin: 0;
     padding: 0;
-    overscroll-behavior: none;
+    overscroll-behavior-x: none;
 }
 
 body {
@@ -20,19 +20,41 @@ nav {
     display: flex;
     align-items: center;
     font-size: 14px;
-}
-
-/* Create space below the fixed header */
-#title {
-    font-size: 16px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
 }
 
 /* Map container styling */
 #map {
-    width: 90%;
-    margin: 20px auto;
-    /* Add some vertical spacing if needed */
-    height: 500px;
+    position: absolute;
+    top: 60px; /* keep the map below the fixed nav; adjust if your nav height differs */
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: auto; /* controlled by top/bottom */
+}
+
+/* Locate button */
+.locate-btn {
+    position: absolute;
+    top: 72px; /* below the fixed nav */
+    right: 20px;
+    z-index: 1000;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.locate-btn:active {
+    transform: translateY(1px);
 }
 
 .navbar_logo img {
