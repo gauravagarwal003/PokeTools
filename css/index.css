@@ -1,5 +1,5 @@
 :root {
-    --navbar-height: 8%; /* Height of the navbar */
+    --navbar-height: 8vh; /* Keep for desktop */
 }
 
 /* Reset default spacing and prevent overscroll */
@@ -19,6 +19,7 @@ body {
 #page-container {
     position: relative;
     min-height: 100vh;
+    min-height: 100dvh; /* Modern dynamic viewport height */
 }
 
 #todayButton.active-header-nav,
@@ -63,13 +64,11 @@ body {
     box-sizing: border-box;
 }
 
-
 .navbar_right {
     display: flex;
     align-items: center;
     padding-right: 1%;
 }
-
 
 .navbar_left {
     display: flex;
@@ -82,7 +81,6 @@ body {
     height: 5vh;
     max-height: 25px;
 }
-
 
 /* Map container styling */
 #map {
@@ -148,7 +146,6 @@ body {
     transform: translateY(1px);
 }
 
-
 #support-link {
     color: white;
     text-decoration: none;
@@ -164,7 +161,12 @@ body {
     display: none;
 }
 
+/* Mobile fixes for Chrome viewport bug */
 @media (max-width: 700px) {
+    :root {
+        --navbar-height: 60px; /* Fixed height for mobile */
+    }
+    
     .full {
         display: none !important;
     }
@@ -174,14 +176,28 @@ body {
     }
 
     .header-nav {
-        font-size: 1.85vh !important;
+        font-size: 2vh !important; /* Fixed px instead of vh */
     }
 
     .navbar_left {
-        font-size: 1.2vh !important;
+        font-size: 1.5vh !important; /* Fixed px instead of vh */
+    }
+
+    .navbar_logo img {
+        height: 30px !important;
+        max-height: 30px !important;
+    }
+
+    #header {
+        height: 60px !important; /* Fixed height */
     }
 
     #map {
-        top: calc(var(--navbar-height) - 1%) !important;
+        top: 60px !important; /* Match header height exactly */
     }
+    
+    .locate-btn {
+        top: 70px !important; /* Header height + 10px */
+    }
+    
 }
