@@ -1,3 +1,7 @@
+:root {
+    --navbar-height: 8%; /* Height of the navbar */
+}
+
 /* Reset default spacing and prevent overscroll */
 html,
 body {
@@ -12,43 +16,96 @@ body {
     font-family: sans-serif;
 }
 
-/* Fixed Navigation Bar */
-nav {
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+#todayButton.active-header-nav,
+#mapButton.active-header-nav,
+#pricesButton.active-header-nav,
+#aboutButton.active-header-nav {
+    text-decoration: underline !important;
+}
+
+/* Button styling */
+.header-nav {
+    background: transparent;
+    color: white;
+    font-size: 3vh;
+    cursor: pointer;
+    border: none;
+}
+
+.header-nav:hover {
+    color: gray;
+}
+
+#header {
     background-color: #333;
     color: white;
-    padding: 10px 20px;
     display: flex;
     align-items: center;
-    font-size: 14px;
+    width: 100%;
+    right: 0;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     z-index: 1000;
+    height: var(--navbar-height);
 }
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+.navbar_right {
+    display: flex;
+    align-items: center;
+    padding-right: 1%;
+}
+
+
+.navbar_left {
+    display: flex;
+    align-items: center;
+    padding-left: 1%;
+    font-size: 2vh;
+}
+
+.navbar_logo img {
+    height: 5vh;
+    max-height: 25px;
+}
+
 
 /* Map container styling */
 #map {
     position: absolute;
-    top: 60px; /* keep the map below the fixed nav; adjust if your nav height differs */
     left: 0;
+    top: var(--navbar-height);
     right: 0;
     bottom: 0;
     width: 100%;
-    height: auto; /* controlled by top/bottom */
+    height: auto;
 }
 
 /* Locate button */
 .locate-btn {
     position: absolute;
-    top: 72px; /* below the fixed nav */
-    right: 20px;
+    top: calc(var(--navbar-height) + 1%);
+    right: 2%;
     z-index: 1000;
     background: white;
     border: 1px solid #ccc;
     padding: 8px 12px;
     border-radius: 6px;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     cursor: pointer;
     font-weight: bold;
 }
@@ -57,7 +114,6 @@ nav {
     transform: translateY(1px);
 }
 
-/* Privacy popup shown under the Find me button (runtime only) */
 .locate-privacy-popup {
     position: absolute;
     z-index: 1100;
@@ -65,14 +121,17 @@ nav {
     border: 1px solid #ccc;
     padding: 8px 10px;
     border-radius: 6px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-    width: 170px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    width: 30%;
+    max-width: 180px;
     font-size: 13px;
     text-align: left;
 }
+
 .locate-privacy-text {
     margin-bottom: 8px;
 }
+
 .locate-popup-btn {
     background: #2b7cff;
     color: white;
@@ -84,40 +143,21 @@ nav {
     display: block;
     margin: 0 auto;
 }
-.locate-popup-btn:active { transform: translateY(1px); }
 
-.navbar_logo img {
-    height: 35px;
+.locate-popup-btn:active {
+    transform: translateY(1px);
 }
 
-.navbar_right {
-    margin-left: auto;
-}
 
-.navbar_left {
-    display: flex;
-    align-items: center;
-    margin-right: auto;
-}
-
-.coffee {
-    margin-left: 10px;
-}
-
-.coffee:hover {
-    color: #D0BB94 !important;
-}
-
-nav a {
+#support-link {
     color: white;
     text-decoration: none;
     font-weight: bold;
-    margin-right: 15px;
+    margin-left: 10px;
 }
 
-
-nav a:hover {
-    color: gray;
+#support-link:hover {
+    color: #D0BB94 !important;
 }
 
 .short {
@@ -131,5 +171,17 @@ nav a:hover {
 
     .short {
         display: inline !important;
+    }
+
+    .header-nav {
+        font-size: 1.85vh !important;
+    }
+
+    .navbar_left {
+        font-size: 1.2vh !important;
+    }
+
+    #map {
+        top: calc(var(--navbar-height) + 1%) !important;
     }
 }

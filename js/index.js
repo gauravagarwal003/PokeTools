@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+// Code runs immediately since script is injected after DOM is ready
   // ----- Map Initialization -----
   // Edit these constants to change initial behavior:
   const DEFAULT_CENTER = [37.8, -96];
@@ -42,27 +42,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const locateBtn = document.getElementById('locate-btn');
   if (locateBtn) {
-    // Create a small privacy popup element (runtime only — not stored)
+    // Use the static privacy popup element from HTML
     let privacyAccepted = false; // runtime flag only
-
-    const popup = document.createElement('div');
-    popup.className = 'locate-privacy-popup';
-    popup.style.display = 'none';
-    popup.innerHTML = `
-      <div class="locate-privacy-text">Your location is only used temporarily and never stored.</div>
-      <button type="button" class="locate-popup-btn">I understand</button>
-    `;
-    document.body.appendChild(popup);
+    const popup = document.querySelector('.locate-privacy-popup');
 
     // helper: position popup under the button
     function positionPopup() {
-  const rect = locateBtn.getBoundingClientRect();
-  // Align the popup so its right side is the same distance from the
-  // right edge of the page as the locate button's right side.
-  popup.style.left = 'auto';
-  const rightDistance = Math.max(8, window.innerWidth - rect.right);
-  popup.style.right = rightDistance + 'px';
-  popup.style.top = rect.bottom + window.scrollY + 8 + 'px';
+      const rect = locateBtn.getBoundingClientRect();
+      // Align the popup so its right side is the same distance from the
+      // right edge of the page as the locate button's right side.
+      popup.style.left = 'auto';
+      const rightDistance = Math.max(8, window.innerWidth - rect.right);
+      popup.style.right = rightDistance + 'px';
+      popup.style.top = rect.bottom + window.scrollY + 8 + 'px';
     }
 
     // Show the popup and attach handlers
@@ -115,12 +107,16 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     locateBtn.addEventListener('click', (e) => {
+      // If popup is already open, close it and do nothing else
+      if (popup.style.display === 'block') {
+        hidePopup();
+        return;
+      }
       // If user already accepted in this session, start locating immediately
       if (privacyAccepted) {
         startLocate();
         return;
       }
-
       // Otherwise show the popup (do not start locating until they click I understand)
       showPopup();
       // keep the click from triggering the outsideClick handler immediately
@@ -154,4 +150,4 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 
-});
+
