@@ -2,84 +2,74 @@
 <html>
 
 <head>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3181134485510321"
-     crossorigin="anonymous"></script>
-  <meta charset="UTF-8">
-  <link rel="icon" type="image/png" href="assets/pokeball.png">
-
-  <title>PokeTools | EV & Pack Prices</title>
-  <!-- Link to external CSS -->
-  <link rel="stylesheet" href="css/prices.css">
-  <!-- Load Plotly and D3 from CDNs -->
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCYRP46NXC"></script>
-  <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
-
-      gtag('config', 'G-WCYRP46NXC');
-  </script>
-
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3181134485510321"
+        crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="assets/pokeball.png">
+    <title>PokeTools | EV & Pack Prices</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Load Plotly and D3 from CDNs -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script>
+        const css = document.createElement('link');
+        css.rel = 'stylesheet';
+        css.href = 'css/prices.css?v=' + Date.now();
+        document.head.appendChild(css);
+    </script>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCYRP46NXC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-WCYRP46NXC');
+    </script>
 </head>
 
 <body>
-  <nav>
-    <div class="navbar_left">
-      <div class="navbar_logo">
-        <img src="assets/logo.png" alt="PokeTools Logo">
-      </div>
-      <a href="https://buymeacoffee.com/gprojects" target="_blank">
-        <span class="coffee">☕ Support Me</span>
-      </a>
+    <main id="page-container">
+        <header id="header">
+            <div class="header-content">
+                <div class="navbar_left">
+                    <div class="navbar_logo">
+                        <img src="assets/logo.png" alt="PokeTools Logo">
+                    </div>
+                    <a href="https://buymeacoffee.com/gprojects" target="_blank" id="support-link">
+                        <span>☕ Support Me</span>
+                    </a>
+                </div>
+                <div class="navbar_right">
+                    <button id="mapButton" class="header-nav" onclick="location.href='/'">
+                        <span class="vending-button-text short">Map</span>
+                        <span class="vending-button-text full">Map</span>
+                    </button>
+                    <button id="pricesButton" class="header-nav active-header-nav" onclick="location.href='/prices'">
+                        <span class="prices-button-text full">Set Prices</span>
+                        <span class="prices-button-text short">Sets</span>
+                    </button>
+                    <button id="aboutButton" class="header-nav" onclick="location.href='/about'">
+                        <span class="about-button-text full">About & Policies</span>
+                        <span class="about-button-text short">About</span>
+                    </button>
+                </div>
+            </div>
+        </header>
+        <div id="content-wrap">
+            <div id="title">
+                <h1>Current EV and Pack Prices of S&V (Updated Daily)</h1>
+            </div>
+            <div id="current_set_info"></div>
+                            <h1>EV and Pack Prices of S&V over Time</h1>
 
-    </div>
-    <div class="navbar_right">
-      <a href="/">
-        <span class="vending-button-text full">Map</span>
-        <span class="vending-button-text short">Map</span>
-      </a>
-
-      <a href="/prices">
-        <span class="prices-button-text full" style="text-decoration: underline;">Set Prices</span>
-        <span class="prices-button-text short" style="text-decoration: underline;">Sets</span>
-      </a>
-
-            <a href="/about">
-        <span class="about-button-text full">About & Policies</span>
-        <span class="about-button-text short">About</span>
-      </a>
-
-    </div>
-  </nav>
-
-
-  <!-- Section for the joined info with images -->
-  <div id="title">
-    <h1>Current EV and Pack Prices of S&V (Updated Daily)</h1>
-  </div>
-  <div id="current_set_info">
-
-  </div>
-
-  <div id="charts">
-    <h1>EV and Pack Prices of S&V over Time</h1>
-    <!-- Container for Expected Value over time plot -->
-    <div id="chart-ev" class="chart">
-    </div>
-
-    <!-- Container for Pack Prices plot -->
-    <div id="chart-pack-prices" class="chart">
-    </div>
-
-    <div id="chart-percent" class="chart">
-    </div>
-  </div>
-
-
-  <!-- Include external JavaScript file -->
-  <script src="js/prices.js"></script>
+            <div id="charts">
+                <div id="chart-ev" class="chart"></div>
+                <div id="chart-pack-prices" class="chart"></div>
+                <div id="chart-percent" class="chart"></div>
+            </div>
+        </div>
+    </main>
+    <script src="js/prices.js"></script>
 </body>
 
 </html>
