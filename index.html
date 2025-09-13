@@ -61,8 +61,13 @@
             <div id="map"></div>
             <button id="locate-btn" class="locate-btn" title="Find my location">Find me</button>
             <div class="locate-privacy-popup" style="display: none;">
-                <div class="locate-privacy-text">Your location is only used temporarily and never stored.</div>
-                <button type="button" class="locate-popup-btn">I understand</button>
+                <div class="locate-privacy-text">
+                    Your location is only used temporarily and never stored.
+                </div>
+                <div class="popup-buttons">
+                    <button type="button" class="locate-popup-btn primary">I understand</button>
+                    <button type="button" class="locate-popup-btn secondary" id="popup-cancel">Cancel</button>
+                </div>
             </div>
         </div>
 
