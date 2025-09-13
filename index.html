@@ -3,7 +3,7 @@
 
 <head>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3181134485510321"
-     crossorigin="anonymous"></script>
+        crossorigin="anonymous"></script>
     <meta charset="UTF-8">
     <link rel="icon" type="image/png" href="assets/pokeball.png">
 
@@ -17,49 +17,75 @@
         gtag('config', 'G-WCYRP46NXC');
     </script>
     <title>PokeTools | Vending Machine Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link rel="stylesheet" href="css/index.css">
+    <script>
+        const css = document.createElement('link');
+        css.rel = 'stylesheet';
+        css.href = 'css/index.css?v=' + Date.now();
+        document.head.appendChild(css);
+    </script>
 
 </head>
 
 <body>
-    <nav>
-        <div class="navbar_left">
-            <div class="navbar_logo">
-                <img src="assets/logo.png" alt="PokeTools Logo">
+    <main id="page-container">
+        <header id="header">
+            <div class="header-content">
+                <div class="navbar_left">
+                    <div class="navbar_logo">
+                        <img src="assets/logo.png" alt="PokeTools Logo">
+                    </div>
+                    <a href="https://buymeacoffee.com/gprojects" target="_blank" id="support-link">
+                        <span>☕ Support Me</span>
+                    </a>
+                </div>
+                <div class="navbar_right">
+                    <button id="mapButton" class="header-nav active-header-nav" onclick="location.href='/'">
+                        <span class="vending-button-text short">Map</span>
+                        <span class="vending-button-text full">Map</span>
+                    </button>
+                    <button id="pricesButton" class="header-nav" onclick="location.href='/prices'">
+
+                        <span class="prices-button-text full">Set Prices</span>
+                        <span class="prices-button-text short">Sets</span>
+                    </button>
+                    <button id="aboutButton" class="header-nav" onclick="location.href='/about'">
+
+                        <span class="about-button-text full">About & Policies</span>
+                        <span class="about-button-text short">About</span>
+                    </button>
+                </div>
+        </header>
+        <div id="content-wrap">
+            <div id="location-count" class="location-count">
+                <span id="location-count-number"></span>
+                <span id="location-count-label" class="full" >vending machines</span>
+                <span id="location-count-label" class="short">machines</span>
             </div>
-            <a href="https://buymeacoffee.com/gprojects" target="_blank">
-                <span class="coffee">☕ Support Me</span>
-            </a>
+            <div id="map"></div>
+            <button id="locate-btn" class="locate-btn" title="Find my location">Find me</button>
+            <div class="locate-privacy-popup" style="display: none;">
+                <div class="locate-privacy-text">
+                    Your location is only used temporarily and never stored.
+                </div>
+                <div class="popup-buttons">
+                    <button type="button" class="locate-popup-btn primary">I understand</button>
+                    <button type="button" class="locate-popup-btn secondary" id="popup-cancel">Cancel</button>
+                </div>
+            </div>
         </div>
-        <div class="navbar_right">
-            <a href="/">
-                <span class="vending-button-text full" style="text-decoration: underline;">Vending Machine
-                    Locations</span>
-                <span class="vending-button-text short" style="text-decoration: underline;">Vending</span>
-            </a>
 
-            <a href="/prices">
-                <span class="prices-button-text full">Set Prices & EV</span>
-                <span class="prices-button-text short">Sets</span>
-            </a>
 
-                  <a href="/about">
-        <span class="about-button-text full">About & Policies</span>
-        <span class="about-button-text short">About</span>
-      </a>
-
-        </div>
-    </nav>
-    <div id="title">
-        <h1>Pokemon Vending Machine Locations (Updated Daily)</h1>
-    </div>
-
-    <div id="map"></div>
+    </main>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="js/index.js"></script>
-
+    <script>
+        // Dynamically add JS with cache-busting timestamp
+        const script = document.createElement('script');
+        script.src = 'js/index.js?v=' + Date.now();
+        document.body.appendChild(script);
+    </script>
 </body>
 
 </html>

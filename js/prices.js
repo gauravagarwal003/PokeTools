@@ -3,7 +3,6 @@ const MIN_PERCENTAGE = 20;
 const MAX_PERCENTAGE = 80;
 const DARK_RED_HEX = "#FF0000";
 const BRIGHT_GREEN_HEX = "#00AA00";
-
 // Helper function to convert hex color to an RGB array
 function hexToRGB(hex) {
   hex = hex.replace("#", "");
@@ -118,6 +117,7 @@ Promise.all([
     );
   });
 
+
   // ---------------- Create Expected Value Over Time Plot ----------------
   let setsEV = Object.keys(evData[0]).filter(key => key !== "Date");
   let tracesEV = setsEV.map(function (set) {
@@ -137,6 +137,35 @@ Promise.all([
     };
   });
 
+  // ========== Custom Legend for Mobile ========== //
+  function renderCustomLegend(sets, colorMap) {
+    // Remove any previous legend
+    d3.select('#custom-legend').remove();
+    // Insert legend above charts
+    let legendDiv = d3.select('#charts').insert('div', ':first-child')
+      .attr('id', 'custom-legend')
+      .style('margin-bottom', '10px')
+      .style('display', 'flex')
+      .style('flex-wrap', 'wrap')
+      .style('justify-content', 'center');
+    sets.forEach(function(set) {
+      let entry = legendDiv.append('div')
+        .style('display', 'flex')
+        .style('align-items', 'center')
+        .style('margin', '0 8px 4px 0');
+      entry.append('span')
+        .style('display', 'inline-block')
+        .style('width', '16px')
+        .style('height', '16px')
+        .style('background', colorMap[set.trim()] || '#888')
+        .style('margin-right', '5px')
+        .style('border-radius', '3px');
+      entry.append('span').text(set);
+    });
+  }
+
+  let isMobile = window.innerWidth < 700;
+
   let layoutEV = {
     title: 'Expected Value Over Time',
     xaxis: {
@@ -155,8 +184,16 @@ Promise.all([
       r: 50,
       t: 80,
       b: 50
-    }
+    },
+    showlegend: !isMobile
   };
+  if (!isMobile && window.innerWidth < 1100) {
+    layoutEV.legend = { orientation: 'h', y: -0.3 };
+  }
+
+  if (isMobile) {
+    renderCustomLegend(setsEV, colorMap);
+  }
 
   Plotly.newPlot('chart-ev', tracesEV, layoutEV);
 
@@ -179,6 +216,8 @@ Promise.all([
     };
   });
 
+
+
   let layoutPacks = {
     title: 'Pack Prices Over Time',
     xaxis: {
@@ -197,8 +236,12 @@ Promise.all([
       r: 50,
       t: 80,
       b: 50
-    }
+    },
+    showlegend: !isMobile
   };
+  if (!isMobile && window.innerWidth < 1100) {
+    layoutPacks.legend = { orientation: 'h', y: -0.3 };
+  }
 
   Plotly.newPlot('chart-pack-prices', tracesPacks, layoutPacks);
 
@@ -222,6 +265,8 @@ Promise.all([
     };
   });
 
+
+
   let layoutPercent = {
     title: 'Percentage Recovered Over Time',
     xaxis: {
@@ -241,8 +286,12 @@ Promise.all([
       r: 50,
       t: 80,
       b: 50
-    }
+    },
+    showlegend: !isMobile
   };
+  if (!isMobile && window.innerWidth < 1100) {
+    layoutPercent.legend = { orientation: 'h', y: -0.3 };
+  }
 
   Plotly.newPlot('chart-percent', tracesPercent, layoutPercent);
 });

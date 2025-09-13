@@ -1,89 +1,137 @@
-/* Global Styles */
+
+/* =====================
+   Root Variables
+   ===================== */
+:root {
+    --navbar-height: 8vh;
+}
+
+/* =====================
+   Reset & Base Styles
+   ===================== */
 html,
 body {
-  margin: 0;
-  padding: 0;
-  overscroll-behavior: none;
+    margin: 0;
+    padding: 0;
+    overscroll-behavior-x: none;
 }
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: rgb(200, 200, 200);
-  height: 100%;
-  margin: 0;
-  text-align: center;
-  justify-content: center;
-  overflow-x: hidden;
+    font-family: Arial, sans-serif;
+    background-color: rgb(200, 200, 200);
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    overflow-x: hidden;
 }
 
+/* =====================
+   Layout Containers
+   ===================== */
+#page-container {
+    position: relative;
+    min-height: 100vh;
+    min-height: 100dvh;
+}
+
+#content-wrap {
+    margin-top: var(--navbar-height);
+}
+
+/* =====================
+   Header & Navbar
+   ===================== */
+#header {
+    background-color: #333;
+    color: white;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    right: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    height: var(--navbar-height);
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+}
 
 .navbar_left {
-  display: flex;
-  align-items: center;
-  margin-right: auto;
-}
-
-.coffee {
-  margin-left: 10px;
-}
-
-.coffee:hover {
-  color: #D0BB94 !important;
-}
-
-
-
-@media (max-width: 700px) {
-  .full {
-    display: none !important;
-  }
-
-  .short {
-    display: inline !important;
-  }
-}
-
-.short {
-  display: none;
-}
-
-#title {
-  font-size: 16px;
-}
-
-.navbar_logo img {
-  height: 35px;
-}
-
-nav {
-  background-color: #333;
-  color: white;
-  padding: 10px 20px;
-  display: flex;
-  align-items: center;
-  font-size: 14px;
+    display: flex;
+    align-items: center;
+    padding-left: 1%;
+    font-size: 2vh;
 }
 
 .navbar_right {
-  margin-left: auto;
+    display: flex;
+    align-items: center;
+    padding-right: 1%;
 }
 
-nav a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-  margin-right: 15px;
+.navbar_logo img {
+    height: 5vh;
+    max-height: 25px;
 }
 
-nav a:hover {
-  color: gray;
+#support-link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
 }
 
-thead {
-  color: black;
+#support-link:hover {
+    color: #D0BB94 !important;
 }
 
+/* =====================
+   Navigation Buttons
+   ===================== */
+#todayButton.active-header-nav,
+#mapButton.active-header-nav,
+#pricesButton.active-header-nav,
+#aboutButton.active-header-nav {
+    text-decoration: underline !important;
+}
 
+.header-nav {
+    background: transparent;
+    color: white;
+    font-size: 3vh;
+    cursor: pointer;
+    border: none;
+}
+
+.header-nav:hover {
+    color: gray;
+}
+
+/* =====================
+   Main Content
+   ===================== */
+#main {
+    text-align: left;
+    margin-bottom: 1em;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#title {
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+/* =====================
+   Modal Styles
+   ===================== */
 .modal {
     display: none;
     position: fixed;
@@ -108,14 +156,6 @@ thead {
     overflow-y: auto;
 }
 
-#main {
-  text-align: left;
-  margin-bottom: 1em;
-    padding-left: 20px;
-  padding-right: 20px;
-
-}
-
 .close-button {
     color: black;
     float: right;
@@ -127,5 +167,44 @@ thead {
 
 .close-button:hover {
     opacity: 0.5;
+}
+
+/* =====================
+   Utility Classes
+   ===================== */
+.short {
+    display: none !important;
+}
+
+/* =====================
+   Responsive: Mobile Fixes
+   ===================== */
+@media (max-width: 700px) {
+    :root {
+        --navbar-height: 60px;
+    }
+    .full {
+        display: none !important;
+    }
+    .short {
+        display: inline !important;
+    }
+    .header-nav {
+        font-size: 2vh !important;
+    }
+    .navbar_left {
+        font-size: 1.5vh !important;
+    }
+    .navbar_logo img {
+        height: 30px !important;
+        max-height: 30px !important;
+    }
+    #header {
+        height: 60px !important;
+    }
+    .modal-content {
+        max-width: 90% !important;
+        max-height: 80% !important;
+    }
 }
 
