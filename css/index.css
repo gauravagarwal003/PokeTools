@@ -1,23 +1,14 @@
-/* Location count floating box */
-.location-count {
-    position: absolute;
-    left: 1%;
-    bottom: 2%;
-    z-index: 1200;
-    background: white;
-    color: #222;
-    font-size: 15px;
-    padding: 8px 16px;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-    font-weight: bold;
-    font-size: 12px;
-}
+
+/* =====================
+   Root Variables
+   ===================== */
 :root {
     --navbar-height: 8vh; /* Keep for desktop */
 }
 
-/* Reset default spacing and prevent overscroll */
+/* =====================
+   Reset & Base Styles
+   ===================== */
 html,
 body {
     margin: 0;
@@ -31,32 +22,18 @@ body {
     font-family: sans-serif;
 }
 
+/* =====================
+   Layout Containers
+   ===================== */
 #page-container {
     position: relative;
     min-height: 100vh;
     min-height: 100dvh; /* Modern dynamic viewport height */
 }
 
-#todayButton.active-header-nav,
-#mapButton.active-header-nav,
-#pricesButton.active-header-nav,
-#aboutButton.active-header-nav {
-    text-decoration: underline !important;
-}
-
-/* Button styling */
-.header-nav {
-    background: transparent;
-    color: white;
-    font-size: 3vh;
-    cursor: pointer;
-    border: none;
-}
-
-.header-nav:hover {
-    color: gray;
-}
-
+/* =====================
+   Header & Navbar
+   ===================== */
 #header {
     background-color: #333;
     color: white;
@@ -79,12 +56,6 @@ body {
     box-sizing: border-box;
 }
 
-.navbar_right {
-    display: flex;
-    align-items: center;
-    padding-right: 1%;
-}
-
 .navbar_left {
     display: flex;
     align-items: center;
@@ -92,12 +63,53 @@ body {
     font-size: 2vh;
 }
 
+.navbar_right {
+    display: flex;
+    align-items: center;
+    padding-right: 1%;
+}
+
 .navbar_logo img {
     height: 5vh;
     max-height: 25px;
 }
 
-/* Map container styling */
+#support-link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+#support-link:hover {
+    color: #D0BB94 !important;
+}
+
+/* =====================
+   Navigation Buttons
+   ===================== */
+#todayButton.active-header-nav,
+#mapButton.active-header-nav,
+#pricesButton.active-header-nav,
+#aboutButton.active-header-nav {
+    text-decoration: underline !important;
+}
+
+.header-nav {
+    background: transparent;
+    color: white;
+    font-size: 3vh;
+    cursor: pointer;
+    border: none;
+}
+
+.header-nav:hover {
+    color: gray;
+}
+
+/* =====================
+   Map & Floating Elements
+   ===================== */
 #map {
     position: absolute;
     left: 0;
@@ -108,7 +120,24 @@ body {
     height: auto;
 }
 
-/* Locate button */
+/* Location count floating box */
+.location-count {
+    position: absolute;
+    left: 1%;
+    bottom: 2%;
+    z-index: 1200;
+    background: white;
+    color: #222;
+    font-size: 12px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    font-weight: bold;
+}
+
+/* =====================
+   Locate Button & Popups
+   ===================== */
 .locate-btn {
     position: absolute;
     top: calc(var(--navbar-height) + 1%);
@@ -178,27 +207,21 @@ body {
     transform: translateY(1px);
 }
 
-#support-link {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    margin-left: 10px;
-}
-
-#support-link:hover {
-    color: #D0BB94 !important;
-}
-
+/* =====================
+   Utility Classes
+   ===================== */
 .short {
     display: none !important;
 }
 
-/* Mobile fixes for Chrome viewport bug */
+/* =====================
+   Responsive: Mobile Fixes
+   ===================== */
 @media (max-width: 700px) {
     :root {
         --navbar-height: 60px; /* Fixed height for mobile */
     }
-    
+
     .full {
         display: none !important;
     }
@@ -227,11 +250,11 @@ body {
     #map {
         top: 60px !important; /* Match header height exactly */
     }
-    
+
     .locate-btn {
         top: 70px !important; /* Header height + 10px */
     }
-    
+
     .locate-privacy-popup {
         width: 45%;
         font-size: 12px;
