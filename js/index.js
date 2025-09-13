@@ -33,25 +33,27 @@ fetch('assets/all_states.geojson')
           );
       }
     }).addTo(map);
+
+    // Show total vending machine locations
+    const count = data.features.length;
+    const countDiv = document.getElementById('location-count-number');
+    if (countDiv) {
+      countDiv.textContent = `${count}`;
+    }
   })
   .catch(error => console.error('Error loading GeoJSON:', error));
 
 // ----- Enhanced Geolocation / "Find me" button -----
-// Location permission constants
-const LOCATION_PERMISSION_KEY = 'location_permission_granted';
-const LOCATION_PERMISSION_DENIED_KEY = 'location_permission_denied';
+// Location confirmation flag
+const LOCATION_CONFIRMATION_KEY = 'location_confirmation_approved';
 
 // We'll keep track of the last location marker so we can remove it
 let locateMarker = null;
 
-// Check if user has previously granted permission
-function hasLocationPermission() {
-  return localStorage.getItem(LOCATION_PERMISSION_KEY) === 'true';
-}
 
-// Check if user has previously denied permission
-function hasLocationPermissionDenied() {
-  return localStorage.getItem(LOCATION_PERMISSION_DENIED_KEY) === 'true';
+// Check if user has previously approved confirmation
+function hasLocationConfirmation() {
+  return localStorage.getItem(LOCATION_CONFIRMATION_KEY) === 'true';
 }
 
 // Optional: Check browser permission status (if supported)
@@ -68,27 +70,20 @@ async function checkBrowserLocationPermission() {
   return 'unknown';
 }
 
-// Update location button status based on permissions
+// Update location button status based on confirmation
 function updateLocationButtonStatus() {
   const locateBtn = document.getElementById('locate-btn');
   if (!locateBtn) return;
-  
-  const hasPermission = hasLocationPermission();
-  const wasDenied = hasLocationPermissionDenied();
-  
-  if (hasPermission) {
+  if (hasLocationConfirmation()) {
     locateBtn.title = 'Find my location';
-  } else if (wasDenied) {
-    locateBtn.title = 'Location permission required - click to enable';
   } else {
-    locateBtn.title = 'Find my location (permission will be requested)';
+    locateBtn.title = 'Find my location (confirmation required)';
   }
 }
 
 // Enhanced locate button handler
 const locateBtn = document.getElementById('locate-btn');
 if (locateBtn) {
-  let privacyAccepted = hasLocationPermission(); // Check stored preference
   const popup = document.querySelector('.locate-privacy-popup');
 
   // Initialize button status
@@ -102,29 +97,37 @@ if (locateBtn) {
     popup.style.top = rect.bottom + window.scrollY + 8 + 'px';
   }
 
-  function showPopup(isDeniedMessage = false) {
-    // Update popup content based on context
+  function showPopup() {
+    // Update popup content
     const popupText = popup.querySelector('.locate-privacy-text');
     const primaryBtn = popup.querySelector('.locate-popup-btn.primary');
     const secondaryBtn = popup.querySelector('.locate-popup-btn.secondary');
-    
-    if (isDeniedMessage) {
-      popupText.textContent = 'Location access was denied. Enable it via the location icon in your browser bar or in site settings.';
-      primaryBtn.textContent = 'Got it';
-      primaryBtn.onclick = hidePopup;
-      secondaryBtn.style.display = 'none';
-    } else {
-      popupText.textContent = 'Your location is only used temporarily and never stored.';
-      primaryBtn.textContent = 'I understand';
-      primaryBtn.onclick = handlePrivacyAccept;
-      secondaryBtn.textContent = 'Cancel';
-      secondaryBtn.onclick = hidePopup;
-      secondaryBtn.style.display = 'block';
-    }
-    
+    popupText.textContent = 'Your location is only used temporarily and never stored.';
+    primaryBtn.textContent = 'I understand';
+    primaryBtn.onclick = handleConfirmationAccept;
+    secondaryBtn.textContent = 'Cancel';
+    secondaryBtn.onclick = hidePopup;
+    secondaryBtn.style.display = 'block';
     positionPopup();
     popup.style.display = 'block';
-    
+    setTimeout(() => {
+      window.addEventListener('click', outsideClick);
+      window.addEventListener('keydown', escClose);
+      window.addEventListener('resize', positionPopup);
+      window.addEventListener('scroll', positionPopup, { passive: true });
+    }, 0);
+  }
+
+  function showErrorPopup(errorMessage) {
+    const popupText = popup.querySelector('.locate-privacy-text');
+    const primaryBtn = popup.querySelector('.locate-popup-btn.primary');
+    const secondaryBtn = popup.querySelector('.locate-popup-btn.secondary');
+    popupText.textContent = errorMessage;
+    primaryBtn.textContent = 'OK';
+    primaryBtn.onclick = hidePopup;
+    secondaryBtn.style.display = 'none';
+    positionPopup();
+    popup.style.display = 'block';
     setTimeout(() => {
       window.addEventListener('click', outsideClick);
       window.addEventListener('keydown', escClose);
@@ -151,11 +154,8 @@ if (locateBtn) {
     if (e.key === 'Escape') hidePopup();
   }
 
-  function handlePrivacyAccept() {
-    privacyAccepted = true;
-    localStorage.setItem(LOCATION_PERMISSION_KEY, 'true');
-    // Remove any previous denial flag
-    localStorage.removeItem(LOCATION_PERMISSION_DENIED_KEY);
+  function handleConfirmationAccept() {
+    localStorage.setItem(LOCATION_CONFIRMATION_KEY, 'true');
     updateLocationButtonStatus();
     hidePopup();
     startLocate();
@@ -172,27 +172,18 @@ if (locateBtn) {
   // Main click handler
   locateBtn.addEventListener('click', (e) => {
     e.stopPropagation();
-    
     // If popup is already open, close it
     if (popup.style.display === 'block') {
       hidePopup();
       return;
     }
-    
-    // If user previously denied and we haven't reset, show info message
-    if (hasLocationPermissionDenied()) {
-      showPopup(true); // Show "permission denied" message
-      return;
-    }
-    
-    // If user already accepted, start locating immediately
-    if (privacyAccepted) {
+    // If user already approved confirmation, start locating immediately
+    if (hasLocationConfirmation()) {
       startLocate();
       return;
     }
-    
-    // Otherwise show privacy popup
-    showPopup(false);
+    // Otherwise show confirmation popup
+    showPopup();
   });
 }
 
@@ -220,45 +211,23 @@ map.on('locationerror', function (err) {
 
   switch (err.code) {
     case 1: // PERMISSION_DENIED
-      localStorage.setItem(LOCATION_PERMISSION_DENIED_KEY, 'true');
-      localStorage.removeItem(LOCATION_PERMISSION_KEY);
-      updateLocationButtonStatus();
-      console.log('Location permission denied by user');
       errorMessage = 'Location access denied. Please enable it in your browser settings to use this feature.';
       break;
-
     case 2: // POSITION_UNAVAILABLE
-      console.log('Location information unavailable');
       errorMessage = 'Could not determine your location. Check your network or GPS and try again.';
       break;
-
     case 3: // TIMEOUT
-      console.log('Location request timed out');
       errorMessage = 'Getting your location took too long. Please try again.';
       break;
-
     default:
-      console.log('Unknown location error:', err);
       errorMessage = 'Could not get your location: ' + err.message;
       break;
   }
 
-  // update popup UI
-  const popup = document.querySelector('.locate-privacy-popup');
-  const popupText = popup.querySelector('.locate-privacy-text');
-  const primaryBtn = popup.querySelector('.locate-popup-btn.primary');
-  const secondaryBtn = popup.querySelector('.locate-popup-btn.secondary');
-
-  popupText.textContent = errorMessage;
-  primaryBtn.textContent = 'OK';
-  primaryBtn.onclick = () => popup.style.display = 'none';
-  secondaryBtn.style.display = 'none';
-
-  const rect = locateBtn.getBoundingClientRect();
-  popup.style.left = 'auto';
-  popup.style.right = Math.max(8, window.innerWidth - rect.right) + 'px';
-  popup.style.top = rect.bottom + window.scrollY + 8 + 'px';
-  popup.style.display = 'block';
+  // Show error popup
+  if (typeof showErrorPopup === 'function') {
+    showErrorPopup(errorMessage);
+  }
 
   if (locateBtn) {
     locateBtn.textContent = 'Find me';
@@ -266,13 +235,12 @@ map.on('locationerror', function (err) {
   }
 });
 
-// Optional: Add a way to reset permissions (for testing or user preference)
-// You can call this function from the browser console: resetLocationPermissions()
-function resetLocationPermissions() {
-  localStorage.removeItem(LOCATION_PERMISSION_KEY);
-  localStorage.removeItem(LOCATION_PERMISSION_DENIED_KEY);
+// Optional: Add a way to reset confirmation (for testing or user preference)
+// You can call this function from the browser console: resetLocationConfirmation()
+function resetLocationConfirmation() {
+  localStorage.removeItem(LOCATION_CONFIRMATION_KEY);
   updateLocationButtonStatus();
-  console.log('Location permissions reset');
+  console.log('Location confirmation reset');
 }
 
 // Clear any location data on page unload (extra security)
