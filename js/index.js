@@ -27,9 +27,17 @@ fetch('assets/all_states.geojson')
   .then(data => {
     L.geoJSON(data, {
       pointToLayer: function (feature, latlng) {
+        // Encode the address for use in a URL
+        const encodedAddress = encodeURIComponent(feature.properties.Address);
+        const googleMapsUrl = `https://www.google.com/maps/dir/?api=1&destination=${encodedAddress}`;
+        const appleMapsUrl = `https://maps.apple.com/?daddr=${encodedAddress}`;
         return L.marker(latlng, { icon: customIcon })
           .bindPopup(
-            `<div style="text-align: center; margin-bottom: 2px;">${feature.properties.Retailer}</div> ${feature.properties.Address}`
+            `<div style="text-align: center; margin-bottom: 2px;">${feature.properties.Retailer}</div>
+             <div style="text-align: center;">${feature.properties.Address}</div>
+             <div style="text-align: center;">
+               Directions: <a href="${googleMapsUrl}" target="_blank" rel="noopener">Google</a> and <a href="${appleMapsUrl}" target="_blank" rel="noopener">Apple</a>
+             </div>`
           );
       }
     }).addTo(map);

@@ -230,6 +230,10 @@ body {
         display: inline !important;
     }
 
+    .leaflet-popup-content {
+        width: 190px !important; /* More width on mobile */
+    }
+
     .header-nav {
         font-size: 2vh !important; /* Fixed px instead of vh */
     }
