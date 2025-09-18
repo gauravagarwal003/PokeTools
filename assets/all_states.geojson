@@ -846,6 +846,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.498762,
+          42.836891
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "7 Continental Blvd, Merrimack, NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.624407,
           42.824965
         ]
@@ -1273,6 +1287,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "24040 Bothell Everett Hwy, Bothell, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20569,
+          47.81167
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "20711 Bothell Everett Hwy, Bothell, WA"
       }
     },
     {
@@ -2050,6 +2078,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.173431,
+          47.678829
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "12519 NE 85th St, Kirkland, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.822206,
           46.997928
         ]
@@ -2456,6 +2498,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.967433,
+          47.860132
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "19651 US-2, Monroe, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.337145,
           48.437694
         ]
@@ -2533,6 +2589,20 @@
       "properties": {
         "Retailer": "QFC",
         "Address": "460 E North Bend Way, North Bend, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79148,
+          47.487357
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "460 SW Mt Si Blvd, North Bend, WA"
       }
     },
     {
@@ -3268,20 +3338,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.386162,
-          47.579894
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "2622 California Ave SW, Seattle, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.296415,
           47.662147
         ]
@@ -3366,6 +3422,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.289339,
+          47.682513
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "7340 35th Ave NE, Seattle, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.283067,
           47.537474
         ]
@@ -3380,13 +3450,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.289339,
-          47.682513
+          -122.386162,
+          47.579894
         ]
       },
       "properties": {
         "Retailer": "Safeway",
-        "Address": "7340 35th Ave NE, Seattle, WA"
+        "Address": "2622 California Ave SW, Seattle, WA"
       }
     },
     {
@@ -3415,6 +3485,34 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "2550 32nd Ave W, Seattle, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283067,
+          47.537474
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "3900 S Othello St, Seattle, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386162,
+          47.579894
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "2622 California Ave SW, Seattle, WA"
       }
     },
     {
@@ -4864,20 +4962,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.088794,
-          39.893154
-        ]
-      },
-      "properties": {
-        "Retailer": "Acme Markets",
-        "Address": "100 Black Horse Pike, Audubon, NJ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.725853,
           40.133576
         ]
@@ -5123,6 +5207,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "15916 S Crain Hwy, Brandywine, MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889571,
+          38.769065
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "8785 Branch Ave, Clinton, MD"
       }
     },
     {
@@ -6362,6 +6460,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -116.937556,
+          32.739302
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "2899 Jamacha Rd, El Cajon, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.316038,
           37.922682
         ]
@@ -6425,6 +6537,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "5021 Laguna Blvd, Elk Grove, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.407433,
+          38.437986
+        ]
+      },
+      "properties": {
+        "Retailer": "WinCo Foods",
+        "Address": "8124 Sheldon Rd, Elk Grove, CA"
       }
     },
     {
@@ -7902,20 +8028,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.111348,
-          37.402619
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "645 San Antonio Rd, Mountain View, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.088443,
           37.372433
         ]
@@ -7937,6 +8049,48 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "570 N Shoreline Blvd, Mountain View, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.111348,
+          37.402619
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "645 San Antonio Rd, Mountain View, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.079401,
+          37.402989
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "570 N Shoreline Blvd, Mountain View, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.111348,
+          37.402619
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "645 San Antonio Rd, Mountain View, CA"
       }
     },
     {
@@ -8210,6 +8364,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.233823,
+          38.679879
+        ]
+      },
+      "properties": {
+        "Retailer": "WinCo Foods",
+        "Address": "8701 Greenback Ln, Orangevale, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.161778,
           34.221833
         ]
@@ -8462,6 +8630,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.229617,
+          37.456549
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky",
+        "Address": "200 Woodside Plz, Redwood City, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.229617,
+          37.456549
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky",
+        "Address": "200 Woodside Plz, Redwood City, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.436357,
           33.90996
         ]
@@ -8679,6 +8875,20 @@
       "properties": {
         "Retailer": "WinCo Foods",
         "Address": "2300 Watt Ave, Sacramento, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.524718,
+          38.657575
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "2851 Del Paso Rd, Sacramento, CA"
       }
     },
     {
@@ -8980,6 +9190,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.439074,
+          37.743586
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "5290 Diamond Heights Blvd, San Francisco, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.829394,
           37.380996
         ]
@@ -9078,6 +9302,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.916301,
+          37.317612
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "1539 Parkmoor Ave, San Jose, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.011818,
           37.30966
         ]
@@ -9092,13 +9330,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.916301,
-          37.317612
+          -122.011818,
+          37.30966
         ]
       },
       "properties": {
-        "Retailer": "FoodMaxx",
-        "Address": "1539 Parkmoor Ave, San Jose, CA"
+        "Retailer": "Safeway",
+        "Address": "6150 Bollinger Rd, San Jose, CA"
       }
     },
     {
@@ -9302,13 +9540,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.045212,
-          36.961358
+          -119.081356,
+          34.344427
         ]
       },
       "properties": {
-        "Retailer": "Safeway",
-        "Address": "2203 Mission St, Santa Cruz, CA"
+        "Retailer": "Vons",
+        "Address": "576 W Main St, Santa Paula, CA"
       }
     },
     {
@@ -9568,6 +9806,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.451995,
+          37.646653
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "2255 Gellert Blvd, South San Francisco, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.431732,
           37.655552
         ]
@@ -9582,13 +9834,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.451995,
-          37.646653
+          -122.431732,
+          37.655552
         ]
       },
       "properties": {
         "Retailer": "Safeway",
-        "Address": "2255 Gellert Blvd, South San Francisco, CA"
+        "Address": "30 Chestnut Ave, South San Francisco, CA"
       }
     },
     {
@@ -15350,20 +15602,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.815002,
-          38.767456
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "6520 S Academy Blvd, Colorado Springs, CO"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -104.722381,
           38.873735
         ]
@@ -15455,6 +15693,34 @@
       "properties": {
         "Retailer": "King Soopers",
         "Address": "3570 Hartsel Dr, Colorado Springs, CO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.815002,
+          38.767456
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "6520 S Academy Blvd, Colorado Springs, CO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.815002,
+          38.767456
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "6520 S Academy Blvd, Colorado Springs, CO"
       }
     },
     {
@@ -16652,6 +16918,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.222702,
+          40.004199
+        ]
+      },
+      "properties": {
+        "Retailer": "Acme Markets",
+        "Address": "121 E City Ave, Bala Cynwyd, PA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.308445,
+          39.925112
+        ]
+      },
+      "properties": {
+        "Retailer": "Acme Markets",
+        "Address": "5300 Baltimore Pike, Clifton Heights, PA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.308445,
           39.925112
         ]
@@ -16708,13 +17002,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.125105,
-          40.091701
+          -75.323348,
+          39.974196
         ]
       },
       "properties": {
         "Retailer": "Acme Markets",
-        "Address": "323 Old York Rd, Jenkintown, PA"
+        "Address": "1305 West Chester Pike, Havertown, PA"
       }
     },
     {
@@ -17128,6 +17422,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.888426,
+          42.5771
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "71 Dodge St, Beverly, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.04042,
+          42.376649
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "246 Border St, Boston, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.04042,
           42.376649
         ]
@@ -17219,6 +17541,20 @@
       "properties": {
         "Retailer": "Shaw's",
         "Address": "100 N Main St, Carver, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.805004,
+          42.222128
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "739 Chief Justice Cushing Hwy, Cohasset, MA"
       }
     },
     {
@@ -17478,6 +17814,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.948921,
+          42.539415
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "128 Essex Center Dr, Peabody, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.550477,
+          41.8209
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "2260 State Rd, Plymouth, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -70.550477,
           41.8209
         ]
@@ -17590,6 +17954,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.728834,
+          41.75969
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "127 Marion Rd, Wareham, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -70.942977,
           42.20279
         ]
@@ -17625,6 +18003,20 @@
       "properties": {
         "Retailer": "Shaw's",
         "Address": "14 W Boylston St, Worcester, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.841834,
+          42.241844
+        ]
+      },
+      "properties": {
+        "Retailer": "Shaw's",
+        "Address": "68 Stafford St, Worcester, MA"
       }
     },
     {
@@ -18038,20 +18430,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.148601,
-          32.733244
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "301 S Bowen Rd, Arlington, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -97.117777,
           32.762757
         ]
@@ -18087,6 +18465,34 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "2475 Ascension Blvd, Arlington, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.148601,
+          32.733244
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "301 S Bowen Rd, Arlington, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.148601,
+          32.733244
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "301 S Bowen Rd, Arlington, TX"
       }
     },
     {
@@ -18178,34 +18584,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.847911,
-          30.184119
-        ]
-      },
-      "properties": {
-        "Retailer": "Randalls",
-        "Address": "9911 Brodie Ln, Austin, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.826974,
-          30.452203
-        ]
-      },
-      "properties": {
-        "Retailer": "H-E-B",
-        "Address": "11521 N FM 620, Austin, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -97.544389,
           32.902014
         ]
@@ -18241,20 +18619,6 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "6315 Garth Rd, Baytown, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.934786,
-          30.304877
-        ]
-      },
-      "properties": {
-        "Retailer": "H-E-B",
-        "Address": "12400 State Hwy 71 W, Bee Cave, TX"
       }
     },
     {
@@ -18409,6 +18773,34 @@
       "properties": {
         "Retailer": "H-E-B",
         "Address": "3601 FM 1488, Conroe, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.500232,
+          30.325617
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "3875 W Davis St, Conroe, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.500232,
+          30.325617
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "3875 W Davis St, Conroe, TX"
       }
     },
     {
@@ -18703,6 +19095,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "2709 Cross Timbers Rd, Flower Mound, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.447924,
+          32.748159
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "500 Marketplace Blvd, Forney, TX"
       }
     },
     {
@@ -19704,6 +20110,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.584277,
+          30.221546
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "7988 FM 1488, Magnolia, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.584277,
+          30.221546
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "7988 FM 1488, Magnolia, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.118185,
           32.6072
         ]
@@ -19865,6 +20299,34 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "20168 Eva St, Montgomery, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.126897,
+          29.688954
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "651 S Walnut Ave, New Braunfels, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.126897,
+          29.688954
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "651 S Walnut Ave, New Braunfels, TX"
       }
     },
     {
@@ -20180,6 +20642,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.747743,
+          29.551683
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "23500 Circle Oak Pkwy, Richmond, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.747743,
+          29.551683
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "23500 Circle Oak Pkwy, Richmond, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -96.462498,
           32.964509
         ]
@@ -20229,6 +20719,230 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "1201 N Saginaw Blvd, Saginaw, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.454989,
+          29.639901
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "20935 N US-281, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4608,
+          29.379192
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "4100 S New Braunfels Ave, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.38656,
+          29.569035
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "14087 O'Connor Rd, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.500293,
+          29.503605
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "6839 San Pedro Ave, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.502905,
+          29.357796
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "735 SW Military Dr, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.632794,
+          29.585213
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "7330 N Loop 1604 W, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.632794,
+          29.585213
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "7330 N Loop 1604 W, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.431274,
+          29.493339
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "1520 Austin Hwy, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.454989,
+          29.639901
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "20935 N US-281, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4608,
+          29.379192
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "4100 S New Braunfels Ave, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.38656,
+          29.569035
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "14087 O'Connor Rd, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.500293,
+          29.503605
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "6839 San Pedro Ave, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.502905,
+          29.357796
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "735 SW Military Dr, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.632794,
+          29.585213
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "7330 N Loop 1604 W, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.632794,
+          29.585213
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "7330 N Loop 1604 W, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.431274,
+          29.493339
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "1520 Austin Hwy, San Antonio, TX"
       }
     },
     {
@@ -20754,6 +21468,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.36887,
+          38.866282
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "12200 Fairfax Towne Center, Fairfax, VA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.146472,
           38.870133
         ]
@@ -20936,20 +21664,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.043736,
-          36.033657
-        ]
-      },
-      "properties": {
-        "Retailer": "WinCo Foods",
-        "Address": "80 N Stephanie St, Henderson, NV"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -114.993307,
           36.009124
         ]
@@ -21006,6 +21720,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.043736,
+          36.033657
+        ]
+      },
+      "properties": {
+        "Retailer": "WinCo Foods",
+        "Address": "80 N Stephanie St, Henderson, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.043736,
+          36.033657
+        ]
+      },
+      "properties": {
+        "Retailer": "WinCo Foods",
+        "Address": "80 N Stephanie St, Henderson, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.067053,
           36.142933
         ]
@@ -21041,20 +21783,6 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "7151 W Craig Rd, Las Vegas, NV"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.279246,
-          36.300511
-        ]
-      },
-      "properties": {
-        "Retailer": "Albertsons",
-        "Address": "8410 Farm Rd, Las Vegas, NV"
       }
     },
     {
@@ -21132,6 +21860,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.279246,
+          36.300511
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "8410 Farm Rd, Las Vegas, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.281312,
           36.053869
         ]
@@ -21153,6 +21895,20 @@
       "properties": {
         "Retailer": "WinCo Foods",
         "Address": "7501 W Washington Ave, Las Vegas, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.279246,
+          36.300511
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "8410 Farm Rd, Las Vegas, NV"
       }
     },
     {
@@ -21720,6 +22476,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -110.996582,
+          31.852791
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "260 W Continental Rd, Green Valley, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -112.1703,
           33.379552
         ]
@@ -21888,20 +22658,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.751778,
-          33.394697
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "3622 E Southern Ave, Mesa, AZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.602842,
           33.337064
         ]
@@ -21923,6 +22679,34 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "1855 N Power Rd, Mesa, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.751778,
+          33.394697
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "3622 E Southern Ave, Mesa, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.751778,
+          33.394697
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "3622 E Southern Ave, Mesa, AZ"
       }
     },
     {
@@ -22616,20 +23400,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.913031,
-          33.4673
-        ]
-      },
-      "properties": {
-        "Retailer": "Frys",
-        "Address": "7770 E McDowell Rd, Scottsdale, AZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.941868,
           33.624206
         ]
@@ -22651,6 +23421,34 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "7920 E Chaparral Rd, Scottsdale, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.913031,
+          33.4673
+        ]
+      },
+      "properties": {
+        "Retailer": "Frys",
+        "Address": "7770 E McDowell Rd, Scottsdale, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.913031,
+          33.4673
+        ]
+      },
+      "properties": {
+        "Retailer": "Frys",
+        "Address": "7770 E McDowell Rd, Scottsdale, AZ"
       }
     },
     {
@@ -23043,20 +23841,6 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "13380 E Mary Ann Cleveland Way, Vail, AZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.712146,
-          39.60666
-        ]
-      },
-      "properties": {
-        "Retailer": "Acme Markets",
-        "Address": "146 Fox Hunt Dr, Bear, DE"
       }
     },
     {
