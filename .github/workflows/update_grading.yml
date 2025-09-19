@@ -1,7 +1,5 @@
-name: Update All
+name: Update Grading Prices
 on:
-  schedule:
-    - cron: '0 21 * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,18 +20,10 @@ jobs:
           python3 -m pip install --upgrade pip
           pip3 install -r requirements.txt
 
-      - name: Create .env file
-        run: echo "GEOCACHING_API_KEY=${{ secrets.GEOCACHING_API_KEY }}" > .env
-
-      - name: Update Grading
+      - name: Run the scraper
         run: python3 update_grading.py
-      - name: Update Prices
-        run: python3 update_prices.py
-      - name: Update Vending
-        run: python3 update_vending.py
-      
 
-      - name: Update assets with new data
+      - name: Update json file with new data
         run: |
           git config --global user.name "Update Pokemon Card Trading Prices"
           git config --global user.email "gagarwal003@gmail.com"
@@ -42,6 +32,6 @@ jobs:
           
           # Check if there are changes to commit
           git commit -m "Updated Pokemon Card Trading Prices" || echo "No changes to commit"
-          
+                    
           # Push changes to remote repository
           git push

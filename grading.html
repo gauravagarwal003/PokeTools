@@ -1,30 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3181134485510321"
         crossorigin="anonymous"></script>
     <meta charset="UTF-8">
     <link rel="icon" type="image/png" href="assets/pokeball.png">
-    <title>PokeTools | EV & Pack Prices</title>
+    <title>PokeTools | Grading Prices</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Load Plotly and D3 from CDNs -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <script>
-        const css = document.createElement('link');
-        css.rel = 'stylesheet';
-        css.href = 'css/prices.css?v=' + Date.now();
-        document.head.appendChild(css);
-    </script>
-    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
-    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <title>PokeTools | Grading Prices</title>
+    <link rel="stylesheet" href="css/grading.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCYRP46NXC"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
+
         gtag('config', 'G-WCYRP46NXC');
     </script>
+
 </head>
 
 <body>
@@ -44,15 +38,15 @@
                         <span class="vending-button-text short">Map</span>
                         <span class="vending-button-text full">Map</span>
                     </button>
-                    <button id="pricesButton" class="header-nav active-header-nav" onclick="location.href='/prices'">
+                    <button id="pricesButton" class="header-nav" onclick="location.href='/prices'">
                         <span class="prices-button-text full">Set Prices</span>
                         <span class="prices-button-text short">Sets</span>
                     </button>
-                    <button id="gradingButton" class="header-nav" onclick="location.href='/grading'">
-                        <span class="grading-button-text full">Grading Margins</span>
-                        <span class="grading-button-text short">Grading</span>
+                    <button id="gradingButton" class="header-nav active-header-nav" onclick="location.href='/grading'">
+                        <span class="grading-button-text full" style="text-decoration: underline;">Grading
+                            Margins</span>
+                        <span class="grading-button-text short" style="text-decoration: underline;">Grading</span>
                     </button>
-
                     <button id="aboutButton" class="header-nav" onclick="location.href='/about'">
                         <span class="about-button-text full">About & Policies</span>
                         <span class="about-button-text short">About</span>
@@ -62,19 +56,37 @@
         </header>
         <div id="content-wrap">
             <div id="title">
-                <h1>Current EV and Pack Prices of S&V (Updated Daily)</h1>
+                <h1>Pokemon Graded Card Price Differences (Updated Daily)</h1>
             </div>
-            <div id="current_set_info"></div>
-                            <h1>EV and Pack Prices of S&V over Time</h1>
 
-            <div id="charts">
-                <div id="chart-ev" class="chart"></div>
-                <div id="chart-pack-prices" class="chart"></div>
-                <div id="chart-percent" class="chart"></div>
+            <div id="controls">
+                <label for="minDiff">Minimum Difference between PSA 9 and Ungraded ($)</label>
+                <input type="number" id="minDiff" value="19" min="0" step="1" />
+            </div>
+
+            <div id="data_table">
+                <table id="cardsTable">
+                    <thead>
+                        <tr>
+                            <th data-sort="set">Set</th>
+                            <th data-sort="card">Card</th>
+                            <th data-sort="ungraded">Ungraded</th>
+                            <th data-sort="grade9">PSA 9</th>
+                            <th data-sort="grade10">PSA 10</th>
+                            <th data-sort="grade9Diff">PSA 9 Profit</th>
+                            <th data-sort="grade10Diff">PSA 10 Profit</th>
+                            <th data-sort="percent9Diff">PSA 9 % Profit</th>
+                            <th data-sort="percent10Diff">PSA 10 % Profit</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <!-- Table rows will be inserted here -->
+                    </tbody>
+                </table>
             </div>
         </div>
     </main>
-    <script src="js/prices.js"></script>
+    <script src="js/grading.js"></script>
 </body>
 
 </html>

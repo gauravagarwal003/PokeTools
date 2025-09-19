@@ -1,20 +1,11 @@
-
-/* =====================
-   Root Variables
-   ===================== */
 :root {
     --navbar-height: 8vh;
 }
-
-/* =====================
-   Reset & Base Styles
-   ===================== */
 html,
 body {
     margin: 0;
     padding: 0;
     overscroll-behavior-x: none;
-    overflow-x: hidden;
     max-width: 100vw;
 }
 
@@ -120,66 +111,73 @@ body {
     color: gray;
 }
 
-/* =====================
-   Chart container
-   ===================== */
-.chart {
-    margin: 50px auto;
-    min-height: 400px;
-    width: 70%;
-    max-width: 100vw;
-    box-sizing: border-box;
-    overflow-x: auto;
-    word-break: break-word;
-    overflow-wrap: anywhere;
-}
-
-@media (max-width: 1100px) {
-    .chart {
-        width: 100% !important;
-        margin: 0 auto !important;
-        overflow-x: auto !important;
-    }
-}
-
-/* Container for set info */
-#title {
-    padding-top: 10px;
-    font-size: 16px;
-}
-
-/* Each row: image on top, text on one line underneath */
-.set-row {
-    text-align: center;
-    margin-bottom: 20px;
-    padding: 10px;
-}
-
-/* Center the image and set its max width */
-.set-row img {
-    height: 100px;
-    width: auto;
-    display: block;
-    margin: 0 auto;
-}
-
-/* Text styling: ensure it stays on one line */
-.set-info {
-    margin-top: 8px;
-    font-size: 16px;
-    /* Removed white-space: nowrap to allow wrapping */
-}
-
-/* =====================
-   Utility Classes
-   ===================== */
 .short {
     display: none !important;
 }
 
-/* =====================
-   Responsive: Mobile Fixes
-   ===================== */
+thead {
+  color: black;
+}
+
+#title {
+  font-size: 16px;
+}
+
+#data_table {
+  width: 70%;
+  margin: 0 auto;
+}
+
+#controls {
+  margin-bottom: 15px;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#controls input {
+  margin-left: 10px;
+  padding: 5px;
+  width: 80px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: rgb(120, 120, 120);
+  cursor: pointer;
+  user-select: none;
+}
+
+th.sort-asc::after {
+  content: " ▲";
+}
+
+th.sort-desc::after {
+  content: " ▼";
+}
+
+tr:nth-child(even) {
+  background-color: rgb(180, 180, 180);
+}
+
+tr:hover {
+  background-color: #e9e9e9;
+}
+
+
 @media (max-width: 700px) {
     :root {
         --navbar-height: 60px;
@@ -203,4 +201,40 @@ body {
     #header {
         height: 60px !important;
     }
+    /* Allow horizontal scrolling for wide tables on mobile */
+    #content-wrap {
+      overflow-x: auto !important;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    #data_table {
+      width: 100% !important;
+      overflow-x: auto !important;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    /* Ensure the table can be wider than the viewport so user can scroll horizontally */
+    #data_table table, #cardsTable {
+      min-width: 700px; /* adjust as needed for number of columns */
+      width: auto !important;
+    }
+    #controls {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+}
+
+@media (max-width: 1100px) {
+  #data_table {
+    width: 100% !important;
+    margin: 0 auto !important;
+    font-size: 12px !important;
+    overflow-x: auto !important;
+  }
+
+  th,
+  td {
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+  }
 }

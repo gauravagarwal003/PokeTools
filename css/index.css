@@ -98,7 +98,7 @@ body {
 .header-nav {
     background: transparent;
     color: white;
-    font-size: 3vh;
+    font-size: 2.5vh;
     cursor: pointer;
     border: none;
 }
@@ -239,12 +239,12 @@ body {
     }
 
     .navbar_left {
-        font-size: 1.5vh !important; /* Fixed px instead of vh */
+        font-size: 1.2vh !important; /* Fixed px instead of vh */
     }
 
     .navbar_logo img {
-        height: 30px !important;
-        max-height: 30px !important;
+        height: 22px !important;
+        max-height: 22px !important;
     }
 
     #header {

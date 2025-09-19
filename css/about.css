@@ -105,7 +105,7 @@ body {
 .header-nav {
     background: transparent;
     color: white;
-    font-size: 3vh;
+    font-size: 2.5vh;
     cursor: pointer;
     border: none;
 }
@@ -193,11 +193,11 @@ body {
         font-size: 2vh !important;
     }
     .navbar_left {
-        font-size: 1.5vh !important;
+        font-size: 1.2vh !important;
     }
     .navbar_logo img {
-        height: 30px !important;
-        max-height: 30px !important;
+        height: 22px !important;
+        max-height: 22px !important;
     }
     #header {
         height: 60px !important;
