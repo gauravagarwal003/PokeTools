@@ -155,6 +155,17 @@ td {
   text-align: center;
 }
 
+/* Prevent splitting words inside table cells — prefer wrapping at spaces */
+#cardsTable th,
+#cardsTable td,
+th,
+td {
+  word-break: normal;           /* don't break words arbitrarily */
+  overflow-wrap: normal;        /* prefer wrapping at spaces; allow overflow so horizontal scroll shows long words */
+  white-space: normal;          /* allow wrapping at spaces */
+  hyphens: none;                /* avoid hyphenation */
+}
+
 th {
   background-color: rgb(120, 120, 120);
   cursor: pointer;
