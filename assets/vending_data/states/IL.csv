@@ -2,7 +2,7 @@ Retailer,Machine ID,Address,Cities,Full Address,Longitude,Latitude
 Jewel-Osco,Q01193,Algonquin,"Algonquin, IL","1501 E Algonquin Rd, Algonquin, IL",42.158649,-88.2746147
 Jewel-Osco,Q01196,Algonquin,"Algonquin, IL","103 S Randall Rd, Algonquin, IL",42.1746749,-88.33288859999999
 Food 4 Less,Q01790,Alsip,"Alsip, IL","12150 S Pulaski Rd, Alsip, IL",41.6723528,-87.72133819999999
-Jewel-Osco,Q01195,Arlington Heights,"Arlington Heights, IL","440 E Rand Rd, Arlington Heights, IL",42.1118589,-87.9768134
+Jewel-Osco,Q02134,Arlington Heights,"Arlington Heights, IL","440 E Rand Rd, Arlington Heights, IL",42.1118589,-87.9768134
 Jewel-Osco,Q01199,Bartlett,"Bartlett, IL","125 E Stearns Rd, Bartlett, IL",41.9714325,-88.1828614
 Jewel-Osco,Q00758,Batavia,"Batavia, IL","119 S Randall Rd, Batavia, IL",41.8483166,-88.3426034
 Woodman's Market,Q01829,Bloomingdale,"Bloomingdale, IL","1 Stratford Dr, Bloomingdale, IL",41.9495852,-88.1183023
@@ -32,25 +32,32 @@ Jewel-Osco,Q02060,Chicago,"Chicago, IL","1220 S Ashland Ave, Chicago, IL",41.865
 Jewel-Osco,Q02065,Chicago,"Chicago, IL","1655 E 95th St, Chicago, IL",41.7204697,-87.5827383
 Jewel-Osco,Q02071,Chicago,"Chicago, IL","3630 N Southport Ave, Chicago, IL",41.9479722,-87.6643658
 Jewel-Osco,Q02078,Chicago,"Chicago, IL","102 W Division St, Chicago, IL",41.9040964,-87.6317704
+Jewel-Osco,Q02188,Chicago,"Chicago, IL","4355 N Sheridan Rd, Chicago, IL",41.96118939999999,-87.65329489999999
+Mariano's Fresh Market,Q02191,Chicago,"Chicago, IL","3350 N Western Ave, Chicago, IL",41.9422083,-87.6900074
+Mariano's Fresh Market,Q02197,Chicago,"Chicago, IL","5201 N Sheridan Rd, Chicago, IL",41.9767977,-87.6545678
 Food 4 Less,Q00682,Chicago Heights,"Chicago Heights, IL","1333 Western Ave, Chicago Heights, IL",41.5070003,-87.6718614
 Food 4 Less,Q01785,Cicero,"Cicero, IL","3039 S Cicero Ave, Cicero, IL",41.83766,-87.7411673
 Jewel-Osco,Q01436,Clarendon Hills,"Clarendon Hills, IL","303 Holmes Ave, Clarendon Hills, IL",41.78734619999999,-87.9499156
 Food 4 Less,Q00701,Crest Hill,"Crest Hill, IL","1701 N Larkin Ave, Crest Hill, IL",41.5535617,-88.126482
 Jewel-Osco,Q02067,Crystal Lake,"Crystal Lake, IL","6140 Northwest Hwy, Crystal Lake, IL",42.2287372,-88.3183124
 Jewel-Osco,Q00700,Darien,"Darien, IL","7329 S Cass Ave, Darien, IL",41.7538136,-87.9720305
+Mariano's Fresh Market,Q02172,Des Plaines,"Des Plaines, IL","10 E Golf Rd, Des Plaines, IL",42.050568,-87.9200456
 Food 4 Less,Q01795,Dolton,"Dolton, IL","1000 E Sibley Blvd, Dolton, IL",41.6225753,-87.5954553
 Jewel-Osco,Q01230,Elgin,"Elgin, IL","1660 Larkin Ave, Elgin, IL",42.0341695,-88.319361
 Jewel-Osco,Q02064,Elgin,"Elgin, IL","1040 Summit St, Elgin, IL",42.048073,-88.25265870000001
 Jewel-Osco,Q02040,Elk Grove Village,"Elk Grove Village, IL","20 W Biesterfield Rd, Elk Grove Village, IL",42.0053829,-88.005271
 Jewel-Osco,Q01309,Elmhurst,"Elmhurst, IL","153 Schiller St, Elmhurst, IL",41.9015495,-87.93705829999999
 Food 4 Less,Q01737,Evanston,"Evanston, IL","2400 W Main St, Evanston, IL",42.032581,-87.70689879999999
+Jewel-Osco,Q02183,Fox Lake,"Fox Lake, IL","1350 US-12 W, Fox Lake, IL",42.4346969,-88.2239486
 Jewel-Osco,Q00579,Frankfort,"Frankfort, IL","21164 S LaGrange Rd, Frankfort, IL",41.5056574,-87.8519061
+Mariano's Fresh Market,Q02189,Frankfort,"Frankfort, IL","21001 LaGrange Rd, Frankfort, IL",41.508859,-87.847764
 Jewel-Osco,Q02063,Franklin Park,"Franklin Park, IL","10203 Grand Ave, Franklin Park, IL",41.9294687,-87.8803099
 Jewel-Osco,Q01201,Glendale Heights,"Glendale Heights, IL","2164 Bloomingdale Rd, Glendale Heights, IL",41.9382475,-88.08198469999999
 Jewel-Osco,Q02074,Hickory Hills,"Hickory Hills, IL","9528 S Roberts Rd, Hickory Hills, IL",41.7177218,-87.8202882
 Jewel-Osco,Q00817,Hoffman Estates,"Hoffman Estates, IL","1069 N Roselle Rd, Hoffman Estates, IL",42.0477597,-88.0777093
 Jewel-Osco,Q01202,Hoffman Estates,"Hoffman Estates, IL","1485 Palatine Rd, Hoffman Estates, IL",42.1092764,-88.1158674
 Jewel-Osco,Q00825,Huntley,"Huntley, IL","10090 IL-47, Huntley, IL",42.1840036,-88.4192919
+Jewel-Osco,Q02176,Lake Zurich,"Lake Zurich, IL","485 Ela Rd, Lake Zurich, IL",42.1893221,-88.1033552
 Woodman's Market,Q01203,Lakemoor,"Lakemoor, IL","27555 W IL-120, Lakemoor, IL",42.3219585,-88.17150219999999
 Jewel-Osco,Q00589,Lombard,"Lombard, IL","1177 S Main St, Lombard, IL",41.861147,-88.0153644
 Jewel-Osco,Q02068,McHenry,"McHenry, IL","4222 W Elm St, McHenry, IL",42.3479284,-88.27972249999999
@@ -62,7 +69,11 @@ Jewel-Osco,Q01133,Mundelein,"Mundelein, IL","1150 W Maple Ave, Mundelein, IL",42
 Jewel-Osco,Q01182,Mundelein,"Mundelein, IL","1501 S Lake St, Mundelein, IL",42.2438911,-87.993068
 Jewel-Osco,Q00570,Naperville,"Naperville, IL","1227 S Naper Blvd, Naperville, IL",41.7513145,-88.1152733
 Jewel-Osco,Q00713,Naperville,"Naperville, IL","2855 95th St, Naperville, IL",41.7119854,-88.2035575
+Mariano's Fresh Market,Q02187,Naperville,"Naperville, IL","1300 S Naper Blvd, Naperville, IL",41.74965359999999,-88.1127684
 Woodman's Market,Q01200,North Aurora,"North Aurora, IL","151 Hansen Blvd, North Aurora, IL",41.8040392,-88.3703528
+Mariano's Fresh Market,Q02193,Northbrook,"Northbrook, IL","784 Skokie Blvd, Northbrook, IL",42.1396909,-87.79431600000001
+Jewel-Osco,Q02177,Oak Lawn,"Oak Lawn, IL","8801 Ridgeland Ave, Oak Lawn, IL",41.7316361,-87.77895230000001
+Mariano's Fresh Market,Q02180,Oak Lawn,"Oak Lawn, IL","11000 S Cicero Ave, Oak Lawn, IL",41.6931574,-87.74167159999999
 Jewel-Osco,Q02048,Orland Park,"Orland Park, IL","17930 Wolf Rd, Orland Park, IL",41.563074,-87.89317179999999
 Jewel-Osco,Q00582,Oswego,"Oswego, IL","2540 US-30, Oswego, IL",41.7178567,-88.3181006
 Jewel-Osco,Q01323,Park Ridge,"Park Ridge, IL","481 Busse Hwy, Park Ridge, IL",42.0157744,-87.8392756
@@ -78,11 +89,12 @@ Jewel-Osco,Q02059,Skokie,"Skokie, IL","9449 Skokie Blvd, Skokie, IL",42.0528525,
 Jewel-Osco,Q01204,South Elgin,"South Elgin, IL","375 S Randall Rd, South Elgin, IL",41.9859461,-88.3394132
 Jewel-Osco,Q01194,Streamwood,"Streamwood, IL","217 W Irving Park Rd, Streamwood, IL",42.0142938,-88.1870988
 Jewel-Osco,Q00580,Tinley Park,"Tinley Park, IL","17117 S Harlem Ave, Tinley Park, IL",41.5792718,-87.79185749999999
-Jewel-Osco,Q01222,Wauconda,"Wauconda, IL","547 W Liberty St, Wauconda, IL",42.2594666,-88.1521633
+Jewel-Osco,Q02128,Wauconda,"Wauconda, IL","547 W Liberty St, Wauconda, IL",42.2594666,-88.1521633
 Jewel-Osco,Q01088,Waukegan,"Waukegan, IL","922 N Green Bay Rd, Waukegan, IL",42.3739417,-87.88399989999999
 Jewel-Osco,Q01212,Waukegan,"Waukegan, IL","3124 N Lewis Ave, Waukegan, IL",42.4092104,-87.85712389999999
 Jewel-Osco,Q00574,Wheaton,"Wheaton, IL","30 Danada Square W, Wheaton, IL",41.831619,-88.1051865
 Jewel-Osco,Q00578,Wheaton,"Wheaton, IL","2031 N Main St, Wheaton, IL",41.8866388,-88.1060258
+Mariano's Fresh Market,Q02185,Wheaton,"Wheaton, IL","625 S Main St, Wheaton, IL",41.8595256,-88.1033552
 Jewel-Osco,Q01373,Wilmette,"Wilmette, IL","411 Green Bay Rd, Wilmette, IL",42.0724822,-87.70627789999999
 Jewel-Osco,Q00571,Woodridge,"Woodridge, IL","2317 75th St, Woodridge, IL",41.7504035,-88.0390961
 Jewel-Osco,Q01143,Woodstock,"Woodstock, IL","145 S Eastwood Dr, Woodstock, IL",42.3153726,-88.4341791

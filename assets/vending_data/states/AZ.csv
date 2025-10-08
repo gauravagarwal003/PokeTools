@@ -36,7 +36,6 @@ Safeway,Q01923,Goodyear,"Goodyear, AZ","440 N Estrella Pkwy, Goodyear, AZ",33.45
 Safeway,Q01933,Goodyear,"Goodyear, AZ","9890 Estrella Pkwy, Goodyear, AZ",33.3576587,-112.4285876
 Safeway,Q01508,Green Valley,"Green Valley, AZ","1305 W Duval Mine Rd, Green Valley, AZ",31.9008511,-110.9925833
 Safeway,Q01975,Green Valley,"Green Valley, AZ","260 W Continental Rd, Green Valley, AZ",31.8527914,-110.9965818
-Safeway,Q01975,Green Valley,"Green Valley, AZ","260 W Continental Rd, Green Valley, AZ",31.8527914,-110.9965818
 Frys,Q00598,Laveen Village,"Laveen Village, AZ","5140 W Baseline Rd, Laveen Village, AZ",33.379552,-112.1703002
 Safeway,Q01997,Laveen Village,"Laveen Village, AZ","5035 W Baseline Rd, Laveen Village, AZ",33.3763662,-112.1662459
 Frys,Q00367,Litchfield Park,"Litchfield Park, AZ","13730 W Camelback Rd, Litchfield Park, AZ",33.5101688,-112.3558666
@@ -47,12 +46,11 @@ Frys,Q00366,Mesa,"Mesa, AZ","1935 N Stapley Dr, Mesa, AZ",33.450506,-111.8039457
 Frys,Q00385,Mesa,"Mesa, AZ","435 S Ellsworth Rd, Mesa, AZ",33.4066892,-111.6311054
 Frys,Q00600,Mesa,"Mesa, AZ","2724 S Signal Butte Rd, Mesa, AZ",33.3657468,-111.6040292
 Frys,Q00610,Mesa,"Mesa, AZ","2727 E Broadway Rd, Mesa, AZ",33.4066099,-111.7723928
-Safeway,Q01287,Mesa,"Mesa, AZ","1225 W Guadalupe Rd, Mesa, AZ",33.3630868,-111.8597464
 Safeway,Q01332,Mesa,"Mesa, AZ","1902 W Main St, Mesa, AZ",33.4166239,-111.8733471
 Safeway,Q01383,Mesa,"Mesa, AZ","4316 S Signal Butte Rd, Mesa, AZ",33.3370636,-111.6028419
-Safeway,Q01385,Mesa,"Mesa, AZ","1855 N Power Rd, Mesa, AZ",33.4497378,-111.6821888
 Safeway,Q01914,Mesa,"Mesa, AZ","3622 E Southern Ave, Mesa, AZ",33.3946965,-111.7517777
-Safeway,Q01914,Mesa,"Mesa, AZ","3622 E Southern Ave, Mesa, AZ",33.3946965,-111.7517777
+Safeway,Q02115,Mesa,"Mesa, AZ","1225 W Guadalupe Rd, Mesa, AZ",33.3630868,-111.8597464
+Safeway,Q02121,Mesa,"Mesa, AZ","1855 N Power Rd, Mesa, AZ",33.4497378,-111.6821888
 Frys,Q01901,Oro Valley,"Oro Valley, AZ","10661 N Oracle Rd, Oro Valley, AZ",32.400764,-110.9579284
 Safeway,Q01981,Oro Valley,"Oro Valley, AZ","12122 N Rancho Vistoso Blvd, Oro Valley, AZ",32.4268813,-110.9594187
 Frys,Q00340,Peoria,"Peoria, AZ","7455 W Cactus Rd, Peoria, AZ",33.5945149,-112.2188417
@@ -92,8 +90,8 @@ Frys,Q01742,Phoenix,"Phoenix, AZ","8325 W Indian School Rd, Phoenix, AZ",33.4926
 Albertsons,Q01817,Phoenix,"Phoenix, AZ","8035 N 19th Ave, Phoenix, AZ",33.5544644,-112.0982299
 Safeway,Q01884,Phoenix,"Phoenix, AZ","13440 N 7th St, Phoenix, AZ",33.608965,-112.0669191
 Safeway,Q01919,Phoenix,"Phoenix, AZ","4005 E Chandler Blvd, Phoenix, AZ",33.3030469,-111.9963004
-Frys,Q01986,Phoenix,"Phoenix, AZ","3421 W Thunderbird Rd, Phoenix, AZ",33.6092285,-112.1321233
 Frys,Q01987,Phoenix,"Phoenix, AZ","2727 W Bell Rd, Phoenix, AZ",33.6383082,-112.1203105
+Frys,Q02122,Phoenix,"Phoenix, AZ","3421 W Thunderbird Rd, Phoenix, AZ",33.6092285,-112.1321233
 Frys,Q00596,Queen Creek,"Queen Creek, AZ","22265 E Queen Creek Rd, Queen Creek, AZ",33.2609661,-111.6031092
 Frys,Q00604,Queen Creek,"Queen Creek, AZ","25105 S Ellsworth Rd, Queen Creek, AZ",33.2207745,-111.632241
 Safeway,Q01348,Queen Creek,"Queen Creek, AZ","40950 N Ironwood Dr, Queen Creek, AZ",33.2511377,-111.5651754
@@ -103,9 +101,8 @@ Frys,Q00593,San Tan Valley,"San Tan Valley, AZ","542 E Hunt Hwy, San Tan Valley,
 Frys,Q00341,Scottsdale,"Scottsdale, AZ","8900 E Vía Linda, Scottsdale, AZ",33.5704535,-111.8890956
 Frys,Q00424,Scottsdale,"Scottsdale, AZ","10450 N 90th St, Scottsdale, AZ",33.5806122,-111.8895173
 Safeway,Q01340,Scottsdale,"Scottsdale, AZ","6501 E Greenway Pkwy Bldg 4, Scottsdale, AZ",33.6242057,-111.9418682
-Safeway,Q01350,Scottsdale,"Scottsdale, AZ","7920 E Chaparral Rd, Scottsdale, AZ",33.5106988,-111.9103297
 Frys,Q01902,Scottsdale,"Scottsdale, AZ","7770 E McDowell Rd, Scottsdale, AZ",33.4672995,-111.9130312
-Frys,Q01902,Scottsdale,"Scottsdale, AZ","7770 E McDowell Rd, Scottsdale, AZ",33.4672995,-111.9130312
+Safeway,Q01979,Scottsdale,"Scottsdale, AZ","7920 E Chaparral Rd, Scottsdale, AZ",33.5106988,-111.9103297
 Frys,Q00354,Sun City,"Sun City, AZ","10660 Grand Ave, Sun City, AZ",33.6012091,-112.2885536
 Frys,Q00368,Sun City West,"Sun City West, AZ","19403 N R H Johnson Blvd, Sun City West, AZ",33.6612784,-112.3532858
 Frys,Q00344,Surprise,"Surprise, AZ","15215 N Cotton Ln, Surprise, AZ",33.6226461,-112.4247614
@@ -125,7 +122,6 @@ Safeway,Q01495,Tucson,"Tucson, AZ","4752 E Sunrise Dr, Tucson, AZ",32.3071215,-1
 Safeway,Q01507,Tucson,"Tucson, AZ","1940 E Broadway Blvd, Tucson, AZ",32.2201329,-110.943009
 Safeway,Q01511,Tucson,"Tucson, AZ","2140 W Grant Rd, Tucson, AZ",32.2522986,-111.0126023
 Safeway,Q01555,Tucson,"Tucson, AZ","9125 E Tanque Verde Rd, Tucson, AZ",32.2589674,-110.7970848
-Safeway,Q01558,Tucson,"Tucson, AZ","9100 N Silverbell Rd, Tucson, AZ",32.3722404,-111.1368583
 Albertsons,Q01564,Tucson,"Tucson, AZ","1350 N Silverbell Rd, Tucson, AZ",32.2387847,-111.0041263
 Safeway,Q01565,Tucson,"Tucson, AZ","2940 W Valencia Rd, Tucson, AZ",32.1351454,-111.0299296
 Frys,Q01766,Tucson,"Tucson, AZ","4150 E 22Nd St, Tucson, AZ",32.2052198,-110.9042809
@@ -133,4 +129,5 @@ Frys,Q01907,Tucson,"Tucson, AZ","1795 W Valencia Rd, Tucson, AZ",32.1319999,-111
 Safeway,Q01915,Tucson,"Tucson, AZ","9050 E Valencia Rd, Tucson, AZ",32.1178697,-110.7988632
 Safeway,Q01920,Tucson,"Tucson, AZ","6360 E Golf Links Rd, Tucson, AZ",32.1906399,-110.856037
 Frys,Q01983,Tucson,"Tucson, AZ","555 E Grant Rd, Tucson, AZ",32.2516624,-110.9624923
+Safeway,Q02110,Tucson,"Tucson, AZ","9100 N Silverbell Rd, Tucson, AZ",32.3722404,-111.1368583
 Safeway,Q01556,Vail,"Vail, AZ","13380 E Mary Ann Cleveland Way, Vail, AZ",32.0500625,-110.7087079
