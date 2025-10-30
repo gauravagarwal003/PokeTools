@@ -1,10 +1,10 @@
 Retailer,Machine ID,Address,Cities,Full Address,Longitude,Latitude,State
 Smith's,Q00812,Brigham City,"Brigham City, UT","156 S Main St, Brigham City, UT",41.5065801,-112.0168971,UT
 Smith's,Q00787,Draper,"Draper, UT","212 E 12300 S, Draper, UT",40.5254014,-111.8849916,UT
-WinCo Foods,Q02054,Herriman,"Herriman, UT","11969 Carlsbad Way, Herriman, UT",40.5333958,-112.0144399,UT
+WinCo Foods,Q02158,Herriman,"Herriman, UT","11969 Carlsbad Way, Herriman, UT",40.5333958,-112.0144399,UT
 Smith's,Q00793,Lehi,"Lehi, UT","1550 E 3500 N, Lehi, UT",40.4296556,-111.8245596,UT
 WinCo Foods,Q01715,Logan,"Logan, UT","1341 Main St, Logan, UT",41.756663,-111.8352052,UT
-WinCo Foods,Q01449,Midvale,"Midvale, UT","7020 S 700 W, Midvale, UT",40.6242123,-111.9101954,UT
+WinCo Foods,Q02150,Midvale,"Midvale, UT","7020 S 700 W, Midvale, UT",40.6242123,-111.9101954,UT
 Smith's,Q00798,Ogden,"Ogden, UT","4275 Harrison Blvd, Ogden, UT",41.1860271,-111.9500257,UT
 WinCo Foods,Q01708,Ogden,"Ogden, UT","205 W 12th St, Ogden, UT",41.2421665,-111.981364,UT
 Smith's,Q00783,Payson,"Payson, UT","632 S 100 W, Payson, UT",40.0343054,-111.7350173,UT
@@ -23,7 +23,7 @@ Safeway,Q01770,Arlington,"Arlington, WA","20500 Olympic Pl NE, Arlington, WA",48
 Fred Meyer,Q00164,Auburn,"Auburn, WA","801 Auburn Wy N, Auburn, WA",47.3161205,-122.2247926,WA
 Safeway,Q00249,Auburn,"Auburn, WA","101 Auburn Way S, Auburn, WA",47.3064087,-122.2267785,WA
 Safeway,Q00804,Auburn,"Auburn, WA","4010 A St SE, Auburn, WA",47.2728184,-122.2269136,WA
-Safeway,Q01253,Bainbridge Island,"Bainbridge Island, WA","253 High School Rd NE, Bainbridge Island, WA",47.63511889999999,-122.5197027,WA
+Safeway,Q01996,Bainbridge Island,"Bainbridge Island, WA","253 High School Rd NE, Bainbridge Island, WA",47.63511889999999,-122.5197027,WA
 Fred Meyer,Q00185,Battle Ground,"Battle Ground, WA","401 NW 12th Ave, Battle Ground, WA",45.7842837,-122.5489717,WA
 Albertsons,Q00942,Battle Ground,"Battle Ground, WA","2108 W Main St, Battle Ground, WA",45.7813188,-122.5608519,WA
 QFC,Q00788,Belfair,"Belfair, WA","201 NE WA-300, Belfair, WA",47.4530571,-122.8284963,WA
@@ -57,13 +57,11 @@ Safeway,Q01118,Duvall,"Duvall, WA","14020 Main St NE, Duvall, WA",47.7265026,-12
 Safeway,Q01187,Edmonds,"Edmonds, WA","23632 Hwy 99, Edmonds, WA",47.7845464,-122.3446758,WA
 WinCo Foods,Q01297,Edmonds,"Edmonds, WA","21900 Hwy 99, Edmonds, WA",47.80074889999999,-122.3333816,WA
 Safeway,Q00239,Enumclaw,"Enumclaw, WA","152 Roosevelt Ave E, Enumclaw, WA",47.19817339999999,-121.9799508,WA
-Fred Meyer,Q00035,Everett,"Everett, WA","8530 Evergreen Wy, Everett, WA",47.92029489999999,-122.2311113,WA
 Fred Meyer,Q00129,Everett,"Everett, WA","12906 Bothell Everett Hwy, Everett, WA",47.8796736,-122.2074197,WA
 QFC,Q00198,Everett,"Everett, WA","2615 Broadway, Everett, WA",47.9827334,-122.2007809,WA
 Safeway,Q00234,Everett,"Everett, WA","7601 Evergreen Wy, Everett, WA",47.9282169,-122.2191206,WA
 Safeway,Q00244,Everett,"Everett, WA","5802 134th Pl SE, Everett, WA",47.8754032,-122.1536108,WA
 Safeway,Q00263,Everett,"Everett, WA","11031 19th Ave SE, Everett, WA",47.89735109999999,-122.2051108,WA
-Fred Meyer,Q00823,Everett,"Everett, WA","8530 Evergreen Wy, Everett, WA",47.92029489999999,-122.2311113,WA
 QFC,Q01085,Everett,"Everett, WA","4919 Evergreen Wy, Everett, WA",47.9525026,-122.2120411,WA
 Safeway,Q01284,Everett,"Everett, WA","1715 Broadway, Everett, WA",47.9941095,-122.200262,WA
 Safeway,Q01413,Everett,"Everett, WA","4128 Rucker Ave, Everett, WA",47.9623992,-122.2123417,WA
@@ -83,10 +81,8 @@ Fred Meyer,Q00039,Issaquah,"Issaquah, WA","6100 E Lake Sammamish Pkwy SE, Issaqu
 Safeway,Q00125,Issaquah,"Issaquah, WA","735 NW Gilman Blvd, Issaquah, WA",47.5415358,-122.0485819,WA
 QFC,Q01070,Issaquah,"Issaquah, WA","1540 NW Gilman Blvd, Issaquah, WA",47.5458894,-122.060026,WA
 Safeway,Q01139,Issaquah,"Issaquah, WA","1451 Highlands Dr NE, Issaquah, WA",47.543932,-122.0150143,WA
-QFC,Q01479,Issaquah,"Issaquah, WA","4570 Klahanie Dr. SE, Issaquah, WA",47.5656509,-122.0034948,WA
 Safeway,Q00836,Kenmore,"Kenmore, WA","6850 NE Bothell Way, Kenmore, WA",47.7592022,-122.2474426,WA
 Fred Meyer,Q00158,Kent,"Kent, WA","25250 Pacific Hwy S, Kent, WA",47.3746401,-122.2989813,WA
-Fred Meyer,Q00175,Kent,"Kent, WA","10201 SE 240th St, Kent, WA",47.3863354,-122.2054309,WA
 QFC,Q00219,Kent,"Kent, WA","13304 SE 240th St, Kent, WA",47.3874131,-122.1633195,WA
 Safeway,Q00241,Kent,"Kent, WA","210 Washington Ave S, Kent, WA",47.3805498,-122.2460874,WA
 WinCo Foods,Q00940,Kent,"Kent, WA","21100 91st Pl S, Kent, WA",47.4142442,-122.2189616,WA
@@ -106,7 +102,7 @@ Safeway,Q00115,Longview,"Longview, WA","2930 Ocean Beach Hwy, Longview, WA",46.1
 Safeway,Q00945,Longview,"Longview, WA","1227 15th Ave, Longview, WA",46.1370282,-122.93781,WA
 Fred Meyer,Q00994,Longview,"Longview, WA","3184 Ocean Beach Hwy, Longview, WA",46.1479214,-122.9633734,WA
 WinCo Foods,Q01789,Longview,"Longview, WA","120 Triangle Shopping Center, Longview, WA",46.14321160000001,-122.9337894,WA
-Safeway,Q01246,Lynden,"Lynden, WA","8071 Guide Meridian Rd, Lynden, WA",48.93425389999999,-122.4869947,WA
+Safeway,Q01929,Lynden,"Lynden, WA","8071 WA-539, Lynden, WA",48.9349758,-122.4874232,WA
 H Mart Lynnwood,Q00130,Lynnwood,"Lynnwood, WA","3301 184th St SW, Lynnwood, WA",47.8330362,-122.2777917,WA
 Fred Meyer,Q00165,Lynnwood,"Lynnwood, WA","4615 196th St SW, Lynnwood, WA",47.8218513,-122.295664,WA
 Fred Meyer,Q00174,Lynnwood,"Lynnwood, WA","2902 164th St SW, Lynnwood, WA",47.848254,-122.2727871,WA
@@ -118,15 +114,15 @@ Safeway,Q00869,Maple Valley,"Maple Valley, WA","26916 Maple Valley Black Diamond
 Fred Meyer,Q00142,Marysville,"Marysville, WA","9925 State Ave, Marysville, WA",48.0853604,-122.1696481,WA
 Fred Meyer,Q00247,Marysville,"Marysville, WA","9925 State Ave, Marysville, WA",48.0853604,-122.1696481,WA
 Safeway,Q01136,Marysville,"Marysville, WA","1258 State Ave, Marysville, WA",48.0625209,-122.1744993,WA
-WinCo Foods,Q01273,Marysville,"Marysville, WA","3947 116th St NE, Marysville, WA",48.1009873,-122.1774596,WA
 Albertsons,Q01782,Marysville,"Marysville, WA","301 Marysville Mall, Marysville, WA",48.0506785,-122.1776299,WA
+WinCo Foods,Q01940,Marysville,"Marysville, WA","3947 116th St NE, Marysville, WA",48.1009873,-122.1774596,WA
 Safeway,Q00250,Mill Creek,"Mill Creek, WA","16304 Bothell Everett Hwy, Mill Creek, WA",47.8508627,-122.2200993,WA
 Albertsons,Q01788,Mill Creek,"Mill Creek, WA","3322 132nd St SE, Mill Creek, WA",47.8766062,-122.1872866,WA
 Safeway,Q01958,Milton,"Milton, WA","900 Meridian Ave E, Milton, WA",47.2487073,-122.2957898,WA
 Fred Meyer,Q00148,Monroe,"Monroe, WA","18805 State Route 2, Monroe, WA",47.8616271,-121.9776813,WA
 Fred Meyer,Q00221,Monroe,"Monroe, WA","18805 State Route 2, Monroe, WA",47.8616271,-121.9776813,WA
 Safeway,Q01935,Monroe,"Monroe, WA","19651 US-2, Monroe, WA",47.8601324,-121.9674334,WA
-Safeway,Q01188,Mount Vernon,"Mount Vernon, WA","315 E College Way, Mount Vernon, WA",48.4376937,-122.3371446,WA
+Safeway,Q01963,Mount Vernon,"Mount Vernon, WA","315 E College Way, Mount Vernon, WA",48.4376937,-122.3371446,WA
 Safeway,Q00259,Mountlake Terrace,"Mountlake Terrace, WA","4301 212th St SW, Mountlake Terrace, WA",47.8078229,-122.2906637,WA
 QFC,Q01087,Mukilteo,"Mukilteo, WA","11700 Mukilteo Speedway, Mukilteo, WA",47.8921933,-122.2879646,WA
 Safeway,Q00240,Newcastle,"Newcastle, WA","6911 Coal Creek Pkwy Se, Newcastle, WA",47.5394702,-122.1677335,WA
@@ -138,10 +134,10 @@ Safeway,Q01288,Olympia,"Olympia, WA","1243 Marvin Rd NE, Olympia, WA",47.059373,
 Safeway,Q01293,Olympia,"Olympia, WA","3215 Harrison Ave NW, Olympia, WA",47.0454096,-122.9421559,WA
 Safeway,Q01315,Olympia,"Olympia, WA","4280 Martin Way E, Olympia, WA",47.0494692,-122.8291023,WA
 Albertsons,Q01487,Olympia,"Olympia, WA","3520 Pacific Ave SE, Olympia, WA",47.043154,-122.84524,WA
-Safeway,Q01419,Orting,"Orting, WA","215 Whitesell St NW, Orting, WA",47.0988836,-122.2097143,WA
+Safeway,Q01916,Orting,"Orting, WA","215 Whitesell St NW, Orting, WA",47.0988836,-122.2097143,WA
 Fred Meyer,Q00237,Port Orchard,"Port Orchard, WA","1900 SE Sedgwick Rd, Port Orchard, WA",47.5031575,-122.6292031,WA
-Albertsons,Q01254,Port Orchard,"Port Orchard, WA","1434 Olney Ave SE, Port Orchard, WA",47.5357473,-122.6105256,WA
-Safeway,Q01280,Port Orchard,"Port Orchard, WA","370 SW Sedgwick Rd, Port Orchard, WA",47.4961035,-122.652118,WA
+Safeway,Q01944,Port Orchard,"Port Orchard, WA","370 SW Sedgwick Rd, Port Orchard, WA",47.4961035,-122.652118,WA
+Albertsons,Q01956,Port Orchard,"Port Orchard, WA","1434 Olney Ave SE, Port Orchard, WA",47.5357473,-122.6105256,WA
 Safeway,Q01959,Port Orchard,"Port Orchard, WA","3355 Bethel Rd SE, Port Orchard, WA",47.5184252,-122.630056,WA
 Safeway,Q01478,Poulsbo,"Poulsbo, WA","19245 10th Ave NE, Poulsbo, WA",47.738148,-122.6368534,WA
 Fred Meyer,Q00131,Puyallup,"Puyallup, WA","17404 Meridian E, Puyallup, WA",47.0991145,-122.2970065,WA
@@ -150,27 +146,26 @@ Safeway,Q00178,Puyallup,"Puyallup, WA","5616 176th St E, Puyallup, WA",47.095073
 Safeway,Q00868,Puyallup,"Puyallup, WA","13308 Meridian E, Puyallup, WA",47.1352732,-122.2949675,WA
 Fred Meyer,Q00993,Puyallup,"Puyallup, WA","17404 Meridian E, Puyallup, WA",47.0991145,-122.2970065,WA
 Albertsons,Q01402,Puyallup,"Puyallup, WA","11012 Canyon Rd E, Puyallup, WA",47.15606930000001,-122.3591839,WA
-Safeway,Q01405,Puyallup,"Puyallup, WA","11501 Canyon Rd E, Puyallup, WA",47.1523102,-122.3566884,WA
 Safeway,Q01493,Puyallup,"Puyallup, WA","708 Shaw Rd E, Puyallup, WA",47.18482119999999,-122.2591154,WA
 WinCo Foods,Q01689,Puyallup,"Puyallup, WA","9518 176th St E, Puyallup, WA",47.0955938,-122.301071,WA
-Fred Meyer,Q00022,Redmond,"Redmond, WA","17667 NE 76th St, Redmond, WA",47.6705386,-122.1046018,WA
+Safeway,Q01993,Puyallup,"Puyallup, WA","11501 Canyon Rd E, Puyallup, WA",47.1523102,-122.3566884,WA
 QFC,Q00106,Redmond,"Redmond, WA","8867 161st Avenue Northeast, Redmond, WA",47.680835,-122.1261299,WA
 Safeway,Q00401,Redmond,"Redmond, WA","15000 NE 24th St, Redmond, WA",47.6326836,-122.1404747,WA
 QFC,Q01153,Redmond,"Redmond, WA","15800 Redmond Way, Redmond, WA",47.6758241,-122.1288997,WA
 QFC,Q01317,Redmond,"Redmond, WA","23475 NE Novelty Hill Rd, Redmond, WA",47.6987872,-122.0263063,WA
 Safeway,Q01414,Redmond,"Redmond, WA","17246 Redmond Way, Redmond, WA",47.6720018,-122.1099958,WA
 H Mart Redmond,Q01700,Redmond,"Redmond, WA","7589 170th Ave NE, Redmond, WA",47.6704422,-122.1158341,WA
-Safeway,Q00025,Renton,"Renton, WA","4300 NE 4th St, Renton, WA",47.4898781,-122.1613726,WA
 Fred Meyer,Q00034,Renton,"Renton, WA","365 Renton Center Way SW, Renton, WA",47.4768534,-122.2179674,WA
 Fred Meyer,Q00176,Renton,"Renton, WA","17801 108th Ave SE, Renton, WA",47.4429469,-122.1998661,WA
 Safeway,Q00223,Renton,"Renton, WA","17230 140th Ave SE, Renton, WA",47.4475109,-122.1524617,WA
+Safeway,Q00823,Renton,"Renton, WA","4300 NE 4th St, Renton, WA",47.4898781,-122.1613726,WA
 Safeway,Q01197,Renton,"Renton, WA","200 S 3rd St, Renton, WA",47.4802586,-122.2144584,WA
 Safeway,Q00326,Sammamish,"Sammamish, WA","630 228th Ave NE, Sammamish, WA",47.6153679,-122.0335183,WA
 QFC,Q00814,Sammamish,"Sammamish, WA","2902 228th Ave SE, Sammamish, WA",47.58328710000001,-122.0329032,WA
+QFC,Q02133,Sammamish,"Sammamish, WA","4570 Klahanie Dr. SE, Sammamish, WA",47.5656509,-122.0034948,WA
 Safeway,Q00254,SeaTac,"SeaTac, WA","4011 S 164th St, SeaTac, WA",47.455652,-122.2824069,WA
 Fred Meyer,Q00116,Seattle,"Seattle, WA","915 NW 45th St, Seattle, WA",47.6598323,-122.3686721,WA
 Safeway,Q00132,Seattle,"Seattle, WA","12318 15th Ave NE, Seattle, WA",47.7180957,-122.3119647,WA
-Fred Meyer,Q00135,Seattle,"Seattle, WA","13000 Lake City Way NE, Seattle, WA",47.7240816,-122.2919624,WA
 Safeway,Q00159,Seattle,"Seattle, WA","1410 E John St, Seattle, WA",47.6204958,-122.3132555,WA
 Safeway,Q00180,Seattle,"Seattle, WA","8340 15th Ave NW, Seattle, WA",47.6901891,-122.3762562,WA
 Fred Meyer,Q00230,Seattle,"Seattle, WA","100 NW 85th St, Seattle, WA",47.6919776,-122.3591754,WA
@@ -187,13 +182,13 @@ QFC,Q01012,Seattle,"Seattle, WA","1600 W Dravus St, Seattle, WA",47.6496284,-122
 QFC,Q01156,Seattle,"Seattle, WA","2746 NE 45th St, Seattle, WA",47.6621471,-122.2964154,WA
 Safeway,Q01159,Seattle,"Seattle, WA","9262 Rainier Ave S, Seattle, WA",47.5208018,-122.2683082,WA
 QFC,Q01168,Seattle,"Seattle, WA","2500 SW Barton St, Seattle, WA",47.5222371,-122.3662837,WA
-QFC,Q01175,Seattle,"Seattle, WA","417 Broadway E #2, Seattle, WA",47.6224556,-122.3213064,WA
 Safeway,Q01192,Seattle,"Seattle, WA","9620 28th Ave SW, Seattle, WA",47.51671880000001,-122.3669196,WA
 Safeway,Q01418,Seattle,"Seattle, WA","7300 Roosevelt Way NE, Seattle, WA",47.681857,-122.3170171,WA
 Safeway,Q01682,Seattle,"Seattle, WA","7340 35th Ave NE, Seattle, WA",47.6825128,-122.2893391,WA
 Safeway,Q01939,Seattle,"Seattle, WA","3900 S Othello St, Seattle, WA",47.53747449999999,-122.2830667,WA
 Safeway,Q01943,Seattle,"Seattle, WA","2622 California Ave SW, Seattle, WA",47.5798942,-122.3861615,WA
 Safeway,Q01946,Seattle,"Seattle, WA","516 1st Ave W, Seattle, WA",47.6241305,-122.3575598,WA
+QFC,Q01947,Seattle,"Seattle, WA","417 Broadway E #2, Seattle, WA",47.6224556,-122.3213064,WA
 Albertsons,Q01957,Seattle,"Seattle, WA","2550 32nd Ave W, Seattle, WA",47.6424716,-122.3979475,WA
 Safeway,Q01281,Shelton,"Shelton, WA","600 W Franklin St, Shelton, WA",47.2146426,-123.1065143,WA
 Fred Meyer,Q00038,Shoreline,"Shoreline, WA","18325 Aurora Ave N, Shoreline, WA",47.7620769,-122.3477322,WA
@@ -209,6 +204,7 @@ Fred Meyer,Q00136,Sumner,"Sumner, WA","1201 Valley Ave, Sumner, WA",47.2046368,-
 WinCo Foods,Q00727,Sumner,"Sumner, WA","6621 166th Ave E, Sumner, WA",47.1959088,-122.2054725,WA
 Tacoma Mall,Q00031,Tacoma,"Tacoma, WA","S Steele St, Tacoma, WA",47.2314177,-122.4682407,WA
 Fred Meyer,Q00161,Tacoma,"Tacoma, WA","4505 S 19th St, Tacoma, WA",47.24312889999999,-122.4979411,WA
+Safeway,Q00175,Tacoma,"Tacoma, WA","1624 E 72nd St, Tacoma, WA",47.1917507,-122.4072272,WA
 Safeway,Q00181,Tacoma,"Tacoma, WA","1302 S 38th St, Tacoma, WA",47.2221627,-122.4515058,WA
 Safeway,Q00222,Tacoma,"Tacoma, WA","3842 Bridgeport Way W, Tacoma, WA",47.2216712,-122.5393458,WA
 Safeway,Q00227,Tacoma,"Tacoma, WA","15805 Pacific Ave S, Tacoma, WA",47.1129786,-122.4322969,WA
@@ -217,7 +213,6 @@ Safeway,Q00839,Tacoma,"Tacoma, WA","2637 N Pearl St, Tacoma, WA",47.272676800000
 Safeway,Q00854,Tacoma,"Tacoma, WA","8611 Steilacoom Blvd SW, Tacoma, WA",47.1804004,-122.5519646,WA
 WinCo Foods,Q00961,Tacoma,"Tacoma, WA","1913 S 72nd St, Tacoma, WA",47.1953013,-122.4598338,WA
 Safeway,Q01119,Tacoma,"Tacoma, WA","707 S 56th St, Tacoma, WA",47.2067822,-122.4409719,WA
-Safeway,Q01400,Tacoma,"Tacoma, WA","1624 E 72nd St, Tacoma, WA",47.1917507,-122.4072272,WA
 WinCo Foods,Q01805,Tacoma,"Tacoma, WA","6201 6th Ave, Tacoma, WA",47.2564283,-122.5202424,WA
 Safeway,Q01000,Tumwater,"Tumwater, WA","500 Cleveland Ave SE, Tumwater, WA",47.0191395,-122.8974629,WA
 Safeway,Q01949,Tumwater,"Tumwater, WA","705 Trosper Rd SW, Tumwater, WA",46.998442,-122.917572,WA
@@ -245,9 +240,9 @@ QFC,Q00800,Vancouver,"Vancouver, WA","3505 SE 192nd Ave, Vancouver, WA",45.59497
 Safeway,Q00850,Vancouver,"Vancouver, WA","13023 NE Hwy 99, Vancouver, WA",45.7160011,-122.6509311,WA
 Safeway,Q01004,Vancouver,"Vancouver, WA","14300 NE 20th Ave, Vancouver, WA",45.7238405,-122.6518,WA
 WinCo Foods,Q01357,Vancouver,"Vancouver, WA","905 NE 136th Ave, Vancouver, WA",45.6293307,-122.5317712,WA
-WinCo Foods,Q01371,Vancouver,"Vancouver, WA","9700 NE Hwy 99, Vancouver, WA",45.69182,-122.6601677,WA
 WinCo Foods,Q01800,Vancouver,"Vancouver, WA","2101 NE Andresen Rd, Vancouver, WA",45.63898330000001,-122.5968292,WA
-Safeway,Q01485,Washougal,"Washougal, WA","3307 Evergreen Way, Washougal, WA",45.5781849,-122.3334911,WA
+WinCo Foods,Q01955,Vancouver,"Vancouver, WA","9700 NE Hwy 99, Vancouver, WA",45.69182,-122.6601677,WA
+Safeway,Q01813,Washougal,"Washougal, WA","3307 Evergreen Way, Washougal, WA",45.5781849,-122.3334911,WA
 Safeway,Q00232,Woodinville,"Woodinville, WA","19150 NE Woodinville Duvall Rd, Woodinville, WA",47.7562386,-122.0818316,WA
 Kroger,Q00828,Canal Winchester,"Canal Winchester, OH","6095 Gender Rd, Canal Winchester, OH",39.8556229,-82.8296626,OH
 Kroger,Q02072,Centerville,"Centerville, OH","1095 S Main St, Centerville, OH",39.606981,-84.1629679,OH
@@ -304,10 +299,11 @@ Fred Meyer,Q01714,Boise,"Boise, ID","3527 S Federal Way, Boise, ID",43.568028299
 WinCo Foods,Q02032,Boise,"Boise, ID","8200 W Fairview Ave, Boise, ID",43.6195253,-116.2843544,ID
 Fred Meyer,Q02037,Boise,"Boise, ID","10751 W Overland Rd, Boise, ID",43.58993539999999,-116.3147622,ID
 WinCo Foods,Q02052,Boise,"Boise, ID","110 E Myrtle St, Boise, ID",43.60925109999999,-116.198011,ID
+Brendamour,Q02148,Boise,"Boise, ID","6895 S Eisenman Rd Suite A, Boise, ID",43.53961959999999,-116.164895,ID
 WinCo Foods,Q01698,Eagle,"Eagle, ID","3032 E State St, Eagle, ID",43.685839,-116.3150335,ID
 Fred Meyer,Q01746,Garden City,"Garden City, ID","5425 W Chinden Blvd, Garden City, ID",43.6455156,-116.2763489,ID
+WinCo Foods,Q02156,Idaho Falls,"Idaho Falls, ID","333 N Woodruff Ave, Idaho Falls, ID",43.4988319,-112.0019692,ID
 Albertsons,Q02049,Kuna,"Kuna, ID","700 E Avalon St, Kuna, ID",43.4895356,-116.4052657,ID
-WinCo Foods,Q01460,Meridian,"Meridian, ID","1407 W Chinden Blvd, Meridian, ID",43.661048,-116.41184,ID
 WinCo Foods,Q01707,Meridian,"Meridian, ID","1050 S Progress Ave, Meridian, ID",43.5962274,-116.3896722,ID
 Fred Meyer,Q01999,Meridian,"Meridian, ID","1400 W Chinden Blvd, Meridian, ID",43.6661776,-116.4114916,ID
 WinCo Foods,Q01456,Nampa,"Nampa, ID","1175 N Happy Valley Rd, Nampa, ID",43.5946599,-116.5151167,ID
@@ -359,7 +355,8 @@ Kroger,Q00473,Fayetteville,"Fayetteville, GA","805 Glynn St S, Fayetteville, GA"
 Kroger,Q01056,Flowery Branch,"Flowery Branch, GA","7380 Spout Springs Rd, Flowery Branch, GA",34.1077017,-83.8754198,GA
 Kroger,Q00637,Gainesville,"Gainesville, GA","1931 Jesse Jewell Pkwy SE, Gainesville, GA",34.3150171,-83.7975718,GA
 Kroger,Q00872,Gainesville,"Gainesville, GA","3630 Thompson Bridge Rd, Gainesville, GA",34.3741169,-83.8705363,GA
-Kroger,Q01272,Grayson,"Grayson, GA","1911 Grayson Hwy, Grayson, GA",33.8977826,-83.96092759999999,GA
+Kroger,Q01967,Grayson,"Grayson, GA","1911 Grayson Hwy, Grayson, GA",33.8977826,-83.96092759999999,GA
+Kroger,Q01969,Hoschton,"Hoschton, GA","175 Peachtree Exchange Blvd, Hoschton, GA",34.09069,-83.757057,GA
 Kroger,Q01972,Johns Creek,"Johns Creek, GA","8465 Holcomb Bridge Rd, Johns Creek, GA",33.9869619,-84.2690306,GA
 Kroger,Q00676,Jonesboro,"Jonesboro, GA","8059 Tara Blvd, Jonesboro, GA",33.5342981,-84.36652699999999,GA
 Kroger,Q02088,Jonesboro,"Jonesboro, GA","10375 Tara Blvd, Jonesboro, GA",33.4723001,-84.3385933,GA
@@ -402,6 +399,7 @@ Kroger,Q01028,Woodstock,"Woodstock, GA","12050 GA-92 Ste 112, Woodstock, GA",34.
 Kroger,Q01050,Woodstock,"Woodstock, GA","2295 Towne Lake Pkwy, Woodstock, GA",34.1226462,-84.5546708,GA
 Acme Markets,Q02157,Bala Cynwyd,"Bala Cynwyd, PA","121 E City Ave, Bala Cynwyd, PA",40.0041987,-75.222702,PA
 Acme Markets,Q02101,Bensalem,"Bensalem, PA","2301 Bristol Rd, Bensalem, PA",40.131741,-74.922978,PA
+Acme Markets,Q02216,Broomall,"Broomall, PA","1991 N Sproul Rd, Broomall, PA",39.9817882,-75.3610982,PA
 Acme Markets,Q02159,Clifton Heights,"Clifton Heights, PA","5300 Baltimore Pike, Clifton Heights, PA",39.9251118,-75.3084449,PA
 Acme Markets,Q01589,Feasterville,"Feasterville, PA","105 E Street Rd, Feasterville, PA",40.1478733,-75.0005061,PA
 Acme Markets,Q01547,Folsom,"Folsom, PA","124 Morton Ave, Folsom, PA",39.8848787,-75.3282815,PA
@@ -416,17 +414,19 @@ Acme Markets,Q01991,Philadelphia,"Philadelphia, PA","6601 Roosevelt Blvd, Philad
 Acme Markets,Q01995,Philadelphia,"Philadelphia, PA","2101-41 Cottman Ave, Philadelphia, PA",40.0505382,-75.0616622,PA
 Acme Markets,Q02039,Philadelphia,"Philadelphia, PA","1400 E Passyunk Ave, Philadelphia, PA",39.9320465,-75.16260799999999,PA
 Acme Markets,Q02125,Philadelphia,"Philadelphia, PA","1901 Johnston St, Philadelphia, PA",39.9172159,-75.18048859999999,PA
-Acme Markets,Q00529,Richboro,"Richboro, PA","800 Second Street Pike, Richboro, PA",40.207705,-75.0124653,PA
+Acme Markets,Q00529,Southampton,"Southampton, PA","800 Second Street Pike, Southampton, PA",40.1764089,-75.04280229999999,PA
 Acme Markets,Q02138,Upper Darby,"Upper Darby, PA","815 N Lansdowne Ave, Upper Darby, PA",39.9604902,-75.2869144,PA
 Acme Markets,Q01579,Wayne,"Wayne, PA","700 W Lancaster Ave, Wayne, PA",40.0453962,-75.407701,PA
 Jewel-Osco,Q01193,Algonquin,"Algonquin, IL","1501 E Algonquin Rd, Algonquin, IL",42.158649,-88.2746147,IL
 Jewel-Osco,Q01196,Algonquin,"Algonquin, IL","103 S Randall Rd, Algonquin, IL",42.1746749,-88.33288859999999,IL
 Food 4 Less,Q01790,Alsip,"Alsip, IL","12150 S Pulaski Rd, Alsip, IL",41.6723528,-87.72133819999999,IL
 Jewel-Osco,Q02134,Arlington Heights,"Arlington Heights, IL","440 E Rand Rd, Arlington Heights, IL",42.1118589,-87.9768134,IL
+Jewel-Osco,Q01415,Aurora,"Aurora, IL","1157 N Eola Rd, Aurora, IL",41.7801801,-88.2380936,IL
 Jewel-Osco,Q01199,Bartlett,"Bartlett, IL","125 E Stearns Rd, Bartlett, IL",41.9714325,-88.1828614,IL
 Jewel-Osco,Q00758,Batavia,"Batavia, IL","119 S Randall Rd, Batavia, IL",41.8483166,-88.3426034,IL
 Woodman's Market,Q01829,Bloomingdale,"Bloomingdale, IL","1 Stratford Dr, Bloomingdale, IL",41.9495852,-88.1183023,IL
 Jewel-Osco,Q02038,Bolingbrook,"Bolingbrook, IL","1200 W Boughton Rd, Bolingbrook, IL",41.7051013,-88.1241052,IL
+Jewel-Osco,Q02208,Bourbonnais,"Bourbonnais, IL","655 Main St NW, Bourbonnais, IL",41.1608923,-87.8861179,IL
 Woodman's Market,Q01145,Buffalo Grove,"Buffalo Grove, IL","1550 Deerfield Pkwy, Buffalo Grove, IL",42.1692028,-87.92436359999999,IL
 Jewel-Osco,Q01198,Buffalo Grove,"Buffalo Grove, IL","79 McHenry Rd, Buffalo Grove, IL",42.1550551,-87.9578317,IL
 Jewel-Osco,Q01474,Burbank,"Burbank, IL","7910 S Cicero Ave, Burbank, IL",41.7472819,-87.7423975,IL
@@ -441,6 +441,7 @@ Jewel-Osco,Q01376,Chicago,"Chicago, IL","1341 N Paulina St, Chicago, IL",41.9064
 Jewel-Osco,Q01382,Chicago,"Chicago, IL","2520 N Narragansett Ave, Chicago, IL",41.9261995,-87.7863612,IL
 Jewel-Osco,Q01384,Chicago,"Chicago, IL","4250 N Lincoln Ave, Chicago, IL",41.9585044,-87.6824383,IL
 Jewel-Osco,Q01395,Chicago,"Chicago, IL","7342 W Foster Ave, Chicago, IL",41.9754649,-87.81098659999999,IL
+Jewel-Osco,Q01423,Chicago,"Chicago, IL","87 W 87th St, Chicago, IL",41.7354656,-87.6277387,IL
 Jewel-Osco,Q01446,Chicago,"Chicago, IL","2550 N Clybourn Ave, Chicago, IL",41.9271422,-87.6743716,IL
 Jewel-Osco,Q01475,Chicago,"Chicago, IL","11730 S Marshfield Ave, Chicago, IL",41.6802421,-87.66460000000001,IL
 Jewel-Osco,Q01725,Chicago,"Chicago, IL","4660 W Irving Park Rd, Chicago, IL",41.9553877,-87.7447755,IL
@@ -452,17 +453,23 @@ Jewel-Osco,Q02060,Chicago,"Chicago, IL","1220 S Ashland Ave, Chicago, IL",41.865
 Jewel-Osco,Q02065,Chicago,"Chicago, IL","1655 E 95th St, Chicago, IL",41.7204697,-87.5827383,IL
 Jewel-Osco,Q02071,Chicago,"Chicago, IL","3630 N Southport Ave, Chicago, IL",41.9479722,-87.6643658,IL
 Jewel-Osco,Q02078,Chicago,"Chicago, IL","102 W Division St, Chicago, IL",41.9040964,-87.6317704,IL
+Jewel-Osco,Q02182,Chicago,"Chicago, IL","S Archer Ave, Chicago, IL",41.8179526,-87.6979813,IL
+Mariano's Fresh Market,Q02184,Chicago,"Chicago, IL","5353 N Elston Ave, Chicago, IL",41.9795258,-87.7574874,IL
 Jewel-Osco,Q02188,Chicago,"Chicago, IL","4355 N Sheridan Rd, Chicago, IL",41.96118939999999,-87.65329489999999,IL
 Mariano's Fresh Market,Q02191,Chicago,"Chicago, IL","3350 N Western Ave, Chicago, IL",41.9422083,-87.6900074,IL
 Mariano's Fresh Market,Q02197,Chicago,"Chicago, IL","5201 N Sheridan Rd, Chicago, IL",41.9767977,-87.6545678,IL
+Jewel-Osco,Q02219,Chicago,"Chicago, IL","370 N Desplaines St, Chicago, IL",41.8886921,-87.6450996,IL
+Jewel-Osco,Q02220,Chicago,"Chicago, IL","424 W Division St, Chicago, IL",41.9048999,-87.6397496,IL
 Food 4 Less,Q00682,Chicago Heights,"Chicago Heights, IL","1333 Western Ave, Chicago Heights, IL",41.5070003,-87.6718614,IL
 Food 4 Less,Q01785,Cicero,"Cicero, IL","3039 S Cicero Ave, Cicero, IL",41.83766,-87.7411673,IL
 Jewel-Osco,Q01436,Clarendon Hills,"Clarendon Hills, IL","303 Holmes Ave, Clarendon Hills, IL",41.78734619999999,-87.9499156,IL
 Food 4 Less,Q00701,Crest Hill,"Crest Hill, IL","1701 N Larkin Ave, Crest Hill, IL",41.5535617,-88.126482,IL
 Jewel-Osco,Q02067,Crystal Lake,"Crystal Lake, IL","6140 Northwest Hwy, Crystal Lake, IL",42.2287372,-88.3183124,IL
 Jewel-Osco,Q00700,Darien,"Darien, IL","7329 S Cass Ave, Darien, IL",41.7538136,-87.9720305,IL
+Jewel-Osco,Q01430,Deerfield,"Deerfield, IL","16 S Waukegan Rd, Deerfield, IL",42.1518525,-87.83740039999999,IL
 Mariano's Fresh Market,Q02172,Des Plaines,"Des Plaines, IL","10 E Golf Rd, Des Plaines, IL",42.050568,-87.9200456,IL
 Food 4 Less,Q01795,Dolton,"Dolton, IL","1000 E Sibley Blvd, Dolton, IL",41.6225753,-87.5954553,IL
+Jewel-Osco,Q01407,Downers Grove,"Downers Grove, IL","6215 Main St, Downers Grove, IL",41.7740538,-88.00741219999999,IL
 Jewel-Osco,Q01230,Elgin,"Elgin, IL","1660 Larkin Ave, Elgin, IL",42.0341695,-88.319361,IL
 Jewel-Osco,Q02064,Elgin,"Elgin, IL","1040 Summit St, Elgin, IL",42.048073,-88.25265870000001,IL
 Jewel-Osco,Q02040,Elk Grove Village,"Elk Grove Village, IL","20 W Biesterfield Rd, Elk Grove Village, IL",42.0053829,-88.005271,IL
@@ -473,6 +480,7 @@ Jewel-Osco,Q00579,Frankfort,"Frankfort, IL","21164 S LaGrange Rd, Frankfort, IL"
 Mariano's Fresh Market,Q02189,Frankfort,"Frankfort, IL","21001 LaGrange Rd, Frankfort, IL",41.508859,-87.847764,IL
 Jewel-Osco,Q02063,Franklin Park,"Franklin Park, IL","10203 Grand Ave, Franklin Park, IL",41.9294687,-87.8803099,IL
 Jewel-Osco,Q01201,Glendale Heights,"Glendale Heights, IL","2164 Bloomingdale Rd, Glendale Heights, IL",41.9382475,-88.08198469999999,IL
+Mariano's Fresh Market,Q02175,Harwood Heights,"Harwood Heights, IL","7401 W Lawrence Ave, Harwood Heights, IL",41.9653631,-87.81306029999999,IL
 Jewel-Osco,Q02074,Hickory Hills,"Hickory Hills, IL","9528 S Roberts Rd, Hickory Hills, IL",41.7177218,-87.8202882,IL
 Jewel-Osco,Q00817,Hoffman Estates,"Hoffman Estates, IL","1069 N Roselle Rd, Hoffman Estates, IL",42.0477597,-88.0777093,IL
 Jewel-Osco,Q01202,Hoffman Estates,"Hoffman Estates, IL","1485 Palatine Rd, Hoffman Estates, IL",42.1092764,-88.1158674,IL
@@ -484,21 +492,24 @@ Jewel-Osco,Q02068,McHenry,"McHenry, IL","4222 W Elm St, McHenry, IL",42.3479284,
 Jewel-Osco,Q01386,Melrose Park,"Melrose Park, IL","800 W North Ave, Melrose Park, IL",41.9072705,-87.84335779999999,IL
 Food 4 Less,Q01745,Melrose Park,"Melrose Park, IL","2501 W North Ave, Melrose Park, IL",41.9084013,-87.8650074,IL
 Jewel-Osco,Q02073,Merrionette Park,"Merrionette Park, IL","3243 W 115th St, Merrionette Park, IL",41.683291,-87.70155779999999,IL
+Jewel-Osco,Q01470,Minooka,"Minooka, IL","2051 S Ridge Rd, Minooka, IL",41.4387373,-88.2706451,IL
 Jewel-Osco,Q01152,Mount Prospect,"Mount Prospect, IL","333 Euclid Ave, Mount Prospect, IL",42.0873322,-87.9309681,IL
 Jewel-Osco,Q01133,Mundelein,"Mundelein, IL","1150 W Maple Ave, Mundelein, IL",42.2775306,-88.0207925,IL
 Jewel-Osco,Q01182,Mundelein,"Mundelein, IL","1501 S Lake St, Mundelein, IL",42.2438911,-87.993068,IL
 Jewel-Osco,Q00570,Naperville,"Naperville, IL","1227 S Naper Blvd, Naperville, IL",41.7513145,-88.1152733,IL
 Jewel-Osco,Q00713,Naperville,"Naperville, IL","2855 95th St, Naperville, IL",41.7119854,-88.2035575,IL
 Mariano's Fresh Market,Q02187,Naperville,"Naperville, IL","1300 S Naper Blvd, Naperville, IL",41.74965359999999,-88.1127684,IL
+Jewel-Osco,Q02204,New Lenox,"New Lenox, IL","475 Nelson Rd, New Lenox, IL",41.5176195,-87.9872292,IL
 Woodman's Market,Q01200,North Aurora,"North Aurora, IL","151 Hansen Blvd, North Aurora, IL",41.8040392,-88.3703528,IL
 Mariano's Fresh Market,Q02193,Northbrook,"Northbrook, IL","784 Skokie Blvd, Northbrook, IL",42.1396909,-87.79431600000001,IL
 Jewel-Osco,Q02177,Oak Lawn,"Oak Lawn, IL","8801 Ridgeland Ave, Oak Lawn, IL",41.7316361,-87.77895230000001,IL
 Mariano's Fresh Market,Q02180,Oak Lawn,"Oak Lawn, IL","11000 S Cicero Ave, Oak Lawn, IL",41.6931574,-87.74167159999999,IL
 Jewel-Osco,Q02048,Orland Park,"Orland Park, IL","17930 Wolf Rd, Orland Park, IL",41.563074,-87.89317179999999,IL
 Jewel-Osco,Q00582,Oswego,"Oswego, IL","2540 US-30, Oswego, IL",41.7178567,-88.3181006,IL
+Jewel-Osco,Q01186,Palatine,"Palatine, IL","423 E Dundee Rd, Palatine, IL",42.1378741,-88.03268949999999,IL
 Jewel-Osco,Q01323,Park Ridge,"Park Ridge, IL","481 Busse Hwy, Park Ridge, IL",42.0157744,-87.8392756,IL
-Jewel-Osco,Q01437,Plainfield,"Plainfield, IL","13460 S Rte 59, Plainfield, IL",41.6378209,-88.20371109999999,IL
 Jewel-Osco,Q02140,Plainfield,"Plainfield, IL","2480 S Rte 59, Plainfield, IL",41.5663569,-88.2003546,IL
+Jewel-Osco,Q02218,Plainfield,"Plainfield, IL","13460 S Rte 59, Plainfield, IL",41.6378209,-88.20371109999999,IL
 Jewel-Osco,Q02044,River Forest,"River Forest, IL","7525 Lake St, River Forest, IL",41.8878922,-87.8133675,IL
 Jewel-Osco,Q00806,Rolling Meadows,"Rolling Meadows, IL","3000 Kirchoff Rd, Rolling Meadows, IL",42.0788851,-88.0171993,IL
 Jewel-Osco,Q01375,Romeoville,"Romeoville, IL","20 S Weber Rd, Romeoville, IL",41.6232256,-88.12624070000001,IL
@@ -569,7 +580,6 @@ King Soopers,Q00273,Aurora,"Aurora, CO","15250 E Mississippi Ave, Aurora, CO",39
 King Soopers,Q00284,Aurora,"Aurora, CO","655 Peoria St, Aurora, CO",39.7264905,-104.849588,CO
 King Soopers,Q00433,Aurora,"Aurora, CO","25701 E Smoky Hill Rd, Aurora, CO",39.5875966,-104.6871269,CO
 Safeway,Q00621,Aurora,"Aurora, CO","1677 S Havana St, Aurora, CO",39.6863266,-104.8682472,CO
-Safeway,Q00636,Aurora,"Aurora, CO","12200 E Mississippi Ave, Aurora, CO",39.6960815,-104.8452795,CO
 Safeway,Q00660,Aurora,"Aurora, CO","6100 S Gun Club Rd, Aurora, CO",39.604759,-104.7148374,CO
 Safeway,Q00663,Aurora,"Aurora, CO","18730 E Hampden Ave, Aurora, CO",39.6513006,-104.7697785,CO
 Safeway,Q00689,Aurora,"Aurora, CO","1200 S Buckley Rd, Aurora, CO",39.69455490000001,-104.7892651,CO
@@ -596,15 +606,13 @@ Safeway,Q01150,Centennial,"Centennial, CO","7375 E Arapahoe Rd, Centennial, CO",
 King Soopers,Q00362,Colorado Springs,"Colorado Springs, CO","6930 N Academy Blvd, Colorado Springs, CO",38.9310157,-104.7968969,CO
 Safeway,Q01110,Colorado Springs,"Colorado Springs, CO","3275 W Colorado Ave, Colorado Springs, CO",38.8547268,-104.8770364,CO
 Safeway,Q01161,Colorado Springs,"Colorado Springs, CO","1920 S Nevada Ave, Colorado Springs, CO",38.8062344,-104.8234084,CO
-Safeway,Q01163,Colorado Springs,"Colorado Springs, CO","5060 N Academy Blvd, Colorado Springs, CO",38.903489,-104.7773452,CO
-Safeway,Q01165,Colorado Springs,"Colorado Springs, CO","2210 N Wahsatch Ave, Colorado Springs, CO",38.8646262,-104.8172815,CO
 Safeway,Q01179,Colorado Springs,"Colorado Springs, CO","2890 N Powers Blvd, Colorado Springs, CO",38.8737349,-104.7223811,CO
 Safeway,Q01269,Colorado Springs,"Colorado Springs, CO","1121 N Circle Dr, Colorado Springs, CO",38.8484373,-104.7723255,CO
 King Soopers,Q01506,Colorado Springs,"Colorado Springs, CO","3620 Austin Bluffs Pkwy, Colorado Springs, CO",38.8920941,-104.7610271,CO
 Safeway,Q01672,Colorado Springs,"Colorado Springs, CO","7055 Austin Bluffs Pkwy, Colorado Springs, CO",38.9324155,-104.7390632,CO
 Safeway,Q01686,Colorado Springs,"Colorado Springs, CO","840 Village Center Dr, Colorado Springs, CO",38.9238733,-104.8444735,CO
-Safeway,Q01688,Colorado Springs,"Colorado Springs, CO","1425 S Murray Blvd, Colorado Springs, CO",38.8124465,-104.7464426,CO
 King Soopers,Q01701,Colorado Springs,"Colorado Springs, CO","3570 Hartsel Dr, Colorado Springs, CO",38.9400951,-104.7602979,CO
+Safeway,Q02023,Colorado Springs,"Colorado Springs, CO","2210 N Wahsatch Ave, Colorado Springs, CO",38.8646262,-104.8172815,CO
 Safeway,Q02033,Colorado Springs,"Colorado Springs, CO","6520 S Academy Blvd, Colorado Springs, CO",38.7674556,-104.8150018,CO
 King Soopers,Q00426,Commerce City,"Commerce City, CO","4850 E 62nd Ave, Commerce City, CO",39.808747,-104.9301075,CO
 King Soopers,Q00437,Commerce City,"Commerce City, CO","15051 E 104th Ave, Commerce City, CO",39.8874933,-104.8109439,CO
@@ -618,7 +626,6 @@ King Soopers,Q00430,Denver,"Denver, CO","890 S Monaco St Pkwy, Denver, CO",39.70
 King Soopers,Q00439,Denver,"Denver, CO","2750 S Colorado Blvd, Denver, CO",39.666764,-104.9368776,CO
 King Soopers,Q00442,Denver,"Denver, CO","1355 Krameria St, Denver, CO",39.7377231,-104.9162638,CO
 King Soopers,Q00443,Denver,"Denver, CO","10406 M.L.K. Jr Blvd, Denver, CO",39.7595228,-104.86665,CO
-Safeway,Q00622,Denver,"Denver, CO","1653 S Colorado Blvd, Denver, CO",39.6867716,-104.9424446,CO
 Safeway,Q00635,Denver,"Denver, CO","2150 S Downing St, Denver, CO",39.6776747,-104.9728461,CO
 Safeway,Q00641,Denver,"Denver, CO","200 Quebec St, Denver, CO",39.7202905,-104.9008767,CO
 Safeway,Q00649,Denver,"Denver, CO","6460 E Yale Ave, Denver, CO",39.6674191,-104.9156606,CO
@@ -637,7 +644,6 @@ Safeway,Q01172,Falcon,"Falcon, CO","7655 McLaughlin Rd, Falcon, CO",38.941513600
 Safeway,Q01098,Firestone,"Firestone, CO","8134 Colorado Blvd, Firestone, CO",40.1191182,-104.9398707,CO
 King Soopers,Q00627,Fort Collins,"Fort Collins, CO","2535 S College Ave, Fort Collins, CO",40.554117,-105.0789845,CO
 Safeway,Q01104,Fort Collins,"Fort Collins, CO","2160 W Drake Rd, Fort Collins, CO",40.5546594,-105.1165765,CO
-Safeway,Q01107,Fort Collins,"Fort Collins, CO","3657 S College Ave, Fort Collins, CO",40.5369231,-105.077736,CO
 Safeway,Q01100,Fort Lupton,"Fort Lupton, CO","1300 Dexter St, Fort Lupton, CO",40.0789504,-104.8026005,CO
 Safeway,Q01477,Fountain,"Fountain, CO","6925 Mesa Ridge Pkwy, Fountain, CO",38.7163261,-104.6989612,CO
 King Soopers,Q01704,Frederick,"Frederick, CO","5801 Silverstone Dr, Frederick, CO",38.978011,-108.400911,CO
@@ -674,7 +680,6 @@ Safeway,Q00448,Longmont,"Longmont, CO","1050 Ken Pratt Blvd, Longmont, CO",40.15
 Safeway,Q00450,Longmont,"Longmont, CO","1632 Hover St, Longmont, CO",40.1880332,-105.1293675,CO
 King Soopers,Q00428,Louisville,"Louisville, CO","1375 E South Boulder Rd, Louisville, CO",39.988326,-105.1242509,CO
 Safeway,Q01170,Monument,"Monument, CO","624 W Hwy 105, Monument, CO",39.0981174,-104.8657874,CO
-Safeway,Q02031,Northglenn,"Northglenn, CO","500 E 120th Ave, Northglenn, CO",39.9122222,-104.9806882,CO
 King Soopers,Q00105,Parker,"Parker, CO","17761 Cottonwood Dr, Parker, CO",39.5600248,-104.7827124,CO
 King Soopers,Q00109,Parker,"Parker, CO","17031 Lincoln Ave, Parker, CO",39.5357504,-104.7922062,CO
 Safeway,Q01105,Parker,"Parker, CO","11051 S Parker Rd, Parker, CO",39.5160562,-104.7665878,CO
@@ -773,7 +778,7 @@ Pak N Save,Q01060,Emeryville,"Emeryville, CA","3889 San Pablo Ave, Emeryville, C
 Albertsons,Q00890,Escondido,"Escondido, CA","1570 W Valley Pkwy, Escondido, CA",33.1087309,-117.1057928,CA
 Vons,Q00892,Escondido,"Escondido, CA","1000 W El Norte Pkwy, Escondido, CA",33.1485783,-117.1067548,CA
 Vons,Q01030,Escondido,"Escondido, CA","351 W Felicita Ave, Escondido, CA",33.1031634,-117.0732483,CA
-Food 4 Less,Q01250,Escondido,"Escondido, CA","644 N Broadway, Escondido, CA",33.128628,-117.0833577,CA
+Food 4 Less,Q01900,Escondido,"Escondido, CA","644 N Broadway, Escondido, CA",33.128628,-117.0833577,CA
 Safeway,Q00943,Fair Oaks,"Fair Oaks, CA","5450 Dewey Dr, Fair Oaks, CA",38.6652393,-121.3072479,CA
 Albertsons,Q00476,Fallbrook,"Fallbrook, CA","1133 S Mission Rd, Fallbrook, CA",33.3718783,-117.2560377,CA
 Vons,Q00481,Fillmore,"Fillmore, CA","636 Ventura St, Fillmore, CA",34.3950319,-118.9162363,CA
@@ -859,6 +864,7 @@ Safeway,Q00983,Los Gatos,"Los Gatos, CA","15549 Union Ave, Los Gatos, CA",37.242
 Safeway,Q00980,Manteca,"Manteca, CA","1187 S Main St, Manteca, CA",37.7867336,-121.2188396,CA
 Pavilions,Q00512,Marina del Rey,"Marina del Rey, CA","4365 Glencoe Ave, Marina del Rey, CA",33.9852041,-118.4397951,CA
 Safeway,Q01109,Martinez,"Martinez, CA","6688 Alhambra Ave, Martinez, CA",37.9579116,-122.0939524,CA
+Lucky,Q02086,Martinez,"Martinez, CA","1145 Arnold Dr, Martinez, CA",37.9945718,-122.1018517,CA
 Safeway,Q01330,Menlo Park,"Menlo Park, CA","525 El Camino Real, Menlo Park, CA",37.4505164,-122.1790396,CA
 Safeway,Q02012,Millbrae,"Millbrae, CA","525 El Camino Real, Millbrae, CA",37.6033834,-122.3942501,CA
 Safeway,Q00982,Milpitas,"Milpitas, CA","555 E Calaveras Blvd, Milpitas, CA",37.4351832,-121.8980193,CA
@@ -885,7 +891,7 @@ Food 4 Less,Q00412,North Hollywood,"North Hollywood, CA","8035 Webb Ave, North H
 Safeway,Q02009,Novato,"Novato, CA","5720 Nave Dr, Novato, CA",38.062346,-122.5320906,CA
 FoodMaxx,Q00984,Oakland,"Oakland, CA","3000 E 9th St, Oakland, CA",37.7755097,-122.2306231,CA
 Safeway,Q01126,Oakland,"Oakland, CA","5100 Broadway, Oakland, CA",37.8348327,-122.2491039,CA
-Safeway,Q01267,Oakland,"Oakland, CA","6310 College Ave, Oakland, CA",37.8507561,-122.2520065,CA
+Safeway,Q01231,Oakland,"Oakland, CA","6310 College Ave, Oakland, CA",37.8507561,-122.2520065,CA
 Safeway,Q02092,Oakland,"Oakland, CA","4100 Redwood Rd, Oakland, CA",37.7979581,-122.1819737,CA
 Albertsons,Q00668,Oceanside,"Oceanside, CA","3450 Marron Rd, Oceanside, CA",33.1795563,-117.2964516,CA
 Albertsons,Q00751,Oceanside,"Oceanside, CA","4150 Oceanside Blvd, Oceanside, CA",33.2077157,-117.2872673,CA
@@ -929,8 +935,8 @@ Safeway,Q00924,Sacramento,"Sacramento, CA","1814 19th St, Sacramento, CA",38.567
 Safeway,Q00926,Sacramento,"Sacramento, CA","1025 Alhambra Blvd, Sacramento, CA",38.5716151,-121.4649276,CA
 Safeway,Q00933,Sacramento,"Sacramento, CA","3320 Arden Wy, Sacramento, CA",38.594476,-121.3868593,CA
 Safeway,Q00968,Sacramento,"Sacramento, CA","8377 Elk Grove Florin Rd, Sacramento, CA",38.4534632,-121.3700657,CA
-Safeway,Q01522,Sacramento,"Sacramento, CA","5345 Elkhorn Blvd, Sacramento, CA",38.6864264,-121.33942,CA
 WinCo Foods,Q01534,Sacramento,"Sacramento, CA","2300 Watt Ave, Sacramento, CA",38.6073423,-121.3807881,CA
+Safeway,Q01709,Sacramento,"Sacramento, CA","5345 Elkhorn Blvd, Sacramento, CA",38.6864264,-121.33942,CA
 Safeway,Q02010,Sacramento,"Sacramento, CA","2851 Del Paso Rd, Sacramento, CA",38.6575749,-121.5247183,CA
 Safeway,Q02016,San Anselmo,"San Anselmo, CA","838 Sir Francis Drake Blvd, San Anselmo, CA",37.9807149,-122.5642294,CA
 Albertsons,Q00521,San Clemente,"San Clemente, CA","804 Avenida Pico, San Clemente, CA",33.4426992,-117.6138706,CA
@@ -986,7 +992,7 @@ Safeway,Q01727,Santa Rosa,"Santa Rosa, CA","1211 W College Ave, Santa Rosa, CA",
 FoodMaxx,Q01756,Santa Rosa,"Santa Rosa, CA","2055 Sebastopol Rd, Santa Rosa, CA",38.4269128,-122.742122,CA
 Vons,Q01655,Santee,"Santee, CA","9643 Mission Gorge Rd, Santee, CA",32.8373352,-116.9871021,CA
 Food 4 Less,Q01906,Santee,"Santee, CA","9430 Cuyamaca St, Santee, CA",32.8481993,-116.9854262,CA
-Safeway,Q01521,Saratoga,"Saratoga, CA","12876 Saratoga Sunnyvale Rd, Saratoga, CA",37.2812319,-122.0310922,CA
+Safeway,Q01238,Saratoga,"Saratoga, CA","12876 Saratoga Sunnyvale Rd, Saratoga, CA",37.2812319,-122.0310922,CA
 Vons,Q01821,Saugus,"Saugus, CA","26518 Bouquet Canyon Rd, Saugus, CA",34.427021,-118.5352017,CA
 Safeway,Q01331,Scotts Valley,"Scotts Valley, CA","253 Mt Hermon Rd, Scotts Valley, CA",37.0462361,-122.0310922,CA
 Safeway,Q01514,Sebastopol,"Sebastopol, CA","406 N Main St, Sebastopol, CA",38.4044524,-122.8270548,CA
@@ -997,7 +1003,7 @@ Vons,Q00504,Simi Valley,"Simi Valley, CA","2938 Tapo Canyon Rd, Simi Valley, CA"
 Safeway,Q02021,Sonoma,"Sonoma, CA","477 W Napa St, Sonoma, CA",38.291594,-122.4677124,CA
 Safeway,Q02014,South San Francisco,"South San Francisco, CA","2255 Gellert Blvd, South San Francisco, CA",37.6466527,-122.451995,CA
 Safeway,Q02024,South San Francisco,"South San Francisco, CA","30 Chestnut Ave, South San Francisco, CA",37.6555524,-122.4317324,CA
-Albertsons,Q01218,Spring Valley,"Spring Valley, CA","543 Sweetwater Rd, Spring Valley, CA",32.7082197,-117.0086037,CA
+Albertsons,Q01951,Spring Valley,"Spring Valley, CA","543 Sweetwater Rd, Spring Valley, CA",32.7082197,-117.0086037,CA
 Ralphs,Q01690,Stevenson Ranch,"Stevenson Ranch, CA","24975 Pico Canyon Rd, Stevenson Ranch, CA",34.382699,-118.5744229,CA
 Safeway,Q00975,Stockton,"Stockton, CA","6445 Pacific Ave, Stockton, CA",37.9883121,-121.3115883,CA
 Safeway,Q02082,Stockton,"Stockton, CA","2808 Country Club Blvd, Stockton, CA",37.9623201,-121.3375405,CA
@@ -1056,7 +1062,7 @@ Kroger,Q01108,Springfield,"Springfield, TN","2600 Memorial Blvd, Springfield, TN
 Kroger,Q01895,Thompson's Station,"Thompson's Station, TN","4726 Traders Way, Thompson's Station, TN",35.78476029999999,-86.9156272,TN
 Fred Meyer,Q00832,Albany,"Albany, OR","2500 Santiam Hwy SE, Albany, OR",44.6320862,-123.0748201,OR
 Safeway,Q01871,Albany,"Albany, OR","1990 14th Ave SE, Albany, OR",44.6272294,-123.0795844,OR
-Safeway,Q00826,Aloha,"Aloha, OR","6055 SW 185th Ave, Aloha, OR",45.4755939,-122.8690208,OR
+Safeway,Q00135,Aloha,"Aloha, OR","6055 SW 185th Ave, Aloha, OR",45.4755939,-122.8690208,OR
 Safeway,Q00855,Aloha,"Aloha, OR","20535 SW Tualatin Valley Hwy, Aloha, OR",45.4967624,-122.8881898,OR
 Fred Meyer,Q00138,Beaverton,"Beaverton, OR","11425 SW Beaverton Hillsdale Hwy, Beaverton, OR",45.4885715,-122.7942535,OR
 Fred Meyer,Q00140,Beaverton,"Beaverton, OR","15995 SW Walker Rd, Beaverton, OR",45.5191622,-122.8400721,OR
@@ -1090,7 +1096,7 @@ Safeway,Q01124,Gladstone,"Gladstone, OR","95 82nd Dr, Gladstone, OR",45.3816595,
 Fred Meyer,Q00190,Gresham,"Gresham, OR","2497 SE Burnside Rd, Gresham, OR",45.4958074,-122.4068825,OR
 Safeway,Q00195,Gresham,"Gresham, OR","1455 NE Division St, Gresham, OR",45.50585539999999,-122.4170551,OR
 Safeway,Q00220,Gresham,"Gresham, OR","1001 SW Highland Dr, Gresham, OR",45.4893131,-122.4767638,OR
-WinCo Foods,Q01322,Gresham,"Gresham, OR","2511 SE 1st St, Gresham, OR",45.4988488,-122.4075935,OR
+WinCo Foods,Q01877,Gresham,"Gresham, OR","2511 SE 1st St, Gresham, OR",45.4988488,-122.4075935,OR
 Fred Meyer,Q00191,Happy Valley,"Happy Valley, OR","8955 SE 82nd Ave, Happy Valley, OR",45.4572188,-122.5795196,OR
 Fred Meyer,Q00202,Happy Valley,"Happy Valley, OR","17005 SE Sunnyside Rd, Happy Valley, OR",45.4285313,-122.4877249,OR
 Fred Meyer,Q00887,Happy Valley,"Happy Valley, OR","8955 SE 82nd Ave, Happy Valley, OR",45.4572188,-122.5795196,OR
@@ -1118,7 +1124,7 @@ Safeway,Q01122,Milwaukie,"Milwaukie, OR","4370 SE King Rd, Milwaukie, OR",45.447
 Safeway,Q01113,Molalla,"Molalla, OR","1524 W Main St, Molalla, OR",45.1505066,-122.6047718,OR
 Fred Meyer,Q00884,Newberg,"Newberg, OR","3300 Portland Rd, Newberg, OR",45.30551699999999,-122.9455368,OR
 Fred Meyer,Q00894,Newberg,"Newberg, OR","3300 Portland Rd, Newberg, OR",45.30551699999999,-122.9455368,OR
-Safeway,Q01115,Newberg,"Newberg, OR","1140 N Springbrook Rd, Newberg, OR",45.3085141,-122.9454157,OR
+Safeway,Q01809,Newberg,"Newberg, OR","1140 N Springbrook Rd, Newberg, OR",45.3085141,-122.9454157,OR
 Fred Meyer,Q00843,Oak Grove,"Oak Grove, OR","14700 SE McLoughlin Blvd, Oak Grove, OR",45.4169353,-122.6313338,OR
 Fred Meyer,Q00998,Oak Grove,"Oak Grove, OR","14700 SE McLoughlin Blvd, Oak Grove, OR",45.4169353,-122.6313338,OR
 Albertsons,Q01452,Ontario,"Ontario, OR","1410 Westpark Plaza, Ontario, OR",44.0233558,-116.9838234,OR
@@ -1157,7 +1163,7 @@ Fred Meyer,Q01006,Portland,"Portland, OR","7700 SW Beaverton Hillsdale Hwy, Port
 Fred Meyer,Q01010,Portland,"Portland, OR","100 NW 20th Pl, Portland, OR",45.5241023,-122.6928082,OR
 Albertsons,Q01127,Portland,"Portland, OR","451 NE 181st Ave, Portland, OR",45.5255283,-122.4790737,OR
 Albertsons,Q01130,Portland,"Portland, OR","5850 NE Prescott St, Portland, OR",45.5542823,-122.6026893,OR
-WinCo Foods,Q01359,Portland,"Portland, OR","1950 NE 122nd Ave, Portland, OR",45.5366849,-122.5360062,OR
+WinCo Foods,Q01814,Portland,"Portland, OR","1950 NE 122nd Ave, Portland, OR",45.5366849,-122.5360062,OR
 WinCo Foods,Q00769,Salem,"Salem, OR","4575 Commercial St SE, Salem, OR",44.8878609,-123.0347788,OR
 Safeway,Q00821,Salem,"Salem, OR","5660 Commercial St SE, Salem, OR",44.87287269999999,-123.0220501,OR
 Fred Meyer,Q00833,Salem,"Salem, OR","3450 Commercial St SE, Salem, OR",44.9056642,-123.0409142,OR
@@ -1177,8 +1183,8 @@ Albertsons,Q01128,Springfield,"Springfield, OR","5755 S Main St, Springfield, OR
 Safeway,Q01811,Springfield,"Springfield, OR","1891 Pioneer Pkwy E, Springfield, OR",44.0634329,-123.0240309,OR
 Safeway,Q01135,Stayton,"Stayton, OR","1535 N First Ave, Stayton, OR",44.80575,-122.7960352,OR
 Safeway,Q01131,Sweet Home,"Sweet Home, OR","1540 Main St, Sweet Home, OR",44.3997118,-122.7256982,OR
+WinCo Foods,Q00113,Tigard,"Tigard, OR","7501 SW Dartmouth St, Tigard, OR",45.4352044,-122.7534528,OR
 Safeway,Q00587,Tigard,"Tigard, OR","15570 SW Pacific Hwy, Tigard, OR",45.4072213,-122.7927096,OR
-WinCo Foods,Q01324,Tigard,"Tigard, OR","7501 SW Dartmouth St, Tigard, OR",45.4352044,-122.7534528,OR
 Albertsons,Q00844,Troutdale,"Troutdale, OR","25691 SE Stark St, Troutdale, OR",45.5202018,-122.4002806,OR
 Fred Meyer,Q00123,Tualatin,"Tualatin, OR","19200 SW Martinazzi Ave, Tualatin, OR",45.3803417,-122.7582577,OR
 Safeway,Q00246,West Linn,"West Linn, OR","22000 Salamo Rd, West Linn, OR",45.3645911,-122.6474927,OR
@@ -1256,10 +1262,11 @@ Tom Thumb,Q00901,Dallas,"Dallas, TX","3757 Forest Ln, Dallas, TX",32.910768,-96.
 Tom Thumb,Q00902,Dallas,"Dallas, TX","5809 E Lovers Ln, Dallas, TX",32.8522585,-96.7670248,TX
 Kroger,Q00964,Dallas,"Dallas, TX","17194 Preston Rd, Dallas, TX",32.9843624,-96.8010226,TX
 Kroger,Q01716,Dallas,"Dallas, TX","9140 Forest Ln, Dallas, TX",32.9082048,-96.7452266,TX
-Kroger,Q00881,DeSoto,"DeSoto, TX","1001 N Interstate 35 E Rd STE 500, DeSoto, TX",32.6055839,-96.8256267,TX
+Kroger,Q01892,DeSoto,"DeSoto, TX","1001 N Interstate 35 E Rd STE 500, DeSoto, TX",32.6055839,-96.8256267,TX
 Kroger,Q00965,Denton,"Denton, TX","1592 S Loop 288, Denton, TX",33.1939913,-97.0951057,TX
 Tom Thumb,Q00896,Duncanville,"Duncanville, TX","633 W Wheatland Rd, Duncanville, TX",32.6482198,-96.9227583,TX
 Kroger,Q01667,Duncanville,"Duncanville, TX","200 W Camp Wisdom Rd, Duncanville, TX",32.6605563,-96.9093422,TX
+WinCo Foods,Q01705,Duncanville,"Duncanville, TX","800 S Cockrell Hill Rd, Duncanville, TX",32.6452888,-96.8890575,TX
 Tom Thumb,Q00484,Flower Mound,"Flower Mound, TX","745 Cross Timbers Rd, Flower Mound, TX",33.0409232,-97.0382503,TX
 Kroger,Q00910,Flower Mound,"Flower Mound, TX","1101 Flower Mound Rd, Flower Mound, TX",33.0096225,-97.0469876,TX
 Kroger,Q00956,Flower Mound,"Flower Mound, TX","2709 Cross Timbers Rd, Flower Mound, TX",33.0358263,-97.0720218,TX
@@ -1374,15 +1381,16 @@ H-E-B,Q01878,Richmond,"Richmond, TX","23500 Circle Oak Pkwy, Richmond, TX",29.55
 Tom Thumb,Q00463,Rockwall,"Rockwall, TX","3070 N Goliad St, Rockwall, TX",32.9645094,-96.4624985,TX
 Kroger,Q02080,Rockwall,"Rockwall, TX","1950 N Goliad St, Rockwall, TX",32.94981860000001,-96.4617052,TX
 Kroger,Q00567,Rosenberg,"Rosenberg, TX","24401 Brazos Town Crossing, Rosenberg, TX",29.5435565,-95.7514684,TX
+H-E-B,Q01718,Round Rock,"Round Rock, TX","3750 Gattis School Rd, Round Rock, TX",30.4989322,-97.6148105,TX
 Albertsons,Q00963,Saginaw,"Saginaw, TX","1201 N Saginaw Blvd, Saginaw, TX",32.880357,-97.381926,TX
-H-E-B,Q01697,San Antonio,"San Antonio, TX","20935 N US-281, San Antonio, TX",29.639901,-98.4549892,TX
 H-E-B,Q01793,San Antonio,"San Antonio, TX","4100 S New Braunfels Ave, San Antonio, TX",29.3791917,-98.4607998,TX
 H-E-B,Q01833,San Antonio,"San Antonio, TX","14087 O'Connor Rd, San Antonio, TX",29.56903489999999,-98.3865596,TX
 H-E-B,Q01837,San Antonio,"San Antonio, TX","6839 San Pedro Ave, San Antonio, TX",29.5036053,-98.500293,TX
 H-E-B,Q01855,San Antonio,"San Antonio, TX","735 SW Military Dr, San Antonio, TX",29.3577962,-98.50290470000002,TX
 H-E-B,Q01865,San Antonio,"San Antonio, TX","7330 N Loop 1604 W, San Antonio, TX",29.5852128,-98.6327944,TX
 H-E-B,Q01867,San Antonio,"San Antonio, TX","7330 N Loop 1604 W, San Antonio, TX",29.5852128,-98.6327944,TX
-H-E-B,Q01894,San Antonio,"San Antonio, TX","1520 Austin Hwy, San Antonio, TX",29.4933386,-98.4312741,TX
+H-E-B,Q01875,San Antonio,"San Antonio, TX","20935 N US-281, San Antonio, TX",29.639901,-98.4549892,TX
+H-E-B,Q01891,San Antonio,"San Antonio, TX","1520 Austin Hwy, San Antonio, TX",29.4933386,-98.4312741,TX
 Kroger,Q00393,Seabrook,"Seabrook, TX","1905 El Mar Ln, Seabrook, TX",29.5688933,-95.0255205,TX
 Kroger,Q00917,Sherman,"Sherman, TX","1820 N Loy Lake Rd, Sherman, TX",33.6562515,-96.6072272,TX
 Kroger,Q00900,Southlake,"Southlake, TX","2110 E Southlake Blvd, Southlake, TX",32.9429238,-97.1217486,TX
@@ -1414,6 +1422,7 @@ H-E-B,Q02093,West Lake Hills,"West Lake Hills, TX","701 S Capital of Texas Hwy, 
 Kroger,Q00548,Willis,"Willis, TX","12605 Interstate 45 N, Willis, TX",30.4219364,-95.4941675,TX
 Pick 'n Save,Q01073,Appleton,"Appleton, WI","2700 N Ballard Rd, Appleton, WI",44.2860963,-88.3724235,WI
 Woodman's Market,Q01731,Appleton,"Appleton, WI","595 N Westhill Blvd, Appleton, WI",44.2674885,-88.46311659999999,WI
+Pick 'n Save,Q02201,Appleton,"Appleton, WI","2400 W Wisconsin Ave, Appleton, WI",44.2745008,-88.4447976,WI
 Metro Market,Q01664,Brookfield,"Brookfield, WI","17630 W Bluemound Rd, Brookfield, WI",43.03777729999999,-88.13230709999999,WI
 Pick 'n Save,Q01678,Brookfield,"Brookfield, WI","17295 W Capitol Dr, Brookfield, WI",43.0888442,-88.1268582,WI
 Pick 'n Save,Q01732,Brookfield,"Brookfield, WI","15170 W Greenfield Ave, Brookfield, WI",43.0179109,-88.10168949999999,WI
@@ -1428,6 +1437,7 @@ Woodman's Market,Q00709,Kenosha,"Kenosha, WI","7145 120th Ave, Kenosha, WI",42.5
 Pick 'n Save,Q01040,Kenosha,"Kenosha, WI","2811 18th St, Kenosha, WI",42.6234976,-87.8436177,WI
 Pick 'n Save,Q00693,Madison,"Madison, WI","6655 McKee Rd, Madison, WI",43.0136629,-89.4979985,WI
 Metro Market,Q01504,Madison,"Madison, WI","6010 Cottage Grove Rd, Madison, WI",43.0851822,-89.2758656,WI
+Woodman's Market,Q01542,Madison,"Madison, WI","725 S Gammon Rd, Madison, WI",43.0493669,-89.5007931,WI
 Pick 'n Save,Q02186,Madison,"Madison, WI","2502 Shopko Dr, Madison, WI",43.1133568,-89.3495047,WI
 Pick 'n Save,Q01111,Menomonee Falls,"Menomonee Falls, WI","W14435 Appleton Ave, Menomonee Falls, WI",43.1581079,-88.0905443,WI
 Pick 'n Save,Q00160,Milwaukee,"Milwaukee, WI","605 E Lyon St, Milwaukee, WI",43.0490817,-87.90391369999999,WI
@@ -1488,6 +1498,7 @@ Acme Markets,Q01911,Hockessin,"Hockessin, DE","128 Lantana Dr, Hockessin, DE",39
 Safeway,Q01551,Newark,"Newark, DE","2400 Peoples Plaza, Newark, DE",39.6003221,-75.7490531,DE
 Acme Markets,Q01982,Newark,"Newark, DE","1 University Dr, Newark, DE",39.66687719999999,-75.6719009,DE
 Acme Markets,Q02166,Newark,"Newark, DE","100 Suburban Dr, Newark, DE",39.6679771,-75.7755768,DE
+Acme Markets,Q01968,Wilmington,"Wilmington, DE","4720 Limestone Rd, Wilmington, DE",39.7399655,-75.6938136,DE
 Acme Markets,Q02154,Wilmington,"Wilmington, DE","1308 Centerville Rd, Wilmington, DE",39.7340198,-75.62317279999999,DE
 Acme Markets,Q02170,Wilmington,"Wilmington, DE","2098 Naamans Rd, Wilmington, DE",39.8238197,-75.5005541,DE
 Kroger,Q01023,Burlington,"Burlington, KY","1751 Patrick Dr, Burlington, KY",39.0181434,-84.69285339999999,KY
@@ -1523,6 +1534,7 @@ Kroger,Q00683,Westland,"Westland, MI","36430 Ford Rd, Westland, MI",42.3261548,-
 Kroger,Q00691,Westland,"Westland, MI","31300 Michigan Ave, Westland, MI",42.2872107,-83.3471339,MI
 Kroger,Q01106,Westland,"Westland, MI","7350 N Middlebelt Rd, Westland, MI",42.3417411,-83.3306751,MI
 Kroger,Q00863,Ypsilanti,"Ypsilanti, MI","2010 Whittaker Rd, Ypsilanti, MI",42.2119466,-83.6210413,MI
+Jewel-Osco,Q01424,Crown Point,"Crown Point, IN","1276 N Main St, Crown Point, IN",41.4317759,-87.36308199999999,IN
 Kroger,Q01016,Fishers,"Fishers, IN","11700 Olio Rd, Fishers, IN",39.9597079,-85.9224072,IN
 Kroger,Q01091,Fishers,"Fishers, IN","7450 Fishers Station Dr, Fishers, IN",39.95842,-86.0374566,IN
 Kroger,Q02051,Fishers,"Fishers, IN","9799 E 116th St, Fishers, IN",39.9551525,-85.995841,IN
@@ -1589,9 +1601,9 @@ Frys,Q00385,Mesa,"Mesa, AZ","435 S Ellsworth Rd, Mesa, AZ",33.4066892,-111.63110
 Frys,Q00600,Mesa,"Mesa, AZ","2724 S Signal Butte Rd, Mesa, AZ",33.3657468,-111.6040292,AZ
 Frys,Q00610,Mesa,"Mesa, AZ","2727 E Broadway Rd, Mesa, AZ",33.4066099,-111.7723928,AZ
 Safeway,Q01332,Mesa,"Mesa, AZ","1902 W Main St, Mesa, AZ",33.4166239,-111.8733471,AZ
-Safeway,Q01383,Mesa,"Mesa, AZ","4316 S Signal Butte Rd, Mesa, AZ",33.3370636,-111.6028419,AZ
 Safeway,Q01914,Mesa,"Mesa, AZ","3622 E Southern Ave, Mesa, AZ",33.3946965,-111.7517777,AZ
 Safeway,Q02115,Mesa,"Mesa, AZ","1225 W Guadalupe Rd, Mesa, AZ",33.3630868,-111.8597464,AZ
+Safeway,Q02117,Mesa,"Mesa, AZ","4316 S Signal Butte Rd, Mesa, AZ",33.3370636,-111.6028419,AZ
 Safeway,Q02121,Mesa,"Mesa, AZ","1855 N Power Rd, Mesa, AZ",33.4497378,-111.6821888,AZ
 Frys,Q01901,Oro Valley,"Oro Valley, AZ","10661 N Oracle Rd, Oro Valley, AZ",32.400764,-110.9579284,AZ
 Safeway,Q01981,Oro Valley,"Oro Valley, AZ","12122 N Rancho Vistoso Blvd, Oro Valley, AZ",32.4268813,-110.9594187,AZ
@@ -1600,6 +1612,7 @@ Frys,Q00343,Peoria,"Peoria, AZ","8375 W Deer Valley Rd, Peoria, AZ",33.6803068,-
 Frys,Q00347,Peoria,"Peoria, AZ","9043 W Olive Ave, Peoria, AZ",33.5647662,-112.2537784,AZ
 Frys,Q00358,Peoria,"Peoria, AZ","25401 N Lake Pleasant Pkwy, Peoria, AZ",33.7145016,-112.2676482,AZ
 Safeway,Q01343,Peoria,"Peoria, AZ","10641 W Olive Ave, Peoria, AZ",33.5638291,-112.2886048,AZ
+Safeway,Q02109,Peoria,"Peoria, AZ","28455 N Vistancia Blvd, Peoria, AZ",33.7406607,-112.3205766,AZ
 Frys,Q00318,Phoenix,"Phoenix, AZ","3616 E Ray Rd, Phoenix, AZ",33.3167931,-112.0054548,AZ
 Frys,Q00333,Phoenix,"Phoenix, AZ","1815 W Glendale Ave, Phoenix, AZ",33.5371824,-112.0980852,AZ
 Frys,Q00337,Phoenix,"Phoenix, AZ","520 E Baseline Rd, Phoenix, AZ",33.3792087,-112.0661739,AZ
@@ -1622,7 +1635,6 @@ Frys,Q00733,Phoenix,"Phoenix, AZ","2250 E Baseline Rd, Phoenix, AZ",33.379523,-1
 Frys,Q00756,Phoenix,"Phoenix, AZ","2800 W Dove Valley Rd, Phoenix, AZ",33.7860388,-112.1195555,AZ
 Safeway,Q01292,Phoenix,"Phoenix, AZ","1334 E Chandler Blvd, Phoenix, AZ",33.3069254,-112.0539894,AZ
 Safeway,Q01301,Phoenix,"Phoenix, AZ","810 E Glendale Ave, Phoenix, AZ",33.5394755,-112.0623406,AZ
-Safeway,Q01303,Phoenix,"Phoenix, AZ","4747 E Elliot Rd, Phoenix, AZ",33.347971,-111.9821513,AZ
 Safeway,Q01306,Phoenix,"Phoenix, AZ","6202 S 16th St, Phoenix, AZ",33.3911677,-112.0493087,AZ
 Safeway,Q01314,Phoenix,"Phoenix, AZ","3132 E Camelback Rd, Phoenix, AZ",33.5113798,-112.0147546,AZ
 Safeway,Q01328,Phoenix,"Phoenix, AZ","520 W Osborn Rd, Phoenix, AZ",33.4882373,-112.0815648,AZ
@@ -1633,6 +1645,7 @@ Albertsons,Q01817,Phoenix,"Phoenix, AZ","8035 N 19th Ave, Phoenix, AZ",33.554464
 Safeway,Q01884,Phoenix,"Phoenix, AZ","13440 N 7th St, Phoenix, AZ",33.608965,-112.0669191,AZ
 Safeway,Q01919,Phoenix,"Phoenix, AZ","4005 E Chandler Blvd, Phoenix, AZ",33.3030469,-111.9963004,AZ
 Frys,Q01987,Phoenix,"Phoenix, AZ","2727 W Bell Rd, Phoenix, AZ",33.6383082,-112.1203105,AZ
+Safeway,Q02102,Phoenix,"Phoenix, AZ","4747 E Elliot Rd, Phoenix, AZ",33.347971,-111.9821513,AZ
 Frys,Q02122,Phoenix,"Phoenix, AZ","3421 W Thunderbird Rd, Phoenix, AZ",33.6092285,-112.1321233,AZ
 Frys,Q00596,Queen Creek,"Queen Creek, AZ","22265 E Queen Creek Rd, Queen Creek, AZ",33.2609661,-111.6031092,AZ
 Frys,Q00604,Queen Creek,"Queen Creek, AZ","25105 S Ellsworth Rd, Queen Creek, AZ",33.2207745,-111.632241,AZ
@@ -1645,6 +1658,7 @@ Frys,Q00424,Scottsdale,"Scottsdale, AZ","10450 N 90th St, Scottsdale, AZ",33.580
 Safeway,Q01340,Scottsdale,"Scottsdale, AZ","6501 E Greenway Pkwy Bldg 4, Scottsdale, AZ",33.6242057,-111.9418682,AZ
 Frys,Q01902,Scottsdale,"Scottsdale, AZ","7770 E McDowell Rd, Scottsdale, AZ",33.4672995,-111.9130312,AZ
 Safeway,Q01979,Scottsdale,"Scottsdale, AZ","7920 E Chaparral Rd, Scottsdale, AZ",33.5106988,-111.9103297,AZ
+Safeway,Q02113,Scottsdale,"Scottsdale, AZ","10773 N Scottsdale Rd, Scottsdale, AZ",33.5842699,-111.9244515,AZ
 Frys,Q00354,Sun City,"Sun City, AZ","10660 Grand Ave, Sun City, AZ",33.6012091,-112.2885536,AZ
 Frys,Q00368,Sun City West,"Sun City West, AZ","19403 N R H Johnson Blvd, Sun City West, AZ",33.6612784,-112.3532858,AZ
 Frys,Q00344,Surprise,"Surprise, AZ","15215 N Cotton Ln, Surprise, AZ",33.6226461,-112.4247614,AZ

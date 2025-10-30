@@ -1,7 +1,7 @@
 Retailer,Machine ID,Address,Cities,Full Address,Longitude,Latitude
 Fred Meyer,Q00832,Albany,"Albany, OR","2500 Santiam Hwy SE, Albany, OR",44.6320862,-123.0748201
 Safeway,Q01871,Albany,"Albany, OR","1990 14th Ave SE, Albany, OR",44.6272294,-123.0795844
-Safeway,Q00826,Aloha,"Aloha, OR","6055 SW 185th Ave, Aloha, OR",45.4755939,-122.8690208
+Safeway,Q00135,Aloha,"Aloha, OR","6055 SW 185th Ave, Aloha, OR",45.4755939,-122.8690208
 Safeway,Q00855,Aloha,"Aloha, OR","20535 SW Tualatin Valley Hwy, Aloha, OR",45.4967624,-122.8881898
 Fred Meyer,Q00138,Beaverton,"Beaverton, OR","11425 SW Beaverton Hillsdale Hwy, Beaverton, OR",45.4885715,-122.7942535
 Fred Meyer,Q00140,Beaverton,"Beaverton, OR","15995 SW Walker Rd, Beaverton, OR",45.5191622,-122.8400721
@@ -35,7 +35,7 @@ Safeway,Q01124,Gladstone,"Gladstone, OR","95 82nd Dr, Gladstone, OR",45.3816595,
 Fred Meyer,Q00190,Gresham,"Gresham, OR","2497 SE Burnside Rd, Gresham, OR",45.4958074,-122.4068825
 Safeway,Q00195,Gresham,"Gresham, OR","1455 NE Division St, Gresham, OR",45.50585539999999,-122.4170551
 Safeway,Q00220,Gresham,"Gresham, OR","1001 SW Highland Dr, Gresham, OR",45.4893131,-122.4767638
-WinCo Foods,Q01322,Gresham,"Gresham, OR","2511 SE 1st St, Gresham, OR",45.4988488,-122.4075935
+WinCo Foods,Q01877,Gresham,"Gresham, OR","2511 SE 1st St, Gresham, OR",45.4988488,-122.4075935
 Fred Meyer,Q00191,Happy Valley,"Happy Valley, OR","8955 SE 82nd Ave, Happy Valley, OR",45.4572188,-122.5795196
 Fred Meyer,Q00202,Happy Valley,"Happy Valley, OR","17005 SE Sunnyside Rd, Happy Valley, OR",45.4285313,-122.4877249
 Fred Meyer,Q00887,Happy Valley,"Happy Valley, OR","8955 SE 82nd Ave, Happy Valley, OR",45.4572188,-122.5795196
@@ -63,7 +63,7 @@ Safeway,Q01122,Milwaukie,"Milwaukie, OR","4370 SE King Rd, Milwaukie, OR",45.447
 Safeway,Q01113,Molalla,"Molalla, OR","1524 W Main St, Molalla, OR",45.1505066,-122.6047718
 Fred Meyer,Q00884,Newberg,"Newberg, OR","3300 Portland Rd, Newberg, OR",45.30551699999999,-122.9455368
 Fred Meyer,Q00894,Newberg,"Newberg, OR","3300 Portland Rd, Newberg, OR",45.30551699999999,-122.9455368
-Safeway,Q01115,Newberg,"Newberg, OR","1140 N Springbrook Rd, Newberg, OR",45.3085141,-122.9454157
+Safeway,Q01809,Newberg,"Newberg, OR","1140 N Springbrook Rd, Newberg, OR",45.3085141,-122.9454157
 Fred Meyer,Q00843,Oak Grove,"Oak Grove, OR","14700 SE McLoughlin Blvd, Oak Grove, OR",45.4169353,-122.6313338
 Fred Meyer,Q00998,Oak Grove,"Oak Grove, OR","14700 SE McLoughlin Blvd, Oak Grove, OR",45.4169353,-122.6313338
 Albertsons,Q01452,Ontario,"Ontario, OR","1410 Westpark Plaza, Ontario, OR",44.0233558,-116.9838234
@@ -102,7 +102,7 @@ Fred Meyer,Q01006,Portland,"Portland, OR","7700 SW Beaverton Hillsdale Hwy, Port
 Fred Meyer,Q01010,Portland,"Portland, OR","100 NW 20th Pl, Portland, OR",45.5241023,-122.6928082
 Albertsons,Q01127,Portland,"Portland, OR","451 NE 181st Ave, Portland, OR",45.5255283,-122.4790737
 Albertsons,Q01130,Portland,"Portland, OR","5850 NE Prescott St, Portland, OR",45.5542823,-122.6026893
-WinCo Foods,Q01359,Portland,"Portland, OR","1950 NE 122nd Ave, Portland, OR",45.5366849,-122.5360062
+WinCo Foods,Q01814,Portland,"Portland, OR","1950 NE 122nd Ave, Portland, OR",45.5366849,-122.5360062
 WinCo Foods,Q00769,Salem,"Salem, OR","4575 Commercial St SE, Salem, OR",44.8878609,-123.0347788
 Safeway,Q00821,Salem,"Salem, OR","5660 Commercial St SE, Salem, OR",44.87287269999999,-123.0220501
 Fred Meyer,Q00833,Salem,"Salem, OR","3450 Commercial St SE, Salem, OR",44.9056642,-123.0409142
@@ -122,8 +122,8 @@ Albertsons,Q01128,Springfield,"Springfield, OR","5755 S Main St, Springfield, OR
 Safeway,Q01811,Springfield,"Springfield, OR","1891 Pioneer Pkwy E, Springfield, OR",44.0634329,-123.0240309
 Safeway,Q01135,Stayton,"Stayton, OR","1535 N First Ave, Stayton, OR",44.80575,-122.7960352
 Safeway,Q01131,Sweet Home,"Sweet Home, OR","1540 Main St, Sweet Home, OR",44.3997118,-122.7256982
+WinCo Foods,Q00113,Tigard,"Tigard, OR","7501 SW Dartmouth St, Tigard, OR",45.4352044,-122.7534528
 Safeway,Q00587,Tigard,"Tigard, OR","15570 SW Pacific Hwy, Tigard, OR",45.4072213,-122.7927096
-WinCo Foods,Q01324,Tigard,"Tigard, OR","7501 SW Dartmouth St, Tigard, OR",45.4352044,-122.7534528
 Albertsons,Q00844,Troutdale,"Troutdale, OR","25691 SE Stark St, Troutdale, OR",45.5202018,-122.4002806
 Fred Meyer,Q00123,Tualatin,"Tualatin, OR","19200 SW Martinazzi Ave, Tualatin, OR",45.3803417,-122.7582577
 Safeway,Q00246,West Linn,"West Linn, OR","22000 Salamo Rd, West Linn, OR",45.3645911,-122.6474927
