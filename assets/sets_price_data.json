@@ -1,5 +1,5 @@
 {
-    "last_run_date": "2025-11-06",
+    "last_run_date": "2025-11-07",
     "sets_data": {
         "sword-&-shield": {
             "Snorlax Vmax #142": {
@@ -22,7 +22,7 @@
                 "link": "https://www.pricecharting.com/game/pokemon-sword-&-shield/snorlax-v-197",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 15.25,
+                "ungraded": 15.47,
                 "grade_9": 34.12,
                 "grade_10": 98.58
             },
@@ -50,7 +50,32 @@
         "go": {},
         "lost-origin": {},
         "silver-tempest": {},
-        "crown-zenith": {},
+        "crown-zenith": {
+            "Deoxys VSTAR #GG46": {
+                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/deoxys-vstar-gg46",
+                "grade_9_freq": "1 sale per day",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 30.35,
+                "grade_9": 35.0,
+                "grade_10": 161.98
+            },
+            "Magmortar #GG03": {
+                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/magmortar-gg03",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 8.39,
+                "grade_9": 24.27,
+                "grade_10": 119.99
+            },
+            "Comfey #GG14": {
+                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/comfey-gg14",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 2.15,
+                "grade_9": 19.83,
+                "grade_10": 46.0
+            }
+        },
         "scarlet-&-violet": {},
         "paldea-evolved": {},
         "obsidian-flames": {},
