@@ -1,5 +1,5 @@
 {
-    "last_run_date": "2025-11-07",
+    "last_run_date": "2025-11-08",
     "sets_data": {
         "sword-&-shield": {
             "Snorlax Vmax #142": {
@@ -14,9 +14,9 @@
                 "link": "https://www.pricecharting.com/game/pokemon-sword-&-shield/marnie-200",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 33.71,
+                "ungraded": 34.99,
                 "grade_9": 40.0,
-                "grade_10": 109.69
+                "grade_10": 110.0
             },
             "Snorlax V #197": {
                 "link": "https://www.pricecharting.com/game/pokemon-sword-&-shield/snorlax-v-197",
@@ -42,7 +42,48 @@
         "shining-fates": {},
         "battle-styles": {},
         "chilling-reign": {},
-        "evolving-skies": {},
+        "evolving-skies": {
+            "Leafeon V #167": {
+                "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/leafeon-v-167",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 110.98,
+                "grade_9": 135.0,
+                "grade_10": 310.0
+            },
+            "Glaceon V #175": {
+                "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/glaceon-v-175",
+                "grade_9_freq": "3 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 105.39,
+                "grade_9": 121.89,
+                "grade_10": 322.5
+            },
+            "Gyarados VMAX #207": {
+                "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/gyarados-vmax-207",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 32.75,
+                "grade_9": 49.99,
+                "grade_10": 104.95
+            },
+            "Gyarados VMAX #29": {
+                "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/gyarados-vmax-29",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "2 sales per week",
+                "ungraded": 7.0,
+                "grade_9": 29.61,
+                "grade_10": 74.61
+            },
+            "Glaceon VMAX #41": {
+                "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/glaceon-vmax-41",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "3 sales per week",
+                "ungraded": 6.12,
+                "grade_9": 25.38,
+                "grade_10": 65.0
+            }
+        },
         "celebrations": {},
         "fusion-strike": {},
         "brilliant-stars": {},
@@ -50,32 +91,7 @@
         "go": {},
         "lost-origin": {},
         "silver-tempest": {},
-        "crown-zenith": {
-            "Deoxys VSTAR #GG46": {
-                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/deoxys-vstar-gg46",
-                "grade_9_freq": "1 sale per day",
-                "grade_10_freq": "1 sale per day",
-                "ungraded": 30.35,
-                "grade_9": 35.0,
-                "grade_10": 161.98
-            },
-            "Magmortar #GG03": {
-                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/magmortar-gg03",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 8.39,
-                "grade_9": 24.27,
-                "grade_10": 119.99
-            },
-            "Comfey #GG14": {
-                "link": "https://www.pricecharting.com/game/pokemon-crown-zenith/comfey-gg14",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 2.15,
-                "grade_9": 19.83,
-                "grade_10": 46.0
-            }
-        },
+        "crown-zenith": {},
         "scarlet-&-violet": {},
         "paldea-evolved": {},
         "obsidian-flames": {},
@@ -84,13 +100,39 @@
         "paldean-fates": {},
         "temporal-forces": {},
         "stellar-crown": {},
-        "shrouded-fable": {},
+        "shrouded-fable": {
+            "Okidogi ex #90": {
+                "link": "https://www.pricecharting.com/game/pokemon-shrouded-fable/okidogi-ex-90",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 17.59,
+                "grade_9": 22.25,
+                "grade_10": 96.18
+            }
+        },
         "twilight-masquerade": {},
         "surging-sparks": {},
         "prismatic-evolutions": {},
         "journey-together": {},
         "destined-rivals": {},
-        "black-bolt": {},
+        "black-bolt": {
+            "Haxorus #147": {
+                "link": "https://www.pricecharting.com/game/pokemon-black-bolt/haxorus-147",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 41.45,
+                "grade_9": 49.95,
+                "grade_10": 292.5
+            },
+            "Braviary #155": {
+                "link": "https://www.pricecharting.com/game/pokemon-black-bolt/braviary-155",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per week",
+                "ungraded": 7.0,
+                "grade_9": 20.5,
+                "grade_10": 105.5
+            }
+        },
         "white-flare": {}
     }
 }
