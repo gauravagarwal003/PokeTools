@@ -1,5 +1,5 @@
 {
-    "last_run_date": "2025-11-13",
+    "last_run_date": "2025-11-14",
     "sets_data": {
         "sword-&-shield": {
             "Snorlax Vmax #142": {
@@ -14,8 +14,8 @@
                 "link": "https://www.pricecharting.com/game/pokemon-sword-&-shield/marnie-200",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 34.96,
-                "grade_9": 39.48,
+                "ungraded": 34.97,
+                "grade_9": 39.22,
                 "grade_10": 110.0
             },
             "Snorlax V #197": {
@@ -38,7 +38,16 @@
         "rebel-clash": {},
         "darkness-ablaze": {},
         "champion's-path": {},
-        "vivid-voltage": {},
+        "vivid-voltage": {
+            "Zacian #82": {
+                "link": "https://www.pricecharting.com/game/pokemon-vivid-voltage/zacian-82",
+                "grade_9_freq": "2 sales per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 2.99,
+                "grade_9": 14.0,
+                "grade_10": 41.59
+            }
+        },
         "shining-fates": {},
         "battle-styles": {},
         "chilling-reign": {},
