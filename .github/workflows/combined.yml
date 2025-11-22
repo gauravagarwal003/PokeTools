@@ -10,7 +10,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -31,17 +34,20 @@ jobs:
         run: python3 update_prices.py
       - name: Update Vending
         run: python3 update_vending.py
-      
 
-      - name: Update assets with new data
+      - name: Commit & push changes as GitHub Actions bot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "Update Pokemon Card Trading Prices"
-          git config --global user.email "gagarwal003@gmail.com"
-          
+          # use the Actions bot identity for commits
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add .
-          
-          # Check if there are changes to commit
+
+          # commit if there are changes
           git commit -m "Updated Pokemon Card Trading Prices" || echo "No changes to commit"
-          
-          # Push changes to remote repository
-          git push
+
+          # push using the built-in token so the commit is attributed to github-actions[bot]
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git push origin HEAD:$(git rev-parse --abbrev-ref HEAD) || echo "Push failed or nothing to push"
