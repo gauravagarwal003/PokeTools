@@ -57,6 +57,10 @@ const LOCATION_CONFIRMATION_KEY = 'location_confirmation_approved';
 
 // We'll keep track of the last location marker so we can remove it
 let locateMarker = null;
+// Track locate attempts for retry logic
+let locateAttempts = 0;
+const MAX_LOCATE_RETRIES = 2; // number of retries after initial attempt
+const RETRY_BASE_MS = 1000; // base delay for exponential backoff (ms)
 
 
 // Check if user has previously approved confirmation
@@ -171,7 +175,20 @@ if (locateBtn) {
 
   function startLocate() {
     if (locateBtn) {
-      map.locate({ setView: false, maxZoom: LOCATE_MAX_ZOOM, watch: false });
+      // Reset attempts whenever user explicitly starts locating
+      locateAttempts = 0;
+      // Provide explicit geolocation options to reduce likelihood of a timeout
+      // timeout: 20000ms -> wait up to 20s for a position
+      // enableHighAccuracy: true -> prefer GPS (may take longer / use more battery)
+      // maximumAge: 0 -> don't accept cached positions
+      map.locate({
+        setView: false,
+        maxZoom: LOCATE_MAX_ZOOM,
+        watch: false,
+        timeout: 20000,
+        enableHighAccuracy: true,
+        maximumAge: 0
+      });
       locateBtn.textContent = 'Locating...';
       locateBtn.disabled = true;
     }
@@ -197,6 +214,8 @@ if (locateBtn) {
 
 // Enhanced location event handlers
 map.on('locationfound', function (e) {
+  // Reset attempts on success
+  locateAttempts = 0;
   // Remove previous marker
   if (locateMarker) map.removeLayer(locateMarker);
 
@@ -214,10 +233,36 @@ map.on('locationfound', function (e) {
 
 map.on('locationerror', function (err) {
   console.warn('Location error:', err);
+  // If it's a TIMEOUT, attempt automatic retries with exponential backoff
+  if (err && err.code === 3 && locateAttempts < MAX_LOCATE_RETRIES) {
+    locateAttempts += 1;
+    const delay = RETRY_BASE_MS * Math.pow(2, locateAttempts - 1);
+    console.info(`Location timeout — retrying attempt ${locateAttempts}/${MAX_LOCATE_RETRIES} in ${delay}ms`);
+    if (locateBtn) {
+      locateBtn.textContent = `Retrying... (${locateAttempts}/${MAX_LOCATE_RETRIES})`;
+      locateBtn.disabled = true;
+    }
 
+    // Retry locating after a delay using the same options
+    setTimeout(() => {
+      map.locate({
+        setView: false,
+        maxZoom: LOCATE_MAX_ZOOM,
+        watch: false,
+        timeout: 20000,
+        enableHighAccuracy: true,
+        maximumAge: 0
+      });
+    }, delay);
+
+    // Do not show the error popup yet — give retries a chance
+    return;
+  }
+
+  // No more retries (or not a TIMEOUT). Build user-facing message and show it.
   let errorMessage;
 
-  switch (err.code) {
+  switch (err && err.code) {
     case 1: // PERMISSION_DENIED
       errorMessage = 'Location access denied. Please enable it in your browser settings to use this feature.';
       break;
@@ -225,18 +270,26 @@ map.on('locationerror', function (err) {
       errorMessage = 'Could not determine your location. Check your network or GPS and try again.';
       break;
     case 3: // TIMEOUT
-      errorMessage = 'Getting your location took too long. Please try again.';
+      errorMessage = 'Getting your location took too long. We tried a few times and could not get a fix.';
       break;
     default:
-      errorMessage = 'Could not get your location: ' + err.message;
+      errorMessage = 'Could not get your location: ' + (err && err.message ? err.message : 'unknown error');
       break;
+  }
+
+  // Provide a gentle fallback: center on the default view so user has context
+  try {
+    map.setView(DEFAULT_CENTER, DEFAULT_ZOOM);
+  } catch (e) {
+    // ignore if map not ready
   }
 
   // Show error popup
   if (typeof showErrorPopup === 'function') {
-    showErrorPopup(errorMessage);
+    showErrorPopup(errorMessage + ' The map has been centered to the default view. You can retry locating or enter your location manually.');
   }
 
+  // Reset UI
   if (locateBtn) {
     locateBtn.textContent = 'Find me';
     locateBtn.disabled = false;
