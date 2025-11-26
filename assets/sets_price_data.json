@@ -1,7 +1,15 @@
 {
-    "last_run_date": "2025-11-25",
+    "last_run_date": "2025-11-26",
     "sets_data": {
         "sword-&-shield": {
+            "Snorlax VMax #206": {
+                "link": "https://www.pricecharting.com/game/pokemon-sword-&-shield/snorlax-vmax-206",
+                "grade_9_freq": "1 sale per week",
+                "grade_10_freq": "1 sale per day",
+                "ungraded": 55.84,
+                "grade_9": 68.5,
+                "grade_10": 170.0
+            },
             "Snorlax Vmax #142": {
                 "link": "https://www.pricecharting.com/game/pokemon-sword-&-shield/snorlax-vmax-142",
                 "grade_9_freq": "3 sales per week",
@@ -22,7 +30,7 @@
                 "link": "https://www.pricecharting.com/game/pokemon-sword-&-shield/marnie-200",
                 "grade_9_freq": "1 sale per week",
                 "grade_10_freq": "2 sales per week",
-                "ungraded": 34.0,
+                "ungraded": 34.93,
                 "grade_9": 36.49,
                 "grade_10": 110.0
             },
@@ -42,32 +50,7 @@
         "shining-fates": {},
         "battle-styles": {},
         "chilling-reign": {},
-        "evolving-skies": {
-            "Sylveon V #183": {
-                "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/sylveon-v-183",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 26.99,
-                "grade_9": 37.29,
-                "grade_10": 110.0
-            },
-            "Gyarados VMAX #29": {
-                "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/gyarados-vmax-29",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 6.46,
-                "grade_9": 26.11,
-                "grade_10": 74.66
-            },
-            "Flareon V #169": {
-                "link": "https://www.pricecharting.com/game/pokemon-evolving-skies/flareon-v-169",
-                "grade_9_freq": "1 sale per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 14.87,
-                "grade_9": 25.53,
-                "grade_10": 85.7
-            }
-        },
+        "evolving-skies": {},
         "celebrations": {},
         "fusion-strike": {},
         "brilliant-stars": {},
@@ -79,32 +62,7 @@
         "scarlet-&-violet": {},
         "paldea-evolved": {},
         "obsidian-flames": {},
-        "scarlet-&-violet-151": {
-            "Mew ex #193": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/mew-ex-193",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "3 sales per week",
-                "ungraded": 18.89,
-                "grade_9": 26.24,
-                "grade_10": 101.56
-            },
-            "Erika's Invitation #203": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/erika%27s-invitation-203",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "2 sales per week",
-                "ungraded": 14.83,
-                "grade_9": 19.5,
-                "grade_10": 105.99
-            },
-            "Giovanni's Charisma #197": {
-                "link": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/giovanni%27s-charisma-197",
-                "grade_9_freq": "2 sales per week",
-                "grade_10_freq": "1 sale per week",
-                "ungraded": 3.89,
-                "grade_9": 15.83,
-                "grade_10": 78.0
-            }
-        },
+        "scarlet-&-violet-151": {},
         "paradox-rift": {},
         "paldean-fates": {},
         "temporal-forces": {},
