@@ -116,10 +116,14 @@ def scrape_set_prices(set_name):
 
       # Sales frequency cells
       td_tags = card_soup.find_all('td', class_='js-show-tab tablet-portrait-hidden')
-      sales_frequencies = []
-      for td in td_tags:
-        link_tag = td.find('a')
-        sales_frequencies.append(link_tag.text.strip() if link_tag and link_tag.text else '')
+      sales_frequencies = [ (td.find('a').text.strip() if td.find('a') and td.find('a').text else '') for td in td_tags ]
+
+      # Require exactly 3 frequency entries and that the first and third indicate recent sales
+      if not (len(sales_frequencies) == 3 and
+              (('per day' in sales_frequencies[0]) or ('per week' in sales_frequencies[0])) and
+              (('per day' in sales_frequencies[2]) or ('per week' in sales_frequencies[2]))):
+        # skip cards that don't have clear recent sale frequencies
+        continue
 
       # Ungraded price (used price td)
       price_ungraded = None
@@ -140,23 +144,26 @@ def scrape_set_prices(set_name):
         elif 'manual' in title or 'manual only' in title:
           price_grade_10 = text
 
+      # Ensure all price strings were found before attempting conversion
+      if not (price_ungraded and price_grade_9 and price_grade_10):
+        continue
+
       # Defensive check and parse floats
-      if price_ungraded and price_grade_9 and price_grade_10 and len(sales_frequencies) >= 1:
-        try:
-          ungraded_val = float(price_ungraded.replace('$', '').replace(',', ''))
-          grade9_val = float(price_grade_9.replace('$', '').replace(',', ''))
-          grade10_val = float(price_grade_10.replace('$', '').replace(',', ''))
-          return_dict[card_name_and_number] = {
-            'link': card_url,
-            'grade_9_freq': sales_frequencies[0],
-            'grade_10_freq': sales_frequencies[2] if len(sales_frequencies) >= 3 else sales_frequencies[-1],
-            'ungraded': ungraded_val,
-            'grade_9': grade9_val,
-            'grade_10': grade10_val
-          }
-        except Exception:
-          # parsing float failed, skip this card
-          continue
+      try:
+        ungraded_val = float(price_ungraded.replace('$', '').replace(',', ''))
+        grade9_val = float(price_grade_9.replace('$', '').replace(',', ''))
+        grade10_val = float(price_grade_10.replace('$', '').replace(',', ''))
+        return_dict[card_name_and_number] = {
+          'link': card_url,
+          'grade_9_freq': sales_frequencies[0],
+          'grade_10_freq': sales_frequencies[2],
+          'ungraded': ungraded_val,
+          'grade_9': grade9_val,
+          'grade_10': grade10_val
+        }
+      except Exception:
+        # parsing float failed, skip this card
+        continue
 
     except Exception as e:
       print(f"  Error parsing card page {card_name_and_number} ({card_url}): {e}")
