@@ -74,7 +74,7 @@ def scrape_set_prices(set_name):
   # rotate UA for each set
   session.headers['User-Agent'] = random.choice(USER_AGENTS)
   session.headers['Accept-Language'] = 'en-US,en;q=0.9'
-  set_url = f"https://www.pricecharting.com/console/pokemon-{set_name}?sort=highest-graded-price&exclude-variants=true"
+  set_url = f"https://www.pricecharting.com/console/pokemon-{set_name}?exclude-hardware=true&exclude-variants=true&in-collection=&model-number=&model-number=&show-images=false&sort=popularity&view=table"
   response = fetch_with_retries(session, set_url)
   if not response:
       print(f"  Skipping set {set_name} due to repeated fetch failures.")
