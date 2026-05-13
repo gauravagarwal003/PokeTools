@@ -35,23 +35,36 @@ jobs:
         run: python3 update_prices.py
       - name: Update Vending
         run: python3 update_vending.py
-      - name: Update Grading
-        continue-on-error: true
-        run: python3 update_grading.py
 
-      - name: Commit & push changes as GitHub Actions bot
+      - name: Commit & push price/vending changes as GitHub Actions bot
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # use the Actions bot identity for commits
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add .
+          git add assets/set_prices assets/sv_pack_prices.csv assets/sv_packs_expected_value.csv assets/vending_data assets/all_states.csv assets/all_states.geojson
+          git commit -m "Updated Pokemon data" || echo "No price/vending changes to commit"
 
-          # commit if there are changes
-          git commit -m "Updated Pokemon Card Trading Prices" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git push origin HEAD:$(git rev-parse --abbrev-ref HEAD) || echo "Push failed or nothing to push"
 
-          # push using the built-in token so the commit is attributed to github-actions[bot]
+      - name: Update Grading
+        continue-on-error: true
+        timeout-minutes: 45
+        run: python3 update_grading.py
+
+      - name: Commit & push grading changes as GitHub Actions bot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase origin $(git rev-parse --abbrev-ref HEAD)
+          git add assets/sets_price_data.json
+
+          git commit -m "Updated Pokemon grading prices" || echo "No grading changes to commit"
+
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD:$(git rev-parse --abbrev-ref HEAD) || echo "Push failed or nothing to push"
