@@ -78,11 +78,11 @@ def scrape_set_prices(set_name):
   response = fetch_with_retries(session, set_url)
   if not response:
       print(f"  Skipping set {set_name} due to repeated fetch failures.")
-      return {}
+      return None
 
   if response.status_code != 200:
     print(f"  Non-200 status for {set_name}: {response.status_code}")
-    return {}
+    return None
 
   set_soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -178,7 +178,8 @@ def scrape_set_prices(set_name):
 cache_file = 'assets/sets_price_data.json'
 cache = load_cache(cache_file)
 today = datetime.now(tz).strftime('%Y-%m-%d')
-all_set_data = {}
+all_set_data = dict(cache.get('sets_data', {}))
+updated_any_set = False
 
 if cache.get('last_run_date') == today:
     print("Cache is up to date.")
@@ -202,14 +203,36 @@ print("Updating cache with new data...")
 for set_name in sets.keys():
     try:
         start = time.time()
-        all_set_data[set_name] = scrape_set_prices(set_name)
+        set_data = scrape_set_prices(set_name)
         end = time.time()
         print(f"{sets[set_name]} took {end - start} seconds.")
+
+        previous_data = all_set_data.get(set_name, {})
+        previous_count = len(previous_data)
+        new_count = len(set_data or {})
+        minimum_acceptable_count = max(1, int(previous_count * 0.5))
+
+        if set_data and (previous_count == 0 or new_count >= minimum_acceptable_count):
+            all_set_data[set_name] = set_data
+            updated_any_set = True
+        elif previous_data:
+            print(
+                f"  Keeping existing {sets[set_name]} grading data "
+                f"({previous_count} cards); new scrape only found {new_count}."
+            )
+        else:
+            all_set_data[set_name] = {}
+
         # larger polite delay between sets
         time.sleep(1.2 + random.random() * 0.8)
     except Exception as e:
         print(f"Error processing set {set_name}: {e}")
-        all_set_data[set_name] = {}
+        if set_name not in all_set_data:
+            all_set_data[set_name] = {}
+
+if not updated_any_set:
+    print("No grading sets were updated; preserving cache and failing so the workflow does not commit stale scrape results.")
+    exit(1)
 
 # Save updated data
 cache['last_run_date'] = today
