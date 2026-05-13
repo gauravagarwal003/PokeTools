@@ -1,39 +1,41 @@
 Retailer,Machine ID,Address,Cities,Full Address,Longitude,Latitude
-Pick 'n Save,Q01073,Appleton,"Appleton, WI","2700 N Ballard Rd, Appleton, WI",44.2860963,-88.3724235
-Woodman's Market,Q01731,Appleton,"Appleton, WI","595 N Westhill Blvd, Appleton, WI",44.2674885,-88.46311659999999
-Pick 'n Save,Q02201,Appleton,"Appleton, WI","2400 W Wisconsin Ave, Appleton, WI",44.2745008,-88.4447976
-Metro Market,Q01664,Brookfield,"Brookfield, WI","17630 W Bluemound Rd, Brookfield, WI",43.03777729999999,-88.13230709999999
-Pick 'n Save,Q01678,Brookfield,"Brookfield, WI","17295 W Capitol Dr, Brookfield, WI",43.0888442,-88.1268582
-Pick 'n Save,Q01732,Brookfield,"Brookfield, WI","15170 W Greenfield Ave, Brookfield, WI",43.0179109,-88.10168949999999
-Pick 'n Save,Q00730,Brown Deer,"Brown Deer, WI","9200 N Green Bay Rd, Brown Deer, WI",43.1849341,-87.96273099999999
-Pick 'n Save,Q01086,Fitchburg,"Fitchburg, WI","3010 Cahill Main, Fitchburg, WI",43.01861299999999,-89.4212536
-Pick 'n Save,Q01652,Germantown,"Germantown, WI","N112W16200 Mequon Rd, Germantown, WI",43.2218719,-88.1105242
-Pick 'n Save,Q01650,Grafton,"Grafton, WI","301 Falls Rd, Grafton, WI",43.3086474,-87.9695734
-Woodman's Market,Q02041,Green Bay,"Green Bay, WI","2400 Duck Creek Pkwy, Green Bay, WI",44.5432725,-88.0765371
-Pick 'n Save,Q01093,Hartland,"Hartland, WI","3161 Village Square Dr, Hartland, WI",43.1032661,-88.3653444
-Pick 'n Save,Q00694,Kenosha,"Kenosha, WI","5710 75th St, Kenosha, WI",42.5685164,-87.8771266
-Woodman's Market,Q00709,Kenosha,"Kenosha, WI","7145 120th Ave, Kenosha, WI",42.57032299999999,-87.9478783
-Pick 'n Save,Q01040,Kenosha,"Kenosha, WI","2811 18th St, Kenosha, WI",42.6234976,-87.8436177
-Pick 'n Save,Q00693,Madison,"Madison, WI","6655 McKee Rd, Madison, WI",43.0136629,-89.4979985
-Metro Market,Q01504,Madison,"Madison, WI","6010 Cottage Grove Rd, Madison, WI",43.0851822,-89.2758656
-Woodman's Market,Q01542,Madison,"Madison, WI","725 S Gammon Rd, Madison, WI",43.0493669,-89.5007931
-Pick 'n Save,Q02186,Madison,"Madison, WI","2502 Shopko Dr, Madison, WI",43.1133568,-89.3495047
-Pick 'n Save,Q01111,Menomonee Falls,"Menomonee Falls, WI","W14435 Appleton Ave, Menomonee Falls, WI",43.1581079,-88.0905443
-Pick 'n Save,Q00160,Milwaukee,"Milwaukee, WI","605 E Lyon St, Milwaukee, WI",43.0490817,-87.90391369999999
-Pick 'n Save,Q01114,Milwaukee,"Milwaukee, WI","7401 Good Hope Rd, Milwaukee, WI",43.1470488,-88.00267079999999
-Pick 'n Save,Q01928,Milwaukee,"Milwaukee, WI","5700 W Capitol Dr, Milwaukee, WI",43.0922014,-87.9843121
-Pick 'n Save,Q02196,Milwaukee,"Milwaukee, WI","250 W Holt Ave, Milwaukee, WI",42.983903,-87.9127759
-Pick 'n Save,Q01044,Mount Pleasant,"Mount Pleasant, WI","2820 S Green Bay Rd, Mount Pleasant, WI",42.6987777,-87.85666309999999
-Pick 'n Save,Q01786,Mukwonago,"Mukwonago, WI","1010 N Rochester St, Mukwonago, WI",42.87513620000001,-88.33666529999999
-Pick 'n Save,Q01052,Oak Creek,"Oak Creek, WI","8770 S Howell Ave, Oak Creek, WI",42.8849539,-87.9097731
-Pick 'n Save,Q02178,Oconomowoc,"Oconomowoc, WI","36903 E Wisconsin Ave, Oconomowoc, WI",43.1057916,-88.4774166
-Pick 'n Save,Q02181,Oshkosh,"Oshkosh, WI","1940 S Koeller St, Oshkosh, WI",43.9988101,-88.57580759999999
-Metro Market,Q01654,Pewaukee,"Pewaukee, WI","2160 Silvernail Rd, Pewaukee, WI",43.0442822,-88.26077339999999
-Pick 'n Save,Q01047,Racine,"Racine, WI","1202 N Green Bay Rd, Racine, WI",42.7356158,-87.84070799999999
-Metro Market,Q02195,Shorewood,"Shorewood, WI","4075 N Oakland Ave, Shorewood, WI",43.0916515,-87.8879197
-Woodman's Market,Q01797,Sun Prairie,"Sun Prairie, WI","1099 S Grand Ave, Sun Prairie, WI",43.1645304,-89.2668834
-Pick 'n Save,Q02192,Sun Prairie,"Sun Prairie, WI","640 E Main St, Sun Prairie, WI",43.18143800000001,-89.2043789
-Metro Market,Q01095,Sussex,"Sussex, WI","N65W24838 Main St, Sussex, WI",43.1371593,-88.240736
-Pick 'n Save,Q01799,Wales,"Wales, WI","405 N Wales Rd, Wales, WI",43.0101184,-88.3850971
-Woodman's Market,Q01394,Waukesha,"Waukesha, WI","1600 E Main St, Waukesha, WI",43.0221837,-88.20456109999999
-Pick 'n Save,Q01053,West Allis,"West Allis, WI","2625 S 108th St, West Allis, WI",42.99685789999999,-88.0497566
+Pick 'n Save,Q01073,Appleton,"Appleton, WI","2700 N Ballard Rd, Appleton, WI",-88.3724235,44.2860963
+Pick 'n Save,Q02201,Appleton,"Appleton, WI","2400 W Wisconsin Ave, Appleton, WI",-88.4447976,44.2745008
+Woodman's Market,Q01731,Appleton,"Appleton, WI","595 N Westhill Blvd, Appleton, WI",-88.4631166,44.2674885
+Metro Market,Q01664,Brookfield,"Brookfield, WI","17630 W Bluemound Rd, Brookfield, WI",-88.1323071,43.0377773
+Pick 'n Save,Q01678,Brookfield,"Brookfield, WI","17295 W Capitol Dr, Brookfield, WI",-88.1268582,43.0888442
+Pick 'n Save,Q01732,Brookfield,"Brookfield, WI","15170 W Greenfield Ave, Brookfield, WI",-88.1016895,43.0179109
+Pick 'n Save,Q00730,Brown Deer,"Brown Deer, WI","9200 N Green Bay Rd, Brown Deer, WI",-87.962731,43.1849341
+Pick 'n Save,Q01086,Fitchburg,"Fitchburg, WI","3010 Cahill Main, Fitchburg, WI",-89.4212536,43.018613
+Pick 'n Save,Q01652,Germantown,"Germantown, WI","N112W16200 Mequon Rd, Germantown, WI",-88.1105242,43.2218719
+Pick 'n Save,Q01650,Grafton,"Grafton, WI","301 Falls Rd, Grafton, WI",-87.9618124,43.3078967
+Woodman's Market,Q02041,Green Bay,"Green Bay, WI","2400 Duck Creek Pkwy, Green Bay, WI",-88.0765371,44.5432725
+Pick 'n Save,Q01093,Hartland,"Hartland, WI","3161 Village Square Dr, Hartland, WI",-88.3653444,43.1032661
+Woodman's Market,Q02256,Janesville,"Janesville, WI","2819 N Lexington Dr, Janesville, WI",-88.995933,42.7166959
+Pick 'n Save,Q00694,Kenosha,"Kenosha, WI","5710 75th St, Kenosha, WI",-87.8771266,42.5685164
+Pick 'n Save,Q01040,Kenosha,"Kenosha, WI","2811 18th St, Kenosha, WI",-87.8436177,42.6234976
+Woodman's Market,Q00709,Kenosha,"Kenosha, WI","7145 120th Ave, Kenosha, WI",-87.9486861,42.5698517
+Metro Market,Q01504,Madison,"Madison, WI","6010 Cottage Grove Rd, Madison, WI",-89.2758656,43.0851822
+Pick 'n Save,Q00693,Madison,"Madison, WI","6655 McKee Rd, Madison, WI",-89.4979985,43.0136629
+Pick 'n Save,Q02186,Madison,"Madison, WI","2502 Shopko Dr, Madison, WI",-89.3495047,43.1133568
+Woodman's Market,Q01542,Madison,"Madison, WI","725 S Gammon Rd, Madison, WI",-89.5007931,43.0493669
+Pick 'n Save,Q01111,Menomonee Falls,"Menomonee Falls, WI","W14435 Appleton Ave, Menomonee Falls, WI",-88.0905443,43.1581079
+Pick 'n Save,Q00160,Milwaukee,"Milwaukee, WI","605 E Lyon St, Milwaukee, WI",-87.9039137,43.0490817
+Pick 'n Save,Q01114,Milwaukee,"Milwaukee, WI","7401 Good Hope Rd, Milwaukee, WI",-88.0026708,43.1470488
+Pick 'n Save,Q01928,Milwaukee,"Milwaukee, WI","5700 W Capitol Dr, Milwaukee, WI",-87.9843121,43.0922014
+Pick 'n Save,Q02196,Milwaukee,"Milwaukee, WI","250 W Holt Ave, Milwaukee, WI",-87.9127759,42.983903
+Pick 'n Save,Q01044,Mount Pleasant,"Mount Pleasant, WI","2820 S Green Bay Rd, Mount Pleasant, WI",-87.8566631,42.6987777
+Pick 'n Save,Q02261,Mount Pleasant,"Mount Pleasant, WI","1202 N Green Bay Rd, Mount Pleasant, WI",-87.8407114,42.7356153
+Pick 'n Save,Q01786,Mukwonago,"Mukwonago, WI","1010 N Rochester St, Mukwonago, WI",-88.3366653,42.8751362
+Pick 'n Save,Q01052,Oak Creek,"Oak Creek, WI","8770 S Howell Ave, Oak Creek, WI",-87.9097731,42.8849539
+Pick 'n Save,Q02178,Oconomowoc,"Oconomowoc, WI","36903 E Wisconsin Ave, Oconomowoc, WI",-88.4774166,43.1057916
+Pick 'n Save,Q02181,Oshkosh,"Oshkosh, WI","1940 S Koeller St, Oshkosh, WI",-88.5783491,43.9957447
+Metro Market,Q01654,Pewaukee,"Pewaukee, WI","2160 Silvernail Rd, Pewaukee, WI",-88.2607734,43.0442822
+Woodman's Market,Q01380,Racine,"Racine, WI","5430 Durand Ave, Racine, WI",-87.8449702,42.6974932
+Metro Market,Q02195,Shorewood,"Shorewood, WI","4075 N Oakland Ave, Shorewood, WI",-87.8879197,43.0916515
+Pick 'n Save,Q02192,Sun Prairie,"Sun Prairie, WI","640 E Main St, Sun Prairie, WI",-89.2043789,43.181438
+Woodman's Market,Q01797,Sun Prairie,"Sun Prairie, WI","1099 S Grand Ave, Sun Prairie, WI",-89.2668834,43.1645304
+Metro Market,Q01095,Sussex,"Sussex, WI","N65W24838 Main St, Sussex, WI",-88.240736,43.1371593
+Pick 'n Save,Q01799,Wales,"Wales, WI","405 N Wales Rd, Wales, WI",-88.3850971,43.0101184
+Woodman's Market,Q01394,Waukesha,"Waukesha, WI","1600 E Main St, Waukesha, WI",-88.2045611,43.0221837
+Pick 'n Save,Q01053,West Allis,"West Allis, WI","2625 S 108th St, West Allis, WI",-88.0497566,42.9968579

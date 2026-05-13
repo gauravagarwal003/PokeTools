@@ -1,24 +1,39 @@
 Retailer,Machine ID,Address,Cities,Full Address,Longitude,Latitude
-Albertsons,Q01248,Boulder City,"Boulder City, NV","1008 Nevada Way, Boulder City, NV",35.9761503,-114.8451581
-Smith's,Q00656,Henderson,"Henderson, NV","10616 S Eastern Ave, Henderson, NV",35.9995306,-115.102477
-Albertsons,Q01232,Henderson,"Henderson, NV","575 College Dr, Henderson, NV",36.0137242,-114.9649568
-Vons,Q01252,Henderson,"Henderson, NV","45 E Horizon Ridge Pkwy, Henderson, NV",36.0091236,-114.993307
-Albertsons,Q01733,Henderson,"Henderson, NV","190 N Boulder Hwy, Henderson, NV",36.0417717,-114.9812572
-Vons,Q01743,Henderson,"Henderson, NV","2667 Windmill Pkwy, Henderson, NV",36.041853,-115.1030832
-Vons,Q01763,Henderson,"Henderson, NV","2511 Anthem Village Dr, Henderson, NV",35.9783672,-115.0997899
-WinCo Foods,Q01924,Henderson,"Henderson, NV","80 N Stephanie St, Henderson, NV",36.03365730000001,-115.0437364
-Albertsons,Q02103,Henderson,"Henderson, NV","201 S Stephanie St, Henderson, NV",36.02056779999999,-115.0490829
-Smith's,Q00657,Las Vegas,"Las Vegas, NV","4965 E Sahara Ave, Las Vegas, NV",36.142933,-115.067053
-Smith's,Q00728,Las Vegas,"Las Vegas, NV","450 N Nellis Blvd, Las Vegas, NV",36.1677412,-115.0605
-Albertsons,Q01207,Las Vegas,"Las Vegas, NV","7151 W Craig Rd, Las Vegas, NV",36.2381476,-115.2502461
-Albertsons,Q01235,Las Vegas,"Las Vegas, NV","7075 W Ann Rd, Las Vegas, NV",36.2609353,-115.2477717
-Albertsons,Q01299,Las Vegas,"Las Vegas, NV","6730 N Hualapai Way, Las Vegas, NV",36.2836338,-115.3132057
-Albertsons,Q01543,Las Vegas,"Las Vegas, NV","1940 Village Center Cir, Las Vegas, NV",36.1937606,-115.3058904
-WinCo Foods,Q01754,Las Vegas,"Las Vegas, NV","6101 N Decatur Blvd, Las Vegas, NV",36.269749,-115.208198
-Albertsons,Q01755,Las Vegas,"Las Vegas, NV","5975 W Tropicana Ave, Las Vegas, NV",36.0987541,-115.2239295
-Albertsons,Q01904,Las Vegas,"Las Vegas, NV","8410 Farm Rd, Las Vegas, NV",36.3005107,-115.2792465
-Vons,Q01908,Las Vegas,"Las Vegas, NV","7405 S Durango Dr, Las Vegas, NV",36.0538693,-115.2813116
-WinCo Foods,Q01909,Las Vegas,"Las Vegas, NV","7501 W Washington Ave, Las Vegas, NV",36.1803986,-115.2561235
-Smith's,Q00342,North Las Vegas,"North Las Vegas, NV","4700 W Ann Rd, North Las Vegas, NV",36.2629501,-115.2058675
-Smith's,Q00421,North Las Vegas,"North Las Vegas, NV","5564 Camino Al Norte, North Las Vegas, NV",36.2611019,-115.153746
-Albertsons,Q01729,North Las Vegas,"North Las Vegas, NV","3010 W Ann Rd, North Las Vegas, NV",36.2631376,-115.1813199
+Albertsons,Q01248,Boulder City,"Boulder City, NV","1008 Nevada Way, Boulder City, NV",-114.8451581,35.9761503
+Albertsons,Q01232,Henderson,"Henderson, NV","575 College Dr, Henderson, NV",-114.9649568,36.0137242
+Albertsons,Q01733,Henderson,"Henderson, NV","190 N Boulder Hwy, Henderson, NV",-114.9812572,36.0417717
+Albertsons,Q02103,Henderson,"Henderson, NV","201 S Stephanie St, Henderson, NV",-115.0490829,36.0205678
+Albertsons,Q02330,Henderson,"Henderson, NV","2910 Bicentennial Pkwy, Henderson, NV",-115.1175801,35.9425089
+Smith's,Q00656,Henderson,"Henderson, NV","10616 S Eastern Ave, Henderson, NV",-115.102477,35.9995306
+Smith's,Q02111,Henderson,"Henderson, NV","830 S Boulder Hwy, Henderson, NV",-114.9658698,36.0270041
+Vons,Q01743,Henderson,"Henderson, NV","2667 Windmill Pkwy, Henderson, NV",-115.1030832,36.041853
+Vons,Q01763,Henderson,"Henderson, NV","2511 Anthem Village Dr, Henderson, NV",-115.0997899,35.9783672
+Vons,Q02258,Henderson,"Henderson, NV","45 E Horizon Ridge Pkwy, Henderson, NV",-114.993307,36.0091236
+Albertsons,Q01207,Las Vegas,"Las Vegas, NV","7151 W Craig Rd, Las Vegas, NV",-115.2502461,36.2381476
+Albertsons,Q01214,Las Vegas,"Las Vegas, NV","6730 N Hualapai Way, Las Vegas, NV",-115.3132057,36.2836338
+Albertsons,Q01235,Las Vegas,"Las Vegas, NV","7075 W Ann Rd, Las Vegas, NV",-115.2479236,36.260917
+Albertsons,Q01677,Las Vegas,"Las Vegas, NV","8350 W Cheyenne Ave, Las Vegas, NV",-115.2754239,36.2200792
+Albertsons,Q01755,Las Vegas,"Las Vegas, NV","5975 W Tropicana Ave, Las Vegas, NV",-115.2239295,36.0987541
+Albertsons,Q01904,Las Vegas,"Las Vegas, NV","8410 Farm Rd, Las Vegas, NV",-115.2802395,36.3005866
+Albertsons,Q02108,Las Vegas,"Las Vegas, NV","6885 E Lake Mead Blvd, Las Vegas, NV",-115.0238004,36.1946846
+Albertsons,Q02244,Las Vegas,"Las Vegas, NV","2835 S Nellis Blvd, Las Vegas, NV",-115.0670598,36.1384545
+Albertsons,Q02248,Las Vegas,"Las Vegas, NV","1940 Village Center Cir, Las Vegas, NV",-115.3058904,36.1937606
+Albertsons,Q02251,Las Vegas,"Las Vegas, NV","10140 W Flamingo Rd, Las Vegas, NV",-115.3136968,36.1166883
+Albertsons,Q02257,Las Vegas,"Las Vegas, NV","4055 S Durango Dr, Las Vegas, NV",-115.2806099,36.11593
+Albertsons,Q02314,Las Vegas,"Las Vegas, NV","1001 S Rainbow Blvd, Las Vegas, NV",-115.2454174,36.1600907
+Albertsons,Q02317,Las Vegas,"Las Vegas, NV","11720 W Charleston Blvd, Las Vegas, NV",-115.350563,36.1608925
+Albertsons,Q02322,Las Vegas,"Las Vegas, NV","4800 Blue Diamond Rd, Las Vegas, NV",-115.2068864,36.0354005
+Albertsons,Q02323,Las Vegas,"Las Vegas, NV","2885 E Desert Vista Rd, Las Vegas, NV",-115.1068463,36.1035867
+Albertsons,Q02326,Las Vegas,"Las Vegas, NV","4850 W Craig Rd, Las Vegas, NV",-115.2092021,36.2404438
+Albertsons,Q02336,Las Vegas,"Las Vegas, NV","7350 S Rainbow Blvd, Las Vegas, NV",-115.2413422,36.0547444
+Albertsons,Q02353,Las Vegas,"Las Vegas, NV","7975 Blue Diamond Rd, Las Vegas, NV",-115.2651442,36.0181193
+Albertsons,Q02371,Las Vegas,"Las Vegas, NV","1650 N Buffalo Dr, Las Vegas, NV",-115.258754,36.1898335
+Smith's,Q00657,Las Vegas,"Las Vegas, NV","4965 E Sahara Ave, Las Vegas, NV",-115.067053,36.142933
+Smith's,Q00728,Las Vegas,"Las Vegas, NV","450 N Nellis Blvd, Las Vegas, NV",-115.0605,36.1677412
+Smith's,Q02126,Las Vegas,"Las Vegas, NV","9710 W Skye Canyon Park Dr, Las Vegas, NV",-115.3154743,36.3136187
+Vons,Q01908,Las Vegas,"Las Vegas, NV","7405 S Durango Dr, Las Vegas, NV",-115.2811727,36.053828
+WinCo Foods,Q01754,Las Vegas,"Las Vegas, NV","6101 N Decatur Blvd, Las Vegas, NV",-115.208198,36.269749
+WinCo Foods,Q01909,Las Vegas,"Las Vegas, NV","7501 W Washington Ave, Las Vegas, NV",-115.2561235,36.1803986
+Albertsons,Q01729,North Las Vegas,"North Las Vegas, NV","3010 W Ann Rd, North Las Vegas, NV",-115.1813199,36.2631376
+Smith's,Q00342,North Las Vegas,"North Las Vegas, NV","4700 W Ann Rd, North Las Vegas, NV",-115.2058675,36.2629501
+Smith's,Q00421,North Las Vegas,"North Las Vegas, NV","5564 Camino Al Norte, North Las Vegas, NV",-115.1538073,36.2610687

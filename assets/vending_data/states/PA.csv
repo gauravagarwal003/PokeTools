@@ -1,21 +1,25 @@
 Retailer,Machine ID,Address,Cities,Full Address,Longitude,Latitude
-Acme Markets,Q02157,Bala Cynwyd,"Bala Cynwyd, PA","121 E City Ave, Bala Cynwyd, PA",40.0041987,-75.222702
-Acme Markets,Q02101,Bensalem,"Bensalem, PA","2301 Bristol Rd, Bensalem, PA",40.131741,-74.922978
-Acme Markets,Q02216,Broomall,"Broomall, PA","1991 N Sproul Rd, Broomall, PA",39.9817882,-75.3610982
-Acme Markets,Q02159,Clifton Heights,"Clifton Heights, PA","5300 Baltimore Pike, Clifton Heights, PA",39.9251118,-75.3084449
-Acme Markets,Q01589,Feasterville,"Feasterville, PA","105 E Street Rd, Feasterville, PA",40.1478733,-75.0005061
-Acme Markets,Q01547,Folsom,"Folsom, PA","124 Morton Ave, Folsom, PA",39.8848787,-75.3282815
-Acme Markets,Q02151,Havertown,"Havertown, PA","1305 West Chester Pike, Havertown, PA",39.9741962,-75.3233482
-Acme Markets,Q02087,Levittown,"Levittown, PA","6800 New Falls Rd, Levittown, PA",40.1518454,-74.857129
-Acme Markets,Q01591,Media,"Media, PA","527 E Baltimore Ave, Media, PA",39.916042,-75.3785311
-Acme Markets,Q02112,Media,"Media, PA","1095 W Baltimore Pike, Media, PA",39.9176334,-75.429497
-Acme Markets,Q02042,Newtown,"Newtown, PA","48 W Rd, Newtown, PA",40.2345578,-74.94509819999999
-Acme Markets,Q01580,Paoli,"Paoli, PA","39 Leopard Rd, Paoli, PA",40.0393808,-75.4772152
-Acme Markets,Q01588,Philadelphia,"Philadelphia, PA","3200-09 Red Lion Rd, Philadelphia, PA",40.0794617,-74.9933849
-Acme Markets,Q01991,Philadelphia,"Philadelphia, PA","6601 Roosevelt Blvd, Philadelphia, PA",40.0365509,-75.0630053
-Acme Markets,Q01995,Philadelphia,"Philadelphia, PA","2101-41 Cottman Ave, Philadelphia, PA",40.0505382,-75.0616622
-Acme Markets,Q02039,Philadelphia,"Philadelphia, PA","1400 E Passyunk Ave, Philadelphia, PA",39.9320465,-75.16260799999999
-Acme Markets,Q02125,Philadelphia,"Philadelphia, PA","1901 Johnston St, Philadelphia, PA",39.9172159,-75.18048859999999
-Acme Markets,Q00529,Southampton,"Southampton, PA","800 Second Street Pike, Southampton, PA",40.1764089,-75.04280229999999
-Acme Markets,Q02138,Upper Darby,"Upper Darby, PA","815 N Lansdowne Ave, Upper Darby, PA",39.9604902,-75.2869144
-Acme Markets,Q01579,Wayne,"Wayne, PA","700 W Lancaster Ave, Wayne, PA",40.0453962,-75.407701
+Acme Markets,Q01494,Bala Cynwyd,"Bala Cynwyd, PA","121 E City Ave, Bala Cynwyd, PA",-75.2227236,40.0041535
+Acme Markets,Q02225,Bensalem,"Bensalem, PA","2301 Bristol Rd, Bensalem, PA",-74.922978,40.131741
+Acme Markets,Q02216,Broomall,"Broomall, PA","1991 Sproul Rd, Broomall, PA",-75.3536066,39.960608
+Acme Markets,Q01571,Chester Springs,"Chester Springs, PA","400 Simpson Dr, Chester Springs, PA",-75.6893517,40.0763226
+Acme Markets,Q02159,Clifton Heights,"Clifton Heights, PA","5300 Baltimore Pike, Clifton Heights, PA",-75.3084449,39.9251118
+Acme Markets,Q02299,Feasterville,"Feasterville, PA","105 E Street Rd, Feasterville, PA",-75.0005061,40.1478733
+Acme Markets,Q02310,Folsom,"Folsom, PA","124 Morton Ave, Folsom, PA",-75.3282815,39.8848787
+Acme Markets,Q02151,Havertown,"Havertown, PA","1305 West Chester Pike, Havertown, PA",-75.3206285,39.9741103
+Acme Markets,Q01577,Jenkintown,"Jenkintown, PA","323 Old York Rd, Jenkintown, PA",-75.1247563,40.0914895
+Acme Markets,Q02087,Levittown,"Levittown, PA","6800 New Falls Rd, Levittown, PA",-74.857129,40.1518454
+Acme Markets,Q01295,Media,"Media, PA","527 E Baltimore Ave, Media, PA",-75.3786542,39.9159687
+Acme Markets,Q02112,Media,"Media, PA","1095 W Baltimore Pike, Media, PA",-75.429497,39.9176334
+Acme Markets,Q02042,Newtown,"Newtown, PA","48 W Rd, Newtown, PA",-74.9450982,40.2345578
+Acme Markets,Q01580,Paoli,"Paoli, PA","39 Leopard Rd, Paoli, PA",-75.4768919,40.0396879
+Acme Markets,Q01366,Philadelphia,"Philadelphia, PA","7700 Crittenden St, Philadelphia, PA",-75.1938845,40.0714676
+Acme Markets,Q01588,Philadelphia,"Philadelphia, PA","3200-09 Red Lion Rd, Philadelphia, PA",-74.9933849,40.0794617
+Acme Markets,Q01991,Philadelphia,"Philadelphia, PA","6601 Roosevelt Blvd, Philadelphia, PA",-75.0630053,40.0365509
+Acme Markets,Q01995,Philadelphia,"Philadelphia, PA","2101-41 Cottman Ave, Philadelphia, PA",-75.0616622,40.0505382
+Acme Markets,Q02039,Philadelphia,"Philadelphia, PA","1400 E Passyunk Ave, Philadelphia, PA",-75.162608,39.9320465
+Acme Markets,Q02125,Philadelphia,"Philadelphia, PA","1901 Johnston St, Philadelphia, PA",-75.1804886,39.9172159
+Acme Markets,Q00529,Southampton,"Southampton, PA","800 Second Street Pike, Southampton, PA",-75.0428387,40.1764706
+Acme Markets,Q02138,Upper Darby,"Upper Darby, PA","815 N Lansdowne Ave, Upper Darby, PA",-75.2869144,39.9604902
+Acme Markets,Q01579,Wayne,"Wayne, PA","700 W Lancaster Ave, Wayne, PA",-75.407701,40.0453962
+Acme Markets,Q02260,West Chester,"West Chester, PA","907 Paoli Pike, West Chester, PA",-75.5872288,39.9697672
