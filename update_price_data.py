@@ -10,7 +10,7 @@ urlBySet = {}
 session = requests.Session()
 session.headers.update({
     # TCGCSV blocks the default python-requests User-Agent.
-    'User-Agent': 'PokeTools/1.0 (https://pokemap.org; contact: gagarwal003@gmail.com)',
+    'User-Agent': 'PokeMap/1.0 (https://pokemap.org; contact: gagarwal003@gmail.com)',
     'Accept': 'text/csv,*/*',
 })
 
