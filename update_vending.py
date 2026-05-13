@@ -14,7 +14,7 @@ API_URL = 'https://api.vending.prod.pokemon.com/v1/machines'
 TIMESTAMP_PATH = 'assets/vending_data/timestamps.csv'
 ALLSTATES_PATH = 'assets/all_states.csv'
 STATES_DIR = 'assets/vending_data/states'
-REQUEST_DELAY_SECONDS = 0.5
+REQUEST_DELAY_SECONDS = 1.0
 MAX_RESULTS_PER_BOX = 20
 MAX_DEPTH = 8
 MIN_BOX_SIZE = 0.08
@@ -82,25 +82,37 @@ session.headers.update({
 })
 
 
-def fetch_machines(sw_lat, sw_lng, ne_lat, ne_lng):
-    time.sleep(REQUEST_DELAY_SECONDS)
-    response = session.get(
-        API_URL,
-        params={
-            'swLat': sw_lat,
-            'swLng': sw_lng,
-            'neLat': ne_lat,
-            'neLng': ne_lng,
-            'unit': 'Mi',
-        },
-        timeout=30,
-    )
-    response.raise_for_status()
-    data = response.json()
-    machines = data.get('machines')
-    if not isinstance(machines, list):
-        raise RuntimeError(f"Unexpected vending API response: {data}")
-    return machines
+def fetch_machines(sw_lat, sw_lng, ne_lat, ne_lng, max_attempts=4):
+    params = {
+        'swLat': sw_lat,
+        'swLng': sw_lng,
+        'neLat': ne_lat,
+        'neLng': ne_lng,
+        'unit': 'Mi',
+    }
+
+    for attempt in range(1, max_attempts + 1):
+        time.sleep(REQUEST_DELAY_SECONDS)
+        response = session.get(API_URL, params=params, timeout=30)
+        if response.status_code == 200:
+            data = response.json()
+            machines = data.get('machines')
+            if not isinstance(machines, list):
+                raise RuntimeError(f"Unexpected vending API response: {data}")
+            return machines
+
+        if response.status_code in {403, 429} or 500 <= response.status_code < 600:
+            wait_seconds = min(60, 5 * attempt)
+            print(
+                f"Vending API returned {response.status_code} for {params}; "
+                f"retrying in {wait_seconds}s ({attempt}/{max_attempts})"
+            )
+            time.sleep(wait_seconds)
+            continue
+
+        response.raise_for_status()
+
+    raise RuntimeError(f"Vending API failed after {max_attempts} attempts for {params}")
 
 
 def collect_box(sw_lat, sw_lng, ne_lat, ne_lng, depth=0):
