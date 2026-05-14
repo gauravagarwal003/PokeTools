@@ -7426,6 +7426,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.04491,
+          33.941215
+        ]
+      },
+      "properties": {
+        "Retailer": "Food 4 Less",
+        "Address": "13413 Telegraph Rd, Whittier, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.994363,
           33.940954
         ]
@@ -13642,6 +13656,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -98.734695,
+          29.781507
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "420 W Bandera Rd, Boerne, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.322163,
           32.565042
         ]
@@ -16232,6 +16260,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -98.603356,
+          29.527085
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "5910 Babcock Rd, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -98.406429,
           29.415174
         ]
@@ -16239,6 +16281,20 @@
       "properties": {
         "Retailer": "H-E-B",
         "Address": "1015 S WW White Rd, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.596029,
+          29.481673
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "5601 Bandera Rd, San Antonio, TX"
       }
     },
     {
@@ -18381,6 +18437,34 @@
       "properties": {
         "Retailer": "Shaw's",
         "Address": "2260 State Rd, Plymouth, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.026663,
+          42.271111
+        ]
+      },
+      "properties": {
+        "Retailer": "Stop & Shop",
+        "Address": "65 Newport Ave, Quincy, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.994987,
+          42.252781
+        ]
+      },
+      "properties": {
+        "Retailer": "Stop & Shop",
+        "Address": "495 Southern Artery, Quincy, MA"
       }
     },
     {
@@ -22560,13 +22644,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.106846,
-          36.103587
+          -115.110913,
+          36.128563
         ]
       },
       "properties": {
         "Retailer": "Albertsons",
-        "Address": "2885 E Desert Vista Rd, Las Vegas, NV"
+        "Address": "2885 E Desert Inn Rd, Las Vegas, NV"
       }
     },
     {
