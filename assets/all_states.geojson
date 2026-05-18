@@ -2246,20 +2246,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.518524,
-          42.491815
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "47650 Grand River Ave, Novi, MI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.831174,
           42.461987
         ]
@@ -22217,6 +22203,20 @@
       "properties": {
         "Retailer": "Randalls",
         "Address": "12850 Memorial Dr, Houston, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.508825,
+          29.979628
+        ]
+      },
+      "properties": {
+        "Retailer": "Randalls",
+        "Address": "5219 FM 1960 W, Houston, TX"
       }
     },
     {
