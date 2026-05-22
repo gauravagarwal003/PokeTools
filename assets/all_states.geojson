@@ -6,20 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.644582,
-          36.032568
-        ]
-      },
-      "properties": {
-        "Retailer": "Tanger Outlets Antioch",
-        "Address": "4060 Cane Ridge Pkwy, Antioch, TN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -86.787426,
           36.03194
         ]
@@ -237,6 +223,34 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "8141 TN-100, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.837721,
+          36.209933
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "3930 Clarksville Pike, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.920073,
+          36.074287
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "7087 Hwy 70 S, Nashville, TN"
       }
     },
     {
@@ -10170,13 +10184,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.736817,
-          41.799688
+          -87.770331,
+          41.79396
         ]
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "S Archer Ave, Chicago, IL"
+        "Address": "6107 S Archer Ave, Chicago, IL"
       }
     },
     {
