@@ -160,6 +160,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.514921,
+          36.229392
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "4120 N Mt Juliet Rd, Mt. Juliet, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.491758,
           35.844086
         ]
@@ -237,6 +251,34 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "3930 Clarksville Pike, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.777141,
+          36.119832
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "2615 8th Ave S, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.647458,
+          36.088578
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "2284 Murfreesboro Pike, Nashville, TN"
       }
     },
     {
