@@ -23400,6 +23400,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.51633,
+          32.920457
+        ]
+      },
+      "properties": {
+        "Retailer": "Tom Thumb",
+        "Address": "8805 Lakeview Pkwy, Rowlett, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.381926,
           32.880357
         ]
