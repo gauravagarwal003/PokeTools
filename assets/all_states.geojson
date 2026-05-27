@@ -76,6 +76,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.880995,
+          35.893684
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "3054 Columbia Ave, Franklin, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.526134,
           36.343524
         ]
@@ -111,6 +125,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "237 E Main St, Hendersonville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.620539,
+          36.333104
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "1010 Glenbrook Way, Hendersonville, TN"
       }
     },
     {
@@ -12144,20 +12172,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.823408,
-          38.806234
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "1920 S Nevada Ave, Colorado Springs, CO"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -104.722381,
           38.873735
         ]
@@ -12207,6 +12221,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "7055 Austin Bluffs Pkwy, Colorado Springs, CO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.823433,
+          38.806242
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "1920 S Nevada Ave, Colorado Springs, CO"
       }
     },
     {
@@ -19004,20 +19032,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.188718,
-          33.669667
-        ]
-      },
-      "properties": {
-        "Retailer": "Frys",
-        "Address": "20220 N 59th Ave, Glendale, AZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.169941,
           33.568885
         ]
@@ -20810,6 +20824,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.150241,
+          32.722923
+        ]
+      },
+      "properties": {
+        "Retailer": "Tom Thumb",
+        "Address": "2611 W Park Row Dr, Arlington, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.139471,
           32.673671
         ]
@@ -21069,6 +21097,20 @@
       "properties": {
         "Retailer": "WinCo Foods",
         "Address": "2620 N Josey Ln, Carrollton, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.935205,
+          32.593132
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "427 E E W FM1382, Cedar Hill, TX"
       }
     },
     {
