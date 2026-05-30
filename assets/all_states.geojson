@@ -24912,6 +24912,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.715115,
+          36.046394
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "5771 Nolensville Pk, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.956542,
           36.043298
         ]
@@ -24933,6 +24947,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "3930 Clarksville Pike, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.815513,
+          36.107845
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "2131 Abbott Martin Rd, Nashville, TN"
       }
     },
     {
