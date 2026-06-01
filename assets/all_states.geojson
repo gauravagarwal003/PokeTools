@@ -24842,6 +24842,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.513707,
+          36.164819
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "401 S Mt Juliet Rd Ste 200, Mt. Juliet, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.514921,
           36.229392
         ]
