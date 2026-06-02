@@ -407,6 +407,7 @@ Kroger,Q00771,Baytown,"Baytown, TX","1700 N Alexander Dr, Baytown, TX",-94.95204
 Kroger,Q01888,Baytown,"Baytown, TX","6315 Garth Rd, Baytown, TX",-94.9808418,29.7925163,TX
 H-E-B,Q02000,Bee Cave,"Bee Cave, TX","12400 State Hwy 71, Bee Cave, TX",-97.9325386,30.3046898,TX
 H-E-B,Q00541,Bellaire,"Bellaire, TX","5106 Bissonnet St, Bellaire, TX",-95.4695077,29.7076365,TX
+H-E-B,Q01769,Boerne,"Boerne, TX","420 W Bandera Rd, Boerne, TX",-98.7346951,29.7815073,TX
 H-E-B,Q02135,Boerne,"Boerne, TX","29388 I-10 W, Boerne, TX",-98.6800342,29.7338844,TX
 Albertsons,Q00960,Burleson,"Burleson, TX","833 NE Alsbury Blvd, Burleson, TX",-97.3221632,32.5650416,TX
 Albertsons,Q00914,Carrollton,"Carrollton, TX","2150 N Josey Ln, Carrollton, TX",-96.8885526,32.974686,TX
@@ -525,6 +526,7 @@ H-E-B,Q01804,La Vernia,"La Vernia, TX","14414 U.S. Hwy 87 W, La Vernia, TX",-98.
 Kroger,Q00400,League City,"League City, TX","1920 W League City Pkwy, League City, TX",-95.1136501,29.4886024,TX
 Kroger,Q00551,League City,"League City, TX","2750 E League City Pkwy, League City, TX",-95.0414925,29.5077121,TX
 Randalls,Q00763,League City,"League City, TX","2951 Marina Bay Dr Suite B, League City, TX",-95.0629729,29.5387211,TX
+Randalls,Q00316,Leander,"Leander, TX","3441 N Lakeline Blvd, Leander, TX",-97.8650798,30.5429991,TX
 Kroger,Q02003,Lewisville,"Lewisville, TX","4620 State Hwy 121, Lewisville, TX",-96.8893625,33.0622121,TX
 WinCo Foods,Q02066,Lewisville,"Lewisville, TX","1288 W Main St, Lewisville, TX",-97.0251466,33.0399117,TX
 H-E-B,Q01784,Lytle,"Lytle, TX","19337 McDonald St, Lytle, TX",-98.7904617,29.2311726,TX
@@ -711,7 +713,6 @@ Ralphs,Q01791,Chula Vista,"Chula Vista, CA","659 E Palomar St, Chula Vista, CA",
 Vons,Q00331,Chula Vista,"Chula Vista, CA","1745 Eastlake Pkwy, Chula Vista, CA",-116.961152,32.61984,CA
 Vons,Q01032,Chula Vista,"Chula Vista, CA","2250 Otay Lakes Rd, Chula Vista, CA",-116.9662935,32.6457363,CA
 Safeway,Q00941,Citrus Heights,"Citrus Heights, CA","7301 Greenback Ln, Citrus Heights, CA",-121.2940175,38.6800592,CA
-Sunrise Mall,Q02286,Citrus Heights,"Citrus Heights, CA","6041 Sunrise Blvd, Citrus Heights, CA",-121.268985,38.6768133,CA
 Food 4 Less,Q01692,Colton,"Colton, CA","1150 N Pepper Ave, Colton, CA",-117.3512727,34.0798013,CA
 Food 4 Less,Q00409,Compton,"Compton, CA","1900 W Rosecrans Ave, Compton, CA",-118.2526065,33.9024858,CA
 Safeway,Q00970,Concord,"Concord, CA","2600 Willow Pass Rd, Concord, CA",-122.0281611,37.9781161,CA
@@ -1000,7 +1001,6 @@ Vons,Q00504,Simi Valley,"Simi Valley, CA","2938 Tapo Canyon Rd, Simi Valley, CA"
 Vons,Q01697,Simi Valley,"Simi Valley, CA","5805 E Los Angeles Ave, Simi Valley, CA",-118.6776621,34.2732486,CA
 Safeway,Q02021,Sonoma,"Sonoma, CA","477 W Napa St, Sonoma, CA",-122.4677124,38.291594,CA
 Safeway,Q02014,South San Francisco,"South San Francisco, CA","2255 Gellert Blvd, South San Francisco, CA",-122.45199,37.6466478,CA
-Safeway,Q02024,South San Francisco,"South San Francisco, CA","30 Chestnut Ave, South San Francisco, CA",-122.4317324,37.6555524,CA
 Albertsons,Q01951,Spring Valley,"Spring Valley, CA","543 Sweetwater Rd, Spring Valley, CA",-117.0086037,32.7082197,CA
 Ralphs,Q01690,Stevenson Ranch,"Stevenson Ranch, CA","24975 Pico Canyon Rd, Stevenson Ranch, CA",-118.5744229,34.382699,CA
 Safeway,Q00975,Stockton,"Stockton, CA","6445 Pacific Ave, Stockton, CA",-121.3121064,37.9881026,CA
@@ -1066,6 +1066,7 @@ Kroger,Q01974,Indianapolis,"Indianapolis, IN","4202 S East St, Indianapolis, IN"
 Kroger,Q01978,Indianapolis,"Indianapolis, IN","7101 E 10th St, Indianapolis, IN",-86.0422776,39.7808103,IN
 Kroger,Q01396,Noblesville,"Noblesville, IN","172 Logan St, Noblesville, IN",-86.0197306,40.0498258,IN
 Kroger,Q01824,Noblesville,"Noblesville, IN","14800 Hazel Dell Crossing, Noblesville, IN",-86.068098,40.0033751,IN
+Kroger,Q02496,Noblesville,"Noblesville, IN","14744 Union Market Square Dr, Noblesville, IN",-86.0023626,39.9807005,IN
 Kroger,Q01080,Westfield,"Westfield, IN","150 W 161st St, Westfield, IN",-86.1613458,40.0218665,IN
 Kroger,Q02249,Westfield,"Westfield, IN","17447 Carey Rd, Westfield, IN",-86.1055159,40.0409417,IN
 Albertsons,Q01063,Boise,"Boise, ID","3614 W State St, Boise, ID",-116.2326694,43.6400348,ID
@@ -1385,7 +1386,7 @@ Jewel-Osco,Q01198,Buffalo Grove,"Buffalo Grove, IL","79 McHenry Rd, Buffalo Grov
 Woodman's Market,Q01145,Buffalo Grove,"Buffalo Grove, IL","1550 Deerfield Pkwy, Buffalo Grove, IL",-87.9243636,42.1692028,IL
 Jewel-Osco,Q01222,Burbank,"Burbank, IL","7910 S Cicero Ave, Burbank, IL",-87.7422104,41.7474937,IL
 River Oaks Center,Q02263,Calumet City,"Calumet City, IL","96 River Oaks Center Dr, Calumet City, IL",-87.5567922,41.5988034,IL
-Jewel-Osco,Q01205,Carol Stream,"Carol Stream, IL","750 Army Trail Rd, Carol Stream, IL",-88.1460652,41.9392965,IL
+Jewel-Osco,Q01205,Carol Stream,"Carol Stream, IL","750 W Army Trail Rd, Carol Stream, IL",-88.1460652,41.9392965,IL
 Woodman's Market,Q01228,Carpentersville,"Carpentersville, IL","2100 Randall Rd, Carpentersville, IL",-88.3362986,42.1200871,IL
 Jewel-Osco,Q01447,Cary,"Cary, IL","696 Northwest Hwy, Cary, IL",-88.2557765,42.2184821,IL
 Food 4 Less,Q00682,Chicago Heights,"Chicago Heights, IL","1333 Western Ave, Chicago Heights, IL",-87.6718614,41.5070003,IL
@@ -1489,6 +1490,7 @@ Jewel-Osco,Q02238,Round Lake Beach,"Round Lake Beach, IL","900 E Rollins Rd, Rou
 Jewel-Osco,Q01206,Schaumburg,"Schaumburg, IL","1151 S Roselle Rd, Schaumburg, IL",-88.0780147,42.0063103,IL
 Jewel-Osco,Q02070,Schaumburg,"Schaumburg, IL","2501 W Schaumburg Rd, Schaumburg, IL",-88.1422535,42.0233003,IL
 Jewel-Osco,Q02119,Shorewood,"Shorewood, IL","199 Brook Forest Ave, Shorewood, IL",-88.2021353,41.5227314,IL
+Mariano's Fresh Market,Q01352,Shorewood,"Shorewood, IL","950 Brook Forest Ave, Shorewood, IL",-88.1969579,41.5370126,IL
 Jewel-Osco,Q02296,Skokie,"Skokie, IL","9449 Skokie Blvd, Skokie, IL",-87.7448072,42.0528525,IL
 Jewel-Osco,Q01204,South Elgin,"South Elgin, IL","375 S Randall Rd, South Elgin, IL",-88.3394132,41.9859461,IL
 Jewel-Osco,Q02217,Spring Grove,"Spring Grove, IL","2401 US-12, Spring Grove, IL",-88.2438365,42.4355708,IL
@@ -1780,6 +1782,7 @@ Kroger,Q01027,Murfreesboro,"Murfreesboro, TN","2946 S Church St, Murfreesboro, T
 Kroger,Q01029,Nashville,"Nashville, TN","143 McGavock Pk, Nashville, TN",-86.678578,36.1705586,TN
 Kroger,Q01034,Nashville,"Nashville, TN","61 E Thompson Ln, Nashville, TN",-86.7246814,36.1109289,TN
 Kroger,Q01787,Nashville,"Nashville, TN","5771 Nolensville Pk, Nashville, TN",-86.7151147,36.0463941,TN
+Kroger,Q02054,Nashville,"Nashville, TN","2201 21st Ave S, Nashville, TN",-86.8025299,36.130146,TN
 Kroger,Q02179,Nashville,"Nashville, TN","8141 TN-100, Nashville, TN",-86.9565417,36.0432983,TN
 Kroger,Q02321,Nashville,"Nashville, TN","3930 Clarksville Pike, Nashville, TN",-86.8377211,36.209933,TN
 Kroger,Q02328,Nashville,"Nashville, TN","2131 Abbott Martin Rd, Nashville, TN",-86.8155127,36.1078454,TN

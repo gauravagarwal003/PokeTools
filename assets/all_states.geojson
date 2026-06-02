@@ -5718,6 +5718,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -98.734695,
+          29.781507
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "420 W Bandera Rd, Boerne, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -98.680034,
           29.733884
         ]
@@ -7363,6 +7377,20 @@
       "properties": {
         "Retailer": "Randalls",
         "Address": "2951 Marina Bay Dr Suite B, League City, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.86508,
+          30.542999
+        ]
+      },
+      "properties": {
+        "Retailer": "Randalls",
+        "Address": "3441 N Lakeline Blvd, Leander, TX"
       }
     },
     {
@@ -9967,20 +9995,6 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "7301 Greenback Ln, Citrus Heights, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.268985,
-          38.676813
-        ]
-      },
-      "properties": {
-        "Retailer": "Sunrise Mall",
-        "Address": "6041 Sunrise Blvd, Citrus Heights, CA"
       }
     },
     {
@@ -14020,20 +14034,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.431732,
-          37.655552
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "30 Chestnut Ave, South San Francisco, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.008604,
           32.70822
         ]
@@ -14937,6 +14937,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "14800 Hazel Dell Crossing, Noblesville, IN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.002363,
+          39.9807
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "14744 Union Market Square Dr, Noblesville, IN"
       }
     },
     {
@@ -19416,7 +19430,7 @@
       },
       "properties": {
         "Retailer": "Jewel-Osco",
-        "Address": "750 Army Trail Rd, Carol Stream, IL"
+        "Address": "750 W Army Trail Rd, Carol Stream, IL"
       }
     },
     {
@@ -20859,6 +20873,20 @@
       "properties": {
         "Retailer": "Jewel-Osco",
         "Address": "199 Brook Forest Ave, Shorewood, IL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.196958,
+          41.537013
+        ]
+      },
+      "properties": {
+        "Retailer": "Mariano's Fresh Market",
+        "Address": "950 Brook Forest Ave, Shorewood, IL"
       }
     },
     {
@@ -24933,6 +24961,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "5771 Nolensville Pk, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80253,
+          36.130146
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "2201 21st Ave S, Nashville, TN"
       }
     },
     {
