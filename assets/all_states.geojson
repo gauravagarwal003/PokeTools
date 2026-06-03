@@ -12704,20 +12704,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.171346,
-          34.048475
-        ]
-      },
-      "properties": {
-        "Retailer": "Albertsons",
-        "Address": "450 E Cypress Ave, Redlands, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.224889,
           34.063162
         ]
@@ -25045,6 +25031,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "2284 Murfreesboro Pike, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.860145,
+          36.148655
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "5705 Charlotte Pike, Nashville, TN"
       }
     },
     {
