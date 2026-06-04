@@ -1775,7 +1775,7 @@
         ]
       },
       "properties": {
-        "Retailer": "H Mart Belmont",
+        "Retailer": "H Mart Portland",
         "Address": "13600 SW Pacific Hwy, Tigard, OR"
       }
     },
@@ -5794,7 +5794,7 @@
       },
       "properties": {
         "Retailer": "Albertsons",
-        "Address": "427 E E W FM1382, Cedar Hill, TX"
+        "Address": "427 E Farm to Market Rd 1382, Cedar Hill, TX"
       }
     },
     {
@@ -6390,8 +6390,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.280706,
-          32.955062
+          -97.279786,
+          32.955817
         ]
       },
       "properties": {
@@ -7013,20 +7013,6 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "19300 W Lake Houston Pkwy, Humble, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.281287,
-          30.007184
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "9475 Farm to Market 1960 Bypass Rd W, Humble, TX"
       }
     },
     {
@@ -12144,20 +12130,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.138608,
-          33.553781
-        ]
-      },
-      "properties": {
-        "Retailer": "Vons",
-        "Address": "38995 Sky Canyon Dr, Murrieta, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.55765,
           34.377474
         ]
@@ -15392,20 +15364,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.151332,
-          42.680418
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "65 S Livernois Rd, Rochester Hills, MI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.198976,
           42.726677
         ]
@@ -15434,8 +15392,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.084747,
-          42.499673
+          -83.082423,
+          42.500736
         ]
       },
       "properties": {

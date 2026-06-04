@@ -125,7 +125,7 @@ Fred Meyer,Q00909,Springfield,"Springfield, OR","650 Q St, Springfield, OR",-123
 Safeway,Q01811,Springfield,"Springfield, OR","1891 Pioneer Pkwy E, Springfield, OR",-123.0240309,44.0634329,OR
 Safeway,Q01135,Stayton,"Stayton, OR","1535 N First Ave, Stayton, OR",-122.7960351,44.80575,OR
 Safeway,Q01131,Sweet Home,"Sweet Home, OR","1540 Main St, Sweet Home, OR",-122.7256982,44.3997118,OR
-H Mart Belmont,Q01281,Tigard,"Tigard, OR","13600 SW Pacific Hwy, Tigard, OR",-122.7822819,45.4209202,OR
+H Mart Portland,Q01281,Tigard,"Tigard, OR","13600 SW Pacific Hwy, Tigard, OR",-122.7822819,45.4209202,OR
 Safeway,Q00587,Tigard,"Tigard, OR","15570 SW Pacific Hwy, Tigard, OR",-122.7927096,45.4072213,OR
 WinCo Foods,Q00113,Tigard,"Tigard, OR","7501 SW Dartmouth St, Tigard, OR",-122.7534528,45.4352044,OR
 Albertsons,Q00844,Troutdale,"Troutdale, OR","25691 SE Stark St, Troutdale, OR",-122.4002805,45.5202018,OR
@@ -412,7 +412,7 @@ H-E-B,Q02135,Boerne,"Boerne, TX","29388 I-10 W, Boerne, TX",-98.6800342,29.73388
 Albertsons,Q00960,Burleson,"Burleson, TX","833 NE Alsbury Blvd, Burleson, TX",-97.3221632,32.5650416,TX
 Albertsons,Q00914,Carrollton,"Carrollton, TX","2150 N Josey Ln, Carrollton, TX",-96.8885526,32.974686,TX
 WinCo Foods,Q00477,Carrollton,"Carrollton, TX","2620 N Josey Ln, Carrollton, TX",-96.8888878,32.9865784,TX
-Albertsons,Q02345,Cedar Hill,"Cedar Hill, TX","427 E E W FM1382, Cedar Hill, TX",-96.9352054,32.5931321,TX
+Albertsons,Q02345,Cedar Hill,"Cedar Hill, TX","427 E Farm to Market Rd 1382, Cedar Hill, TX",-96.9352054,32.5931321,TX
 H-E-B,Q01642,Cedar Park,"Cedar Park, TX","2800 E Whitestone Blvd, Cedar Park, TX",-97.7851093,30.5322175,TX
 Randalls,Q02354,Cedar Park,"Cedar Park, TX","1400 Cypress Creek Road, Cedar Park, TX",-97.8295716,30.4828906,TX
 H-E-B,Q02124,Cibolo,"Cibolo, TX","850 FM1103 Suite 100, Cibolo, TX",-98.231002,29.5691808,TX
@@ -455,7 +455,7 @@ Albertsons,Q00907,Fort Worth,"Fort Worth, TX","850 E Loop 820, Fort Worth, TX",-
 Kroger,Q00482,Fort Worth,"Fort Worth, TX","113 E Bonds Ranch Rd, Fort Worth, TX",-97.3571687,32.9260967,TX
 Kroger,Q00948,Fort Worth,"Fort Worth, TX","5241 N Tarrant Pkwy, Fort Worth, TX",-97.2703504,32.8959289,TX
 Kroger,Q00958,Fort Worth,"Fort Worth, TX","1653 Basswood Blvd, Fort Worth, TX",-97.3403472,32.8722212,TX
-Kroger,Q01856,Fort Worth,"Fort Worth, TX","12600 N Beach St, Fort Worth, TX",-97.2807063,32.9550618,TX
+Kroger,Q01856,Fort Worth,"Fort Worth, TX","12600 N Beach St, Fort Worth, TX",-97.2797856,32.9558169,TX
 Tom Thumb,Q00895,Fort Worth,"Fort Worth, TX","3100 S Hulen St, Fort Worth, TX",-97.3889283,32.7064005,TX
 WinCo Foods,Q00461,Fort Worth,"Fort Worth, TX","8000 Crowley Rd, Fort Worth, TX",-97.3494615,32.6327405,TX
 WinCo Foods,Q02002,Fort Worth,"Fort Worth, TX","8968 Tehama Ridge Pkwy, Fort Worth, TX",-97.3207727,32.9031548,TX
@@ -500,7 +500,6 @@ Randalls,Q00773,Houston,"Houston, TX","12850 Memorial Dr, Houston, TX",-95.56181
 Randalls,Q01846,Houston,"Houston, TX","5219 FM 1960 W, Houston, TX",-95.5088252,29.979628,TX
 Randalls,Q01880,Houston,"Houston, TX","18322 Clay Rd, Houston, TX",-95.6837207,29.8328016,TX
 Kroger,Q00387,Humble,"Humble, TX","19300 W Lake Houston Pkwy, Humble, TX",-95.1609646,30.001196,TX
-Kroger,Q00566,Humble,"Humble, TX","9475 Farm to Market 1960 Bypass Rd W, Humble, TX",-95.2812871,30.0071835,TX
 H-E-B,Q00464,Huntsville,"Huntsville, TX","1702 11th St, Huntsville, TX",-95.5607435,30.7220926,TX
 Kroger,Q01860,Irving,"Irving, TX","7505 N MacArthur Blvd, Irving, TX",-96.960506,32.9112998,TX
 H-E-B,Q00405,Katy,"Katy, TX","24924 Morton Ranch Rd, Katy, TX",-95.8055703,29.8189063,TX
@@ -866,7 +865,6 @@ Safeway,Q01513,Mountain View,"Mountain View, CA","1750 Miramonte Ave, Mountain V
 Safeway,Q02018,Mountain View,"Mountain View, CA","570 N Shoreline Blvd, Mountain View, CA",-122.0794005,37.4029895,CA
 Safeway,Q02027,Mountain View,"Mountain View, CA","645 San Antonio Rd, Mountain View, CA",-122.112164,37.4018244,CA
 Albertsons,Q00495,Murrieta,"Murrieta, CA","41000 California Oaks Rd, Murrieta, CA",-117.2036471,33.5670571,CA
-Vons,Q01925,Murrieta,"Murrieta, CA","38995 Sky Canyon Dr, Murrieta, CA",-117.138608,33.5537813,CA
 Vons,Q01184,Newhall,"Newhall, CA","24160 Lyons Ave, Newhall, CA",-118.5576496,34.3774741,CA
 Pavilions,Q00995,Newport Beach,"Newport Beach, CA","21181 Newport Coast Dr, Newport Beach, CA",-117.8278394,33.6067784,CA
 Food 4 Less,Q00419,North Hills,"North Hills, CA","16208 Parthenia St, North Hills, CA",-118.4855589,34.2280585,CA
@@ -1098,10 +1096,9 @@ Kroger,Q00885,Livonia,"Livonia, MI","30935 Five Mile Rd, Livonia, MI",-83.348715
 Kroger,Q01089,Macomb,"Macomb, MI","21555 21 Mile Rd, Macomb, MI",-82.9007625,42.6440773,MI
 Kroger,Q00856,Northville,"Northville, MI","17447 Haggerty Rd, Northville, MI",-83.4355066,42.4133094,MI
 Kroger,Q00849,Pinckney,"Pinckney, MI","9700 Chilson Commons Cir, Pinckney, MI",-83.8311739,42.461987,MI
-Kroger,Q01066,Rochester Hills,"Rochester Hills, MI","65 S Livernois Rd, Rochester Hills, MI",-83.1513316,42.6804177,MI
 Kroger,Q01082,Rochester,"Rochester, MI","4888 N Adams Rd, Rochester, MI",-83.1989763,42.7266769,MI
 Kroger,Q00684,Taylor,"Taylor, MI","7000 Monroe Blvd, Taylor, MI",-83.2512698,42.257541,MI
-Kroger,Q00801,Warren,"Warren, MI","28250 Dequindre Rd, Warren, MI",-83.0847467,42.4996729,MI
+Kroger,Q00801,Warren,"Warren, MI","28250 Dequindre Rd, Warren, MI",-83.082423,42.5007363,MI
 Kroger,Q00858,Warren,"Warren, MI","26233 Hoover Rd, Warren, MI",-83.0077693,42.4867145,MI
 Kroger,Q00867,Waterford,"Waterford, MI","5111 Highland Rd, Waterford, MI",-83.3871185,42.6589765,MI
 Kroger,Q00691,Westland,"Westland, MI","31300 Michigan Ave, Westland, MI",-83.3427331,42.2871399,MI
@@ -1772,7 +1769,7 @@ Kroger,Q01037,Goodlettsville,"Goodlettsville, TN","123 Northcreek Blvd, Goodlett
 Kroger,Q01772,Hendersonville,"Hendersonville, TN","237 E Main St, Hendersonville, TN",-86.6018987,36.3074134,TN
 Kroger,Q02377,Hendersonville,"Hendersonville, TN","1010 Glenbrook Way, Hendersonville, TN",-86.6205387,36.3331043,TN
 Kroger,Q01823,Hermitage,"Hermitage, TN","5544 Old Hickory Blvd, Hermitage, TN",-86.6064269,36.1816624,TN
-Kroger,Q01966,Hermitage,"Hermitage, TN","4400 Lebanon Pike, Hermitage, TN",-86.6033046,36.2154776,TN
+Kroger,Q02360,Hermitage,"Hermitage, TN","4400 Lebanon Pike, Hermitage, TN",-86.6033046,36.2154776,TN
 Kroger,Q02222,Lebanon,"Lebanon, TN","1418 W Main St A, Lebanon, TN",-86.3308248,36.2145677,TN
 Kroger,Q02315,Mt. Juliet,"Mt. Juliet, TN","401 S Mt Juliet Rd Ste 200, Mt. Juliet, TN",-86.5137073,36.1648194,TN
 Kroger,Q02344,Mt. Juliet,"Mt. Juliet, TN","4120 N Mt Juliet Rd, Mt. Juliet, TN",-86.5149211,36.2293923,TN
