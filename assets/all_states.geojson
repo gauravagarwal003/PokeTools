@@ -3072,6 +3072,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.167564,
+          39.860906
+        ]
+      },
+      "properties": {
+        "Retailer": "King Soopers",
+        "Address": "14967 Candelas Pkwy, Arvada, CO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.86261,
           39.666536
         ]
