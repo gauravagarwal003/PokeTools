@@ -6026,20 +6026,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.746207,
-          29.991228
-        ]
-      },
-      "properties": {
-        "Retailer": "H-E-B",
-        "Address": "28550 US-290, Cypress, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -95.68952,
           29.919128
         ]
@@ -20999,6 +20985,20 @@
       "properties": {
         "Retailer": "Jewel-Osco",
         "Address": "1250 W Main St, West Dundee, IL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901654,
+          41.852953
+        ]
+      },
+      "properties": {
+        "Retailer": "Mariano's Fresh Market",
+        "Address": "S Wolf Rd, Westchester, IL"
       }
     },
     {
