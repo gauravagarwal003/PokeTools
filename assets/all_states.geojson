@@ -24954,6 +24954,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.731893,
+          36.210209
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "3410 Gallatin Pike, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.837721,
           36.209933
         ]
@@ -25031,6 +25045,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "7087 Hwy 70 S, Nashville, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.794099,
+          36.175901
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "800 Monroe St, Nashville, TN"
       }
     },
     {
