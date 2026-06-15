@@ -1574,6 +1574,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.005419,
+          39.989245
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "1350 N High St, Columbus, OH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.092754,
           40.121658
         ]
