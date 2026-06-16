@@ -12928,6 +12928,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.89797,
+          40.863466
+        ]
+      },
+      "properties": {
+        "Retailer": "Smith's",
+        "Address": "614 W 2600 S, Woods Cross, UT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.264107,
           42.137709
         ]
@@ -20845,6 +20859,20 @@
       "properties": {
         "Retailer": "Kroger",
         "Address": "2011 Nashville Pike, Gallatin, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.465382,
+          36.378053
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "845 Nashville Pike, Gallatin, TN"
       }
     },
     {
