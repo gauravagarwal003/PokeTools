@@ -13166,20 +13166,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.342733,
-          42.28714
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "31300 Michigan Ave, Westland, MI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.389288,
           42.340696
         ]
@@ -26753,6 +26739,20 @@
       "properties": {
         "Retailer": "Harris Teeter",
         "Address": "1750 SC-160, Fort Mill, SC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.994575,
+          35.062375
+        ]
+      },
+      "properties": {
+        "Retailer": "Harris Teeter",
+        "Address": "867 Stockbridge Dr, Fort Mill, SC"
       }
     },
     {
