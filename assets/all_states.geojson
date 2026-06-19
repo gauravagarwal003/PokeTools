@@ -3828,6 +3828,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.957403,
+          32.859845
+        ]
+      },
+      "properties": {
+        "Retailer": "Tom Thumb",
+        "Address": "4010 N MacArthur Blvd, Irving, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.80557,
           29.818906
         ]
