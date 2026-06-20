@@ -4640,6 +4640,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.612455,
+          30.436859
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "201 FM 685, Pflugerville, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -96.748563,
           33.073387
         ]
