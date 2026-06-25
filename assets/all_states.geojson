@@ -8532,6 +8532,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.742717,
+          33.696669
+        ]
+      },
+      "properties": {
+        "Retailer": "Ralphs",
+        "Address": "6300 Irvine Blvd, Irvine, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -120.799819,
           38.368278
         ]
@@ -11066,6 +11080,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.473838,
+          34.027065
+        ]
+      },
+      "properties": {
+        "Retailer": "Ralphs",
+        "Address": "1644 Cloverfield Blvd, Santa Monica, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.081356,
           34.344427
         ]
@@ -11269,6 +11297,34 @@
       "properties": {
         "Retailer": "Pavilions",
         "Address": "14845 Ventura Blvd, Sherman Oaks, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.439128,
+          34.149973
+        ]
+      },
+      "properties": {
+        "Retailer": "Ralphs",
+        "Address": "14049 Ventura Blvd, Sherman Oaks, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.447103,
+          34.171407
+        ]
+      },
+      "properties": {
+        "Retailer": "Ralphs",
+        "Address": "14440 Burbank Blvd, Sherman Oaks, CA"
       }
     },
     {
@@ -21048,6 +21104,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.352567,
+          35.873303
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "2050 Lascassas Pike, Murfreesboro, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.678578,
           36.170559
         ]
@@ -21762,8 +21832,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.66875,
-          41.906452
+          -87.669363,
+          41.906464
         ]
       },
       "properties": {
