@@ -3478,20 +3478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.477945,
-          29.912401
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "12434 TX-249, Houston, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -95.544024,
           29.736603
         ]
@@ -6600,8 +6586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.909773,
-          42.884954
+          -87.909767,
+          42.884952
         ]
       },
       "properties": {
@@ -24821,20 +24807,6 @@
       "properties": {
         "Retailer": "Acme Markets",
         "Address": "3241 US-9, Freehold Township, NJ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.075223,
-          39.748835
-        ]
-      },
-      "properties": {
-        "Retailer": "Acme Markets",
-        "Address": "415 Egg Harbor Rd, Gloucester Township, NJ"
       }
     },
     {
