@@ -12928,20 +12928,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.939813,
-          40.588079
-        ]
-      },
-      "properties": {
-        "Retailer": "Smith's",
-        "Address": "1820 W 9000 S, West Jordan, UT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.067425,
           41.116799
         ]
@@ -23274,13 +23260,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.901654,
-          41.852953
+          -87.899599,
+          41.835481
         ]
       },
       "properties": {
         "Retailer": "Mariano's Fresh Market",
-        "Address": "S Wolf Rd, Westchester, IL"
+        "Address": "3020 Wolf Rd, Westchester, IL"
       }
     },
     {
