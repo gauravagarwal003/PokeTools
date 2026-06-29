@@ -8826,6 +8826,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.165017,
+          33.830724
+        ]
+      },
+      "properties": {
+        "Retailer": "Ralphs",
+        "Address": "2250 E Carson St, Long Beach, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.137526,
           33.791514
         ]
@@ -10485,6 +10499,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "4995 Shawline St, San Diego, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.155374,
+          32.775848
+        ]
+      },
+      "properties": {
+        "Retailer": "Ralphs",
+        "Address": "5680 Mission Center Rd, San Diego, CA"
       }
     },
     {
