@@ -8966,6 +8966,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.244141,
+          33.944772
+        ]
+      },
+      "properties": {
+        "Retailer": "Food 4 Less",
+        "Address": "1651 E 103rd St, Los Angeles, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.441957,
           34.299704
         ]
@@ -21755,20 +21769,6 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "4821 W North Ave, Chicago, IL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.73717,
-          41.757498
-        ]
-      },
-      "properties": {
-        "Retailer": "Ford City Mall",
-        "Address": "7601 S Cicero Ave, Chicago, IL"
       }
     },
     {
