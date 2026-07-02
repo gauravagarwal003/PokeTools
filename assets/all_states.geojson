@@ -2764,20 +2764,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.638954,
-          30.002869
-        ]
-      },
-      "properties": {
-        "Retailer": "H-E-B",
-        "Address": "14100 Spring Cypress Rd, Cypress, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -95.725243,
           29.927092
         ]
@@ -10520,6 +10506,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.054216,
+          32.769522
+        ]
+      },
+      "properties": {
+        "Retailer": "Ralphs",
+        "Address": "6670 Montezuma Rd, San Diego, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.155374,
           32.775848
         ]
@@ -15245,6 +15245,34 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "9050 E Valencia Rd, Tucson, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.771322,
+          32.219497
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "10380 E Broadway Blvd, Tucson, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.975811,
+          32.336099
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "7110 N Oracle Rd, Tucson, AZ"
       }
     },
     {
