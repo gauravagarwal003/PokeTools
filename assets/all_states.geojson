@@ -17716,8 +17716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.227209,
-          47.306137
+          -122.226177,
+          47.306008
         ]
       },
       "properties": {
@@ -18444,8 +18444,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335965,
-          47.292651
+          -122.335774,
+          47.292271
         ]
       },
       "properties": {
@@ -18752,13 +18752,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.822206,
-          46.997928
+          -122.82196,
+          46.997643
         ]
       },
       "properties": {
         "Retailer": "Safeway",
         "Address": "4700 Yelm Hwy SE, Lacey, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.76603,
+          47.059373
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "1243 Marvin Rd NE, Lacey, WA"
       }
     },
     {
@@ -18794,8 +18808,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.520102,
-          47.164651
+          -122.520095,
+          47.164674
         ]
       },
       "properties": {
@@ -18962,8 +18976,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.018864,
-          47.363587
+          -122.01888,
+          47.36388
         ]
       },
       "properties": {
@@ -19102,8 +19116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.29579,
-          47.248707
+          -122.294973,
+          47.249846
         ]
       },
       "properties": {
@@ -19270,22 +19284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.76603,
-          47.059373
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "1243 Marvin Rd NE, Olympia, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.94207,
-          47.045545
+          -122.941981,
+          47.045543
         ]
       },
       "properties": {
@@ -19326,8 +19326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.209253,
-          47.099791
+          -122.209239,
+          47.100042
         ]
       },
       "properties": {
@@ -19410,8 +19410,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.359184,
-          47.156069
+          -122.359116,
+          47.15694
         ]
       },
       "properties": {
@@ -19424,8 +19424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.296971,
-          47.098724
+          -122.296755,
+          47.098685
         ]
       },
       "properties": {
@@ -19438,8 +19438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.296364,
-          47.199746
+          -122.296342,
+          47.199747
         ]
       },
       "properties": {
@@ -19452,8 +19452,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.296971,
-          47.098724
+          -122.296755,
+          47.098685
         ]
       },
       "properties": {
@@ -19466,8 +19466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.352786,
-          47.095073
+          -122.352927,
+          47.095876
         ]
       },
       "properties": {
@@ -19508,8 +19508,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.356688,
-          47.15231
+          -122.35606,
+          47.151879
         ]
       },
       "properties": {
@@ -20320,20 +20320,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.539346,
-          47.221671
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "3842 Bridgeport Way W, Tacoma, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.432297,
           47.112979
         ]
@@ -20488,13 +20474,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.528868,
-          47.200685
+          -122.528832,
+          47.200669
         ]
       },
       "properties": {
         "Retailer": "Fred Meyer",
         "Address": "6305 Bridgeport Way W, University Place, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.539346,
+          47.221671
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "3842 Bridgeport Way W, University Place, WA"
       }
     },
     {
@@ -23358,8 +23358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.106026,
-          41.886639
+          -88.106021,
+          41.886659
         ]
       },
       "properties": {
@@ -24478,8 +24478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.865848,
-          35.200786
+          -80.86564,
+          35.200658
         ]
       },
       "properties": {
@@ -24506,8 +24506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.99082,
-          35.10325
+          -80.990601,
+          35.103654
         ]
       },
       "properties": {
@@ -24590,8 +24590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.709081,
-          35.123307
+          -80.709784,
+          35.124871
         ]
       },
       "properties": {
