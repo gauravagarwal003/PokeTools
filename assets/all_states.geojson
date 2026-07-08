@@ -7776,20 +7776,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.407433,
-          38.437986
-        ]
-      },
-      "properties": {
-        "Retailer": "WinCo Foods",
-        "Address": "8124 Sheldon Rd, Elk Grove, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.280098,
           37.829282
         ]
@@ -10261,6 +10247,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "9045 Woodcreek Oaks Blvd, Roseville, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.477224,
+          38.630948
+        ]
+      },
+      "properties": {
+        "Retailer": "Foods Co",
+        "Address": "3625 Northgate Blvd, Sacramento, CA"
       }
     },
     {
