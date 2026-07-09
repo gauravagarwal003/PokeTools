@@ -7132,6 +7132,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.966863,
+          36.975981
+        ]
+      },
+      "properties": {
+        "Retailer": "Capitola Mall",
+        "Address": "1855 41st Ave, Capitola, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.324736,
           33.178714
         ]
@@ -8364,6 +8378,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.192678,
+          34.108509
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "27920 Greenspot Rd, Highland, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.002781,
           33.680886
         ]
@@ -9491,6 +9519,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "41000 California Oaks Rd, Murrieta, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.991434,
+          37.5194
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "39966 Cedar Blvd, Newark, CA"
       }
     },
     {
@@ -11969,6 +12011,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "6755 Westminster Blvd., Westminster, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.980272,
+          33.758054
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "8522 Westminster Blvd., Westminster, CA"
       }
     },
     {
