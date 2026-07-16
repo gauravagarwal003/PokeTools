@@ -186,7 +186,6 @@ H-E-B,Q02127,Kerrville,"Kerrville, TX","300 W Main St, Kerrville, TX",-99.144763
 H-E-B,Q00462,Kingwood,"Kingwood, TX","19529 Northpark Dr, Kingwood, TX",-95.2517348,30.0686242,TX
 H-E-B,Q01865,Kingwood,"Kingwood, TX","4517 Kingwood Dr, Kingwood, TX",-95.1838003,30.0526386,TX
 Kroger,Q00560,Kingwood,"Kingwood, TX","3410 Northpark Dr, Kingwood, TX",-95.1871226,30.0667111,TX
-Kroger,Q01879,Kingwood,"Kingwood, TX","25651 US-59 N, Kingwood, TX",-95.2431459,30.072145,TX
 H-E-B,Q01776,Kyle,"Kyle, TX","5401 Farm to Market 1626, Kyle, TX",-97.8619569,30.0156244,TX
 Kroger,Q00381,La Porte,"La Porte, TX","1300 W Fairmont Pkwy, La Porte, TX",-95.0319438,29.6527065,TX
 H-E-B,Q01804,La Vernia,"La Vernia, TX","14414 U.S. Hwy 87 W, La Vernia, TX",-98.1369872,29.3581654,TX
@@ -654,6 +653,7 @@ Safeway,Q00256,Seattle,"Seattle, WA","3820 Rainier Ave S, Seattle, WA",-122.2883
 Safeway,Q00534,Seattle,"Seattle, WA","7300 Roosevelt Way NE, Seattle, WA",-122.3170171,47.681857,WA
 Safeway,Q00808,Seattle,"Seattle, WA","2100 Queen Anne Ave N, Seattle, WA",-122.3561025,47.6376954,WA
 Safeway,Q01159,Seattle,"Seattle, WA","9262 Rainier Ave S, Seattle, WA",-122.2679333,47.5199559,WA
+Safeway,Q01168,Seattle,"Seattle, WA","2201 E Madison St, Seattle, WA",-122.3033646,47.6178326,WA
 Safeway,Q01192,Seattle,"Seattle, WA","9620 28th Ave SW, Seattle, WA",-122.3674862,47.5168991,WA
 Safeway,Q01682,Seattle,"Seattle, WA","7340 35th Ave NE, Seattle, WA",-122.2893391,47.6825128,WA
 Safeway,Q01939,Seattle,"Seattle, WA","3900 S Othello St, Seattle, WA",-122.2830534,47.5374733,WA
@@ -1028,6 +1028,7 @@ Safeway,Q01528,American Canyon,"American Canyon, CA","103 American Canyon Rd, Am
 Albertsons,Q00491,Anaheim,"Anaheim, CA","810 S State College Blvd, Anaheim, CA",-117.8885341,33.831224,CA
 Food 4 Less,Q00330,Anaheim,"Anaheim, CA","1616 W Katella Ave, Anaheim, CA",-117.9378978,33.8019412,CA
 Vons,Q00695,Anaheim,"Anaheim, CA","5600 E Santa Ana Canyon Rd, Anaheim, CA",-117.7919409,33.8503336,CA
+FoodMaxx,Q02097,Antioch,"Antioch, CA","4500 Lone Tree Wy, Antioch, CA",-121.7820498,37.965112,CA
 Safeway,Q01333,Aptos,"Aptos, CA","16 Rancho del Mar, Aptos, CA",-121.9084639,36.978599,CA
 Albertsons,Q00467,Arcadia,"Arcadia, CA","298 Live Oak Ave, Arcadia, CA",-118.023108,34.107885,CA
 Vons,Q00715,Arcadia,"Arcadia, CA","745 W Naomi Ave, Arcadia, CA",-118.0576848,34.1249401,CA
@@ -1041,6 +1042,8 @@ Food 4 Less,Q00711,Bell Gardens,"Bell Gardens, CA","6901 Eastern Ave, Bell Garde
 Safeway,Q01083,Belmont,"Belmont, CA","1100 El Camino Real, Belmont, CA",-122.2757614,37.5186137,CA
 Safeway,Q02020,Benicia,"Benicia, CA","50 Solano Square, Benicia, CA",-122.1557116,38.0548033,CA
 Safeway,Q01020,Berkeley,"Berkeley, CA","1444 Shattuck Pl, Berkeley, CA",-122.2701069,37.8808169,CA
+Stater Bros. Markets,Q01024,Bloomington,"Bloomington, CA","1045 So Bloomington Ave, Bloomington, CA",-117.3894949,34.0744852,CA
+FoodMaxx,Q02285,Brentwood,"Brentwood, CA","4461 Balfour Rd, Brentwood, CA",-121.6986145,37.9261885,CA
 WinCo Foods,Q00597,Brentwood,"Brentwood, CA","6700 Lone Tree Wy, Brentwood, CA",-121.7292674,37.9647745,CA
 Pavilions,Q02302,Burbank,"Burbank, CA","1110 W Alameda Ave, Burbank, CA",-118.3135008,34.1613653,CA
 Vons,Q00314,Burbank,"Burbank, CA","301 N Pass Ave, Burbank, CA",-118.3465601,34.1551624,CA
@@ -1121,6 +1124,7 @@ Safeway,Q01026,Fremont,"Fremont, CA","3902 Washington Blvd, Fremont, CA",-121.95
 Albertsons,Q00332,Fullerton,"Fullerton, CA","1930 N Placentia Ave, Fullerton, CA",-117.8723507,33.8900282,CA
 Food 4 Less,Q01668,Fullerton,"Fullerton, CA","914 W Orangethorpe Ave, Fullerton, CA",-117.9410213,33.8588824,CA
 Ralphs,Q01726,Fullerton,"Fullerton, CA","1121 N Harbor Blvd, Fullerton, CA",-117.9252663,33.8814007,CA
+Save Mart,Q02207,Galt,"Galt, CA","1059 C St, Galt, CA",-121.2978613,38.2543493,CA
 Vons,Q00717,Garden Grove,"Garden Grove, CA","11861 Valley View St, Garden Grove, CA",-118.0290381,33.7901681,CA
 Albertsons,Q00732,Gardena,"Gardena, CA","1735 Artesia Blvd, Gardena, CA",-118.3080208,33.8742371,CA
 Food 4 Less,Q01249,Gardena,"Gardena, CA","1299 Artesia Blvd, Gardena, CA",-118.2948679,33.8736662,CA
@@ -1220,6 +1224,7 @@ Safeway,Q01513,Mountain View,"Mountain View, CA","1750 Miramonte Ave, Mountain V
 Safeway,Q02018,Mountain View,"Mountain View, CA","570 N Shoreline Blvd, Mountain View, CA",-122.0794005,37.4029895,CA
 Safeway,Q02027,Mountain View,"Mountain View, CA","645 San Antonio Rd, Mountain View, CA",-122.112164,37.4018244,CA
 Albertsons,Q00495,Murrieta,"Murrieta, CA","41000 California Oaks Rd, Murrieta, CA",-117.2036471,33.5670571,CA
+Lucky Supermarkets,Q01325,Napa,"Napa, CA","2355 California Blvd, Napa, CA",-122.3033806,38.3058705,CA
 FoodMaxx,Q02265,Newark,"Newark, CA","39966 Cedar Blvd, Newark, CA",-121.9914336,37.5194004,CA
 Vons,Q01184,Newhall,"Newhall, CA","24160 Lyons Ave, Newhall, CA",-118.5576496,34.3774741,CA
 Pavilions,Q00995,Newport Beach,"Newport Beach, CA","21181 Newport Coast Dr, Newport Beach, CA",-117.8278394,33.6067784,CA
@@ -1261,6 +1266,7 @@ Safeway,Q00935,Rancho Cordova,"Rancho Cordova, CA","10635 Folsom Blvd, Rancho Co
 Albertsons,Q00468,Rancho Cucamonga,"Rancho Cucamonga, CA","11358 Kenyon Way, Rancho Cucamonga, CA",-117.5571974,34.1355951,CA
 Food 4 Less,Q02252,Rancho Cucamonga,"Rancho Cucamonga, CA","12879 Foothill Blvd, Rancho Cucamonga, CA",-117.5244513,34.1048835,CA
 Food 4 Less,Q02391,Redlands,"Redlands, CA","2070 W Redlands Blvd, Redlands, CA",-117.2248885,34.0631623,CA
+Stater Bros. Markets,Q02383,Redlands,"Redlands, CA","1536 Barton Rd, Redlands, CA",-117.207071,34.04829,CA
 Vons,Q00741,Redondo Beach,"Redondo Beach, CA","4001 Inglewood Ave, Redondo Beach, CA",-118.3621856,33.8922077,CA
 Lucky Supermarkets,Q02280,Redwood City,"Redwood City, CA","200 Woodside Plz, Redwood City, CA",-122.2296173,37.4565486,CA
 Food 4 Less,Q02259,Rialto,"Rialto, CA","1410 W Foothill Blvd, Rialto, CA",-117.3992403,34.1080474,CA

@@ -2624,20 +2624,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.243146,
-          30.072145
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "25651 US-59 N, Kingwood, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -97.861957,
           30.015624
         ]
@@ -9176,6 +9162,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.303365,
+          47.617833
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "2201 E Madison St, Seattle, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.367486,
           47.516899
         ]
@@ -14412,6 +14412,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.78205,
+          37.965112
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "4500 Lone Tree Wy, Antioch, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.908464,
           36.978599
         ]
@@ -14587,6 +14601,34 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "1444 Shattuck Pl, Berkeley, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.389495,
+          34.074485
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1045 So Bloomington Ave, Bloomington, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.698615,
+          37.926189
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "4461 Balfour Rd, Brentwood, CA"
       }
     },
     {
@@ -15707,6 +15749,20 @@
       "properties": {
         "Retailer": "Ralphs",
         "Address": "1121 N Harbor Blvd, Fullerton, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.297861,
+          38.254349
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "1059 C St, Galt, CA"
       }
     },
     {
@@ -17100,6 +17156,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.303381,
+          38.30587
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "2355 California Blvd, Napa, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.991434,
           37.5194
         ]
@@ -17667,6 +17737,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "2070 W Redlands Blvd, Redlands, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.207071,
+          34.04829
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1536 Barton Rd, Redlands, CA"
       }
     },
     {
