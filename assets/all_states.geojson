@@ -15686,6 +15686,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.997605,
+          37.53512
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "5000 Mowry Ave, Fremont, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.988675,
           37.545943
         ]
@@ -16365,6 +16379,20 @@
       "properties": {
         "Retailer": "WinCo Foods",
         "Address": "3400 E South St, Lakewood, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.288956,
+          37.822894
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "15240 S Harlan Rd, Lathrop, CA"
       }
     },
     {
@@ -18458,6 +18486,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.799538,
+          37.254959
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "5510 Monterey Rd, San Jose, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.829334,
           37.380958
         ]
@@ -19403,6 +19445,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "13270 Newport Ave, Tustin, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.066438,
+          37.61308
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "Industrial Pkwy SW, Union City, CA"
       }
     },
     {
