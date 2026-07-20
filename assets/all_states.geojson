@@ -12816,8 +12816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.724681,
-          36.110929
+          -86.724663,
+          36.110936
         ]
       },
       "properties": {
@@ -17961,6 +17961,34 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "9045 Woodcreek Oaks Blvd, Roseville, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.312332,
+          38.760226
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "5060 Foothills Blvd, Roseville, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.498551,
+          38.627012
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "3291 Truxel Rd, Sacramento, CA"
       }
     },
     {
