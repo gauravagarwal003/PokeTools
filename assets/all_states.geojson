@@ -6852,6 +6852,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.10086,
+          33.744564
+        ]
+      },
+      "properties": {
+        "Retailer": "Pavilions",
+        "Address": "1101 Pacific Coast Hwy, Seal Beach, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.827055,
           38.404452
         ]
