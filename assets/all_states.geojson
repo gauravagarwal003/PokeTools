@@ -5648,6 +5648,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.473125,
+          33.897523
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "3420 La Sierra Ave, Riverside, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.364987,
+          33.883577
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "17050 Van Buren Boulevard, Riverside, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.38951,
           33.954898
         ]
