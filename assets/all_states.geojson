@@ -14468,6 +14468,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.415646,
+          35.871368
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "1776 W Northfield Blvd, Murfreesboro, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.441958,
           35.843778
         ]
@@ -24541,6 +24555,20 @@
       "properties": {
         "Retailer": "Acme Markets",
         "Address": "128 Lantana Dr, Hockessin, DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.735514,
+          39.682743
+        ]
+      },
+      "properties": {
+        "Retailer": "Acme Markets",
+        "Address": "100 College Sq, Newark, DE"
       }
     },
     {
