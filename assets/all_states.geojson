@@ -8868,6 +8868,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.839892,
+          30.659522
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "19348 Ronald Reagan Blvd, Georgetown, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.001049,
           32.708221
         ]
@@ -10751,6 +10765,34 @@
       "properties": {
         "Retailer": "H-E-B",
         "Address": "5601 Bandera Rd, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.496938,
+          29.469898
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "300 W Olmos Dr, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.476673,
+          29.577934
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "15000 San Pedro Ave, San Antonio, TX"
       }
     },
     {
@@ -19788,8 +19830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.219671,
-          47.9285
+          -122.220152,
+          47.928826
         ]
       },
       "properties": {
