@@ -13054,8 +13054,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.206614,
-          44.229151
+          -123.206065,
+          44.229111
         ]
       },
       "properties": {
@@ -18969,20 +18969,6 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "10700 W Ustick Rd, Boise, ID"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.352233,
-          43.647452
-        ]
-      },
-      "properties": {
-        "Retailer": "Albertsons",
-        "Address": "4700 N Eagle Rd, Boise, ID"
       }
     },
     {
@@ -26158,8 +26144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.053611,
-          33.638522
+          -112.053664,
+          33.638545
         ]
       },
       "properties": {
