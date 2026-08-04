@@ -9008,6 +9008,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.513018,
+          29.655212
+        ]
+      },
+      "properties": {
+        "Retailer": "Joe V's Smart Shop",
+        "Address": "7755 W Bellfort Ave, Houston, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.583718,
           29.951027
         ]
@@ -9435,6 +9449,20 @@
       "properties": {
         "Retailer": "H-E-B",
         "Address": "6711 S Fry Rd, Katy, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.721964,
+          29.832088
+        ]
+      },
+      "properties": {
+        "Retailer": "Joe V's Smart Shop",
+        "Address": "4107 N Fry Rd, Katy, TX"
       }
     },
     {
@@ -10044,6 +10072,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.147036,
+          29.680291
+        ]
+      },
+      "properties": {
+        "Retailer": "Joe V's Smart Shop",
+        "Address": "4203 Red Bluff Rd, Pasadena, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.174046,
           29.696528
         ]
@@ -10520,8 +10562,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.457134,
-          29.37678
+          -98.45714,
+          29.37677
         ]
       },
       "properties": {
