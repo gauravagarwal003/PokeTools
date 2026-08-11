@@ -2778,6 +2778,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.291485,
+          34.049965
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "2053 E Washington St, Colton, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.252606,
           33.902486
         ]
@@ -4220,6 +4234,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.245181,
+          34.049303
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "25630 Barton Rd, Loma Linda, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.192168,
           33.805474
         ]
@@ -5004,6 +5032,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.384271,
+          38.702704
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "7477 Watt Ave, North Highlands, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.485559,
           34.228059
         ]
@@ -5193,6 +5235,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "2246 S Euclid Ave, Ontario, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.659581,
+          34.063663
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "646 W Holt Blvd, Ontario, CA"
       }
     },
     {
@@ -5543,6 +5599,20 @@
       "properties": {
         "Retailer": "Stater Bros. Markets",
         "Address": "1536 Barton Rd, Redlands, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.353832,
+          33.866986
+        ]
+      },
+      "properties": {
+        "Retailer": "Ralphs",
+        "Address": "1413 Hawthorne Blvd, Redondo Beach, CA"
       }
     },
     {
@@ -9029,6 +9099,20 @@
       "properties": {
         "Retailer": "Joe V's Smart Shop",
         "Address": "7755 W Bellfort Ave, Houston, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.413435,
+          29.872526
+        ]
+      },
+      "properties": {
+        "Retailer": "Joe V's Smart Shop",
+        "Address": "612 N Victory Dr, Houston, TX"
       }
     },
     {
