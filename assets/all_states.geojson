@@ -7370,6 +7370,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.069304,
+          37.598437
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "32300 Dyer St, Union City, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.019368,
           37.587628
         ]
@@ -11507,6 +11521,34 @@
       "properties": {
         "Retailer": "Harris Teeter",
         "Address": "15007 John J Delaney Dr, Charlotte, NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.855498,
+          35.480192
+        ]
+      },
+      "properties": {
+        "Retailer": "Harris Teeter",
+        "Address": "21720 Catawba Ave, Cornelius, NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.762404,
+          35.442627
+        ]
+      },
+      "properties": {
+        "Retailer": "Harris Teeter",
+        "Address": "11124 Renaissance Dr, Davidson , NC"
       }
     },
     {
