@@ -3800,6 +3800,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -116.970065,
+          33.73088
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "210 E Stetson Ave, Hemet, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.020873,
           33.745428
         ]
@@ -4507,6 +4521,20 @@
       "properties": {
         "Retailer": "Gelson's Market",
         "Address": "5877 Franklin Ave, Los Angeles, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.272672,
+          34.108004
+        ]
+      },
+      "properties": {
+        "Retailer": "Gelson's Market",
+        "Address": "2725 Hyperion Ave, Los Angeles, CA"
       }
     },
     {
@@ -5662,6 +5690,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.369262,
+          34.122637
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "168 E Baseline Rd, Rialto, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.436357,
           33.90996
         ]
@@ -6005,6 +6047,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "555 W 2Nd St, San Bernardino, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.275742,
+          34.12217
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "444 E Baseline St, San Bernardino, CA"
       }
     },
     {
@@ -6733,6 +6789,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "27631 Bouquet Canyon Rd, Santa Clarita, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.474653,
+          34.007041
+        ]
+      },
+      "properties": {
+        "Retailer": "Gelson's Market",
+        "Address": "2627 Lincoln Blvd, Santa Monica, CA"
       }
     },
     {
