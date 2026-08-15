@@ -21678,6 +21678,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.80504,
+          33.86604
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1741 N Kellogg Dr, Anaheim, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.791941,
           33.850334
         ]
@@ -25542,6 +25556,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.282795,
+          34.163981
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "161 E 40th St, San Bernardino, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.275742,
           34.12217
         ]
@@ -25871,6 +25899,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "220 E Bonita Ave, San Dimas, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.836363,
+          34.107511
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1425 W Arrow Hwy, San Dimas, CA"
       }
     },
     {
