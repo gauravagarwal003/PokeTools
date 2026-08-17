@@ -7244,6 +7244,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.445759,
+          30.127538
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "130 Sawdust Rd, Spring, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.382013,
           30.118376
         ]
