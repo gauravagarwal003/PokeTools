@@ -18906,6 +18906,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.036045,
+          35.224728
+        ]
+      },
+      "properties": {
+        "Retailer": "Harris Teeter",
+        "Address": "905 S Point Rd, Belmont, NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.772494,
           35.051825
         ]
