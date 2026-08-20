@@ -2778,6 +2778,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.077241,
+          39.696532
+        ]
+      },
+      "properties": {
+        "Retailer": "Kroger",
+        "Address": "5325 E Thompson Rd, Indianapolis, IN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.019731,
           40.049826
         ]
@@ -4248,20 +4262,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.952041,
-          29.740187
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "1700 N Alexander Dr, Baytown, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -94.980842,
           29.792516
         ]
@@ -5277,6 +5277,20 @@
       "properties": {
         "Retailer": "Joe V's Smart Shop",
         "Address": "7755 W Bellfort Ave, Houston, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.382638,
+          30.022304
+        ]
+      },
+      "properties": {
+        "Retailer": "Joe V's Smart Shop",
+        "Address": "2929 Fm 1960, Houston, TX"
       }
     },
     {
@@ -18913,6 +18927,20 @@
       "properties": {
         "Retailer": "Harris Teeter",
         "Address": "905 S Point Rd, Belmont, NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.814408,
+          35.334221
+        ]
+      },
+      "properties": {
+        "Retailer": "Harris Teeter",
+        "Address": "8445 Davis Lake Pkwy, Charlotte, NC"
       }
     },
     {
