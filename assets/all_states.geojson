@@ -17268,8 +17268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.616108,
-          45.479638
+          -122.616288,
+          45.47954
         ]
       },
       "properties": {
@@ -26025,6 +26025,20 @@
       "properties": {
         "Retailer": "FoodMaxx",
         "Address": "5510 Monterey Rd, San Jose, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.820496,
+          37.354192
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "3002 Story Rd, San Jose, CA"
       }
     },
     {
