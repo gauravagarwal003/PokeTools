@@ -24366,6 +24366,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.618692,
+          33.521006
+        ]
+      },
+      "properties": {
+        "Retailer": "Gelson's Market",
+        "Address": "30731 Gateway Pl, Mission Viejo, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.65751,
           33.586008
         ]
@@ -26375,6 +26389,20 @@
       "properties": {
         "Retailer": "Gelson's Market",
         "Address": "3305 State St, Santa Barbara, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.998118,
+          37.354615
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "3705 El Camino Real, Santa Clara, CA"
       }
     },
     {
