@@ -7146,6 +7146,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -98.499854,
+          29.662671
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "23635 Wilderness Oak, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -98.476673,
           29.577934
         ]
