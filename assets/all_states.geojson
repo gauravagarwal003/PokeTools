@@ -958,20 +958,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.011681,
-          33.641972
-        ]
-      },
-      "properties": {
-        "Retailer": "Frys",
-        "Address": "3246 E Bell Rd, Phoenix, AZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.150243,
           33.468119
         ]
@@ -2778,13 +2764,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.077241,
-          39.696532
+          -86.077558,
+          39.696732
         ]
       },
       "properties": {
         "Retailer": "Kroger",
-        "Address": "5325 E Thompson Rd, Indianapolis, IN"
+        "Address": "5350 E Thompson Rd, Indianapolis, IN"
       }
     },
     {
@@ -4262,20 +4248,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.980842,
-          29.792516
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "6315 Garth Rd, Baytown, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -97.932539,
           30.30469
         ]
@@ -5277,20 +5249,6 @@
       "properties": {
         "Retailer": "Joe V's Smart Shop",
         "Address": "7755 W Bellfort Ave, Houston, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.382638,
-          30.022304
-        ]
-      },
-      "properties": {
-        "Retailer": "Joe V's Smart Shop",
-        "Address": "2929 Fm 1960, Houston, TX"
       }
     },
     {
@@ -22126,6 +22084,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.572611,
+          34.209158
+        ]
+      },
+      "properties": {
+        "Retailer": "Food 4 Less",
+        "Address": "20155 Saticoy St, Canoga Park, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.966863,
           36.975981
         ]
@@ -26415,7 +26387,7 @@
         ]
       },
       "properties": {
-        "Retailer": "FoodMaxx",
+        "Retailer": "Lucky Supermarkets",
         "Address": "3705 El Camino Real, Santa Clara, CA"
       }
     },

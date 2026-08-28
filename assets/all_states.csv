@@ -67,7 +67,6 @@ Frys,Q00346,Phoenix,"Phoenix, AZ","3949 E Chandler Blvd, Phoenix, AZ",-111.99890
 Frys,Q00349,Phoenix,"Phoenix, AZ","4025 E Thunderbird Rd, Phoenix, AZ",-111.9946165,33.6110512,AZ
 Frys,Q00353,Phoenix,"Phoenix, AZ","26300 Norterra Pkwy, Phoenix, AZ",-112.1141734,33.7235655,AZ
 Frys,Q00357,Phoenix,"Phoenix, AZ","1311 E Bell Rd, Phoenix, AZ",-112.0536644,33.6385447,AZ
-Frys,Q00359,Phoenix,"Phoenix, AZ","3246 E Bell Rd, Phoenix, AZ",-112.0116806,33.6419718,AZ
 Frys,Q00361,Phoenix,"Phoenix, AZ","4230 W McDowell Rd, Phoenix, AZ",-112.1502426,33.4681191,AZ
 Frys,Q00363,Phoenix,"Phoenix, AZ","39508 N Daisy Mountain Dr, Phoenix, AZ",-112.1343821,33.8447401,AZ
 Frys,Q00364,Phoenix,"Phoenix, AZ","744 W Camelback Rd, Phoenix, AZ",-112.0854559,33.5114304,AZ
@@ -197,7 +196,7 @@ Kroger,Q01488,Indianapolis,"Indianapolis, IN","680 Twin Aire Dr, Indianapolis, I
 Kroger,Q01740,Indianapolis,"Indianapolis, IN","8130 E Southport Rd, Indianapolis, IN",-86.0212452,39.6688033,IN
 Kroger,Q01974,Indianapolis,"Indianapolis, IN","4202 S East St, Indianapolis, IN",-86.1493272,39.7058523,IN
 Kroger,Q01978,Indianapolis,"Indianapolis, IN","7101 E 10th St, Indianapolis, IN",-86.0422776,39.7808103,IN
-Kroger,Q02447,Indianapolis,"Indianapolis, IN","5325 E Thompson Rd, Indianapolis, IN",-86.0772405,39.6965322,IN
+Kroger,Q02447,Indianapolis,"Indianapolis, IN","5350 E Thompson Rd, Indianapolis, IN",-86.0775578,39.696732,IN
 Kroger,Q01396,Noblesville,"Noblesville, IN","172 Logan St, Noblesville, IN",-86.0197306,40.0498258,IN
 Kroger,Q01824,Noblesville,"Noblesville, IN","14800 Hazel Dell Crossing, Noblesville, IN",-86.068098,40.0033751,IN
 Kroger,Q02496,Noblesville,"Noblesville, IN","14744 Union Market Square Dr, Noblesville, IN",-86.0023626,39.9807005,IN
@@ -303,7 +302,6 @@ Albertsons,Q00908,Azle,"Azle, TX","480 NW Pkwy St, Azle, TX",-97.5443889,32.9020
 H-E-B,Q01747,Bastrop,"Bastrop, TX","104 Hasler Blvd, Bastrop, TX",-97.3345216,30.1101711,TX
 H-E-B,Q01863,Baytown,"Baytown, TX","6430 Garth Rd, Baytown, TX",-94.9797083,29.7956677,TX
 Joe V's Smart Shop,Q00298,Baytown,"Baytown, TX","3500 Garth Rd, Baytown, TX",-94.9751886,29.7604689,TX
-Kroger,Q01888,Baytown,"Baytown, TX","6315 Garth Rd, Baytown, TX",-94.9808418,29.7925163,TX
 H-E-B,Q02000,Bee Cave,"Bee Cave, TX","12400 State Hwy 71, Bee Cave, TX",-97.9325386,30.3046898,TX
 H-E-B,Q00541,Bellaire,"Bellaire, TX","5106 Bissonnet St, Bellaire, TX",-95.4695077,29.7076365,TX
 H-E-B,Q01769,Boerne,"Boerne, TX","420 W Bandera Rd, Boerne, TX",-98.7346951,29.7815073,TX
@@ -376,7 +374,6 @@ H-E-B,Q00526,Houston,"Houston, TX","9503 Jones Rd, Houston, TX",-95.5861338,29.9
 H-E-B,Q00542,Houston,"Houston, TX","2300 N Shepherd Dr, Houston, TX",-95.4084616,29.8077194,TX
 H-E-B,Q00543,Houston,"Houston, TX","1550 Fry Rd, Houston, TX",-95.7181191,29.7896411,TX
 Joe V's Smart Shop,Q00522,Houston,"Houston, TX","7755 W Bellfort Ave, Houston, TX",-95.5130175,29.6552121,TX
-Joe V's Smart Shop,Q00771,Houston,"Houston, TX","2929 Fm 1960, Houston, TX",-95.3826379,30.0223039,TX
 Joe V's Smart Shop,Q01669,Houston,"Houston, TX","10241 N Fwy Service Rd, Houston, TX",-95.4137545,29.9114418,TX
 Joe V's Smart Shop,Q01848,Houston,"Houston, TX","612 N Victory Dr, Houston, TX",-95.4134354,29.872526,TX
 Kroger,Q00288,Houston,"Houston, TX","12222 Jones Rd, Houston, TX",-95.5837183,29.9510271,TX
@@ -1316,7 +1313,7 @@ Smith's,Q00783,Payson,"Payson, UT","632 S 100 W, Payson, UT",-111.7350173,40.034
 Smith's,Q00792,Pleasant Grove,"Pleasant Grove, UT","210 E 700 S, Pleasant Grove, UT",-111.737118,40.353691,UT
 Smith's,Q00791,Salt Lake City,"Salt Lake City, UT","4065 S Redwood Rd, Salt Lake City, UT",-111.9384856,40.6840959,UT
 Smith's,Q00794,Salt Lake City,"Salt Lake City, UT","876 E 800 S, Salt Lake City, UT",-111.8658749,40.7515457,UT
-Smith's,Q01208,Salt Lake City,"Salt Lake City, UT","828 S 900 W, Salt Lake City, UT",-111.9182807,40.7513599,UT
+Smith's,Q01708,Salt Lake City,"Salt Lake City, UT","828 S 900 W, Salt Lake City, UT",-111.9182807,40.7513599,UT
 Smith's,Q02223,Salt Lake City,"Salt Lake City, UT","3215 S Valley St, Salt Lake City, UT",-111.7989153,40.7010771,UT
 Smith's,Q02276,Salt Lake City,"Salt Lake City, UT","455 E 500 S, Salt Lake City, UT",-111.8777108,40.7590263,UT
 Smith's,Q02283,Salt Lake City,"Salt Lake City, UT","922 E 2100 S, Salt Lake City, UT",-111.8648919,40.7242898,UT
@@ -1579,6 +1576,7 @@ Vons,Q01242,Camarillo,"Camarillo, CA","940 Arneill RD, Camarillo, CA",-119.03853
 Safeway,Q00974,Cameron Park,"Cameron Park, CA","3380 Coach Ln, Cameron Park, CA",-120.9709612,38.6563828,CA
 Safeway,Q00971,Campbell,"Campbell, CA","2341 S Winchester Blvd, Campbell, CA",-121.9502226,37.2806014,CA
 Safeway,Q02267,Campbell,"Campbell, CA","950 W Hamilton Ave, Campbell, CA",-121.966685,37.2928872,CA
+Food 4 Less,Q02420,Canoga Park,"Canoga Park, CA","20155 Saticoy St, Canoga Park, CA",-118.5726112,34.2091576,CA
 Capitola Mall,Q02024,Capitola,"Capitola, CA","1855 41st Ave, Capitola, CA",-121.9668627,36.9759809,CA
 Capitola Mall,Q02277,Capitola,"Capitola, CA","1855 41st Ave, Capitola, CA",-121.9668627,36.9759809,CA
 Vons,Q00875,Carlsbad,"Carlsbad, CA","2560 El Camino Real, Carlsbad, CA",-117.3247364,33.1787141,CA
@@ -1885,7 +1883,7 @@ Safeway,Q01039,San Ramon,"San Ramon, CA","11060 Bollinger Canyon Rd, San Ramon, 
 Food 4 Less,Q00320,Santa Ana,"Santa Ana, CA","2140 S Bristol St, Santa Ana, CA",-117.886562,33.7181239,CA
 Vons,Q00414,Santa Ana,"Santa Ana, CA","3650 S Bristol St, Santa Ana, CA",-117.8864324,33.6989864,CA
 Gelson's Market,Q02301,Santa Barbara,"Santa Barbara, CA","3305 State St, Santa Barbara, CA",-119.7350935,34.439052,CA
-FoodMaxx,Q02406,Santa Clara,"Santa Clara, CA","3705 El Camino Real, Santa Clara, CA",-121.9981178,37.354615,CA
+Lucky Supermarkets,Q02406,Santa Clara,"Santa Clara, CA","3705 El Camino Real, Santa Clara, CA",-121.9981178,37.354615,CA
 Albertsons,Q00487,Santa Clarita,"Santa Clarita, CA","27631 Bouquet Canyon Rd, Santa Clarita, CA",-118.5121236,34.444093,CA
 Gelson's Market,Q02427,Santa Monica,"Santa Monica, CA","2627 Lincoln Blvd, Santa Monica, CA",-118.4746526,34.0070408,CA
 Ralphs,Q00546,Santa Monica,"Santa Monica, CA","1644 Cloverfield Blvd, Santa Monica, CA",-118.4738385,34.0270648,CA
