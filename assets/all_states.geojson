@@ -9904,20 +9904,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.296333,
-          47.821829
-        ]
-      },
-      "properties": {
-        "Retailer": "Fred Meyer",
-        "Address": "4615 196th St SW, Lynnwood, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.272787,
           47.848254
         ]
@@ -9925,6 +9911,20 @@
       "properties": {
         "Retailer": "Fred Meyer",
         "Address": "2902 164th St SW, Lynnwood, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.293619,
+          47.822296
+        ]
+      },
+      "properties": {
+        "Retailer": "Fred Meyer",
+        "Address": "4615 196th St SW, Lynnwood, WA"
       }
     },
     {
