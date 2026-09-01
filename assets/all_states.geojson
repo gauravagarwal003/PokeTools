@@ -19046,6 +19046,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.894069,
+          35.477458
+        ]
+      },
+      "properties": {
+        "Retailer": "Harris Teeter",
+        "Address": "19815 N Cove Rd, Cornelius, NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.762404,
           35.442627
         ]
