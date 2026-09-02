@@ -608,8 +608,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.631105,
-          33.406689
+          -111.631954,
+          33.406614
         ]
       },
       "properties": {
@@ -5249,6 +5249,20 @@
       "properties": {
         "Retailer": "Joe V's Smart Shop",
         "Address": "7755 W Bellfort Ave, Houston, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.382638,
+          30.022304
+        ]
+      },
+      "properties": {
+        "Retailer": "Joe V's Smart Shop",
+        "Address": "2929 Fm 1960, Houston, TX"
       }
     },
     {
