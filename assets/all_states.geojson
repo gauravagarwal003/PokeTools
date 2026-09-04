@@ -7398,6 +7398,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.12692,
+          29.605473
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "3501 Clear Lake City Blvd, Houston, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.464334,
           29.688939
         ]
@@ -15630,6 +15644,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.906457,
+          33.679696
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1175 Baker St, Costa Mesa, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.921656,
           33.671914
         ]
@@ -16155,20 +16183,6 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "921 E Hillsdale Blvd, Foster City, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.95666,
-          33.729052
-        ]
-      },
-      "properties": {
-        "Retailer": "Albertsons",
-        "Address": "16061 Brookhurst St, Fountain Valley, CA"
       }
     },
     {
