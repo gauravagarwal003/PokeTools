@@ -9638,20 +9638,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.649429,
-          29.648001
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "11565 S Texas 6, Sugar Land, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -95.633164,
           29.585368
         ]
@@ -16526,6 +16512,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -116.903641,
+          33.74906
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "43396 E Florida Ave, Hemet, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -116.970065,
           33.73088
         ]
@@ -18794,6 +18794,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.304717,
+          34.163124
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "977 Kendall Dr, San Bernardino, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.282795,
           34.163981
         ]
@@ -19984,8 +19998,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.312106,
-          37.988103
+          -121.321392,
+          38.008732
         ]
       },
       "properties": {
