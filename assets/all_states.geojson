@@ -8252,6 +8252,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.855517,
+          30.58324
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "651 N US Hwy 183, Leander, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.86508,
           30.542999
         ]
@@ -17471,6 +17485,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "4400 Slauson Ave, Maywood, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.206887,
+          33.686447
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "25904 Newport Rd, Menifee, CA"
       }
     },
     {
