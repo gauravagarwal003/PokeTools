@@ -9386,6 +9386,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -98.514403,
+          29.397845
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "1601 Nogalitos St, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -98.476673,
           29.577934
         ]
@@ -14979,6 +14993,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "9635 Laurel Canyon Blvd, Arleta, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.081482,
+          33.874747
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "11815 Artesia Blvd, Artesia, CA"
       }
     },
     {
