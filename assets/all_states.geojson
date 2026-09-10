@@ -4570,13 +4570,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.459834,
-          47.195301
+          -122.468652,
+          47.223299
         ]
       },
       "properties": {
-        "Retailer": "WinCo Foods",
-        "Address": "1913 S 72nd St, Tacoma, WA"
+        "Retailer": "Tacoma Mall",
+        "Address": "S Steele St, Tacoma, WA"
       }
     },
     {
@@ -4584,13 +4584,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.520345,
-          47.256525
+          -122.459834,
+          47.195301
         ]
       },
       "properties": {
         "Retailer": "WinCo Foods",
-        "Address": "6201 6th Ave, Tacoma, WA"
+        "Address": "1913 S 72nd St, Tacoma, WA"
       }
     },
     {
@@ -19655,6 +19655,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "27631 Bouquet Canyon Rd, Santa Clarita, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.46468,
+          34.40387
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "26900 Sierra Hwy, Santa Clarita, CA"
       }
     },
     {
