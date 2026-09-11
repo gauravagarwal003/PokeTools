@@ -17800,6 +17800,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.182721,
+          33.570564
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "25050 Hancock Ave, Murrieta, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.303381,
           38.30587
         ]
@@ -18570,6 +18584,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.341455,
+          33.985762
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "2995 Iowa Ave, Riverside, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.38951,
           33.954898
         ]
@@ -19249,6 +19277,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "5290 Diamond Heights Blvd, San Francisco, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.956624,
+          33.772226
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1537 S San Jacinto Ave, San Jacinto, CA"
       }
     },
     {
