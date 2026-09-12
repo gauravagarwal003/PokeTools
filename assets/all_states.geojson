@@ -18178,20 +18178,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.477594,
-          37.66101
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "709 Hickey Blvd, Pacifica, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.503062,
           37.594413
         ]
@@ -18199,6 +18185,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "1380 Linda Mar Blvd, Pacifica, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477594,
+          37.66101
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "709 Hickey Blvd, Pacifica, CA"
       }
     },
     {
