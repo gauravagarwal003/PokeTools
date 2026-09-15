@@ -14860,6 +14860,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.706177,
+          33.572147
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "26892 La Paz Rd, Aliso Viejo, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.255072,
           38.164634
         ]
@@ -24583,20 +24597,6 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "260 W Continental Rd, Green Valley, AZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.1703,
-          33.379552
-        ]
-      },
-      "properties": {
-        "Retailer": "Frys",
-        "Address": "5140 W Baseline Rd, Laveen Village, AZ"
       }
     },
     {
