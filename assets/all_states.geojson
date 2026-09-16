@@ -5872,13 +5872,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.308445,
-          39.925112
+          -75.306948,
+          39.924459
         ]
       },
       "properties": {
         "Retailer": "Acme Markets",
-        "Address": "5300 Baltimore Pike, Clifton Heights, PA"
+        "Address": "5300 W Baltimore Pike, Clifton Heights, PA"
       }
     },
     {
@@ -15567,6 +15567,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "1900 W Rosecrans Ave, Compton, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.04166,
+          37.956157
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "1751 Monument Blvd, Concord, CA"
       }
     },
     {
