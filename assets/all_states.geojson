@@ -15588,6 +15588,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.965943,
+          37.953764
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "5190 Clayton Rd, Concord, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.028161,
           37.978116
         ]
@@ -16939,6 +16953,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "30241 Golden Lantern, Laguna Niguel, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.679913,
+          33.638616
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "22351 El Toro Rd, Lake Forest, CA"
       }
     },
     {
