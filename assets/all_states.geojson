@@ -7790,6 +7790,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.333101,
+          29.869905
+        ]
+      },
+      "properties": {
+        "Retailer": "Mi Tienda",
+        "Address": "3800 Little York Rd, Houston, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.425457,
           29.704753
         ]
@@ -18339,20 +18353,6 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "3955 Missouri Flat Rd, Placerville, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.072346,
-          37.934251
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "600 Patterson Blvd, Pleasant Hill, CA"
       }
     },
     {
