@@ -18878,20 +18878,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.564229,
-          37.980715
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "838 Sir Francis Drake Blvd, San Anselmo, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.295711,
           34.101481
         ]
@@ -20082,20 +20068,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.467712,
-          38.291594
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "477 W Napa St, Sonoma, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.45199,
           37.646648
         ]
@@ -20740,20 +20712,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.80651,
-          38.551655
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "9080 Brooks Rd S, Windsor, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.775726,
           33.893294
         ]
@@ -20761,6 +20719,20 @@
       "properties": {
         "Retailer": "Vons",
         "Address": "20445 Yorba Linda Blvd, Yorba Linda, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.032523,
+          34.047355
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "11365 Bryant St, Yucaipa, CA"
       }
     },
     {
