@@ -3842,6 +3842,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.004336,
+          33.716632
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "7101 Warner Ave, Huntington Beach, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.026751,
           33.728902
         ]
