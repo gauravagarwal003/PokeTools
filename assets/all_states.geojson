@@ -15126,20 +15126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.0238,
-          36.194685
-        ]
-      },
-      "properties": {
-        "Retailer": "Albertsons",
-        "Address": "6885 E Lake Mead Blvd, Las Vegas, NV"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -115.06706,
           36.138455
         ]
@@ -15301,6 +15287,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "1650 N Buffalo Dr, Las Vegas, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0238,
+          36.194685
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "6885 E Lake Mead Blvd, Las Vegas, NV"
       }
     },
     {
