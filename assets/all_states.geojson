@@ -2932,6 +2932,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.46247,
+          37.697635
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "6843 Mission St, Daly City, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.481574,
           37.699501
         ]
@@ -6425,6 +6439,20 @@
       "properties": {
         "Retailer": "Stater Bros. Markets",
         "Address": "1425 W Arrow Hwy, San Dimas, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416173,
+          37.767619
+        ]
+      },
+      "properties": {
+        "Retailer": "Foods Co",
+        "Address": "1800 Folsom St, San Francisco, CA"
       }
     },
     {
@@ -25304,20 +25332,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.6273,
-          41.737676
-        ]
-      },
-      "properties": {
-        "Retailer": "Food 4 Less",
-        "Address": "112 W 87th St, Chicago, IL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -87.664432,
           41.765439
         ]
@@ -25339,6 +25353,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "4821 W North Ave, Chicago, IL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6273,
+          41.737676
+        ]
+      },
+      "properties": {
+        "Retailer": "Food 4 Less",
+        "Address": "112 W 87th St, Chicago, IL"
       }
     },
     {
@@ -25724,20 +25752,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.757484,
-          41.979518
-        ]
-      },
-      "properties": {
-        "Retailer": "Mariano's Fresh Market",
-        "Address": "5353 N Elston Ave, Chicago, IL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -87.690007,
           41.942208
         ]
@@ -25759,6 +25773,20 @@
       "properties": {
         "Retailer": "Mariano's Fresh Market",
         "Address": "5201 N Sheridan Rd, Chicago, IL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.757484,
+          41.979518
+        ]
+      },
+      "properties": {
+        "Retailer": "Mariano's Fresh Market",
+        "Address": "5353 N Elston Ave, Chicago, IL"
       }
     },
     {
