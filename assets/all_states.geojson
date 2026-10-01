@@ -5830,6 +5830,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.258539,
+          38.816041
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "3021 Stanford Ranch Rd, Rocklin, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.708431,
           38.347565
         ]
@@ -8238,20 +8252,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.903914,
-          43.049082
-        ]
-      },
-      "properties": {
-        "Retailer": "Pick 'n Save",
-        "Address": "605 E Lyon St, Milwaukee, WI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.002671,
           43.147049
         ]
@@ -8287,6 +8287,20 @@
       "properties": {
         "Retailer": "Pick 'n Save",
         "Address": "250 W Holt Ave, Milwaukee, WI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903995,
+          43.048988
+        ]
+      },
+      "properties": {
+        "Retailer": "Pick 'n Save",
+        "Address": "605 E Lyon St, Milwaukee, WI"
       }
     },
     {
@@ -8994,8 +9008,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.89797,
-          40.863466
+          -111.897406,
+          40.863251
         ]
       },
       "properties": {
@@ -13453,6 +13467,20 @@
       "properties": {
         "Retailer": "H-E-B",
         "Address": "201 FM 685, Pflugerville, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.797351,
+          33.055086
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "6001 Preston Rd, Plano, TX"
       }
     },
     {
