@@ -4696,6 +4696,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.240817,
+          37.797833
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "1431 W Yosemite Ave, Manteca, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.439795,
           33.985204
         ]
@@ -6544,6 +6558,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.85737,
+          37.24958
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "844 Blossom Hill Rd, San Jose, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.820496,
           37.354192
         ]
@@ -6551,6 +6579,20 @@
       "properties": {
         "Retailer": "FoodMaxx",
         "Address": "3002 Story Rd, San Jose, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.820523,
+          37.323805
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "1972 Tully Rd, San Jose, CA"
       }
     },
     {
@@ -6899,7 +6941,7 @@
         ]
       },
       "properties": {
-        "Retailer": "Lucky Supermarkets",
+        "Retailer": "FoodMaxx",
         "Address": "3705 El Camino Real, Santa Clara, CA"
       }
     },
@@ -7335,6 +7377,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "2808 Country Club Blvd, Stockton, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.341624,
+          37.98648
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "4725 Quail Lakes Dr, Stockton, CA"
       }
     },
     {
@@ -8854,8 +8910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.917098,
-          40.37415
+          -111.91712,
+          40.374047
         ]
       },
       "properties": {
