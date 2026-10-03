@@ -18388,20 +18388,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.004126,
-          32.238785
-        ]
-      },
-      "properties": {
-        "Retailer": "Albertsons",
-        "Address": "1350 N Silverbell Rd, Tucson, AZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -110.94256,
           32.259001
         ]
@@ -18409,6 +18395,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "2854 N Campbell Ave, Tucson, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.004126,
+          32.238785
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "1350 N Silverbell Rd, Tucson, AZ"
       }
     },
     {
