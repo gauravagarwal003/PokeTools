@@ -2154,7 +2154,7 @@
       },
       "properties": {
         "Retailer": "Albertsons",
-        "Address": "298 Live Oak Ave, Arcadia, CA"
+        "Address": "298 E Live Oak Ave, Arcadia, CA"
       }
     },
     {
@@ -2400,8 +2400,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.699769,
-          34.144896
+          -118.699688,
+          34.143943
         ]
       },
       "properties": {
@@ -2414,8 +2414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.612987,
-          34.147426
+          -118.61251,
+          34.147529
         ]
       },
       "properties": {
@@ -3002,8 +3002,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.144495,
-          33.905237
+          -118.144489,
+          33.905243
         ]
       },
       "properties": {
@@ -3016,8 +3016,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.127135,
-          33.935995
+          -118.127172,
+          33.936084
         ]
       },
       "properties": {
@@ -3184,8 +3184,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.020001,
-          34.061826
+          -118.020289,
+          34.061858
         ]
       },
       "properties": {
@@ -3604,8 +3604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.244713,
-          34.154975
+          -118.244531,
+          34.15486
         ]
       },
       "properties": {
@@ -3618,8 +3618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.258601,
-          34.129435
+          -118.258637,
+          34.129424
         ]
       },
       "properties": {
@@ -3708,7 +3708,7 @@
       },
       "properties": {
         "Retailer": "Food 4 Less",
-        "Address": "14500 Ocean Gate Ave, Hawthorne, CA"
+        "Address": "14500 S Ocean Gate Ave, Hawthorne, CA"
       }
     },
     {
@@ -3814,8 +3814,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.394415,
-          33.865877
+          -118.394768,
+          33.865882
         ]
       },
       "properties": {
@@ -3884,8 +3884,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.229637,
-          33.975668
+          -118.229454,
+          33.976514
         ]
       },
       "properties": {
@@ -3996,8 +3996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.250195,
-          34.23114
+          -118.250174,
+          34.231174
         ]
       },
       "properties": {
@@ -4094,8 +4094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.773145,
-          34.114612
+          -117.773619,
+          34.115093
         ]
       },
       "properties": {
@@ -4178,8 +4178,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.152272,
-          33.858841
+          -118.152226,
+          33.85884
         ]
       },
       "properties": {
@@ -4262,8 +4262,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.192168,
-          33.805474
+          -118.19232,
+          33.805629
         ]
       },
       "properties": {
@@ -4374,27 +4374,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.237897,
-          33.925697
+          -118.237366,
+          33.925936
         ]
       },
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "11840 Wilmington Ave, Los Angeles, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.532557,
-          34.192516
-        ]
-      },
-      "properties": {
-        "Retailer": "Food 4 Less",
-        "Address": "18318 Vanowen St, Los Angeles, CA"
       }
     },
     {
@@ -4500,8 +4486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.418332,
-          34.057486
+          -118.419138,
+          34.058931
         ]
       },
       "properties": {
@@ -4542,20 +4528,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.641361,
-          34.189528
-        ]
-      },
-      "properties": {
-        "Retailer": "Pavilions",
-        "Address": "6534 Platt Ave, Los Angeles, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.264631,
           33.915107
         ]
@@ -4584,8 +4556,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.339437,
-          34.047716
+          -118.339412,
+          34.047851
         ]
       },
       "properties": {
@@ -4598,8 +4570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.29094,
-          34.069997
+          -118.291123,
+          34.069951
         ]
       },
       "properties": {
@@ -4626,22 +4598,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.301192,
-          34.259166
-        ]
-      },
-      "properties": {
-        "Retailer": "Vons",
-        "Address": "7789 Foothill Blvd, Los Angeles, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.189517,
-          34.136098
+          -118.18951,
+          34.136161
         ]
       },
       "properties": {
@@ -4710,8 +4668,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.439795,
-          33.985204
+          -118.439807,
+          33.985107
         ]
       },
       "properties": {
@@ -4758,7 +4716,7 @@
       },
       "properties": {
         "Retailer": "Food 4 Less",
-        "Address": "4400 Slauson Ave, Maywood, CA"
+        "Address": "4400 E Slauson Ave, Maywood, CA"
       }
     },
     {
@@ -4878,8 +4836,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.123077,
-          34.030951
+          -118.120954,
+          34.032063
         ]
       },
       "properties": {
@@ -5466,8 +5424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.190372,
-          33.746568
+          -117.19191,
+          33.745373
         ]
       },
       "properties": {
@@ -5578,7 +5536,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.761537,
+          -117.761534,
           34.026305
         ]
       },
@@ -5676,8 +5634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.362186,
-          33.892208
+          -118.362195,
+          33.89221
         ]
       },
       "properties": {
@@ -5697,6 +5655,20 @@
       "properties": {
         "Retailer": "Lucky Supermarkets",
         "Address": "200 Woodside Plz, Redwood City, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.532557,
+          34.192516
+        ]
+      },
+      "properties": {
+        "Retailer": "Food 4 Less",
+        "Address": "18318 Vanowen St, Reseda, CA"
       }
     },
     {
@@ -5872,8 +5844,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.377878,
-          33.775415
+          -118.376235,
+          33.774381
         ]
       },
       "properties": {
@@ -6131,6 +6103,20 @@
       "properties": {
         "Retailer": "Stater Bros. Markets",
         "Address": "444 E Baseline St, San Bernardino, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421895,
+          37.640167
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "1322 El Camino Real, San Bruno, CA"
       }
     },
     {
@@ -6978,8 +6964,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.474653,
-          34.007041
+          -118.474649,
+          34.007042
         ]
       },
       "properties": {
@@ -7510,8 +7496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.288941,
-          33.81124
+          -118.289022,
+          33.811279
         ]
       },
       "properties": {
@@ -7524,8 +7510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.363515,
-          33.837749
+          -118.363635,
+          33.838315
         ]
       },
       "properties": {
@@ -7538,8 +7524,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.330463,
-          33.804994
+          -118.330853,
+          33.804552
         ]
       },
       "properties": {
@@ -7587,6 +7573,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "6240 Foothill Blvd, Tujunga, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.301192,
+          34.259166
+        ]
+      },
+      "properties": {
+        "Retailer": "Vons",
+        "Address": "7789 Foothill Blvd, Tujunga, CA"
       }
     },
     {
@@ -7860,8 +7860,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.38697,
-          34.083533
+          -118.641361,
+          34.189528
+        ]
+      },
+      "properties": {
+        "Retailer": "Pavilions",
+        "Address": "6534 Platt Ave, West Hills, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.386734,
+          34.083698
         ]
       },
       "properties": {
@@ -7958,8 +7972,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.265544,
-          33.778677
+          -118.265579,
+          33.778713
         ]
       },
       "properties": {
@@ -8728,8 +8742,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.966222,
-          41.302782
+          -111.966781,
+          41.303119
         ]
       },
       "properties": {
@@ -8756,8 +8770,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.94666,
-          41.241329
+          -111.946046,
+          41.240255
         ]
       },
       "properties": {
@@ -18066,8 +18080,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.560305,
-          33.16074
+          -111.560272,
+          33.160642
         ]
       },
       "properties": {
