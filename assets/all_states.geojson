@@ -7720,6 +7720,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.236384,
+          38.12346
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "1740 Tuolumne St, Vallejo, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.210431,
           38.084502
         ]
@@ -14195,6 +14209,20 @@
       "properties": {
         "Retailer": "H-E-B",
         "Address": "15000 San Pedro Ave, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.970628,
+          29.836787
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "1074 E McCarty Ln, San Marcos, TX"
       }
     },
     {
