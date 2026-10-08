@@ -5438,6 +5438,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.624074,
+          38.236351
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "939 Lakeville Hwy, Petaluma, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.638885,
           38.269567
         ]
@@ -11108,6 +11122,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.798819,
+          30.478391
+        ]
+      },
+      "properties": {
+        "Retailer": "H Mart Austin",
+        "Address": "11301 Lakeline Blvd, Austin, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.887682,
           30.227739
         ]
@@ -14958,20 +14986,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.735514,
-          39.682743
-        ]
-      },
-      "properties": {
-        "Retailer": "Acme Markets",
-        "Address": "100 College Sq, Newark, DE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.671901,
           39.666877
         ]
@@ -14993,6 +15007,20 @@
       "properties": {
         "Retailer": "Acme Markets",
         "Address": "100 Suburban Dr, Newark, DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.735514,
+          39.682743
+        ]
+      },
+      "properties": {
+        "Retailer": "Acme Markets",
+        "Address": "100 College Sq, Newark, DE"
       }
     },
     {
@@ -26018,8 +26046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.593177,
-          41.62393
+          -87.59322,
+          41.62392
         ]
       },
       "properties": {
