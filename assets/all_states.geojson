@@ -5956,6 +5956,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.461086,
+          38.494789
+        ]
+      },
+      "properties": {
+        "Retailer": "FoodMaxx",
+        "Address": "3860 Florin Rd, Sacramento, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.477224,
           38.630948
         ]
