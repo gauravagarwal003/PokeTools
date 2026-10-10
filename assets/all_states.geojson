@@ -5956,20 +5956,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.461086,
-          38.494789
-        ]
-      },
-      "properties": {
-        "Retailer": "FoodMaxx",
-        "Address": "3860 Florin Rd, Sacramento, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -121.477224,
           38.630948
         ]
@@ -6061,6 +6047,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "2851 Del Paso Rd, Sacramento, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.438743,
+          38.55761
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "5600 Folsom Blvd, Sacramento, CA"
       }
     },
     {
@@ -17274,7 +17274,7 @@
       },
       "properties": {
         "Retailer": "Safeway",
-        "Address": "5035 W Baseline Rd, Laveen Village, AZ"
+        "Address": "5035 W Baseline Rd, Laveen, AZ"
       }
     },
     {
@@ -23813,20 +23813,6 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "19150 NE Woodinville Duvall Rd, Woodinville, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.264107,
-          42.137709
-        ]
-      },
-      "properties": {
-        "Retailer": "Kroger",
-        "Address": "23849 West Rd, Brownstown, MI"
       }
     },
     {
