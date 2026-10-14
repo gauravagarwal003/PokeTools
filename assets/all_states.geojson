@@ -2092,6 +2092,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.890388,
+          33.849521
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1131 N State College Blvd, Anaheim, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.80504,
           33.86604
         ]
@@ -5291,6 +5305,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "8440 E Chapman Ave, Orange, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.817774,
+          33.789057
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "3325 E Chapman Ave, Orange, CA"
       }
     },
     {
