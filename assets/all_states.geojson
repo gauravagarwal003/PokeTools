@@ -3044,6 +3044,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.141983,
+          33.943965
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "7814 Firestone Blvd, Downey, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.927013,
           37.705862
         ]
@@ -5123,6 +5137,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "8035 Webb Ave, North Hollywood, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.093064,
+          33.917968
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "11300 Firestone Blvd, Norwalk, CA"
       }
     },
     {
@@ -12354,6 +12382,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.477288,
+          29.607911
+        ]
+      },
+      "properties": {
+        "Retailer": "Joe V's Smart Shop",
+        "Address": "6100 W Fuqua St, Houston, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.382638,
           30.022304
         ]
@@ -14601,20 +14643,6 @@
       "properties": {
         "Retailer": "H-E-B",
         "Address": "9595 Six Pines Dr, The Woodlands, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.539213,
-          30.180246
-        ]
-      },
-      "properties": {
-        "Retailer": "H-E-B",
-        "Address": "10777 Kuykendahl Rd, The Woodlands, TX"
       }
     },
     {
@@ -27215,6 +27243,20 @@
       "properties": {
         "Retailer": "Harris Teeter",
         "Address": "8445 Davis Lake Pkwy, Charlotte, NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.849547,
+          35.161621
+        ]
+      },
+      "properties": {
+        "Retailer": "Harris Teeter",
+        "Address": "5030 Park Rd, Charlotte, NC"
       }
     },
     {
