@@ -2232,6 +2232,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.074087,
+          38.905325
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "386 Elm Ave, Auburn, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.979353,
           34.068392
         ]
@@ -2379,6 +2393,20 @@
       "properties": {
         "Retailer": "WinCo Foods",
         "Address": "6700 Lone Tree Wy, Brentwood, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.001788,
+          33.860366
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "7511 Orangethorpe Ave, Buena Park, CA"
       }
     },
     {
@@ -3555,6 +3583,20 @@
       "properties": {
         "Retailer": "Ralphs",
         "Address": "1121 N Harbor Blvd, Fullerton, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.911078,
+          33.898299
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1040 E Bastanchury Rd, Fullerton, CA"
       }
     },
     {
@@ -4850,6 +4892,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.033152,
+          37.689046
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "2100 Standiford Ave, Modesto, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.062891,
+          37.701148
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "3601 Pelandale Ave, Modesto, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.002033,
           34.149986
         ]
@@ -5172,6 +5242,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.832211,
+          37.770837
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "1449 E F St, Oakdale, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.230647,
           37.775728
         ]
@@ -5466,6 +5550,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.148373,
+          33.888766
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "8640 Alondra Blvd, Paramount, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.102209,
           34.147791
         ]
@@ -5529,6 +5627,20 @@
       "properties": {
         "Retailer": "Lucky Supermarkets",
         "Address": "1530 Fitzgerald Dr, Pinole, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.84324,
+          33.905812
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1111 E Imperial Hwy, Placentia, CA"
       }
     },
     {
@@ -6789,20 +6901,6 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "5146 Stevens Creek Blvd, San Jose, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.011818,
-          37.30966
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "6150 Bollinger Rd, San Jose, CA"
       }
     },
     {
@@ -15336,20 +15434,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.275424,
-          36.220079
-        ]
-      },
-      "properties": {
-        "Retailer": "Albertsons",
-        "Address": "8350 W Cheyenne Ave, Las Vegas, NV"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -115.223929,
           36.098754
         ]
@@ -15539,6 +15623,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "1650 N Buffalo Dr, Las Vegas, NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.275424,
+          36.220079
+        ]
+      },
+      "properties": {
+        "Retailer": "Albertsons",
+        "Address": "8350 W Cheyenne Ave, Las Vegas, NV"
       }
     },
     {
@@ -17968,8 +18066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.972929,
-          33.305502
+          -112.053989,
+          33.306925
         ]
       },
       "properties": {
