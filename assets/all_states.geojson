@@ -4318,6 +4318,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.281055,
+          38.129228
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "530 W Lodi Ave, Lodi, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.245181,
           34.049303
         ]
