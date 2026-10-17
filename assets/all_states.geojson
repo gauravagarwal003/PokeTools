@@ -2610,6 +2610,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.939807,
+          37.593217
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "2920 E Whitmore Ave, Ceres, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.695513,
           33.961471
         ]
@@ -4045,6 +4059,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "12110 Industry Blvd, Jackson, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.801344,
+          38.362386
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "11980 CA-88, Jackson, CA"
       }
     },
     {
