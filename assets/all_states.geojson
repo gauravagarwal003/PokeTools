@@ -3282,6 +3282,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.372296,
+          38.424186
+        ]
+      },
+      "properties": {
+        "Retailer": "Save Mart",
+        "Address": "9160 Elk Grove Florin Rd, Elk Grove, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.280098,
           37.829282
         ]
@@ -6719,6 +6733,20 @@
       "properties": {
         "Retailer": "Foods Co",
         "Address": "1800 Folsom St, San Francisco, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.489317,
+          37.733913
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "1515 Sloat Blvd, San Francisco, CA"
       }
     },
     {
