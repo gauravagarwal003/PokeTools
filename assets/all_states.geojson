@@ -3828,6 +3828,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.089958,
+          37.647862
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "25151 Santa Clara St, Hayward, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.083478,
           37.679797
         ]
@@ -5361,6 +5375,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "4100 Redwood Rd, Oakland, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.731391,
+          37.996505
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "2545 Main St, Oakley, CA"
       }
     },
     {
