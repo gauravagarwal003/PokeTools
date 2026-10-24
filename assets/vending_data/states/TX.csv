@@ -1,13 +1,13 @@
 Retailer,Machine ID,Address,Cities,Full Address,Longitude,Latitude
-Kroger,Q00950,Addison,"Addison, TX","3770 Belt Line Rd, Addison, TX",-96.852773,32.9504624
-Tom Thumb,Q00912,Addison,"Addison, TX","14280 Marsh Ln, Addison, TX",-96.8536945,32.9384086
+Kroger,Q00950,Addison,"Addison, TX","3770 Belt Line Rd, Addison, TX",-96.8523428,32.9520188
+Tom Thumb,Q00912,Addison,"Addison, TX","14280 Marsh Ln, Addison, TX",-96.8535918,32.9385531
 Kroger,Q00454,Allen,"Allen, TX","1320 W McDermott Dr, Allen, TX",-96.7004067,33.1025854
-Kroger,Q00903,Allen,"Allen, TX","1212 E Bethany Dr, Allen, TX",-96.6450006,33.0838269
-Kroger,Q00911,Allen,"Allen, TX","1210 N Greenville Ave, Allen, TX",-96.6516883,33.1161863
+Kroger,Q00903,Allen,"Allen, TX","1212 E Bethany Dr, Allen, TX",-96.6445205,33.0827366
+Kroger,Q00911,Allen,"Allen, TX","1210 N Greenville Ave, Allen, TX",-96.6516893,33.1161921
 Kroger,Q00297,Alvin,"Alvin, TX","3100 S Gordon St, Alvin, TX",-95.2491837,29.3986165
 Kroger,Q01679,Arlington,"Arlington, TX","2350 SE Green Oaks Blvd, Arlington, TX",-97.0661078,32.6593136
 Kroger,Q01857,Arlington,"Arlington, TX","2475 Ascension Blvd, Arlington, TX",-97.0816959,32.7749917
-Kroger,Q01862,Arlington,"Arlington, TX","301 S Bowen Rd, Arlington, TX",-97.148601,32.7332443
+Kroger,Q01862,Arlington,"Arlington, TX","301 S Bowen Rd, Arlington, TX",-97.1485996,32.733225
 Kroger,Q02495,Arlington,"Arlington, TX","945 W Lamar Blvd, Arlington, TX",-97.1181045,32.7624871
 Tom Thumb,Q00906,Arlington,"Arlington, TX","2755 N Collins St, Arlington, TX",-97.0933815,32.7833664
 Tom Thumb,Q01828,Arlington,"Arlington, TX","2611 W Park Row Dr, Arlington, TX",-97.1502413,32.7229226
@@ -17,211 +17,212 @@ H-E-B,Q00778,Austin,"Austin, TX","7901 US-290, Austin, TX",-97.8876823,30.227738
 H-E-B,Q01594,Austin,"Austin, TX","12407 N Mopac Expy, Austin, TX",-97.7032956,30.4171357
 H-E-B,Q01634,Austin,"Austin, TX","2508 E Riverside Dr, Austin, TX",-97.722164,30.236434
 H-E-B,Q01635,Austin,"Austin, TX","7301 N FM 620, Austin, TX",-97.8517213,30.4047315
-H-E-B,Q01851,Austin,"Austin, TX","14028 US-183, Austin, TX",-97.8037363,30.476103
-H-E-B,Q01867,Austin,"Austin, TX","11521 N FM 620, Austin, TX",-97.8255775,30.4538886
+H-E-B,Q01851,Austin,"Austin, TX","14028 US-183, Austin, TX",-97.8037324,30.4760958
+H-E-B,Q01867,Austin,"Austin, TX","11521 N FM 620, Austin, TX",-97.8253833,30.4540704
 Randalls,Q02005,Austin,"Austin, TX","9911 Brodie Ln, Austin, TX",-97.8479107,30.1841194
-Albertsons,Q00908,Azle,"Azle, TX","480 NW Pkwy St, Azle, TX",-97.5443889,32.9020138
+Albertsons,Q00908,Azle,"Azle, TX","480 NW Pkwy St, Azle, TX",-97.5444012,32.9020116
 H-E-B,Q01747,Bastrop,"Bastrop, TX","104 Hasler Blvd, Bastrop, TX",-97.3345216,30.1101711
 H-E-B,Q01863,Baytown,"Baytown, TX","6430 Garth Rd, Baytown, TX",-94.9797083,29.7956677
 Joe V's Smart Shop,Q00298,Baytown,"Baytown, TX","3500 Garth Rd, Baytown, TX",-94.9751886,29.7604689
 H-E-B,Q02000,Bee Cave,"Bee Cave, TX","12400 State Hwy 71, Bee Cave, TX",-97.9325386,30.3046898
 H-E-B,Q00541,Bellaire,"Bellaire, TX","5106 Bissonnet St, Bellaire, TX",-95.4695077,29.7076365
 H-E-B,Q01769,Boerne,"Boerne, TX","420 W Bandera Rd, Boerne, TX",-98.7346951,29.7815073
-H-E-B,Q02135,Boerne,"Boerne, TX","29388 I-10 W, Boerne, TX",-98.6800342,29.7338844
+H-E-B,Q02135,Boerne,"Boerne, TX","29388 I-10 W, Boerne, TX",-98.6815647,29.7348504
 Albertsons,Q00960,Burleson,"Burleson, TX","833 NE Alsbury Blvd, Burleson, TX",-97.3221632,32.5650416
-Albertsons,Q00914,Carrollton,"Carrollton, TX","2150 N Josey Ln, Carrollton, TX",-96.8885526,32.974686
+Albertsons,Q00914,Carrollton,"Carrollton, TX","2150 N Josey Ln, Carrollton, TX",-96.8880116,32.9748163
 WinCo Foods,Q00477,Carrollton,"Carrollton, TX","2620 N Josey Ln, Carrollton, TX",-96.8888878,32.9865784
 Albertsons,Q02345,Cedar Hill,"Cedar Hill, TX","427 E Farm to Market Rd 1382, Cedar Hill, TX",-96.9352054,32.5931321
-H-E-B,Q01642,Cedar Park,"Cedar Park, TX","2800 E Whitestone Blvd, Cedar Park, TX",-97.7851093,30.5322175
+H-E-B,Q01642,Cedar Park,"Cedar Park, TX","2800 E Whitestone Blvd, Cedar Park, TX",-97.7836119,30.5336315
 Randalls,Q02354,Cedar Park,"Cedar Park, TX","1400 Cypress Creek Road, Cedar Park, TX",-97.8295716,30.4828906
-H-E-B,Q02124,Cibolo,"Cibolo, TX","850 FM1103 Suite 100, Cibolo, TX",-98.231002,29.5691808
+H-E-B,Q02124,Cibolo,"Cibolo, TX","850 FM1103 Ste 100, Cibolo, TX",-98.231002,29.5691808
 Kroger,Q01659,Cleburne,"Cleburne, TX","1617 W Henderson St, Cleburne, TX",-97.4130235,32.3370779
 H-E-B,Q01590,Conroe,"Conroe, TX","10200 TX-242, Conroe, TX",-95.4253633,30.206532
 H-E-B,Q01638,Conroe,"Conroe, TX","3601 FM 1488, Conroe, TX",-95.5203712,30.2271282
 H-E-B,Q01803,Conroe,"Conroe, TX","3875 W Davis St, Conroe, TX",-95.5002316,30.3256173
 Kroger,Q00376,Conroe,"Conroe, TX","2222 Interstate 45 N, Conroe, TX",-95.476921,30.3359787
 Kroger,Q00408,Conroe,"Conroe, TX","341 S Loop 336 W, Conroe, TX",-95.4649423,30.2763194
-Kroger,Q01866,Coppell,"Coppell, TX","950 E Sandy Lake Rd, Coppell, TX",-96.9610094,32.9706681
+Kroger,Q01866,Coppell,"Coppell, TX","950 E Sandy Lake Rd, Coppell, TX",-96.9609916,32.9707689
 Tom Thumb,Q00915,Coppell,"Coppell, TX","106 N Denton Tap Rd, Coppell, TX",-96.991895,32.9706941
-Albertsons,Q00953,Corinth,"Corinth, TX","4351 FM2181, Corinth, TX",-97.105209,33.151745
-H-E-B,Q00524,Cypress,"Cypress, TX","9722 Fry Rd, Cypress, TX",-95.7252432,29.9270923
+Albertsons,Q00953,Corinth,"Corinth, TX","4351 FM2181, Corinth, TX",-97.0433611,33.1316005
+H-E-B,Q00524,Cypress,"Cypress, TX","9722 Fry Rd, Cypress, TX",-95.7263622,29.9269071
 H-E-B,Q00530,Cypress,"Cypress, TX","24224 Northwest Fwy, Cypress, TX",-95.6732414,29.9574758
 Kroger,Q00557,Cypress,"Cypress, TX","9703 Barker Cypress Rd, Cypress, TX",-95.6895196,29.9191279
-Kroger,Q00558,Cypress,"Cypress, TX","17455 Spring Cypress Rd, Cypress, TX",-95.6914295,29.9720665
+Kroger,Q00558,Cypress,"Cypress, TX","17455 Spring Cypress Rd, Cypress, TX",-95.691475,29.9720417
 Kroger,Q00777,Cypress,"Cypress, TX","20355 Cypresswood Dr, Cypress, TX",-95.7365086,29.9900718
 Joe V's Smart Shop,Q02480,Dallas,"Dallas, TX","4101 W Wheatland Rd, Dallas, TX",-96.8867292,32.6489756
 Joe V's Smart Shop,Q02492,Dallas,"Dallas, TX","7700 Samuell Blvd, Dallas, TX",-96.6861266,32.7911345
-Kroger,Q00964,Dallas,"Dallas, TX","17194 Preston Rd, Dallas, TX",-96.8010226,32.9843624
+Kroger,Q00964,Dallas,"Dallas, TX","17194 Preston Rd, Dallas, TX",-96.8010665,32.9840888
 Kroger,Q01716,Dallas,"Dallas, TX","9140 Forest Ln, Dallas, TX",-96.7452266,32.9082048
 Kroger,Q02132,Dallas,"Dallas, TX","4901 Maple Ave, Dallas, TX",-96.8291872,32.814215
 Tom Thumb,Q00531,Dallas,"Dallas, TX","4625 Frankford Rd, Dallas, TX",-96.8272282,32.9994232
-Tom Thumb,Q00901,Dallas,"Dallas, TX","3757 Forest Ln, Dallas, TX",-96.8530302,32.9108775
-Tom Thumb,Q00902,Dallas,"Dallas, TX","5809 E Lovers Ln, Dallas, TX",-96.7670248,32.8522585
+Tom Thumb,Q00901,Dallas,"Dallas, TX","3757 Forest Ln, Dallas, TX",-96.8530243,32.9104027
+Tom Thumb,Q00902,Dallas,"Dallas, TX","5809 E Lovers Ln, Dallas, TX",-96.7671327,32.852128
 Tom Thumb,Q01178,Dallas,"Dallas, TX","11920 Preston Rd, Dallas, TX",-96.8022705,32.9111231
 Tom Thumb,Q01748,Dallas,"Dallas, TX","7117 Inwood Rd, Dallas, TX",-96.8226523,32.8444816
 Kroger,Q01892,DeSoto,"DeSoto, TX","1001 N Interstate 35 E Rd STE 500, DeSoto, TX",-96.8256267,32.6055839
-Kroger,Q00965,Denton,"Denton, TX","1592 S Loop 288, Denton, TX",-97.0951057,33.1939913
+Kroger,Q00965,Denton,"Denton, TX","1592 S Loop 288, Denton, TX",-97.0950617,33.1940429
 Tom Thumb,Q01834,Desoto,"Desoto, TX","210 E Pleasant Run Rd, Desoto, TX",-96.856377,32.6039064
 Kroger,Q01667,Duncanville,"Duncanville, TX","200 W Camp Wisdom Rd, Duncanville, TX",-96.9093422,32.6605563
 Tom Thumb,Q00896,Duncanville,"Duncanville, TX","633 W Wheatland Rd, Duncanville, TX",-96.9227583,32.6482198
 WinCo Foods,Q02490,Duncanville,"Duncanville, TX","800 S Cockrell Hill Rd, Duncanville, TX",-96.8890492,32.6452961
-Kroger,Q00910,Flower Mound,"Flower Mound, TX","1101 Flower Mound Rd, Flower Mound, TX",-97.0469876,33.0096225
-Kroger,Q00956,Flower Mound,"Flower Mound, TX","2709 Cross Timbers Rd, Flower Mound, TX",-97.0720218,33.0358263
+Kroger,Q00910,Flower Mound,"Flower Mound, TX","1101 Flower Mound Rd, Flower Mound, TX",-97.0469118,33.0096272
+Kroger,Q00956,Flower Mound,"Flower Mound, TX","2709 Cross Timbers Rd, Flower Mound, TX",-97.0720191,33.0358288
 Tom Thumb,Q00484,Flower Mound,"Flower Mound, TX","745 Cross Timbers Rd, Flower Mound, TX",-97.0382503,33.0409232
-Kroger,Q01847,Forney,"Forney, TX","500 Marketplace Blvd, Forney, TX",-96.4494144,32.7490841
+Kroger,Q01847,Forney,"Forney, TX","500 Marketplace Blvd, Forney, TX",-96.4493444,32.7488226
 Albertsons,Q00452,Fort Worth,"Fort Worth, TX","9300 Clifford St, Fort Worth, TX",-97.4792178,32.7668759
-Albertsons,Q00907,Fort Worth,"Fort Worth, TX","850 E Loop 820, Fort Worth, TX",-97.215121,32.7674039
-Kroger,Q00482,Fort Worth,"Fort Worth, TX","113 E Bonds Ranch Rd, Fort Worth, TX",-97.3571687,32.9260967
-Kroger,Q00948,Fort Worth,"Fort Worth, TX","5241 N Tarrant Pkwy, Fort Worth, TX",-97.2703504,32.8959289
+Albertsons,Q00907,Fort Worth,"Fort Worth, TX","850 E Loop 820, Fort Worth, TX",-97.2143927,32.7675054
+Kroger,Q00482,Fort Worth,"Fort Worth, TX","113 E Bonds Ranch Rd, Fort Worth, TX",-97.3568547,32.9260665
+Kroger,Q00948,Fort Worth,"Fort Worth, TX","5241 N Tarrant Pkwy, Fort Worth, TX",-97.2703339,32.8959177
 Kroger,Q00958,Fort Worth,"Fort Worth, TX","1653 Basswood Blvd, Fort Worth, TX",-97.3403472,32.8722212
-Kroger,Q01856,Fort Worth,"Fort Worth, TX","12600 N Beach St, Fort Worth, TX",-97.2797856,32.9558169
-Tom Thumb,Q00895,Fort Worth,"Fort Worth, TX","3100 S Hulen St, Fort Worth, TX",-97.3889283,32.7064005
+Kroger,Q01856,Fort Worth,"Fort Worth, TX","12600 N Beach St, Fort Worth, TX",-97.2802669,32.956234
+Tom Thumb,Q00895,Fort Worth,"Fort Worth, TX","3100 S Hulen St, Fort Worth, TX",-97.3888016,32.7071539
 WinCo Foods,Q00461,Fort Worth,"Fort Worth, TX","8000 Crowley Rd, Fort Worth, TX",-97.3494615,32.6327405
 WinCo Foods,Q02002,Fort Worth,"Fort Worth, TX","8968 Tehama Ridge Pkwy, Fort Worth, TX",-97.3207727,32.9031548
-Kroger,Q01864,Friendswood,"Friendswood, TX","151 N Friendswood Dr, Friendswood, TX",-95.2067897,29.5350451
+Kroger,Q00550,Friendswood,"Friendswood, TX","3135 FM 528 Rd, Friendswood, TX",-95.159987,29.5208932
+Kroger,Q01864,Friendswood,"Friendswood, TX","151 N Friendswood Dr, Friendswood, TX",-95.2067861,29.5350444
 Kroger,Q01646,Frisco,"Frisco, TX","3205 Main St, Frisco, TX",-96.8634496,33.1526489
-Kroger,Q00554,Galveston,"Galveston, TX","5730 Seawall Blvd, Galveston, TX",-94.8233273,29.2695661
+Kroger,Q00554,Galveston,"Galveston, TX","5730 Seawall Blvd, Galveston, TX",-94.8233154,29.2695554
 Kroger,Q02091,Garland,"Garland, TX","6850 N Shiloh Rd, Garland, TX",-96.6639791,32.9774097
 Tom Thumb,Q02485,Garland,"Garland, TX","2645 Arapaho Rd, Garland, TX",-96.6669025,32.9608694
-WinCo Foods,Q00528,Garland,"Garland, TX","1122 W Centerville Rd, Garland, TX",-96.6439155,32.8552142
+WinCo Foods,Q00528,Garland,"Garland, TX","1122 W Centerville Rd, Garland, TX",-96.6438512,32.855043
 H-E-B,Q02384,Georgetown,"Georgetown, TX","1010 W University Ave, Georgetown, TX",-97.6945197,30.6352531
 H-E-B,Q02479,Georgetown,"Georgetown, TX","19348 Ronald Reagan Blvd, Georgetown, TX",-97.8398922,30.6595221
 Kroger,Q02001,Grand Prairie,"Grand Prairie, TX","313 E Pioneer Pkwy, Grand Prairie, TX",-97.0010489,32.7082205
-Tom Thumb,Q00897,Grand Prairie,"Grand Prairie, TX","4215 S Carrier Pkwy, Grand Prairie, TX",-97.0033568,32.6712406
+Tom Thumb,Q00897,Grand Prairie,"Grand Prairie, TX","4215 S Carrier Pkwy, Grand Prairie, TX",-97.0033626,32.6712539
 H-E-B,Q00306,Houston,"Houston, TX","5225 Buffalo Speedway, Houston, TX",-95.4271763,29.7269681
 H-E-B,Q00390,Houston,"Houston, TX","3501 Clear Lake City Blvd, Houston, TX",-95.1269202,29.6054735
 H-E-B,Q00451,Houston,"Houston, TX","4955 Beechnut St, Houston, TX",-95.464334,29.688939
 H-E-B,Q00457,Houston,"Houston, TX","12680 W Lake Houston Pkwy, Houston, TX",-95.1969934,29.9235757
 H-E-B,Q00520,Houston,"Houston, TX","10919 Louetta Rd, Houston, TX",-95.5763325,29.9954598
 H-E-B,Q00526,Houston,"Houston, TX","9503 Jones Rd, Houston, TX",-95.5861338,29.9110223
-H-E-B,Q00542,Houston,"Houston, TX","2300 N Shepherd Dr, Houston, TX",-95.4084616,29.8077194
-H-E-B,Q00543,Houston,"Houston, TX","1550 Fry Rd, Houston, TX",-95.7181191,29.7896411
-Joe V's Smart Shop,Q00522,Houston,"Houston, TX","7755 W Bellfort Ave, Houston, TX",-95.5130175,29.6552121
+H-E-B,Q00542,Houston,"Houston, TX","2300 N Shepherd Dr, Houston, TX",-95.4092387,29.8073763
+H-E-B,Q00543,Houston,"Houston, TX","1550 N Fry Rd, Houston, TX",-95.7181191,29.7896411
+Joe V's Smart Shop,Q00522,Houston,"Houston, TX","7755 W Bellfort Ave, Houston, TX",-95.5131208,29.6551882
 Joe V's Smart Shop,Q00536,Houston,"Houston, TX","6100 W Fuqua St, Houston, TX",-95.4772881,29.607911
 Joe V's Smart Shop,Q00771,Houston,"Houston, TX","2929 Fm 1960, Houston, TX",-95.3826379,30.0223039
 Joe V's Smart Shop,Q01669,Houston,"Houston, TX","10241 N Fwy Service Rd, Houston, TX",-95.4137545,29.9114418
 Joe V's Smart Shop,Q01848,Houston,"Houston, TX","612 N Victory Dr, Houston, TX",-95.4134354,29.872526
 Kroger,Q00288,Houston,"Houston, TX","12222 Jones Rd, Houston, TX",-95.5837183,29.9510271
 Kroger,Q00294,Houston,"Houston, TX","10306 S Post Oak Rd, Houston, TX",-95.4639481,29.6692956
-Kroger,Q00299,Houston,"Houston, TX","9919 Westheimer Rd, Houston, TX",-95.5440242,29.7366028
+Kroger,Q00299,Houston,"Houston, TX","9919 Westheimer Rd, Houston, TX",-95.5449945,29.7363479
 Kroger,Q00300,Houston,"Houston, TX","16400 El Camino Real, Houston, TX",-95.1248033,29.5587589
-Kroger,Q00302,Houston,"Houston, TX","11701 East Sam Houston Pkwy S, Houston, TX",-95.1739315,29.6267425
-Kroger,Q00309,Houston,"Houston, TX","1801 S Voss Rd, Houston, TX",-95.5000897,29.7482589
-Kroger,Q00389,Houston,"Houston, TX","360 Cypress Creek Pkwy, Houston, TX",-95.4353618,30.0215106
-Kroger,Q00394,Houston,"Houston, TX","10010 Cypresswood Dr, Houston, TX",-95.5658505,29.9819699
-Kroger,Q00395,Houston,"Houston, TX","1520 Eldridge Pkwy, Houston, TX",-95.6258347,29.756662
-Kroger,Q00396,Houston,"Houston, TX","1035 N Shepherd Dr, Houston, TX",-95.4111975,29.7890691
-Kroger,Q00402,Houston,"Houston, TX","12400 Farm to Market 1960 Rd W, Houston, TX",-95.6047522,29.9224638
+Kroger,Q00302,Houston,"Houston, TX","11701 East Sam Houston Pkwy S, Houston, TX",-95.1762277,29.6251585
+Kroger,Q00309,Houston,"Houston, TX","1801 S Voss Rd, Houston, TX",-95.5001129,29.748278
+Kroger,Q00389,Houston,"Houston, TX","360 Cypress Creek Pkwy, Houston, TX",-95.4348707,30.0213508
+Kroger,Q00394,Houston,"Houston, TX","10010 Cypresswood Dr, Houston, TX",-95.5666504,29.982724
+Kroger,Q00395,Houston,"Houston, TX","1520 Eldridge Pkwy, Houston, TX",-95.6274762,29.7574592
+Kroger,Q00396,Houston,"Houston, TX","1035 N Shepherd Dr, Houston, TX",-95.4108389,29.789346
+Kroger,Q00402,Houston,"Houston, TX","12400 FM 1960 W, Houston, TX",-95.6044259,29.9230693
 Kroger,Q00406,Houston,"Houston, TX","6322 Telephone Rd, Houston, TX",-95.291058,29.6747992
-Kroger,Q00456,Houston,"Houston, TX","9303 S Texas 6, Houston, TX",-95.6429505,29.6782369
-Kroger,Q00555,Houston,"Houston, TX","14221 East Sam Houston Pkwy N, Houston, TX",-95.2037069,29.9245734
-Kroger,Q00565,Houston,"Houston, TX","9330 Jones Rd, Houston, TX",-95.5835809,29.9097279
-Kroger,Q01858,Houston,"Houston, TX","1440 Studemont St, Houston, TX",-95.3897016,29.7737794
-Kroger,Q01881,Houston,"Houston, TX","12620 Woodforest Blvd, Houston, TX",-95.2009339,29.79099
+Kroger,Q00456,Houston,"Houston, TX","9303 S Texas 6, Houston, TX",-95.6417522,29.6786803
+Kroger,Q00555,Houston,"Houston, TX","14221 East Sam Houston Pkwy N, Houston, TX",-95.2039972,29.9245533
+Kroger,Q00565,Houston,"Houston, TX","9330 Jones Rd, Houston, TX",-95.5837183,29.908514
+Kroger,Q01858,Houston,"Houston, TX","1440 Studemont St, Houston, TX",-95.389722,29.7746128
+Kroger,Q01881,Houston,"Houston, TX","12620 Woodforest Blvd, Houston, TX",-95.2001559,29.7908998
 Mi Tienda,Q01888,Houston,"Houston, TX","3800 Little York Rd, Houston, TX",-95.3331005,29.8699045
 Randalls,Q00553,Houston,"Houston, TX","3131 W Holcombe Blvd, Houston, TX",-95.4254575,29.7047527
-Randalls,Q00562,Houston,"Houston, TX","2225 Louisiana St, Houston, TX",-95.3746713,29.7490072
-Randalls,Q00773,Houston,"Houston, TX","12850 Memorial Dr, Houston, TX",-95.56181,29.7741532
+Randalls,Q00562,Houston,"Houston, TX","2225 Louisiana St, Houston, TX",-95.3744437,29.7489629
+Randalls,Q00773,Houston,"Houston, TX","12850 Memorial Dr, Houston, TX",-95.5610716,29.7757171
 Randalls,Q01846,Houston,"Houston, TX","5219 FM 1960 W, Houston, TX",-95.5088252,29.979628
-Randalls,Q01880,Houston,"Houston, TX","18322 Clay Rd, Houston, TX",-95.6837207,29.8328016
+Randalls,Q01880,Houston,"Houston, TX","18322 Clay Rd, Houston, TX",-95.6837234,29.8328025
 Kroger,Q00387,Humble,"Humble, TX","19300 W Lake Houston Pkwy, Humble, TX",-95.1609646,30.001196
 H-E-B,Q00464,Huntsville,"Huntsville, TX","1702 11th St, Huntsville, TX",-95.5607435,30.7220926
 Joe V's Smart Shop,Q02487,Irving,"Irving, TX","2407 W Airport Fwy, Irving, TX",-96.9777908,32.8386358
-Kroger,Q01860,Irving,"Irving, TX","7505 N MacArthur Blvd, Irving, TX",-96.960506,32.9112998
+Kroger,Q01860,Irving,"Irving, TX","7505 N MacArthur Blvd, Irving, TX",-96.9595155,32.9074816
 Tom Thumb,Q02488,Irving,"Irving, TX","4010 N MacArthur Blvd, Irving, TX",-96.9574026,32.8598445
-H-E-B,Q00405,Katy,"Katy, TX","24924 Morton Ranch Rd, Katy, TX",-95.8055703,29.8189063
-H-E-B,Q00532,Katy,"Katy, TX","25675 Nelson Way, Katy, TX",-95.8223824,29.773716
-H-E-B,Q01808,Katy,"Katy, TX","1621 Mason Rd, Katy, TX",-95.7514354,29.7578514
-H-E-B,Q01861,Katy,"Katy, TX","6711 S Fry Rd, Katy, TX",-95.7762371,29.7129493
+H-E-B,Q00405,Katy,"Katy, TX","24924 Morton Ranch Rd, Katy, TX",-95.8059255,29.8172274
+H-E-B,Q00532,Katy,"Katy, TX","25675 Nelson Way, Katy, TX",-95.8198408,29.7745613
+H-E-B,Q01808,Katy,"Katy, TX","1621 S Mason Rd, Katy, TX",-95.7505857,29.7574815
+H-E-B,Q01861,Katy,"Katy, TX","6711 S Fry Rd, Katy, TX",-95.7759077,29.7126029
 Joe V's Smart Shop,Q01873,Katy,"Katy, TX","4107 N Fry Rd, Katy, TX",-95.7219635,29.8320877
-Kroger,Q00296,Katy,"Katy, TX","22150 Westheimer Pkwy, Katy, TX",-95.7548953,29.7345519
-Kroger,Q00313,Katy,"Katy, TX","1712 Spring Green Blvd, Katy, TX",-95.8429666,29.7632255
+Kroger,Q00296,Katy,"Katy, TX","22150 Westheimer Pkwy, Katy, TX",-95.7540105,29.7353794
+Kroger,Q00313,Katy,"Katy, TX","1712 Spring Green Blvd, Katy, TX",-95.843772,29.7628628
 Kroger,Q00378,Katy,"Katy, TX","9806 Gaston Rd, Katy, TX",-95.8100123,29.7366719
-Kroger,Q00397,Katy,"Katy, TX","2700 W Grand Pkwy N, Katy, TX",-95.7723057,29.8126778
-Kroger,Q00757,Katy,"Katy, TX","6055 N Fry Rd, Katy, TX",-95.7215909,29.8599149
-Randalls,Q01818,Katy,"Katy, TX","525 S Fry Rd, Katy, TX",-95.7169845,29.7793597
-Kroger,Q00905,Keller,"Keller, TX","2061 Rufe Snow Dr, Keller, TX",-97.2368011,32.8971839
+Kroger,Q00397,Katy,"Katy, TX","2700 W Grand Pkwy N, Katy, TX",-95.7701287,29.8126517
+Kroger,Q00757,Katy,"Katy, TX","6055 N Fry Rd, Katy, TX",-95.721591,29.8599148
+Randalls,Q01818,Katy,"Katy, TX","525 S Fry Rd, Katy, TX",-95.7170225,29.7794049
+Kroger,Q00905,Keller,"Keller, TX","2061 Rufe Snow Dr, Keller, TX",-97.2380878,32.8967565
 Kroger,Q02491,Keller,"Keller, TX","976 Keller Pkwy, Keller, TX",-97.230398,32.9322416
 H-E-B,Q02127,Kerrville,"Kerrville, TX","300 W Main St, Kerrville, TX",-99.1447631,30.0514858
 H-E-B,Q00462,Kingwood,"Kingwood, TX","19529 Northpark Dr, Kingwood, TX",-95.2517348,30.0686242
 H-E-B,Q01865,Kingwood,"Kingwood, TX","4517 Kingwood Dr, Kingwood, TX",-95.1838003,30.0526386
-Kroger,Q00560,Kingwood,"Kingwood, TX","3410 Northpark Dr, Kingwood, TX",-95.1871226,30.0667111
+Kroger,Q00560,Kingwood,"Kingwood, TX","3410 Northpark Dr, Kingwood, TX",-95.1871423,30.0666327
 H-E-B,Q01776,Kyle,"Kyle, TX","5401 Farm to Market 1626, Kyle, TX",-97.8619569,30.0156244
-Kroger,Q00381,La Porte,"La Porte, TX","1300 W Fairmont Pkwy, La Porte, TX",-95.0319438,29.6527065
+Kroger,Q00381,La Porte,"La Porte, TX","1300 W Fairmont Pkwy, La Porte, TX",-95.0319638,29.6527054
 H-E-B,Q01804,La Vernia,"La Vernia, TX","14414 U.S. Hwy 87 W, La Vernia, TX",-98.1369872,29.3581654
 Kroger,Q00400,League City,"League City, TX","1920 W League City Pkwy, League City, TX",-95.1136501,29.4886024
 Kroger,Q00551,League City,"League City, TX","2750 E League City Pkwy, League City, TX",-95.0414925,29.5077121
-Randalls,Q00763,League City,"League City, TX","2951 Marina Bay Dr Suite B, League City, TX",-95.0629729,29.5387211
+Randalls,Q00763,League City,"League City, TX","2951 Marina Bay Dr Ste B, League City, TX",-95.0629729,29.5387211
 H-E-B,Q02494,Leander,"Leander, TX","651 N US Hwy 183, Leander, TX",-97.8555169,30.5832398
 Randalls,Q00316,Leander,"Leander, TX","3441 N Lakeline Blvd, Leander, TX",-97.8650798,30.5429991
-Kroger,Q02003,Lewisville,"Lewisville, TX","4620 State Hwy 121, Lewisville, TX",-96.8893625,33.0622121
-WinCo Foods,Q02066,Lewisville,"Lewisville, TX","1288 W Main St, Lewisville, TX",-97.0251466,33.0399117
-H-E-B,Q01784,Lytle,"Lytle, TX","19337 McDonald St, Lytle, TX",-98.7904617,29.2311726
+Kroger,Q02003,Lewisville,"Lewisville, TX","4620 State Hwy 121, Lewisville, TX",-96.8891288,33.0621991
+WinCo Foods,Q02066,Lewisville,"Lewisville, TX","1288 W Main St, Lewisville, TX",-97.0268264,33.0405172
+H-E-B,Q01784,Lytle,"Lytle, TX","19337 McDonald St, Lytle, TX",-98.7917735,29.2315909
 H-E-B,Q01662,Magnolia,"Magnolia, TX","7988 FM 1488, Magnolia, TX",-95.5842765,30.2215455
-H-E-B,Q02131,Manor,"Manor, TX","13100 N FM973, Manor, TX",-97.5387578,30.351737
+H-E-B,Q02131,Manor,"Manor, TX","13100 N FM973, Manor, TX",-97.5387975,30.352075
 Kroger,Q01657,Mansfield,"Mansfield, TX","3001 Matlock Rd, Mansfield, TX",-97.1174316,32.6065805
-H-E-B,Q01845,Manvel,"Manvel, TX","17119 Hwy 6, Manvel, TX",-95.4059672,29.4861455
-Albertsons,Q00490,McKinney,"McKinney, TX","3001 S Central Expy, McKinney, TX",-96.6382433,33.1698067
-Kroger,Q02083,McKinney,"McKinney, TX","1801 N Lake Forest Dr, McKinney, TX",-96.6811124,33.2162479
+H-E-B,Q01845,Manvel,"Manvel, TX","17119 Hwy 6, Manvel, TX",-95.4058584,29.4863992
+Albertsons,Q00490,McKinney,"McKinney, TX","3001 S Central Expy, McKinney, TX",-96.6380912,33.1708225
+Kroger,Q02083,McKinney,"McKinney, TX","1801 N Lake Forest Dr, McKinney, TX",-96.6805193,33.2164588
 Tom Thumb,Q00904,McKinney,"McKinney, TX","6800 Virginia Pkwy, McKinney, TX",-96.7064243,33.200557
-Tom Thumb,Q00459,Mckinney,"Mckinney, TX","3001 Hardin Blvd, Mckinney, TX",-96.6642923,33.1673028
+Tom Thumb,Q00459,Mckinney,"Mckinney, TX","3001 S Hardin Blvd, Mckinney, TX",-96.6642923,33.1673028
 Albertsons,Q00898,Mesquite,"Mesquite, TX","2828 Motley Dr, Mesquite, TX",-96.6456221,32.8037008
 Kroger,Q01850,Mesquite,"Mesquite, TX","525 N Galloway Ave, Mesquite, TX",-96.6005224,32.7717846
 Tom Thumb,Q00899,Mesquite,"Mesquite, TX","1501 Pioneer Rd, Mesquite, TX",-96.5862506,32.7461059
-Kroger,Q02004,Midlothian,"Midlothian, TX","2200 FM 663, Midlothian, TX",-96.9928065,32.4584454
-Kroger,Q00403,Missouri City,"Missouri City, TX","6200 Hwy 6, Missouri City, TX",-95.5648761,29.5640038
+Kroger,Q02004,Midlothian,"Midlothian, TX","2200 FM 663, Midlothian, TX",-96.9928264,32.4584464
+Kroger,Q00403,Missouri City,"Missouri City, TX","6200 Hwy 6, Missouri City, TX",-95.5640045,29.564184
 Kroger,Q00407,Missouri City,"Missouri City, TX","10250 Hwy 6, Missouri City, TX",-95.5110503,29.5296033
-Kroger,Q00547,Montgomery,"Montgomery, TX","20168 Eva St, Montgomery, TX",-95.6778541,30.3898848
-H-E-B,Q01849,New Braunfels,"New Braunfels, TX","651 S Walnut Ave, New Braunfels, TX",-98.1260048,29.6888647
+Kroger,Q00547,Montgomery,"Montgomery, TX","20168 Eva St, Montgomery, TX",-95.6780538,30.3900309
+H-E-B,Q01849,New Braunfels,"New Braunfels, TX","651 S Walnut Ave, New Braunfels, TX",-98.126897,29.6889537
 H-E-B,Q02375,New Braunfels,"New Braunfels, TX","2965 I 35 N Frontage Rd, New Braunfels, TX",-98.0770815,29.7309969
 Kroger,Q00303,New Caney,"New Caney, TX","22030 Market Pl Dr, New Caney, TX",-95.2366264,30.13311
 Kroger,Q00539,North Richland Hills,"North Richland Hills, TX","7201 Blvd 26, North Richland Hills, TX",-97.2277021,32.8247935
-Kroger,Q01663,North Richland Hills,"North Richland Hills, TX","9150 N Tarrant Pkwy, North Richland Hills, TX",-97.1886237,32.9020671
+Kroger,Q01663,North Richland Hills,"North Richland Hills, TX","9150 N Tarrant Pkwy, North Richland Hills, TX",-97.1891289,32.9025637
 WinCo Foods,Q00458,North Richland Hills,"North Richland Hills, TX","5152 Rufe Snow Dr, North Richland Hills, TX",-97.2351867,32.8430674
 Joe V's Smart Shop,Q01879,Pasadena,"Pasadena, TX","4203 Red Bluff Rd, Pasadena, TX",-95.1470356,29.6802908
-Kroger,Q00290,Pasadena,"Pasadena, TX","2619 Red Bluff Rd, Pasadena, TX",-95.1740464,29.6965277
-Kroger,Q00291,Pasadena,"Pasadena, TX","3550 Spencer Hwy, Pasadena, TX",-95.1894311,29.6646841
+Kroger,Q00290,Pasadena,"Pasadena, TX","2619 Red Bluff Rd, Pasadena, TX",-95.1741643,29.696465
+Kroger,Q00291,Pasadena,"Pasadena, TX","3550 Spencer Hwy, Pasadena, TX",-95.1894553,29.6646803
 Kroger,Q00552,Pasadena,"Pasadena, TX","6767 Spencer Hwy, Pasadena, TX",-95.1358244,29.6643597
-H-E-B,Q00466,Pearland,"Pearland, TX","2805 Business Center Dr, Pearland, TX",-95.3900697,29.5571834
+H-E-B,Q00466,Pearland,"Pearland, TX","2805 Business Center Dr, Pearland, TX",-95.3919919,29.5574218
 H-E-B,Q01889,Pearland,"Pearland, TX","2710 Pearland Pkwy, Pearland, TX",-95.2649888,29.5581925
-Kroger,Q00295,Pearland,"Pearland, TX","3245 Broadway St, Pearland, TX",-95.2711707,29.5603795
-Kroger,Q00301,Pearland,"Pearland, TX","8323 Broadway St, Pearland, TX",-95.3489815,29.5604214
-Kroger,Q00307,Pearland,"Pearland, TX","11003 Shadow Creek Pkwy, Pearland, TX",-95.3898979,29.5830621
+Kroger,Q00295,Pearland,"Pearland, TX","3245 E Broadway St, Pearland, TX",-95.2711707,29.5603795
+Kroger,Q00301,Pearland,"Pearland, TX","8323 W Broadway St, Pearland, TX",-95.3489815,29.5604214
+Kroger,Q00307,Pearland,"Pearland, TX","11003 Shadow Creek Pkwy, Pearland, TX",-95.3898827,29.5830526
 Randalls,Q01844,Pearland,"Pearland, TX","10228 W Broadway St, Pearland, TX",-95.3789852,29.5559662
 H-E-B,Q02498,Pflugerville,"Pflugerville, TX","201 FM 685, Pflugerville, TX",-97.6124552,30.4368594
-H-E-B,Q02493,Plano,"Plano, TX","6001 Preston Rd, Plano, TX",-96.797351,33.0550863
+H-E-B,Q02493,Plano,"Plano, TX","6001 Preston Rd, Plano, TX",-96.7966298,33.0551689
 Kroger,Q00243,Plano,"Plano, TX","7100 Independence Pkwy, Plano, TX",-96.7485629,33.0733868
-Kroger,Q01673,Plano,"Plano, TX","3305 Dallas Pkwy, Plano, TX",-96.8318211,33.0472808
-Kroger,Q01702,Plano,"Plano, TX","2925 Custer Rd, Plano, TX",-96.733851,33.0389876
-H-E-B,Q02145,Pleasanton,"Pleasanton, TX","219 W Oaklawn Rd, Pleasanton, TX",-98.4865617,28.9559917
-Kroger,Q01633,Richardson,"Richardson, TX","536 Centennial Blvd, Richardson, TX",-96.7208018,32.9365126
-Tom Thumb,Q00916,Richardson,"Richardson, TX","1380 W Campbell Rd, Richardson, TX",-96.7669433,32.9800948
-Tom Thumb,Q00919,Richardson,"Richardson, TX","3411 Custer Pkwy, Richardson, TX",-96.7305001,32.9987198
-H-E-B,Q00441,Richmond,"Richmond, TX","10161 W Grand Pkwy S, Richmond, TX",-95.7134212,29.659407
+Kroger,Q01673,Plano,"Plano, TX","3305 Dallas Pkwy, Plano, TX",-96.8321687,33.0479176
+Kroger,Q01702,Plano,"Plano, TX","2925 Custer Rd, Plano, TX",-96.7348481,33.0387653
+H-E-B,Q02145,Pleasanton,"Pleasanton, TX","219 W Oaklawn Rd, Pleasanton, TX",-98.4862987,28.9563985
+Kroger,Q01633,Richardson,"Richardson, TX","536 Centennial Blvd, Richardson, TX",-96.7203002,32.9374159
+Tom Thumb,Q00916,Richardson,"Richardson, TX","1380 W Campbell Rd, Richardson, TX",-96.7669198,32.9801906
+Tom Thumb,Q00919,Richardson,"Richardson, TX","3411 Custer Pkwy, Richardson, TX",-96.730629,32.9988198
+H-E-B,Q00441,Richmond,"Richmond, TX","10161 W Grand Pkwy S, Richmond, TX",-95.7133936,29.6599885
 H-E-B,Q01593,Richmond,"Richmond, TX","9211 Farm to Market Rd 723, Richmond, TX",-95.8159522,29.6957811
-H-E-B,Q01878,Richmond,"Richmond, TX","23500 Circle Oak Pkwy, Richmond, TX",-95.7477431,29.551683
-Kroger,Q00304,Richmond,"Richmond, TX","6425 Fm 1464, Richmond, TX",-95.6857361,29.708561
+H-E-B,Q01878,Richmond,"Richmond, TX","23500 Circle Oak Pkwy, Richmond, TX",-95.7475583,29.5517421
+Kroger,Q00304,Richmond,"Richmond, TX","6425 Fm 1464, Richmond, TX",-95.6868871,29.7086921
 Kroger,Q01835,Richmond,"Richmond, TX","25050 FM 1093, Richmond, TX",-95.8115319,29.7005873
 Kroger,Q01870,Richmond,"Richmond, TX","8011 W Grand Pkwy S, Richmond, TX",-95.738539,29.6628052
 Randalls,Q01838,Richmond,"Richmond, TX","1890 FM359, Richmond, TX",-95.7423242,29.6220342
-Kroger,Q02080,Rockwall,"Rockwall, TX","1950 N Goliad St, Rockwall, TX",-96.4617052,32.9498186
+Kroger,Q02080,Rockwall,"Rockwall, TX","1950 N Goliad St, Rockwall, TX",-96.460795,32.9495494
 Tom Thumb,Q00463,Rockwall,"Rockwall, TX","3070 N Goliad St, Rockwall, TX",-96.4624985,32.9645094
-Kroger,Q00567,Rosenberg,"Rosenberg, TX","24401 Brazos Town Crossing, Rosenberg, TX",-95.7515926,29.5425358
+Kroger,Q00567,Rosenberg,"Rosenberg, TX","24401 Brazos Town Crossing, Rosenberg, TX",-95.7521025,29.5423675
 H-E-B,Q00803,Round Rock,"Round Rock, TX","1700 E Palm Valley Blvd, Round Rock, TX",-97.6560649,30.5190598
 H-E-B,Q01718,Round Rock,"Round Rock, TX","3750 Gattis School Rd, Round Rock, TX",-97.6148105,30.4989322
-Randalls,Q02374,Round Rock,"Round Rock, TX","2051 Gattis School Rd, Round Rock, TX",-97.6548099,30.4951389
+Randalls,Q02374,Round Rock,"Round Rock, TX","2051 Gattis School Rd, Round Rock, TX",-97.6547202,30.4951151
 Tom Thumb,Q02357,Rowlett,"Rowlett, TX","8805 Lakeview Pkwy, Rowlett, TX",-96.5163297,32.9204573
-Albertsons,Q00963,Saginaw,"Saginaw, TX","1201 N Saginaw Blvd, Saginaw, TX",-97.381926,32.880357
-H-E-B,Q01734,San Antonio,"San Antonio, TX","15489 Culebra Rd, San Antonio, TX",-98.802725,29.5245758
+Albertsons,Q00963,Saginaw,"Saginaw, TX","1201 N Saginaw Blvd, Saginaw, TX",-97.3823841,32.8797329
+H-E-B,Q01734,San Antonio,"San Antonio, TX","15489 Culebra Rd, San Antonio, TX",-98.8021028,29.5238814
 H-E-B,Q01780,San Antonio,"San Antonio, TX","10718 Potranco Rd, San Antonio, TX",-98.7038112,29.4340287
 H-E-B,Q01793,San Antonio,"San Antonio, TX","4100 New Braunfels Ave, San Antonio, TX",-98.4571401,29.3767704
-H-E-B,Q01822,San Antonio,"San Antonio, TX","11551 West Ave, San Antonio, TX",-98.5108629,29.5470211
-H-E-B,Q01833,San Antonio,"San Antonio, TX","14087 O'Connor Rd, San Antonio, TX",-98.3865596,29.5690349
+H-E-B,Q01822,San Antonio,"San Antonio, TX","11551 West Ave, San Antonio, TX",-98.5108396,29.5470241
+H-E-B,Q01833,San Antonio,"San Antonio, TX","14087 O'Connor Rd, San Antonio, TX",-98.3868165,29.5696482
 H-E-B,Q01837,San Antonio,"San Antonio, TX","6839 San Pedro Ave, San Antonio, TX",-98.500293,29.5036053
-H-E-B,Q01855,San Antonio,"San Antonio, TX","735 SW Military Dr, San Antonio, TX",-98.5029047,29.3577962
-H-E-B,Q01875,San Antonio,"San Antonio, TX","20935 U.S. Hwy 281 N, San Antonio, TX",-98.457476,29.6412391
+H-E-B,Q01855,San Antonio,"San Antonio, TX","735 SW Military Dr, San Antonio, TX",-98.50277,29.3575519
+H-E-B,Q01875,San Antonio,"San Antonio, TX","20935 U.S. Hwy 281 N, San Antonio, TX",-98.457524,29.6412607
 H-E-B,Q01891,San Antonio,"San Antonio, TX","1520 Austin Hwy, San Antonio, TX",-98.4312741,29.4933386
-H-E-B,Q02106,San Antonio,"San Antonio, TX","999 E Basse Rd, San Antonio, TX",-98.4670696,29.4990641
+H-E-B,Q02106,San Antonio,"San Antonio, TX","999 E Basse Rd, San Antonio, TX",-98.4705456,29.4978335
 H-E-B,Q02116,San Antonio,"San Antonio, TX","1150 TX-1604 Loop, San Antonio, TX",-98.5103294,29.6065187
 H-E-B,Q02129,San Antonio,"San Antonio, TX","12125 Alamo Ranch Pkwy, San Antonio, TX",-98.7316905,29.4852069
 H-E-B,Q02146,San Antonio,"San Antonio, TX","8219 Marbach Rd, San Antonio, TX",-98.6511208,29.4199954
@@ -230,14 +231,14 @@ H-E-B,Q02149,San Antonio,"San Antonio, TX","12777 I-10, San Antonio, TX",-98.588
 H-E-B,Q02334,San Antonio,"San Antonio, TX","18140 San Pedro Ave, San Antonio, TX",-98.4669278,29.6069018
 H-E-B,Q02343,San Antonio,"San Antonio, TX","9238 N Loop 1604 W, San Antonio, TX",-98.664184,29.5536932
 H-E-B,Q02348,San Antonio,"San Antonio, TX","5910 Babcock Rd, San Antonio, TX",-98.6033559,29.5270854
-H-E-B,Q02349,San Antonio,"San Antonio, TX","1015 S WW White Rd, San Antonio, TX",-98.4064294,29.4151743
-H-E-B,Q02359,San Antonio,"San Antonio, TX","5601 Bandera Rd, San Antonio, TX",-98.5960294,29.4816732
+H-E-B,Q02349,San Antonio,"San Antonio, TX","1015 S WW White Rd, San Antonio, TX",-98.4059699,29.4139189
+H-E-B,Q02359,San Antonio,"San Antonio, TX","5601 Bandera Rd, San Antonio, TX",-98.5960289,29.4816686
 H-E-B,Q02460,San Antonio,"San Antonio, TX","300 W Olmos Dr, San Antonio, TX",-98.496938,29.4698978
 H-E-B,Q02482,San Antonio,"San Antonio, TX","23635 Wilderness Oak, San Antonio, TX",-98.4998539,29.6626711
 H-E-B,Q02483,San Antonio,"San Antonio, TX","1601 Nogalitos St, San Antonio, TX",-98.5144033,29.3978454
 H-E-B,Q02497,San Antonio,"San Antonio, TX","15000 San Pedro Ave, San Antonio, TX",-98.4766726,29.5779335
-H-E-B,Q02226,San Marcos,"San Marcos, TX","1074 E McCarty Ln, San Marcos, TX",-97.9706275,29.8367871
-Kroger,Q00393,Seabrook,"Seabrook, TX","1905 El Mar Ln, Seabrook, TX",-95.025479,29.5689598
+H-E-B,Q02226,San Marcos,"San Marcos, TX","1074 E McCarty Ln, San Marcos, TX",-97.9706274,29.8367871
+Kroger,Q00393,Seabrook,"Seabrook, TX","1905 El Mar Ln, Seabrook, TX",-95.0255236,29.5688966
 H-E-B,Q02356,Seguin,"Seguin, TX","1340 E Court St, Seguin, TX",-97.9439635,29.5703818
 Kroger,Q00917,Sherman,"Sherman, TX","1820 N Loy Lake Rd, Sherman, TX",-96.6072272,33.6562515
 Kroger,Q00900,Southlake,"Southlake, TX","2110 E Southlake Blvd, Southlake, TX",-97.1217486,32.9429238
@@ -249,22 +250,21 @@ Kroger,Q00383,Spring,"Spring, TX","3731 Riley Fuzzel Rd, Spring, TX",-95.3820133
 Kroger,Q00404,Spring,"Spring, TX","5671 Treaschwig Rd, Spring, TX",-95.3480823,30.0456949
 Kroger,Q00545,Spring,"Spring, TX","15802 Champion Forest Dr, Spring, TX",-95.5317096,30.0031004
 Kroger,Q00549,Spring,"Spring, TX","8745 Spring Cypress Rd, Spring, TX",-95.5527329,30.0333032
-Kroger,Q00561,Spring,"Spring, TX","2150 Spring Stuebner Rd, Spring, TX",-95.448501,30.085252
+Kroger,Q00561,Spring,"Spring, TX","2150 Spring Stuebner Rd, Spring, TX",-95.4483919,30.0854501
 Kroger,Q00564,Spring,"Spring, TX","18518 Kuykendahl Rd, Spring, TX",-95.4866292,30.0400907
 Kroger,Q00568,Spring,"Spring, TX","2301 Rayford Rd, Spring, TX",-95.4073722,30.1239936
-H-E-B,Q00470,Sugar Land,"Sugar Land, TX","530 Hwy 6, Sugar Land, TX",-95.644365,29.6085045
+H-E-B,Q00470,Sugar Land,"Sugar Land, TX","530 Hwy 6, Sugar Land, TX",-95.6443313,29.6085006
 H-E-B,Q01636,Sugar Land,"Sugar Land, TX","19900 Southwest Fwy, Sugar Land, TX",-95.6854073,29.5648997
 Kroger,Q00292,Sugar Land,"Sugar Land, TX","18861 University Blvd, Sugar Land, TX",-95.5842565,29.5513824
 Kroger,Q00556,Sugar Land,"Sugar Land, TX","4825 Sweetwater Blvd, Sugar Land, TX",-95.6331636,29.5853678
-Tom Thumb,Q01836,Sunnyvale,"Sunnyvale, TX","3400 N Belt Line Rd, Sunnyvale, TX",-96.5950656,32.8095427
+Tom Thumb,Q01836,Sunnyvale,"Sunnyvale, TX","3400 N Belt Line Rd, Sunnyvale, TX",-96.5938849,32.8123987
 Kroger,Q00569,Texas City,"Texas City, TX","3541 Palmer Hwy, Texas City, TX",-94.949437,29.3935775
-H-E-B,Q00434,The Woodlands,"The Woodlands, TX","9595 Six Pines Dr, The Woodlands, TX",-95.4645934,30.1632726
-Kroger,Q00559,The Woodlands,"The Woodlands, TX","8000 Research Forest Dr, The Woodlands, TX",-95.5267491,30.209898
+H-E-B,Q00434,The Woodlands,"The Woodlands, TX","9595 Six Pines Dr, The Woodlands, TX",-95.4643477,30.1640921
+Kroger,Q00559,The Woodlands,"The Woodlands, TX","8000 Research Forest Dr, The Woodlands, TX",-95.5287856,30.2112051
 H-E-B,Q00538,Tomball,"Tomball, TX","26500 Kuykendahl Rd, Tomball, TX",-95.5495875,30.1439757
 H-E-B,Q01899,Tomball,"Tomball, TX","28520 Tomball Pkwy, Tomball, TX",-95.6303519,30.0887362
-Kroger,Q00392,Tomball,"Tomball, TX","24350 Kuykendahl Rd, Tomball, TX",-95.5527397,30.1145442
-Kroger,Q00399,Tomball,"Tomball, TX","14060 Farm to Market 2920, Tomball, TX",-95.6335394,30.0914661
-H-E-B,Q01819,Webster,"Webster, TX","18611 Eastfield Dr, Webster, TX",-95.1490273,29.5520026
-Kroger,Q00550,Webster,"Webster, TX","3135 FM 528 Rd, Webster, TX",-95.1606772,29.5215336
+Kroger,Q00392,Tomball,"Tomball, TX","24350 Kuykendahl Rd, Tomball, TX",-95.5531966,30.1146826
+Kroger,Q00399,Tomball,"Tomball, TX","14060 Farm to Market 2920, Tomball, TX",-95.6335362,30.0914645
+H-E-B,Q01819,Webster,"Webster, TX","18611 Eastfield Dr, Webster, TX",-95.1485825,29.5524203
 H-E-B,Q02093,West Lake Hills,"West Lake Hills, TX","701 S Capital of Texas Hwy, West Lake Hills, TX",-97.8265973,30.2916698
 Kroger,Q00548,Willis,"Willis, TX","12605 Interstate 45 N, Willis, TX",-95.4941675,30.4219364
