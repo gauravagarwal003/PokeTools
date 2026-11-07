@@ -3702,6 +3702,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.208449,
+          33.891639
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "25900 Iris Ave, Moreno Valley, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.274744,
           33.933737
         ]
@@ -28097,6 +28111,20 @@
       "properties": {
         "Retailer": "King Soopers",
         "Address": "1375 E South Boulder Rd, Louisville, CO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.167085,
+          39.963148
+        ]
+      },
+      "properties": {
+        "Retailer": "King Soopers",
+        "Address": "1171 W Dillon Rd, Louisville, CO"
       }
     },
     {
