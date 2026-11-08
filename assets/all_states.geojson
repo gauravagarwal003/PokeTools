@@ -5816,6 +5816,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.944111,
+          37.723825
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "21001 San Ramon Valley Blvd, San Ramon, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.921901,
           37.774169
         ]
@@ -10541,6 +10555,20 @@
       "properties": {
         "Retailer": "Harris Teeter",
         "Address": "1704 Central Ave, Charlotte, NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.844612,
+          35.203706
+        ]
+      },
+      "properties": {
+        "Retailer": "Harris Teeter",
+        "Address": "1227 East Blvd, Charlotte, NC"
       }
     },
     {
