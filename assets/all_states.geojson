@@ -692,6 +692,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.957994,
+          33.824298
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "610 S Brookhurst St, Anaheim, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.80504,
           33.86604
         ]
@@ -881,6 +895,20 @@
       "properties": {
         "Retailer": "Stater Bros. Markets",
         "Address": "1661 E 6th St, Beaumont, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.975664,
+          33.948211
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1430 Beaumont Ave, Beaumont, CA"
       }
     },
     {
@@ -2743,6 +2771,20 @@
       "properties": {
         "Retailer": "Albertsons",
         "Address": "1800 W Whittier Blvd, La Habra, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.934309,
+          33.939928
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "851 N Harbor Blvd, La Habra, CA"
       }
     },
     {
@@ -5102,20 +5144,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.061663,
-          33.017604
-        ]
-      },
-      "properties": {
-        "Retailer": "Albertsons",
-        "Address": "12475 Rancho Bernardo Rd, San Diego, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.012834,
           32.801834
         ]
@@ -6803,6 +6831,20 @@
       "properties": {
         "Retailer": "Food 4 Less",
         "Address": "500 Hacienda Dr, Vista, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.243485,
+          33.220431
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1451 N Santa Fe Ave, Vista, CA"
       }
     },
     {
