@@ -1476,6 +1476,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.523259,
+          33.822945
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "2243 Eagle Glen Pkwy, Corona, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.52014,
           33.891372
         ]
@@ -2169,6 +2183,20 @@
       "properties": {
         "Retailer": "Lucky Supermarkets",
         "Address": "5000 Mowry Ave, Fremont, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.022488,
+          37.567437
+        ]
+      },
+      "properties": {
+        "Retailer": "Lucky Supermarkets",
+        "Address": "35820 Fremont Blvd, Fremont, CA"
       }
     },
     {
@@ -13740,6 +13768,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -98.291305,
+          29.467547
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "10137 I-10 E, Converse, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -96.960992,
           32.970769
         ]
@@ -16162,6 +16204,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -98.431274,
+          29.493339
+        ]
+      },
+      "properties": {
+        "Retailer": "H-E-B",
+        "Address": "1520 Austin Hwy, San Antonio, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -98.802103,
           29.523881
         ]
@@ -16267,20 +16323,6 @@
       "properties": {
         "Retailer": "H-E-B",
         "Address": "20935 U.S. Hwy 281 N, San Antonio, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.431274,
-          29.493339
-        ]
-      },
-      "properties": {
-        "Retailer": "H-E-B",
-        "Address": "1520 Austin Hwy, San Antonio, TX"
       }
     },
     {
