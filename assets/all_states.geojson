@@ -19284,6 +19284,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.903995,
+          43.048988
+        ]
+      },
+      "properties": {
+        "Retailer": "Pick 'n Save",
+        "Address": "605 E Lyon St, Milwaukee, WI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.984312,
           43.092201
         ]
@@ -19305,20 +19319,6 @@
       "properties": {
         "Retailer": "Pick 'n Save",
         "Address": "250 W Holt Ave, Milwaukee, WI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.903995,
-          43.048988
-        ]
-      },
-      "properties": {
-        "Retailer": "Pick 'n Save",
-        "Address": "605 E Lyon St, Milwaukee, WI"
       }
     },
     {
