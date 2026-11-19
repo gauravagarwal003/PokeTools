@@ -2932,8 +2932,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.333206,
-          33.695109
+          -117.333148,
+          33.695159
         ]
       },
       "properties": {
@@ -5515,6 +5515,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "5290 Diamond Heights Blvd, San Francisco, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.970695,
+          33.80422
+        ]
+      },
+      "properties": {
+        "Retailer": "Stater Bros. Markets",
+        "Address": "1271 N State St, San Jacinto, CA"
       }
     },
     {
@@ -22322,20 +22336,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335814,
-          47.489036
-        ]
-      },
-      "properties": {
-        "Retailer": "Safeway",
-        "Address": "12725 1st Ave S, Burien, WA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.336736,
           47.471665
         ]
@@ -22343,6 +22343,20 @@
       "properties": {
         "Retailer": "Safeway",
         "Address": "138 SW 148th St, Burien, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335814,
+          47.489036
+        ]
+      },
+      "properties": {
+        "Retailer": "Safeway",
+        "Address": "12725 1st Ave S, Burien, WA"
       }
     },
     {
